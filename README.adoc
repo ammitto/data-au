@@ -1,0 +1,71 @@
+= Australia DFAT Sanctions Consolidated List
+
+image:https://img.shields.io/github/license/ammitto/data-au.svg[License]
+image:https://github.com/ammitto/data-au/actions/workflows/update.yml/badge.svg["Update Status", link="https://github.com/ammitto/data-au/actions/workflows/update.yml"]
+
+== Purpose
+
+This repository contains sanctioned individuals, entities, and vessels from the
+Australian Department of Foreign Affairs and Trade (DFAT) Consolidated List.
+
+== Source
+
+* **Authority**: Australia Department of Foreign Affairs and Trade (DFAT)
+* **URL**: https://www.dfat.gov.au/international-relations/security/sanctions/consolidated-list
+* **XLSX Download**: https://www.dfat.gov.au/sites/default/files/Australian_Sanctions_Consolidated_List.xlsx
+* **Format**: XLSX
+* **Update Frequency**: As updated by DFAT
+* **Country Code**: AU
+
+== Legal Basis
+
+Australia implements sanctions under multiple legal frameworks:
+
+* *Autonomous Sanctions Act 2011*
+* *Autonomous Sanctions Regulations 2011*
+* *Charter of the United Nations Act 1945*
+* Various country-specific regulations
+
+== Directory Structure
+
+```
+data-au/
+├── downloaded/        # Raw downloaded XLSX files
+├── processed/         # Processed YAML files (one per entity)
+└── README.adoc        # This file
+```
+
+== Data Contents
+
+The DFAT list contains:
+
+* **Individuals**: Natural persons subject to sanctions
+* **Organizations**: Companies and entities subject to sanctions
+* **Vessels**: Ships subject to maritime sanctions
+
+== Data Format
+
+[source,yaml]
+----
+id: '8577'
+reference: '8577'
+name: EXAMPLE ENTITY
+entity_type: Individual
+list: Russia
+sanction_type: 'Sanction'
+address:
+  city: Moscow
+  country: Russia
+dates:
+  listed: '2022-03-01'
+----
+
+== Usage
+
+This data is part of the https://github.com/ammitto/ammitto[Ammitto] sanctions
+screening system.
+
+== License
+
+Data is sourced from official Australian government publications.
+Repository structure and processing code are under the MIT License.
