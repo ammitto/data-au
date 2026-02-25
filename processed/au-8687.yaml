@@ -12,7 +12,7 @@ names:
 - text: CUST
   name_type: Alias
   script: Latn
-  alias_strength: Strong
+  alias_strength: Weak
 address: Kirov Street, 135, Building 1, Premise 9, 15, Tula, Tula Region, 300004,
   Russia.
 sanction:
