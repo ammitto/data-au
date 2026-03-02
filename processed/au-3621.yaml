@@ -32,6 +32,10 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
+- text: Islamic State of Iraq and Levant in Khorasan Province
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
 - text: Islamic State Khurasan
   name_type: Alias
   script: Latn

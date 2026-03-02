@@ -2,7 +2,7 @@
 reference: '8720'
 names:
 - text: Joint Stock Company Exi Bank
-  name_type: Original Script
+  name_type: Primary Name
   script: Latn
 - text: EKSI BANK AO
   name_type: Alias
