@@ -1,5 +1,6 @@
 ---
 reference: '8398'
+entity_type: vessel
 names:
 - text: SOLARIS
   name_type: Primary Name

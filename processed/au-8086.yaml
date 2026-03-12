@@ -1,5 +1,6 @@
 ---
 reference: '8086'
+entity_type: organization
 names:
 - text: Voskresensky Aggregation Factory Joint Stock Company
   name_type: Primary Name

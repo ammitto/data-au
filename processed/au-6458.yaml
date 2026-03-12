@@ -1,5 +1,6 @@
 ---
 reference: '6458'
+entity_type: person
 names:
 - text: Viktor Seliverstov
   name_type: Primary Name

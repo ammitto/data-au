@@ -1,5 +1,6 @@
 ---
 reference: '6342'
+entity_type: person
 names:
 - text: Renat Suleymanov
   name_type: Primary Name

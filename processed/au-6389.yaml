@@ -1,5 +1,6 @@
 ---
 reference: '6389'
+entity_type: person
 names:
 - text: Dmitry Gusev
   name_type: Primary Name

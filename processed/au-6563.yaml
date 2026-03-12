@@ -1,5 +1,6 @@
 ---
 reference: '6563'
+entity_type: person
 names:
 - text: Alexander ILTYAKOV
   name_type: Primary Name

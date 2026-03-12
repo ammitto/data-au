@@ -1,5 +1,6 @@
 ---
 reference: '7345'
+entity_type: person
 names:
 - text: Hossein RAHIMI
   name_type: Primary Name

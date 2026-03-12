@@ -1,5 +1,6 @@
 ---
 reference: '8367'
+entity_type: vessel
 names:
 - text: LONGEVITY 7
   name_type: Primary Name

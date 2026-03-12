@@ -1,5 +1,6 @@
 ---
 reference: '8645'
+entity_type: vessel
 names:
 - text: NOXEN
   name_type: Primary Name

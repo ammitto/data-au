@@ -1,5 +1,6 @@
 ---
 reference: '8364'
+entity_type: vessel
 names:
 - text: AQUA LIVE
   name_type: Primary Name

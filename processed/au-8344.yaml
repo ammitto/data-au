@@ -1,5 +1,6 @@
 ---
 reference: '8344'
+entity_type: vessel
 names:
 - text: RIGEL
   name_type: Primary Name

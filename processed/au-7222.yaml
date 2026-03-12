@@ -1,5 +1,6 @@
 ---
 reference: '7222'
+entity_type: person
 names:
 - text: Alexander Igorevich Kots
   name_type: Primary Name

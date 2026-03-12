@@ -1,5 +1,6 @@
 ---
 reference: '110'
+entity_type: person
 names:
 - text: Noor Mohammad Saqib
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '3101'
+entity_type: person
 names:
 - text: Gabriel Jok Riak Makol
   name_type: Primary Name

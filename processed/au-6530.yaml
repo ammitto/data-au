@@ -1,5 +1,6 @@
 ---
 reference: '6530'
+entity_type: person
 names:
 - text: Boris Gladkikh
   name_type: Primary Name

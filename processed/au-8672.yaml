@@ -1,5 +1,6 @@
 ---
 reference: '8672'
+entity_type: organization
 names:
 - text: B-Crypto
   name_type: Primary Name

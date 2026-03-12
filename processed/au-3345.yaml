@@ -1,5 +1,6 @@
 ---
 reference: '3345'
+entity_type: organization
 names:
 - text: Syrian Company for Information Technology
   name_type: Primary Name

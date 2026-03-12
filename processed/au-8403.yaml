@@ -1,5 +1,6 @@
 ---
 reference: '8403'
+entity_type: vessel
 names:
 - text: LEVEL
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6383'
+entity_type: person
 names:
 - text: Gennady Semigin
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6300'
+entity_type: person
 names:
 - text: Nikolay Aleksandrovich PANKOV
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8003'
+entity_type: person
 names:
 - text: Evgeniy Petrovich GRABCHAK
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '333'
+entity_type: organization
 names:
 - text: AL RASHID TRUST
   name_type: Primary Name

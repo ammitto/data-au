@@ -1,5 +1,6 @@
 ---
 reference: '8315'
+entity_type: vessel
 names:
 - text: GURUDEV
   name_type: Primary Name

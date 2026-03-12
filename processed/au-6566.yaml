@@ -1,5 +1,6 @@
 ---
 reference: '6566'
+entity_type: person
 names:
 - text: Dmitry KADENKOV
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '1103'
+entity_type: person
 names:
 - text: Hafiz Muhammad Saeed
   name_type: Primary Name

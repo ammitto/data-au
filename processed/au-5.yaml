@@ -1,5 +1,6 @@
 ---
 reference: '5'
+entity_type: person
 names:
 - text: Muhammad Taher Anwari
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '7389'
+entity_type: person
 names:
 - text: Igor Georgievich ARTAMONOV
   name_type: Primary Name

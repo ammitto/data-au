@@ -1,5 +1,6 @@
 ---
 reference: '7997'
+entity_type: organization
 names:
 - text: Zservers
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8273'
+entity_type: vessel
 names:
 - text: DIVYA
   name_type: Primary Name

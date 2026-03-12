@@ -1,5 +1,6 @@
 ---
 reference: '8633'
+entity_type: vessel
 names:
 - text: LOGANO
   name_type: Primary Name

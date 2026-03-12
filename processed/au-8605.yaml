@@ -1,5 +1,6 @@
 ---
 reference: '8605'
+entity_type: vessel
 names:
 - text: SAVITRI
   name_type: Primary Name

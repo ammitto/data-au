@@ -1,5 +1,6 @@
 ---
 reference: '8334'
+entity_type: vessel
 names:
 - text: CECILA
   name_type: Primary Name

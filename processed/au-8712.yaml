@@ -1,5 +1,6 @@
 ---
 reference: '8712'
+entity_type: organization
 names:
 - text: Coalmetbank
   name_type: Primary Name

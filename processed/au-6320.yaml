@@ -1,5 +1,6 @@
 ---
 reference: '6320'
+entity_type: person
 names:
 - text: Sergey Shargunov
   name_type: Primary Name

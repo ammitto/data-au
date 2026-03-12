@@ -1,5 +1,6 @@
 ---
 reference: '8357'
+entity_type: vessel
 names:
 - text: IRON WAVE
   name_type: Primary Name

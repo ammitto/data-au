@@ -1,5 +1,6 @@
 ---
 reference: '3031'
+entity_type: organization
 names:
 - text: People’s Republic of Donetsk
   name_type: Primary Name

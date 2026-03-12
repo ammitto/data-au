@@ -1,5 +1,6 @@
 ---
 reference: '8710'
+entity_type: organization
 names:
 - text: Bank Finservice
   name_type: Primary Name

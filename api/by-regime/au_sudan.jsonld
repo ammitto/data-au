@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/au_sudan"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3098"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3099"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3100"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3101"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3102"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3103"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3588"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3589"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/598"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/599"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/601"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7993"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7994"
+    }
+  ]
+}

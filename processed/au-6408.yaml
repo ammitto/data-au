@@ -1,5 +1,6 @@
 ---
 reference: '6408'
+entity_type: person
 names:
 - text: Aleksandr Shcherbakov
   name_type: Primary Name

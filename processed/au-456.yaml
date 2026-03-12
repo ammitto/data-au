@@ -1,5 +1,6 @@
 ---
 reference: '456'
+entity_type: person
 names:
 - text: Usama HAMDAN
   name_type: Primary Name

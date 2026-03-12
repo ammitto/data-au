@@ -1,5 +1,6 @@
 ---
 reference: '3244'
+entity_type: person
 names:
 - text: Kim Chol Nam
   name_type: Primary Name

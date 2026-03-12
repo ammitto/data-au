@@ -1,5 +1,6 @@
 ---
 reference: '6608'
+entity_type: person
 names:
 - text: Denis Maidanov
   name_type: Primary Name

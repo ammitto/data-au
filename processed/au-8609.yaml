@@ -1,5 +1,6 @@
 ---
 reference: '8609'
+entity_type: vessel
 names:
 - text: GEORGY MASLOV
   name_type: Primary Name

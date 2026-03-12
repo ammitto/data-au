@@ -1,5 +1,6 @@
 ---
 reference: '7310'
+entity_type: person
 names:
 - text: Abdollah MEHRABI
   name_type: Primary Name

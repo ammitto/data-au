@@ -1,5 +1,6 @@
 ---
 reference: '6445'
+entity_type: person
 names:
 - text: Mikhail Starshinov
   name_type: Primary Name

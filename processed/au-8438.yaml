@@ -1,5 +1,6 @@
 ---
 reference: '8438'
+entity_type: person
 names:
 - text: Jimmy Cherizier
   name_type: Primary Name

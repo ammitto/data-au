@@ -1,5 +1,6 @@
 ---
 reference: '8355'
+entity_type: vessel
 names:
 - text: SOFOS
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '3310'
+entity_type: person
 names:
 - text: Bayan BITAR
   name_type: Primary Name

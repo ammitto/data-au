@@ -1,5 +1,6 @@
 ---
 reference: '6552'
+entity_type: person
 names:
 - text: Konstantin Zakharov
   name_type: Primary Name

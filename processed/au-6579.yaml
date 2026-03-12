@@ -1,5 +1,6 @@
 ---
 reference: '6579'
+entity_type: person
 names:
 - text: Alexander Kogan
   name_type: Primary Name

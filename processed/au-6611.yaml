@@ -1,5 +1,6 @@
 ---
 reference: '6611'
+entity_type: person
 names:
 - text: Alexander Maximov
   name_type: Primary Name

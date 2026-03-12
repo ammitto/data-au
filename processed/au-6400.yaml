@@ -1,5 +1,6 @@
 ---
 reference: '6400'
+entity_type: person
 names:
 - text: Yuri Grigoryevich
   name_type: Primary Name

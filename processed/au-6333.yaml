@@ -1,5 +1,6 @@
 ---
 reference: '6333'
+entity_type: person
 names:
 - text: Artyom Prokofyev
   name_type: Primary Name

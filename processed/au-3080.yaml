@@ -1,5 +1,6 @@
 ---
 reference: '3080'
+entity_type: organization
 names:
 - text: Islamic State Sinai Province
   name_type: Primary Name

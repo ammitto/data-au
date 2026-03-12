@@ -1,5 +1,6 @@
 ---
 reference: '2344'
+entity_type: person
 names:
 - text: Mohamed KHADDOR
   name_type: Primary Name

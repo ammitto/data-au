@@ -1,5 +1,6 @@
 ---
 reference: '6483'
+entity_type: person
 names:
 - text: Timofey Bazhenov
   name_type: Primary Name

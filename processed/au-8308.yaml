@@ -1,5 +1,6 @@
 ---
 reference: '8308'
+entity_type: vessel
 names:
 - text: ENIGMA
   name_type: Primary Name

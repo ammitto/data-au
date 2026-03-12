@@ -1,5 +1,6 @@
 ---
 reference: '3311'
+entity_type: person
 names:
 - text: Amr ARMANZI
   name_type: Primary Name

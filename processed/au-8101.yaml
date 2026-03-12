@@ -1,5 +1,6 @@
 ---
 reference: '8101'
+entity_type: organization
 names:
 - text: Votkinsky Zavod Joint Stock Company
   name_type: Primary Name

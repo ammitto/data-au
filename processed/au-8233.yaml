@@ -1,5 +1,6 @@
 ---
 reference: '8233'
+entity_type: vessel
 names:
 - text: BENEDICT
   name_type: Primary Name

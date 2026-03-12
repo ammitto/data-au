@@ -1,5 +1,6 @@
 ---
 reference: '2648'
+entity_type: person
 names:
 - text: Alex Tsai
   name_type: Primary Name

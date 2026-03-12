@@ -1,5 +1,6 @@
 ---
 reference: '28'
+entity_type: person
 names:
 - text: Said Ahmed Shahidkhel
   name_type: Primary Name

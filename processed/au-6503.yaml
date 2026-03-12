@@ -1,5 +1,6 @@
 ---
 reference: '6503'
+entity_type: person
 names:
 - text: Vadim Bulavinov
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '42'
+entity_type: person
 names:
 - text: Mohammad Ibrahim Omari
   name_type: Primary Name

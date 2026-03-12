@@ -1,5 +1,6 @@
 ---
 reference: '8004'
+entity_type: person
 names:
 - text: Pavel Mikhaylovich FRADKOV
   name_type: Primary Name

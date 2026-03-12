@@ -1,5 +1,6 @@
 ---
 reference: '1130'
+entity_type: person
 names:
 - text: Han Yu-Ro
   name_type: Primary Name

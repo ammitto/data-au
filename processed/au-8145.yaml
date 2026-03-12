@@ -1,5 +1,6 @@
 ---
 reference: '8145'
+entity_type: organization
 names:
 - text: Russian Financial Corporation Bank
   name_type: Primary Name

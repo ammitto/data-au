@@ -1,5 +1,6 @@
 ---
 reference: '3275'
+entity_type: person
 names:
 - text: Kang Chol Su
   name_type: Primary Name

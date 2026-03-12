@@ -1,5 +1,6 @@
 ---
 reference: '8631'
+entity_type: vessel
 names:
 - text: VOKKI
   name_type: Primary Name

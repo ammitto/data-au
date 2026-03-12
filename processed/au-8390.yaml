@@ -1,5 +1,6 @@
 ---
 reference: '8390'
+entity_type: person
 names:
 - text: Kirill Andreevich ZATOLOKIN
   name_type: Primary Name

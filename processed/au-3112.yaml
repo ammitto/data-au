@@ -1,5 +1,6 @@
 ---
 reference: '3112'
+entity_type: person
 names:
 - text: Nasser Ahmed Muthana
   name_type: Primary Name

@@ -43,22 +43,183 @@ The DFAT list contains:
 * **Organizations**: Companies and entities subject to sanctions
 * **Vessels**: Ships subject to maritime sanctions
 
-== Data Format
+== Source Data Format
 
+The processed YAML files in `processed/entities/` follow this structure:
+
+=== Organization Entity
 [source,yaml]
 ----
 id: '8577'
-reference: '8577'
-name: EXAMPLE ENTITY
-entity_type: Individual
-list: Russia
-sanction_type: 'Sanction'
-address:
-  city: Moscow
-  country: Russia
-dates:
-  listed: '2022-03-01'
+type: organization
+names:
+  - full_name: "EXAMPLE COMPANY LTD"
+    is_primary: true
+    script: Latn
+  - full_name: "示例公司"
+    is_primary: false
+    script: Hani
+source_references:
+  - source_code: au
+    reference_number: '8577'
+organization_details:
+  country_of_registration: Russia
+remarks: 'Additional information about the entity'
 ----
+
+=== Person Entity
+[source,yaml]
+----
+id: '1234'
+type: person
+names:
+  - full_name: "IVAN IVANOV"
+    is_primary: true
+    script: Latn
+source_references:
+  - source_code: au
+    reference_number: '1234'
+person_details:
+  dates_of_birth:
+    - year: 1970
+      month: 1
+      day: 15
+  nationalities:
+    - Russia
+remarks: 'Additional information about the person'
+----
+
+=== Vessel Entity
+[source,yaml]
+----
+id: '5678'
+type: vessel
+names:
+  - full_name: "EXAMPLE VESSEL"
+    is_primary: true
+    script: Latn
+source_references:
+  - source_code: au
+    reference_number: '5678'
+vessel_details:
+  imo_number: '1234567'
+  flag: Russia
+remarks: 'Additional information about the vessel'
+----
+
+=== Field Definitions
+
+[cols="1,4"]
+|===
+| Field | Description
+
+| `id`
+| Unique identifier for the entity
+
+| `type`
+| Entity type: `person`, `organization`, or `vessel`
+
+| `names`
+| Array of name variants with `full_name`, `is_primary`, and `script`
+
+| `source_references`
+| Array linking to original source with `source_code` and `reference_number`
+
+| `person_details`
+| Person-specific fields (dates_of_birth, nationalities, etc.)
+
+| `organization_details`
+| Organization-specific fields (country_of_registration, etc.)
+
+| `vessel_details`
+| Vessel-specific fields (imo_number, flag, etc.)
+
+| `remarks`
+| Additional textual information
+
+|===
+
+== Harmonized Data Format
+
+After harmonization, entities are transformed into JSON-LD format for the knowledge graph.
+
+=== Entity (JSON-LD)
+[source,json]
+----
+{
+  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
+  "@id": "https://www.ammitto.org/entity/au/8577",
+  "@type": "OrganizationEntity",
+  "names": [
+    {
+      "@type": "NameVariant",
+      "fullName": "EXAMPLE COMPANY LTD",
+      "script": "Latn",
+      "isPrimary": true
+    }
+  ],
+  "organizationDetails": {
+    "@type": "OrganizationDetails",
+    "countryOfRegistration": "RU"
+  },
+  "remarks": "Additional information",
+  "sanctionEntries": [
+    {
+      "@id": "https://www.ammitto.org/entry/au/8577",
+      "@type": "SanctionEntry",
+      "authority": {
+        "@id": "https://www.ammitto.org/authority/au",
+        "name": "Australia DFAT"
+      },
+      "regime": {
+        "@type": "SanctionRegime",
+        "code": "AU_RUSSIA",
+        "name": "Russia"
+      },
+      "effects": [
+        {
+          "@type": "SanctionEffect",
+          "effectType": "asset_freeze",
+          "scope": "full"
+        },
+        {
+          "@type": "SanctionEffect",
+          "effectType": "entry_ban",
+          "scope": "full"
+        }
+      ],
+      "status": "active",
+      "period": {
+        "@type": "TemporalPeriod",
+        "listedDate": "2022-03-01"
+      }
+    }
+  ]
+}
+----
+
+=== Sanction Entry Fields
+
+[cols="1,4"]
+|===
+| Field | Description
+
+| `effects`
+| Array of sanction effects (asset_freeze, entry_ban, trade_restriction, etc.)
+
+| `regime`
+| Sanctions regime (Russia, DPRK, Iran, etc.)
+
+| `status`
+| Entry status (active, delisted, expired)
+
+| `period`
+| Temporal information (listedDate, effectiveDate, expiryDate)
+
+| `legalInstruments`
+| Legal basis for the sanction
+
+|===
 
 == Knowledge Graph Integration
 

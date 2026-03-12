@@ -1,5 +1,6 @@
 ---
 reference: '8181'
+entity_type: person
 names:
 - text: Rustam Nurgaliyevich MINNIKHANOV
   name_type: Primary Name

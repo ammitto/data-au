@@ -1,5 +1,6 @@
 ---
 reference: '555'
+entity_type: person
 names:
 - text: Farhad Kanabi Ahmad
   name_type: Primary Name

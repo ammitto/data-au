@@ -1,5 +1,6 @@
 ---
 reference: '7300'
+entity_type: person
 names:
 - text: Roman Mikhailovich MEZENTSEV
   name_type: Primary Name

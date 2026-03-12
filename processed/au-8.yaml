@@ -1,5 +1,6 @@
 ---
 reference: '8'
+entity_type: person
 names:
 - text: Shams ur-Rahman Abdul Zahir
   name_type: Primary Name

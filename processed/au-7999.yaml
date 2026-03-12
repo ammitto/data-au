@@ -1,5 +1,6 @@
 ---
 reference: '7999'
+entity_type: person
 names:
 - text: Aleksandr Igorevich MISHIN
   name_type: Primary Name

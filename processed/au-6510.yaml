@@ -1,5 +1,6 @@
 ---
 reference: '6510'
+entity_type: person
 names:
 - text: Nikolai Valueev
   name_type: Primary Name

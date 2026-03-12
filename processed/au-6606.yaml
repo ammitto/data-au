@@ -1,5 +1,6 @@
 ---
 reference: '6606'
+entity_type: person
 names:
 - text: Roman Lyubarskiy
   name_type: Primary Name

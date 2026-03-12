@@ -1,5 +1,6 @@
 ---
 reference: '485'
+entity_type: person
 names:
 - text: Sulaiman Jassem Sulaiman Ali Abo Ghaith
   name_type: Primary Name

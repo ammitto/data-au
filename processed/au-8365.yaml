@@ -1,5 +1,6 @@
 ---
 reference: '8365'
+entity_type: vessel
 names:
 - text: DELIVER
   name_type: Primary Name

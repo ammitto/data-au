@@ -1,5 +1,6 @@
 ---
 reference: '8750'
+entity_type: organization
 names:
 - text: RT-Registrar Joint Stock Company
   name_type: Primary Name

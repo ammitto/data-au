@@ -1,5 +1,6 @@
 ---
 reference: '6379'
+entity_type: person
 names:
 - text: Yuri Napso
   name_type: Primary Name

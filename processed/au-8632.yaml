@@ -1,5 +1,6 @@
 ---
 reference: '8632'
+entity_type: vessel
 names:
 - text: NEXUS
   name_type: Primary Name

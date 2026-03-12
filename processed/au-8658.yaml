@@ -1,5 +1,6 @@
 ---
 reference: '8658'
+entity_type: vessel
 names:
 - text: MONTE 1
   name_type: Primary Name

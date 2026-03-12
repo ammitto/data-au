@@ -1,5 +1,6 @@
 ---
 reference: '8620'
+entity_type: vessel
 names:
 - text: ANTARKTIKA
   name_type: Primary Name

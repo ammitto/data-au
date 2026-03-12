@@ -1,5 +1,6 @@
 ---
 reference: '6482'
+entity_type: person
 names:
 - text: Leonid Babashov
   name_type: Primary Name
