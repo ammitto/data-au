@@ -1,5 +1,6 @@
 ---
 reference: '8349'
+entity_type: vessel
 names:
 - text: SOUTH STAR
   name_type: Primary Name

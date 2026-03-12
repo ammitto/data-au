@@ -1,5 +1,6 @@
 ---
 reference: '6493'
+entity_type: person
 names:
 - text: Sergey Bidonko
   name_type: Primary Name

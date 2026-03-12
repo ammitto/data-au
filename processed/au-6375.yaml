@@ -1,5 +1,6 @@
 ---
 reference: '6375'
+entity_type: person
 names:
 - text: Ivan Musatov
   name_type: Primary Name

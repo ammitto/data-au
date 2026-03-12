@@ -1,5 +1,6 @@
 ---
 reference: '311'
+entity_type: organization
 names:
 - text: Al-Aqsa Martyrs' Brigade
   name_type: Primary Name

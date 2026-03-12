@@ -1,5 +1,6 @@
 ---
 reference: '8348'
+entity_type: vessel
 names:
 - text: SEA MAVERICK
   name_type: Primary Name

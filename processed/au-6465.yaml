@@ -1,5 +1,6 @@
 ---
 reference: '6465'
+entity_type: person
 names:
 - text: Oleg Savchenko
   name_type: Primary Name

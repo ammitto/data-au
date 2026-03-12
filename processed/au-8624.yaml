@@ -1,5 +1,6 @@
 ---
 reference: '8624'
+entity_type: vessel
 names:
 - text: RIZVEL
   name_type: Primary Name

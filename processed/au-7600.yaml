@@ -1,5 +1,6 @@
 ---
 reference: '7600'
+entity_type: organization
 names:
 - text: The Special Technology Centre LLC
   name_type: Primary Name

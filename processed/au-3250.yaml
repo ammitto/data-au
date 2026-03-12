@@ -1,5 +1,6 @@
 ---
 reference: '3250'
+entity_type: person
 names:
 - text: PAK TO CHUN
   name_type: Primary Name

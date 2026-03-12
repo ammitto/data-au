@@ -1,5 +1,6 @@
 ---
 reference: '8437'
+entity_type: vessel
 names:
 - text: BOSTON BEACON
   name_type: Primary Name

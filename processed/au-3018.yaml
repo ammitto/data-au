@@ -1,5 +1,6 @@
 ---
 reference: '3018'
+entity_type: organization
 names:
 - text: Almaz-Antey
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8275'
+entity_type: vessel
 names:
 - text: SURYA
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6438'
+entity_type: person
 names:
 - text: Roman Teryushkov
   name_type: Primary Name

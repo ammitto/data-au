@@ -1,5 +1,6 @@
 ---
 reference: '6573'
+entity_type: person
 names:
 - text: Igor Kastyukevich
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6839'
+entity_type: person
 names:
 - text: Oleg LOGUNOV
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '1280'
+entity_type: person
 names:
 - text: Manssor Arbabsiar
   name_type: Primary Name

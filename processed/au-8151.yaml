@@ -1,5 +1,6 @@
 ---
 reference: '8151'
+entity_type: organization
 names:
 - text: Limited Liability Company Drake
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '98'
+entity_type: person
 names:
 - text: Abdul Wahed Shafiq
   name_type: Primary Name

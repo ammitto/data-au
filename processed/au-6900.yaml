@@ -1,5 +1,6 @@
 ---
 reference: '6900'
+entity_type: person
 names:
 - text: Sergey KULIKOV
   name_type: Primary Name

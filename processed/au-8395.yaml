@@ -1,5 +1,6 @@
 ---
 reference: '8395'
+entity_type: vessel
 names:
 - text: NORELIA
   name_type: Primary Name

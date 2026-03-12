@@ -1,5 +1,6 @@
 ---
 reference: '8243'
+entity_type: vessel
 names:
 - text: SERENA
   name_type: Primary Name

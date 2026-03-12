@@ -1,5 +1,6 @@
 ---
 reference: '8396'
+entity_type: vessel
 names:
 - text: LEGACY CREST
   name_type: Primary Name

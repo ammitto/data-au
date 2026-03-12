@@ -1,5 +1,6 @@
 ---
 reference: '33'
+entity_type: person
 names:
 - text: Abdul Rahman Zahed
   name_type: Primary Name

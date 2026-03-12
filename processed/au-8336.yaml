@@ -1,5 +1,6 @@
 ---
 reference: '8336'
+entity_type: vessel
 names:
 - text: LARK
   name_type: Primary Name

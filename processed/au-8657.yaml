@@ -1,5 +1,6 @@
 ---
 reference: '8657'
+entity_type: vessel
 names:
 - text: YODAN
   name_type: Primary Name

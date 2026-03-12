@@ -1,5 +1,6 @@
 ---
 reference: '6902'
+entity_type: person
 names:
 - text: Andrey GURIEV
   name_type: Primary Name

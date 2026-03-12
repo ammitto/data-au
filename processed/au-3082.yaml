@@ -1,5 +1,6 @@
 ---
 reference: '3082'
+entity_type: person
 names:
 - text: Bambang Sukirno
   name_type: Primary Name

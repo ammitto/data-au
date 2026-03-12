@@ -1,5 +1,6 @@
 ---
 reference: '8240'
+entity_type: vessel
 names:
 - text: ASCENDANT
   name_type: Primary Name

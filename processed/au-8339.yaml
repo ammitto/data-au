@@ -1,5 +1,6 @@
 ---
 reference: '8339'
+entity_type: vessel
 names:
 - text: MAINI
   name_type: Primary Name

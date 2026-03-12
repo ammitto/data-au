@@ -1,5 +1,6 @@
 ---
 reference: '3201'
+entity_type: person
 names:
 - text: Son Jong Hyok
   name_type: Primary Name

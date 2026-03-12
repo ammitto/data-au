@@ -1,5 +1,6 @@
 ---
 reference: '23'
+entity_type: person
 names:
 - text: Fazl Mohammad Mazloom
   name_type: Primary Name

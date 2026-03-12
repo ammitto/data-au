@@ -1,5 +1,6 @@
 ---
 reference: '6405'
+entity_type: person
 names:
 - text: Sergey Yakhnyuk
   name_type: Primary Name

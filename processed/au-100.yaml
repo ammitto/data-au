@@ -1,5 +1,6 @@
 ---
 reference: '100'
+entity_type: person
 names:
 - text: Nazir Mohammad Abdul Basir
   name_type: Primary Name

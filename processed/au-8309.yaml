@@ -1,5 +1,6 @@
 ---
 reference: '8309'
+entity_type: vessel
 names:
 - text: FIESTA
   name_type: Primary Name

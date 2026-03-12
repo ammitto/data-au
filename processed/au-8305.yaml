@@ -1,5 +1,6 @@
 ---
 reference: '8305'
+entity_type: vessel
 names:
 - text: DAPHNE I
   name_type: Primary Name

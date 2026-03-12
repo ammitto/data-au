@@ -1,0 +1,292 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/1373__2001_"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/1280"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/1281"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/1282"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/1283"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/184"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/185"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/189"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/196"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/200"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/205"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/270"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/272"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/274"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/275"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/276"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/277"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/279"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/280"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/281"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/283"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/284"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/285"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/286"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/287"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/288"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/292"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/293"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/298"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/301"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/304"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/305"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/308"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3080"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3091"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3093"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/311"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3197"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3198"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/338"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/346"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/353"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/3591"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/399"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/456"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/457"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/458"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/460"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/461"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/462"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/463"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/527"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6227"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6249"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6255"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6256"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6274"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6275"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6715"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6716"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7238"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7239"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7240"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7241"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7782"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7783"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7784"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7785"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7786"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7787"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7788"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7789"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7790"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7817"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7818"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7819"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7820"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7821"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7822"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7823"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7824"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7825"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7826"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7827"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7828"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7829"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7830"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7831"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7961"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7995"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/7996"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/8213"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/8214"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/8215"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/8216"
+    }
+  ]
+}

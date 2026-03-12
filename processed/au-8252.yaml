@@ -1,5 +1,6 @@
 ---
 reference: '8252'
+entity_type: vessel
 names:
 - text: BAI LU
   name_type: Primary Name

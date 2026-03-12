@@ -1,5 +1,6 @@
 ---
 reference: '3600'
+entity_type: person
 names:
 - text: Than Oo
   name_type: Primary Name

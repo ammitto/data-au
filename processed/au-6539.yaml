@@ -1,5 +1,6 @@
 ---
 reference: '6539'
+entity_type: person
 names:
 - text: Viktor Deryabkin
   name_type: Primary Name

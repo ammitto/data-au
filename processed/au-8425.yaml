@@ -1,5 +1,6 @@
 ---
 reference: '8425'
+entity_type: vessel
 names:
 - text: BARQ
   name_type: Primary Name

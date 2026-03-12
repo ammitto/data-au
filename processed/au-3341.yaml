@@ -1,5 +1,6 @@
 ---
 reference: '3341'
+entity_type: organization
 names:
 - text: Megatrade
   name_type: Primary Name

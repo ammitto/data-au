@@ -1,5 +1,6 @@
 ---
 reference: '8256'
+entity_type: vessel
 names:
 - text: VICTOR KONETSKY
   name_type: Primary Name

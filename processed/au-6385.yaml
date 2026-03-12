@@ -1,5 +1,6 @@
 ---
 reference: '6385'
+entity_type: person
 names:
 - text: Fedot Tumusov
   name_type: Primary Name

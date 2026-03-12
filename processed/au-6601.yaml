@@ -1,5 +1,6 @@
 ---
 reference: '6601'
+entity_type: person
 names:
 - text: Vitali Lichachow
   name_type: Primary Name

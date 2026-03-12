@@ -1,5 +1,6 @@
 ---
 reference: '3390'
+entity_type: organization
 names:
 - text: Oplot Batallion
   name_type: Primary Name

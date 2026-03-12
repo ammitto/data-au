@@ -1,5 +1,6 @@
 ---
 reference: '8258'
+entity_type: vessel
 names:
 - text: VIKTOR TITOV
   name_type: Primary Name

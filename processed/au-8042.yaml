@@ -1,5 +1,6 @@
 ---
 reference: '8042'
+entity_type: person
 names:
 - text: Ramil Rakhmatulovich IBATULLIN
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8413'
+entity_type: vessel
 names:
 - text: ZALIV ANIVA
   name_type: Primary Name

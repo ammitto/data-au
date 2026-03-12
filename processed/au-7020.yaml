@@ -1,5 +1,6 @@
 ---
 reference: '7020'
+entity_type: person
 names:
 - text: Vladimir Albertovich LEBEDEV
   name_type: Primary Name

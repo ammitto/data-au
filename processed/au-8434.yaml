@@ -1,5 +1,6 @@
 ---
 reference: '8434'
+entity_type: vessel
 names:
 - text: ARCTIC MULAN
   name_type: Primary Name

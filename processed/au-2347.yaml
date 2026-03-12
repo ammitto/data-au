@@ -1,5 +1,6 @@
 ---
 reference: '2347'
+entity_type: person
 names:
 - text: Ahmed DIBE
   name_type: Primary Name

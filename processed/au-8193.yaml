@@ -1,5 +1,6 @@
 ---
 reference: '8193'
+entity_type: organization
 names:
 - text: Publichnoe Aktsionernoe Obschestvo Mikron
   name_type: Primary Name

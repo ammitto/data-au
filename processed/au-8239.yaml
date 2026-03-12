@@ -1,5 +1,6 @@
 ---
 reference: '8239'
+entity_type: vessel
 names:
 - text: DIANCHI
   name_type: Primary Name

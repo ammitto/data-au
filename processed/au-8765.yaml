@@ -1,5 +1,6 @@
 ---
 reference: '8765'
+entity_type: organization
 names:
 - text: Joint Stock Company "Professional Registration Centre"
   name_type: Primary Name

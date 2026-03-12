@@ -1,5 +1,6 @@
 ---
 reference: '6361'
+entity_type: person
 names:
 - text: Oleg Smolin
   name_type: Primary Name

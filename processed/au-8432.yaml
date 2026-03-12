@@ -1,5 +1,6 @@
 ---
 reference: '8432'
+entity_type: vessel
 names:
 - text: ARCTIC METAGAZ
   name_type: Primary Name

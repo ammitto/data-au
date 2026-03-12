@@ -1,5 +1,6 @@
 ---
 reference: '6809'
+entity_type: person
 names:
 - text: Andrey ZHUK
   name_type: Primary Name

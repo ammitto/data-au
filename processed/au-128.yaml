@@ -1,5 +1,6 @@
 ---
 reference: '128'
+entity_type: person
 names:
 - text: Abdul Qadeer Basir Abdul Baseer
   name_type: Primary Name

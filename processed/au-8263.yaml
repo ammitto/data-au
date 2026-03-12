@@ -1,5 +1,6 @@
 ---
 reference: '8263'
+entity_type: vessel
 names:
 - text: ARIA
   name_type: Primary Name

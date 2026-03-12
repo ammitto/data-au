@@ -1,5 +1,6 @@
 ---
 reference: '8335'
+entity_type: vessel
 names:
 - text: PACIFICOS
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8100'
+entity_type: organization
 names:
 - text: Tambov Gunpowder Plant Federal State Enterprise
   name_type: Primary Name

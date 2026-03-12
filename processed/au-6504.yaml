@@ -1,5 +1,6 @@
 ---
 reference: '6504'
+entity_type: person
 names:
 - text: Sergey Burlakov
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6486'
+entity_type: person
 names:
 - text: Anton Basansky
   name_type: Primary Name

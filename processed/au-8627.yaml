@@ -1,5 +1,6 @@
 ---
 reference: '8627'
+entity_type: vessel
 names:
 - text: FURIA
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6328'
+entity_type: person
 names:
 - text: Anatoly Bifov
   name_type: Primary Name

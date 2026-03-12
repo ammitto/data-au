@@ -1,5 +1,6 @@
 ---
 reference: '8284'
+entity_type: vessel
 names:
 - text: ASTRAL
   name_type: Primary Name

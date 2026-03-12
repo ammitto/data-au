@@ -1,5 +1,6 @@
 ---
 reference: '6330'
+entity_type: person
 names:
 - text: Boris Komotsky
   name_type: Primary Name

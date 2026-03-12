@@ -1,5 +1,6 @@
 ---
 reference: '7002'
+entity_type: person
 names:
 - text: Dmitry Gennadyevich KUZMIN
   name_type: Primary Name

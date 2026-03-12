@@ -1,5 +1,6 @@
 ---
 reference: '8642'
+entity_type: vessel
 names:
 - text: ASTORIA
   name_type: Primary Name

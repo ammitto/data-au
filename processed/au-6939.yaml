@@ -1,5 +1,6 @@
 ---
 reference: '6939'
+entity_type: organization
 names:
 - text: Ruselectronics
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6481'
+entity_type: person
 names:
 - text: Rinat Ayupov
   name_type: Primary Name

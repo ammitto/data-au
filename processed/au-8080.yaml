@@ -1,5 +1,6 @@
 ---
 reference: '8080'
+entity_type: organization
 names:
 - text: Arzamas Research and Production Enterprise TEMP-AVIA Joint Stock Company
   name_type: Primary Name

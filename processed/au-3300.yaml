@@ -1,5 +1,6 @@
 ---
 reference: '3300'
+entity_type: person
 names:
 - text: Muhammad Mahmud MAHALLA
   name_type: Primary Name

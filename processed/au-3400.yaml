@@ -1,5 +1,6 @@
 ---
 reference: '3400'
+entity_type: organization
 names:
 - text: Peace to Luhansk Region
   name_type: Primary Name

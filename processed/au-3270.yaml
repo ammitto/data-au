@@ -1,5 +1,6 @@
 ---
 reference: '3270'
+entity_type: person
 names:
 - text: Choe Chun Yong
   name_type: Primary Name

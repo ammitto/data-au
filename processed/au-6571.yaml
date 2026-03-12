@@ -1,5 +1,6 @@
 ---
 reference: '6571'
+entity_type: person
 names:
 - text: Anatoly Karpov
   name_type: Primary Name

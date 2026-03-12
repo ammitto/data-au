@@ -1,5 +1,6 @@
 ---
 reference: '6572'
+entity_type: person
 names:
 - text: Andrey Kartapolov
   name_type: Primary Name

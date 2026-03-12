@@ -1,5 +1,6 @@
 ---
 reference: '8601'
+entity_type: vessel
 names:
 - text: ROZMARINE
   name_type: Primary Name

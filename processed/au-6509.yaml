@@ -1,5 +1,6 @@
 ---
 reference: '6509'
+entity_type: person
 names:
 - text: Oleg Valenchuk
   name_type: Primary Name

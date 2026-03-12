@@ -1,5 +1,6 @@
 ---
 reference: '7223'
+entity_type: person
 names:
 - text: Evgeny Poddubny
   name_type: Primary Name

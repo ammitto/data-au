@@ -1,5 +1,6 @@
 ---
 reference: '7100'
+entity_type: person
 names:
 - text: Aleksei Alexandrovich DIKIY
   name_type: Primary Name

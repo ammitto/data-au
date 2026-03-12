@@ -1,5 +1,6 @@
 ---
 reference: '8621'
+entity_type: vessel
 names:
 - text: KRASNOYARSK
   name_type: Primary Name

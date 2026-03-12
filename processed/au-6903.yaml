@@ -1,5 +1,6 @@
 ---
 reference: '6903'
+entity_type: person
 names:
 - text: Andrey BOKAREV
   name_type: Primary Name

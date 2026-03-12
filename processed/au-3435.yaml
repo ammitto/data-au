@@ -1,5 +1,6 @@
 ---
 reference: '3435'
+entity_type: person
 names:
 - text: Ko Chol Man
   name_type: Primary Name

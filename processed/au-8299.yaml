@@ -1,5 +1,6 @@
 ---
 reference: '8299'
+entity_type: vessel
 names:
 - text: C VIKING
   name_type: Primary Name

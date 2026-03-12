@@ -1,5 +1,6 @@
 ---
 reference: '8289'
+entity_type: vessel
 names:
 - text: AKAR WEST
   name_type: Primary Name

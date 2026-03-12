@@ -1,5 +1,6 @@
 ---
 reference: '8359'
+entity_type: vessel
 names:
 - text: AMATRA
   name_type: Primary Name

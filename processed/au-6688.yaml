@@ -1,5 +1,6 @@
 ---
 reference: '6688'
+entity_type: organization
 names:
 - text: Otkritie Bank
   name_type: Primary Name

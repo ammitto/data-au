@@ -1,5 +1,6 @@
 ---
 reference: '8294'
+entity_type: vessel
 names:
 - text: BLINT
   name_type: Primary Name

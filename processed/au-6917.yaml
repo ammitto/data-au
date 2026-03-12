@@ -1,5 +1,6 @@
 ---
 reference: '6917'
+entity_type: person
 names:
 - text: Alexander DYUKOV
   name_type: Primary Name

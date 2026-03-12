@@ -1,5 +1,6 @@
 ---
 reference: '6949'
+entity_type: organization
 names:
 - text: RusHydro
   name_type: Primary Name

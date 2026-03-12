@@ -1,5 +1,6 @@
 ---
 reference: '8281'
+entity_type: vessel
 names:
 - text: KIRA K
   name_type: Primary Name

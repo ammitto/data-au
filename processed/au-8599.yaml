@@ -1,5 +1,6 @@
 ---
 reference: '8599'
+entity_type: vessel
 names:
 - text: DPRK Vessel Class
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6549'
+entity_type: person
 names:
 - text: Aleksey Yezubov
   name_type: Primary Name

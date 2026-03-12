@@ -1,5 +1,6 @@
 ---
 reference: '6406'
+entity_type: person
 names:
 - text: Alexander Yakubovsky
   name_type: Primary Name

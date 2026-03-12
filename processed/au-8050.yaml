@@ -1,5 +1,6 @@
 ---
 reference: '8050'
+entity_type: person
 names:
 - text: Pavel Alekseevich MARINYCHEV
   name_type: Primary Name

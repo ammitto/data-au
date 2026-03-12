@@ -1,5 +1,6 @@
 ---
 reference: '8200'
+entity_type: person
 names:
 - text: Andrey Anatolievich KOZITSYN
   name_type: Primary Name

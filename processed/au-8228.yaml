@@ -1,5 +1,6 @@
 ---
 reference: '8228'
+entity_type: vessel
 names:
 - text: NOCTIS
   name_type: Primary Name

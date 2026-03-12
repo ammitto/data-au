@@ -1,5 +1,6 @@
 ---
 reference: '8397'
+entity_type: vessel
 names:
 - text: OZANNO
   name_type: Primary Name

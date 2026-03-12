@@ -1,5 +1,6 @@
 ---
 reference: '8690'
+entity_type: organization
 names:
 - text: Keremet Bank
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6380'
+entity_type: person
 names:
 - text: Aleksei Didenko
   name_type: Primary Name

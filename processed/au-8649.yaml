@@ -1,5 +1,6 @@
 ---
 reference: '8649'
+entity_type: vessel
 names:
 - text: RHEIN
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '89'
+entity_type: person
 names:
 - text: Nurullah Nuri
   name_type: Primary Name

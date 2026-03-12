@@ -1,5 +1,6 @@
 ---
 reference: '6501'
+entity_type: person
 names:
 - text: Nikolai Brykin
   name_type: Primary Name

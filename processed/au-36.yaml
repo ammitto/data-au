@@ -1,5 +1,6 @@
 ---
 reference: '36'
+entity_type: person
 names:
 - text: Faiz
   name_type: Primary Name

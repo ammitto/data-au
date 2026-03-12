@@ -1,5 +1,6 @@
 ---
 reference: '91'
+entity_type: person
 names:
 - text: Janan Agha
   name_type: Primary Name

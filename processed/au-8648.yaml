@@ -1,5 +1,6 @@
 ---
 reference: '8648'
+entity_type: vessel
 names:
 - text: NOVA
   name_type: Primary Name

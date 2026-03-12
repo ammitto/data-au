@@ -1,5 +1,6 @@
 ---
 reference: '6595'
+entity_type: person
 names:
 - text: Alexei Lavrinenko
   name_type: Primary Name

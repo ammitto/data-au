@@ -1,5 +1,6 @@
 ---
 reference: '8322'
+entity_type: vessel
 names:
 - text: INA
   name_type: Primary Name

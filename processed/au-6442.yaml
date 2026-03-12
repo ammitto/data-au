@@ -1,5 +1,6 @@
 ---
 reference: '6442'
+entity_type: person
 names:
 - text: Michail Vasilevich Tarasenko
   name_type: Primary Name

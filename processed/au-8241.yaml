@@ -1,5 +1,6 @@
 ---
 reference: '8241'
+entity_type: vessel
 names:
 - text: NURKEZ
   name_type: Primary Name

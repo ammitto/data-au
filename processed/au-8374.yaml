@@ -1,5 +1,6 @@
 ---
 reference: '8374'
+entity_type: vessel
 names:
 - text: VOLANS
   name_type: Primary Name

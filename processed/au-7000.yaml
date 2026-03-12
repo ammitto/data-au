@@ -1,5 +1,6 @@
 ---
 reference: '7000'
+entity_type: person
 names:
 - text: Andrey Viktorovich KUTEPOV
   name_type: Primary Name

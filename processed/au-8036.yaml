@@ -1,5 +1,6 @@
 ---
 reference: '8036'
+entity_type: person
 names:
 - text: LEE Chang Ho
   name_type: Primary Name

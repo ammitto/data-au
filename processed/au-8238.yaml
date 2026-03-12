@@ -1,5 +1,6 @@
 ---
 reference: '8238'
+entity_type: vessel
 names:
 - text: OLINA
   name_type: Primary Name

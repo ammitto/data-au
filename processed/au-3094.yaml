@@ -1,5 +1,6 @@
 ---
 reference: '3094'
+entity_type: person
 names:
 - text: Alfred Yekatom
   name_type: Primary Name

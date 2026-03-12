@@ -1,5 +1,6 @@
 ---
 reference: '8332'
+entity_type: vessel
 names:
 - text: KUSTO
   name_type: Primary Name

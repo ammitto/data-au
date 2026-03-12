@@ -1,5 +1,6 @@
 ---
 reference: '8024'
+entity_type: person
 names:
 - text: Aleksey Evgenevich FILATOV
   name_type: Primary Name

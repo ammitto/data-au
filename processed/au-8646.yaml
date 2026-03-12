@@ -1,5 +1,6 @@
 ---
 reference: '8646'
+entity_type: vessel
 names:
 - text: LEBRE
   name_type: Primary Name

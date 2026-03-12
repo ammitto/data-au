@@ -1,5 +1,6 @@
 ---
 reference: '8412'
+entity_type: vessel
 names:
 - text: OASIS
   name_type: Primary Name

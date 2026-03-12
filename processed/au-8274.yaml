@@ -1,5 +1,6 @@
 ---
 reference: '8274'
+entity_type: vessel
 names:
 - text: JUN MA
   name_type: Primary Name

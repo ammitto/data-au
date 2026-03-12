@@ -1,5 +1,6 @@
 ---
 reference: '7090'
+entity_type: person
 names:
 - text: Igor Dmitriyevich ZUBAREV
   name_type: Primary Name

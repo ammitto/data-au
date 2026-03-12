@@ -1,5 +1,6 @@
 ---
 reference: '6498'
+entity_type: person
 names:
 - text: Alexander Borodai
   name_type: Primary Name

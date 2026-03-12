@@ -1,5 +1,6 @@
 ---
 reference: '3280'
+entity_type: organization
 names:
 - text: Korean National Insurance Company (KNIC)
   name_type: Primary Name

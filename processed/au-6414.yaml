@@ -1,5 +1,6 @@
 ---
 reference: '6414'
+entity_type: person
 names:
 - text: Anton Shipulin
   name_type: Primary Name

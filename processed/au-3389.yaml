@@ -1,5 +1,6 @@
 ---
 reference: '3389'
+entity_type: person
 names:
 - text: Alexey Yurevich MILCHAKOV
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6411'
+entity_type: person
 names:
 - text: Vadim Shuvalov
   name_type: Primary Name

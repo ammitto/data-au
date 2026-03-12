@@ -1,5 +1,6 @@
 ---
 reference: '6631'
+entity_type: person
 names:
 - text: Sergey Petrov
   name_type: Primary Name

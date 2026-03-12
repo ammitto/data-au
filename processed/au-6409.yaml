@@ -1,5 +1,6 @@
 ---
 reference: '6409'
+entity_type: person
 names:
 - text: Nikolai Shcheglov
   name_type: Primary Name

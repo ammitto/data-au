@@ -1,5 +1,6 @@
 ---
 reference: '8264'
+entity_type: vessel
 names:
 - text: UNITY
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6677'
+entity_type: organization
 names:
 - text: Promsvyazbank
   name_type: Primary Name

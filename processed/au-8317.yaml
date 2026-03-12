@@ -1,5 +1,6 @@
 ---
 reference: '8317'
+entity_type: vessel
 names:
 - text: RUNA
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8023'
+entity_type: person
 names:
 - text: Igor Venidiktovich MASLOV
   name_type: Primary Name

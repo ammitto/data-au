@@ -1,5 +1,6 @@
 ---
 reference: '2340'
+entity_type: person
 names:
 - text: Yousef ISMAIL
   name_type: Primary Name

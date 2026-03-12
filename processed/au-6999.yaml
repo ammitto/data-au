@@ -1,5 +1,6 @@
 ---
 reference: '6999'
+entity_type: person
 names:
 - text: Andrey Arkadyevich KLIMOV
   name_type: Primary Name

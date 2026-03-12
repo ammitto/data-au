@@ -1,5 +1,6 @@
 ---
 reference: '8362'
+entity_type: vessel
 names:
 - text: DUSK
   name_type: Primary Name

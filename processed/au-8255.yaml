@@ -1,5 +1,6 @@
 ---
 reference: '8255'
+entity_type: vessel
 names:
 - text: PRAVASI
   name_type: Primary Name

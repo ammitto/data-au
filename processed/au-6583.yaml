@@ -1,5 +1,6 @@
 ---
 reference: '6583'
+entity_type: person
 names:
 - text: Oleg Kolesnikov
   name_type: Primary Name

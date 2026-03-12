@@ -1,5 +1,6 @@
 ---
 reference: '6344'
+entity_type: person
 names:
 - text: Sergey Panteleyev
   name_type: Primary Name

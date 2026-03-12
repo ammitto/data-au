@@ -1,5 +1,6 @@
 ---
 reference: '8606'
+entity_type: vessel
 names:
 - text: GEFEST
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8411'
+entity_type: vessel
 names:
 - text: LYNX
   name_type: Primary Name

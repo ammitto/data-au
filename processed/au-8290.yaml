@@ -1,5 +1,6 @@
 ---
 reference: '8290'
+entity_type: vessel
 names:
 - text: SOUFIA 1
   name_type: Primary Name

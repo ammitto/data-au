@@ -1,5 +1,6 @@
 ---
 reference: '2362'
+entity_type: organization
 names:
 - text: Business Lab
   name_type: Primary Name

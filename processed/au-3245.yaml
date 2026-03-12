@@ -1,5 +1,6 @@
 ---
 reference: '3245'
+entity_type: person
 names:
 - text: Kim Kyong Ok
   name_type: Primary Name

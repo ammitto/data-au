@@ -1,5 +1,6 @@
 ---
 reference: '8242'
+entity_type: vessel
 names:
 - text: OCEAN FAYE
   name_type: Primary Name

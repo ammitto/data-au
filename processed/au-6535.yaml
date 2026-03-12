@@ -1,5 +1,6 @@
 ---
 reference: '6535'
+entity_type: person
 names:
 - text: Andrey Gorokhov
   name_type: Primary Name

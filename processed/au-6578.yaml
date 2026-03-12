@@ -1,5 +1,6 @@
 ---
 reference: '6578'
+entity_type: person
 names:
 - text: Mikhail Kislyakov
   name_type: Primary Name

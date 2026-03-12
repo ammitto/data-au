@@ -1,5 +1,6 @@
 ---
 reference: '8033'
+entity_type: person
 names:
 - text: Andrey Valyantsynavich FEDZIN
   name_type: Primary Name

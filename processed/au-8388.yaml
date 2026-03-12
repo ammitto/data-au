@@ -1,5 +1,6 @@
 ---
 reference: '8388'
+entity_type: organization
 names:
 - text: Chosun Expo
   name_type: Primary Name

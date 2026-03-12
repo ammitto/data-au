@@ -1,5 +1,6 @@
 ---
 reference: '6436'
+entity_type: person
 names:
 - text: Pyotr Olegovich Tolstoy
   name_type: Primary Name

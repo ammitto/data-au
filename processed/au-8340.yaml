@@ -1,5 +1,6 @@
 ---
 reference: '8340'
+entity_type: vessel
 names:
 - text: REUS
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '1231'
+entity_type: person
 names:
 - text: Ledomir Mugaragu
   name_type: Primary Name

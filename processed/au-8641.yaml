@@ -1,5 +1,6 @@
 ---
 reference: '8641'
+entity_type: vessel
 names:
 - text: NAVISTAR
   name_type: Primary Name

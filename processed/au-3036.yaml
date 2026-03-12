@@ -1,5 +1,6 @@
 ---
 reference: '3036'
+entity_type: organization
 names:
 - text: Sobol
   name_type: Primary Name

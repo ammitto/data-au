@@ -1,5 +1,6 @@
 ---
 reference: '3013'
+entity_type: person
 names:
 - text: Sergey Gennadevich TSYPLAKOV
   name_type: Primary Name

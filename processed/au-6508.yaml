@@ -1,5 +1,6 @@
 ---
 reference: '6508'
+entity_type: person
 names:
 - text: Ernest Valeev
   name_type: Primary Name

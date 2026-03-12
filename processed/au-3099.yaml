@@ -1,5 +1,6 @@
 ---
 reference: '3099'
+entity_type: person
 names:
 - text: Simon Gatwech Dual
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8659'
+entity_type: vessel
 names:
 - text: FELIKS
   name_type: Primary Name

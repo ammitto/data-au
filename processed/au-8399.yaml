@@ -1,5 +1,6 @@
 ---
 reference: '8399'
+entity_type: vessel
 names:
 - text: PHOTON
   name_type: Primary Name

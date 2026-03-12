@@ -1,5 +1,6 @@
 ---
 reference: '8629'
+entity_type: vessel
 names:
 - text: CETUS
   name_type: Primary Name

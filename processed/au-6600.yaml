@@ -1,5 +1,6 @@
 ---
 reference: '6600'
+entity_type: person
 names:
 - text: Sergei Lissovski
   name_type: Primary Name

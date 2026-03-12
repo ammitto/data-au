@@ -1,5 +1,6 @@
 ---
 reference: '8342'
+entity_type: vessel
 names:
 - text: MAISHA
   name_type: Primary Name

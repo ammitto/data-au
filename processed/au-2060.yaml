@@ -1,5 +1,6 @@
 ---
 reference: '2060'
+entity_type: organization
 names:
 - text: Iran Marine Industrial Company
   name_type: Primary Name

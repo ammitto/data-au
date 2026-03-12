@@ -1,5 +1,6 @@
 ---
 reference: '6574'
+entity_type: person
 names:
 - text: Pavel Kachkaev
   name_type: Primary Name

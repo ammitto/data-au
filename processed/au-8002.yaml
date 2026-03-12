@@ -1,5 +1,6 @@
 ---
 reference: '8002'
+entity_type: person
 names:
 - text: Igor Vladimirovich ODINTSOV
   name_type: Primary Name

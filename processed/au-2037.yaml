@@ -1,5 +1,6 @@
 ---
 reference: '2037'
+entity_type: organization
 names:
 - text: Fulmen
   name_type: Primary Name

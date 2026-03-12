@@ -1,5 +1,6 @@
 ---
 reference: '111'
+entity_type: person
 names:
 - text: Hamdullah Sunani
   name_type: Primary Name

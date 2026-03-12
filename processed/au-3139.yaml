@@ -1,5 +1,6 @@
 ---
 reference: '3139'
+entity_type: person
 names:
 - text: Morad Laaboudi
   name_type: Primary Name

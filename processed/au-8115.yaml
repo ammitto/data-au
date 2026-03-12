@@ -1,5 +1,6 @@
 ---
 reference: '8115'
+entity_type: organization
 names:
 - text: Institute for Internet Development
   name_type: Primary Name

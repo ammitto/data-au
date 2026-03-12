@@ -1,5 +1,6 @@
 ---
 reference: '8608'
+entity_type: vessel
 names:
 - text: SUVEREN
   name_type: Primary Name

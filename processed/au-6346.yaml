@@ -1,5 +1,6 @@
 ---
 reference: '6346'
+entity_type: person
 names:
 - text: Nikolay Vasilyev
   name_type: Primary Name

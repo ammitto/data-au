@@ -1,5 +1,6 @@
 ---
 reference: '80'
+entity_type: person
 names:
 - text: Sayed Esmatullah Asem Abdul Quddus
   name_type: Primary Name

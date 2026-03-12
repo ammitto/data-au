@@ -1,5 +1,6 @@
 ---
 reference: '6416'
+entity_type: person
 names:
 - text: Sergey Chizhov
   name_type: Primary Name

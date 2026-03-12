@@ -1,5 +1,6 @@
 ---
 reference: '7200'
+entity_type: person
 names:
 - text: Elena Alexandrovna YAMPOLSKAYA
   name_type: Primary Name

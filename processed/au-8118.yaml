@@ -1,5 +1,6 @@
 ---
 reference: '8118'
+entity_type: organization
 names:
 - text: ANO Dialog
   name_type: Primary Name

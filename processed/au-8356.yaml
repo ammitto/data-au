@@ -1,5 +1,6 @@
 ---
 reference: '8356'
+entity_type: vessel
 names:
 - text: SOUL
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8386'
+entity_type: organization
 names:
 - text: Lazarus Group
   name_type: Primary Name

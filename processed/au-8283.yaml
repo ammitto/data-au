@@ -1,5 +1,6 @@
 ---
 reference: '8283'
+entity_type: vessel
 names:
 - text: JALDHARA
   name_type: Primary Name

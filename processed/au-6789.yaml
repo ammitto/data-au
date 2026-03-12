@@ -1,5 +1,6 @@
 ---
 reference: '6789'
+entity_type: person
 names:
 - text: Irina Sergeyevna BUBNOVA
   name_type: Primary Name

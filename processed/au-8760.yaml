@@ -1,5 +1,6 @@
 ---
 reference: '8760'
+entity_type: organization
 names:
 - text: National Custodian Company Joint Stock Company
   name_type: Primary Name

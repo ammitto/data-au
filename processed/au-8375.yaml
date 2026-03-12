@@ -1,5 +1,6 @@
 ---
 reference: '8375'
+entity_type: vessel
 names:
 - text: VARG
   name_type: Primary Name

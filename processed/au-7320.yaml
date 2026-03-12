@@ -1,5 +1,6 @@
 ---
 reference: '7320'
+entity_type: person
 names:
 - text: Moe Myint Tun
   name_type: Primary Name

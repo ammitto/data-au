@@ -1,5 +1,6 @@
 ---
 reference: '8297'
+entity_type: vessel
 names:
 - text: BLUE
   name_type: Primary Name

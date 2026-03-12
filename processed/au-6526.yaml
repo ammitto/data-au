@@ -1,5 +1,6 @@
 ---
 reference: '6526'
+entity_type: person
 names:
 - text: Anton Getta
   name_type: Primary Name

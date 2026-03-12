@@ -1,5 +1,6 @@
 ---
 reference: '8635'
+entity_type: vessel
 names:
 - text: OPAL
   name_type: Primary Name

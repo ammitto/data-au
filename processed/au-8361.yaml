@@ -1,5 +1,6 @@
 ---
 reference: '8361'
+entity_type: vessel
 names:
 - text: NAYARA
   name_type: Primary Name

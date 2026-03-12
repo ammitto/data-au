@@ -1,5 +1,6 @@
 ---
 reference: '3090'
+entity_type: person
 names:
 - text: Tarak Ben Taher Ben Faleh Ouni Harzi
   name_type: Primary Name

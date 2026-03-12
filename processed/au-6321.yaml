@@ -1,5 +1,6 @@
 ---
 reference: '6321'
+entity_type: person
 names:
 - text: Vadim Kumin
   name_type: Primary Name

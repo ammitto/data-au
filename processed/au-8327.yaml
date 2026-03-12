@@ -1,5 +1,6 @@
 ---
 reference: '8327'
+entity_type: vessel
 names:
 - text: NEON
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6561'
+entity_type: person
 names:
 - text: Igor IGOSHIN
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8655'
+entity_type: vessel
 names:
 - text: SPIRIT 2
   name_type: Primary Name

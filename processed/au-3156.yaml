@@ -1,5 +1,6 @@
 ---
 reference: '3156'
+entity_type: person
 names:
 - text: Kim Kyu
   name_type: Primary Name

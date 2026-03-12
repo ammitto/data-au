@@ -1,5 +1,6 @@
 ---
 reference: '8296'
+entity_type: vessel
 names:
 - text: ATLANTICOS
   name_type: Primary Name

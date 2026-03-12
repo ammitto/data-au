@@ -1,5 +1,6 @@
 ---
 reference: '8347'
+entity_type: vessel
 names:
 - text: SATURN I
   name_type: Primary Name

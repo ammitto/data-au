@@ -1,5 +1,6 @@
 ---
 reference: '3339'
+entity_type: organization
 names:
 - text: Organisation for Technological Industries
   name_type: Primary Name

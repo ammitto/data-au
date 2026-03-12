@@ -1,5 +1,6 @@
 ---
 reference: '3'
+entity_type: person
 names:
 - text: Abdul Kabir Mohammad Jan
   name_type: Primary Name

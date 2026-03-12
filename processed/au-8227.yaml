@@ -1,5 +1,6 @@
 ---
 reference: '8227'
+entity_type: vessel
 names:
 - text: ANDAMAN SKIES
   name_type: Primary Name

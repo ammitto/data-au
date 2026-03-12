@@ -1,5 +1,6 @@
 ---
 reference: '8428'
+entity_type: vessel
 names:
 - text: SEA FIDELITY
   name_type: Primary Name

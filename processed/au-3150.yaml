@@ -1,5 +1,6 @@
 ---
 reference: '3150'
+entity_type: person
 names:
 - text: Jang Bom Su
   name_type: Primary Name

@@ -1,0 +1,87 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "nodes": [
+    {
+      "@id": "https://www.ammitto.org/regime/1267_committee__isil___al_qaida_"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/1373__2001_"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/1988__taliban_"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/2653__haiti_"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/2713__al_shabaab_"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_afghanistan"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_car"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_dfat"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_dprk"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_drc"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_guinea_bissau"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_iran_1737"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_iran_auto"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_iraq"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_libya"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_myanmar"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_russia"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_sudan"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_syria"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_vessels"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_yemen"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/au_zimbabwe"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/autonomous__ffry_"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/autonomous__thematic___corruption_"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/autonomous__thematic___cyber_"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/autonomous__thematic___human_rights_"
+    },
+    {
+      "@id": "https://www.ammitto.org/regime/autonomous__ukraine_"
+    }
+  ]
+}

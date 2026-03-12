@@ -1,5 +1,6 @@
 ---
 reference: '8401'
+entity_type: vessel
 names:
 - text: JASMINE
   name_type: Primary Name

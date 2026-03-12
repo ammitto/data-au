@@ -1,5 +1,6 @@
 ---
 reference: '8001'
+entity_type: person
 names:
 - text: Dmitriy Konstantinovich BOLSHAKOV
   name_type: Primary Name

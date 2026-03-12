@@ -1,5 +1,6 @@
 ---
 reference: '8321'
+entity_type: vessel
 names:
 - text: NACHOS
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8407'
+entity_type: vessel
 names:
 - text: DISCOVERY
   name_type: Primary Name

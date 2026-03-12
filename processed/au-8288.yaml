@@ -1,5 +1,6 @@
 ---
 reference: '8288'
+entity_type: vessel
 names:
 - text: REINEL
   name_type: Primary Name

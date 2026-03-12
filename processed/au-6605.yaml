@@ -1,5 +1,6 @@
 ---
 reference: '6605'
+entity_type: person
 names:
 - text: Dmitriy Lotsmanov
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6303'
+entity_type: person
 names:
 - text: Dmitry Vitalyevich BULGAKOV
   name_type: Primary Name

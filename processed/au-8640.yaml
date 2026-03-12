@@ -1,5 +1,6 @@
 ---
 reference: '8640'
+entity_type: vessel
 names:
 - text: BULLAR
   name_type: Primary Name

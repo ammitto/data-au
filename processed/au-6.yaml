@@ -1,5 +1,6 @@
 ---
 reference: '6'
+entity_type: person
 names:
 - text: Sayyed Mohammed Haqqani
   name_type: Primary Name

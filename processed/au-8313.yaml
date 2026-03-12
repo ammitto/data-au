@@ -1,5 +1,6 @@
 ---
 reference: '8313'
+entity_type: vessel
 names:
 - text: BELA
   name_type: Primary Name

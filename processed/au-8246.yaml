@@ -1,5 +1,6 @@
 ---
 reference: '8246'
+entity_type: vessel
 names:
 - text: SWIFTSEA RIDER
   name_type: Primary Name

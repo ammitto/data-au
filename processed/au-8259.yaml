@@ -1,5 +1,6 @@
 ---
 reference: '8259'
+entity_type: vessel
 names:
 - text: CRIUS
   name_type: Primary Name

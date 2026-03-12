@@ -1,5 +1,6 @@
 ---
 reference: '6760'
+entity_type: person
 names:
 - text: Andrey PATRUSHEV
   name_type: Primary Name

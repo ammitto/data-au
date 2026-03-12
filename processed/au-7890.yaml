@@ -1,5 +1,6 @@
 ---
 reference: '7890'
+entity_type: person
 names:
 - text: Igor Evgenevich KONASHENKOV
   name_type: Primary Name

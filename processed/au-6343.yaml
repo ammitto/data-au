@@ -1,5 +1,6 @@
 ---
 reference: '6343'
+entity_type: person
 names:
 - text: Vladimir Blotsky
   name_type: Primary Name

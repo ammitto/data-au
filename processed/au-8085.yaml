@@ -1,5 +1,6 @@
 ---
 reference: '8085'
+entity_type: organization
 names:
 - text: Severniy Press Joint Stock Company
   name_type: Primary Name

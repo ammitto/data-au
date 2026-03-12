@@ -1,5 +1,6 @@
 ---
 reference: '8604'
+entity_type: vessel
 names:
 - text: Guru
   name_type: Primary Name

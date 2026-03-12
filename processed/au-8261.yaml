@@ -1,5 +1,6 @@
 ---
 reference: '8261'
+entity_type: vessel
 names:
 - text: PROSPERITY
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8260'
+entity_type: vessel
 names:
 - text: CHEN LU
   name_type: Primary Name

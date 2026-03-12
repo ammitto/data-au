@@ -1,5 +1,6 @@
 ---
 reference: '2525'
+entity_type: person
 names:
 - text: Fazal Rahim
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6538'
+entity_type: person
 names:
 - text: Ivan Demtschenko
   name_type: Primary Name

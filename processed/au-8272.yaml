@@ -1,5 +1,6 @@
 ---
 reference: '8272'
+entity_type: vessel
 names:
 - text: ACHILLES
   name_type: Primary Name

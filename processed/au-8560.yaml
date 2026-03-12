@@ -1,5 +1,6 @@
 ---
 reference: '8560'
+entity_type: organization
 names:
 - text: SEPANIR
   name_type: Primary Name

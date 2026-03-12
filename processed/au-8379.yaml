@@ -1,5 +1,6 @@
 ---
 reference: '8379'
+entity_type: vessel
 names:
 - text: SEA MARINE 1
   name_type: Primary Name

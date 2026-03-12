@@ -1,5 +1,6 @@
 ---
 reference: '8639'
+entity_type: vessel
 names:
 - text: JAMES II
   name_type: Primary Name

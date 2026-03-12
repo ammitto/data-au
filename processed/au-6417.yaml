@@ -1,5 +1,6 @@
 ---
 reference: '6417'
+entity_type: person
 names:
 - text: Alexey Chernyak
   name_type: Primary Name

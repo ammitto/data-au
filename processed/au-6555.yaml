@@ -1,5 +1,6 @@
 ---
 reference: '6555'
+entity_type: person
 names:
 - text: Vladimir Ivanov
   name_type: Primary Name

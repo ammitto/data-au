@@ -1,5 +1,6 @@
 ---
 reference: '6597'
+entity_type: person
 names:
 - text: Yevgeniy Lebedev
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8409'
+entity_type: vessel
 names:
 - text: BREEZE
   name_type: Primary Name

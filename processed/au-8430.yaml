@@ -1,5 +1,6 @@
 ---
 reference: '8430'
+entity_type: vessel
 names:
 - text: RANGE VALE
   name_type: Primary Name

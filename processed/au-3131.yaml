@@ -1,5 +1,6 @@
 ---
 reference: '3131'
+entity_type: person
 names:
 - text: Torek Agha
   name_type: Primary Name

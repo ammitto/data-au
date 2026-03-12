@@ -1,5 +1,6 @@
 ---
 reference: '6946'
+entity_type: organization
 names:
 - text: Gazprom Neft
   name_type: Primary Name

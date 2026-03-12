@@ -1,5 +1,6 @@
 ---
 reference: '25'
+entity_type: person
 names:
 - text: Abdul Rauf Khadem
   name_type: Primary Name

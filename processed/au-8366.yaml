@@ -1,5 +1,6 @@
 ---
 reference: '8366'
+entity_type: vessel
 names:
 - text: BEAST
   name_type: Primary Name

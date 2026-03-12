@@ -1,5 +1,6 @@
 ---
 reference: '7004'
+entity_type: person
 names:
 - text: Grigory Borisovich KARASIN
   name_type: Primary Name

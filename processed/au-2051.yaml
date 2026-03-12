@@ -1,5 +1,6 @@
 ---
 reference: '2051'
+entity_type: organization
 names:
 - text: Institute of Applied Physics
   name_type: Primary Name

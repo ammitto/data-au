@@ -1,5 +1,6 @@
 ---
 reference: '8298'
+entity_type: vessel
 names:
 - text: BLUE TALU
   name_type: Primary Name

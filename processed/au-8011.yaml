@@ -1,5 +1,6 @@
 ---
 reference: '8011'
+entity_type: person
 names:
 - text: Aleksey Vasilevich ERESKO
   name_type: Primary Name

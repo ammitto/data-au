@@ -1,5 +1,6 @@
 ---
 reference: '6621'
+entity_type: person
 names:
 - text: Evgeniy Nifantiev
   name_type: Primary Name

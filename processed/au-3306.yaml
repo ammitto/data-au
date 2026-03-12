@@ -1,5 +1,6 @@
 ---
 reference: '3306'
+entity_type: person
 names:
 - text: Firas AHMAD
   name_type: Primary Name

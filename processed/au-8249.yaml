@@ -1,5 +1,6 @@
 ---
 reference: '8249'
+entity_type: vessel
 names:
 - text: OCEAN EMBRACE
   name_type: Primary Name

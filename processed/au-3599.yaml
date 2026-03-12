@@ -1,5 +1,6 @@
 ---
 reference: '3599'
+entity_type: person
 names:
 - text: Aung Aung
   name_type: Primary Name

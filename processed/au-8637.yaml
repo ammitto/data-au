@@ -1,5 +1,6 @@
 ---
 reference: '8637'
+entity_type: vessel
 names:
 - text: SPRING FORTUNE
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6512'
+entity_type: person
 names:
 - text: Alexey Veller
   name_type: Primary Name

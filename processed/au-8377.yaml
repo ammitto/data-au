@@ -1,5 +1,6 @@
 ---
 reference: '8377'
+entity_type: vessel
 names:
 - text: SONA
   name_type: Primary Name

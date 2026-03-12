@@ -1,5 +1,6 @@
 ---
 reference: '6318'
+entity_type: person
 names:
 - text: Nikolay Kharitonov
   name_type: Primary Name

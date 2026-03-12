@@ -1,5 +1,6 @@
 ---
 reference: '6329'
+entity_type: person
 names:
 - text: Nikolay Arefyev
   name_type: Primary Name

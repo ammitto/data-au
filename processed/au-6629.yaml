@@ -1,5 +1,6 @@
 ---
 reference: '6629'
+entity_type: person
 names:
 - text: Evgeny Pervyshov
   name_type: Primary Name

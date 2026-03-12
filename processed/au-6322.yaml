@@ -1,5 +1,6 @@
 ---
 reference: '6322'
+entity_type: person
 names:
 - text: Yury Sinelshchikov
   name_type: Primary Name

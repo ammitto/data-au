@@ -1,5 +1,6 @@
 ---
 reference: '8323'
+entity_type: vessel
 names:
 - text: NARCISSUS
   name_type: Primary Name

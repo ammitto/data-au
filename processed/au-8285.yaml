@@ -1,5 +1,6 @@
 ---
 reference: '8285'
+entity_type: vessel
 names:
 - text: DESTAN
   name_type: Primary Name

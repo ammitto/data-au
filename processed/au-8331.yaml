@@ -1,5 +1,6 @@
 ---
 reference: '8331'
+entity_type: vessel
 names:
 - text: ODUNE
   name_type: Primary Name

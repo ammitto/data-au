@@ -1,5 +1,6 @@
 ---
 reference: '8545'
+entity_type: organization
 names:
 - text: ORIENTAL OIL KISH
   name_type: Primary Name

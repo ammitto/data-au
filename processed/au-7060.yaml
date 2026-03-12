@@ -1,5 +1,6 @@
 ---
 reference: '7060'
+entity_type: person
 names:
 - text: Evgeny Stepanovich SAVCHENKO
   name_type: Primary Name

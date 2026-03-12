@@ -1,5 +1,6 @@
 ---
 reference: '8328'
+entity_type: vessel
 names:
 - text: IZOLA
   name_type: Primary Name

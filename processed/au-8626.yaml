@@ -1,5 +1,6 @@
 ---
 reference: '8626'
+entity_type: vessel
 names:
 - text: AZURE
   name_type: Primary Name

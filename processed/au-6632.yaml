@@ -1,5 +1,6 @@
 ---
 reference: '6632'
+entity_type: person
 names:
 - text: Yury Petrov
   name_type: Primary Name

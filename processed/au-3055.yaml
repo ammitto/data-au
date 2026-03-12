@@ -1,5 +1,6 @@
 ---
 reference: '3055'
+entity_type: person
 names:
 - text: Maalim Salman
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8393'
+entity_type: vessel
 names:
 - text: GALAXY
   name_type: Primary Name

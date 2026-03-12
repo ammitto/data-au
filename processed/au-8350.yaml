@@ -1,5 +1,6 @@
 ---
 reference: '8350'
+entity_type: vessel
 names:
 - text: SEALION I
   name_type: Primary Name

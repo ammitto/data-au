@@ -1,5 +1,6 @@
 ---
 reference: '8048'
+entity_type: person
 names:
 - text: Sergey Adolfovich DYACHKOV
   name_type: Primary Name

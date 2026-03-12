@@ -1,5 +1,6 @@
 ---
 reference: '8666'
+entity_type: person
 names:
 - text: Andriy Yuriovych TROFIMOV
   name_type: Primary Name

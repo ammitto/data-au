@@ -1,5 +1,6 @@
 ---
 reference: '8229'
+entity_type: vessel
 names:
 - text: BULL
   name_type: Primary Name

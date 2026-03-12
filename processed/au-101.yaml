@@ -1,5 +1,6 @@
 ---
 reference: '101'
+entity_type: person
 names:
 - text: Mohammad Eshaq Akhunzada
   name_type: Primary Name

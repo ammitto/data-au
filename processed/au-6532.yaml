@@ -1,5 +1,6 @@
 ---
 reference: '6532'
+entity_type: person
 names:
 - text: Oleg Golikov
   name_type: Primary Name

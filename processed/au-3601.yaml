@@ -1,5 +1,6 @@
 ---
 reference: '3601'
+entity_type: person
 names:
 - text: Khin Maung Soe
   name_type: Primary Name

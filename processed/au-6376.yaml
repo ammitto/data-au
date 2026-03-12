@@ -1,5 +1,6 @@
 ---
 reference: '6376'
+entity_type: person
 names:
 - text: Yevgeny Markov
   name_type: Primary Name

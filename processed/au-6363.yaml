@@ -1,5 +1,6 @@
 ---
 reference: '6363'
+entity_type: person
 names:
 - text: Sergei Karginov
   name_type: Primary Name

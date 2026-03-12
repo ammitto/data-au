@@ -1,5 +1,6 @@
 ---
 reference: '6602'
+entity_type: person
 names:
 - text: Tatyana Lobach
   name_type: Primary Name

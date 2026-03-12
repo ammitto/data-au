@@ -1,5 +1,6 @@
 ---
 reference: '8088'
+entity_type: organization
 names:
 - text: Aviv Group LLC
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6326'
+entity_type: person
 names:
 - text: Alexander Yushchenko
   name_type: Primary Name

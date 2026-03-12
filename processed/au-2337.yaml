@@ -1,5 +1,6 @@
 ---
 reference: '2337'
+entity_type: person
 names:
 - text: Bader AQEL
   name_type: Primary Name

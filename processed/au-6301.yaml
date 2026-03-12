@@ -1,5 +1,6 @@
 ---
 reference: '6301'
+entity_type: person
 names:
 - text: Gennady Valeryevich ZHIDKO
   name_type: Primary Name

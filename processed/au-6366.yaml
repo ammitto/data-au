@@ -1,5 +1,6 @@
 ---
 reference: '6366'
+entity_type: person
 names:
 - text: Vasily Vlasov
   name_type: Primary Name

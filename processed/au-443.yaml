@@ -1,5 +1,6 @@
 ---
 reference: '443'
+entity_type: person
 names:
 - text: Yassin Syawal
   name_type: Primary Name

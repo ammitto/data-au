@@ -1,5 +1,6 @@
 ---
 reference: '6615'
+entity_type: person
 names:
 - text: Vitaly Milonov
   name_type: Primary Name

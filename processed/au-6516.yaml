@@ -1,5 +1,6 @@
 ---
 reference: '6516'
+entity_type: person
 names:
 - text: Andrey Vorobev
   name_type: Primary Name

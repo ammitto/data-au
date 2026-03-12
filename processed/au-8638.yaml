@@ -1,5 +1,6 @@
 ---
 reference: '8638'
+entity_type: vessel
 names:
 - text: PIERRE
   name_type: Primary Name

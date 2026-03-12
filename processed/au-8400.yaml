@@ -1,5 +1,6 @@
 ---
 reference: '8400'
+entity_type: vessel
 names:
 - text: BODHI
   name_type: Primary Name

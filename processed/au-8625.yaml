@@ -1,5 +1,6 @@
 ---
 reference: '8625'
+entity_type: vessel
 names:
 - text: CORTEX
   name_type: Primary Name

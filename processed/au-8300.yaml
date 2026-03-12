@@ -1,5 +1,6 @@
 ---
 reference: '8300'
+entity_type: vessel
 names:
 - text: CAI YUN
   name_type: Primary Name

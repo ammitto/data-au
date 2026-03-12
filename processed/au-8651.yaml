@@ -1,5 +1,6 @@
 ---
 reference: '8651'
+entity_type: vessel
 names:
 - text: VIREL
   name_type: Primary Name

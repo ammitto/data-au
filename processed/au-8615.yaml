@@ -1,5 +1,6 @@
 ---
 reference: '8615'
+entity_type: vessel
 names:
 - text: ROSITA
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6337'
+entity_type: person
 names:
 - text: Alexey Korniyenko
   name_type: Primary Name
