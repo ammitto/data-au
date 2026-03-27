@@ -53,9 +53,6 @@ dates_of_birth:
 - raw_value: '1966'
   year: 1966
   precision: year
-- raw_value: '1960'
-  year: 1960
-  precision: year
 places_of_birth:
 - raw_value: Band-e-Timur village Maiwand District
   country: Band-e-Timur village Maiwand District

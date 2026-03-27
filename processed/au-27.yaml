@@ -15,24 +15,35 @@ names:
 - text: عبدالسلام حنفی علي مردان قل
   name_type: Original Script
   script: Arab
+- text: ABDUL SALAM HANAFI
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Kabul, Afghanistan
 additional_info: 'TAi.027 Title: a) Mullah b) Maulavi Designation: Deputy Minister
-  of Education under the Taliban Regime. Taliban member responsible for Jawzjan province,
-  Northern Afghanistan until 2008. Involved in drug trafficking. Believed to be in
-  Afghanistan/Pakistan border area. Review pursuant to Security Council resolution
-  1822 (2008) was concluded on 1 Jun. 2010.'
+  of Education under the Taliban Regime (1996-2001). Taliban member responsible for
+  Jawzjan province, Northern Afghanistan until 2008. Involved in drug trafficking.  Heigh
+  178cm. Passport no: na a) Afghanistan diplomatic passport D00009723 b) Afghanistan
+  diplomatic passport D0010098, issued on 4 Apr. 2023, issued in Kabul, Afghanistan
+  (Name in Latin script, Abdul Salam Hanafi, name in original script; عبدالسلام حنفي
+  , expires 4 Apr. 2028)'
 sanction:
-  listing_information: Listed by UN 1267 Committee on 23 February 2001 (amended on
-    18 Jul. 2007, 21 Sep 2007. 27 Sep. 2007 and 1 Feb 2008)
+  listing_information: Listed on 23 February 2001 (amended on 3 Sep 2003, 18 Jul.
+    2007, 21 Sep 2007. 27 Sep. 2007 and 1 Feb 2008, 29 Nov 2011, 10 Mar. 2026)
   committees: 1988 (Taliban)
-  control_date: '2026-02-05'
+  control_date: '2026-03-26'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1968'
+- raw_value: Approximately 1968
   year: 1968
+  month: 0
+  precision: month
+- raw_value: 01/01/1969
+  year: 1969
   precision: year
 places_of_birth:
 - raw_value: a) Darzab District

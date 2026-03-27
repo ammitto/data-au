@@ -8,6 +8,10 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
+- text: Yahya Husseini Panjaki
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
 - text: Seyed Yahya Hamidi
   name_type: Alias
   script: Latn

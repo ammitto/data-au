@@ -27,25 +27,46 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: Pakistan
-additional_info: TAi.147 Member of a Taliban Council that coordinates the collection
-  of zakat (Islamic tax) from Baluchistan Province, Pakistan. Head of Taliban Financial
-  Commission as at mid-2013. Associated with Mullah Mohammed Omar (TI.O.4.01). Served
-  as Omar's principal finance officer and one of his closest advisors. Belongs to
-  Ishaqzai tribe.
+- text: HIDAYATULLAH BADRI
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: HEDAYATULLAH HEDAYAT
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: HEDAYATULLAH BADRI
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Ibni-Sina Watt, Kabul, Afghanistan
+additional_info: 'TAi.147 Member of a Taliban Council that coordinates the collection
+  of zakat (Islamic tax) from Baluchistan Province, Pakistan. Passport no: a) Afghanistan
+  diplomatic passport D0010408, issued on 26 Aug. 2024 in Kabul, Afghanistan (Name
+  in Latin script: Hedayatullah Badri; name in original script: هدایت الله بدري ;
+  expires 26 Aug. 2029) b) Afghanistan passport P03318995, issued on 29 Jul. 2020
+  (Name in Latin script: Hedayatullah Hedayat, expires 29 Jul. 2025). Member of a
+  Taliban Council that coordinates the collection of zakat (Islamic tax) from Baluchistan
+  Province, Pakistan. Head of Taliban Financial Commission as at mid-2013. Associated
+  with Mullah Mohammed Omar (TAi.004). Served as Omar''s principal finance officer
+  and one of his closest advisors. Belongs to Ishaqzai tribe. Height: 156cm.'
 sanction:
-  listing_information: Listed by UN 1267 Committee on 19 July 2010 (amended on 29
-    Nov. 2011 and 31 Dec. 2013)
+  listing_information: Listed on 20 July 2010 (amended on 29 Nov. 2011 and 31 Dec.
+    2013, 10 Mar. 2026)
   committees: 1988 (Taliban)
-  control_date: '2026-02-06'
+  control_date: '2026-03-26'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: 1972  
+- raw_value: Approximately 1972
   year: 1972
+  month: 0
+  precision: month
+- raw_value: 27/07/1976
+  year: 1976
   precision: year
 places_of_birth:
 - raw_value: Band-e Temur
@@ -56,3 +77,5 @@ places_of_birth:
   country: Kandahar Province
 - raw_value: Afghanistan
   country: Afghanistan
+citizenships:
+- Afghanistan

@@ -7,15 +7,21 @@ names:
 - text: عزیز الرحمان عبد الاحد
   name_type: Original Script
   script: Arab
+- text: AZIZURAHMAN ABDUL AHAD
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Kabul, Afghanistan
 additional_info: 'TAi.121 Title: Mr. Designation: Third Secretary, Taliban Embassy,
-  Abu Dhabi, United Arab Emirates. Afghan identification card (tazkira) number 44323.
-  Belongs to Hotak tribe. Review pursuant to Security Council resolution 1822 (2008)
-  was concluded on 29 Jul. 2010.'
+  Abu Dhabi, United Arab Emirates (1996-2001). Passport no: Afghanistan passport P02504168,
+  issued in Dubai, United Arab Emirates (Name in Latin script: Azizurahman Abdul Ahad;
+  issued 12 Nov 2019, expires 12 Nov 2029). Afghan identification card (tazkira) number
+  44323. Belongs to Hotak tribe. Height: 169 cm'
 sanction:
-  listing_information: Listed by UN 1267 Committee on 25 Jan 2001 (amended on 21 Sep
-    2007, 29 Nov. 2011)
+  listing_information: Listed on 25 January 2001 (amended on 3 Sep 2003, 21 Sep 2007,
+    29 Nov 2011 and 15 Aug 2012, 10 Mar. 2026)
   committees: 1988 (Taliban)
-  control_date: '2026-02-06'
+  control_date: '2026-03-26'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013
   targeted_financial_sanction: true
   travel_ban: true
@@ -25,9 +31,10 @@ dates_of_birth:
 - raw_value: '1972'
   year: 1972
   precision: year
+- raw_value: 23/05/1971
+  year: 1971
+  precision: year
 places_of_birth:
-- raw_value: Shega District
-  country: Shega District
 - raw_value: Kandahar Province
   country: Kandahar Province
 - raw_value: Afghanistan

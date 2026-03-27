@@ -11,18 +11,25 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'TAi.038, Title: a) Maulavi b) Mullah. Designation: a) Governor of
-  Khost and Paktika provinces under the Taliban regime b) Vice-Minister of Information
-  and Culture under the Taliban regime c) Consulate Dept., Ministry of Foreign Affairs
-  under the Taliban regime. Believed to be in the Afghanistan/Pakistan border area.
-  Taliban member responsible for Nangarhar Province as at 2009. Until 7 Sept. 2007
-  he was also listed under number TI.A.48.01. Review pursuant to Security Council
-  resolution 1822(2008) was concluded on 1 Jun. 2010'
+- text: ABDUL BAQI HAQQANI
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Afshar Main road Police District 5 near Kabul Education University, Kabul,
+  Afghanistan
+additional_info: 'TAi.038.  Title: a) Maulavi b) Mullah. Designation: a) Governor
+  of Khost and Paktika provinces under the Taliban regime (1996-2001) b) Vice-Minister
+  of Information and Culture under the Taliban regime c) Consulate Dept., Ministry
+  of Foreign Affairs under the Taliban regime (1996-2001).  Passport no: Afghanistan
+  diplomatic passport D0009724, issued on 13 Oct. 2021 in Kabul, Afghanistan (Name
+  in Latin script: Abdul Baqi Haqqani; name in original script: عبدالباقي حقاني ;
+  expires on 13 Oct. 2026). Taliban member responsible for Nangarhar Province as at
+  2009. Until 7 Sept. 2007 he was also listed under number TAi.048. Height 175 cm.'
 sanction:
-  listing_information: Listed by UN 1267 Committee on 23 February 2001 (amended on
-    7 Sept 2007, 21 Sep. 2007, 29 Nov 2011 and 13 Aug 2012)
+  listing_information: Listed on 23 February 2001 (amended on 3 Sep 2003, 7 Sept 2007,
+    21 Sep. 2007, 29 Nov 2011 and 13 Aug 2012, 10 Mar. 2026)
   committees: 1988 (Taliban)
-  control_date: '2026-02-05'
+  control_date: '2026-03-26'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013
   targeted_financial_sanction: true
   travel_ban: true
@@ -37,6 +44,9 @@ dates_of_birth:
   precision: year
 - raw_value: '1962'
   year: 1962
+  precision: year
+- raw_value: 01/01/1967
+  year: 1967
   precision: year
 places_of_birth:
 - raw_value: a) Jalalabad City

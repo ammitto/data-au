@@ -7,23 +7,31 @@ names:
 - text: نور محمد ثاقب
   name_type: Original Script
   script: Arab
-additional_info: 'TAi.110 Designation: Chief Justice of Supreme Court under the Taliban
-  regime. Member of Taliban Supreme Council and Head of Taliban Religious Committee.
-  Belongs to Ahmadzai tribe. Review pursuant to Security Council resolution 1822 (2008)
-  was concluded on 23 Jul. 2010.'
+- text: NOOR MOHAMMED SAQEB
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Kabul, Afghanistan
+additional_info: |-
+  TAi.110 Designation: Chief Justice of Supreme Court under the Taliban regime (1996-2001). Passport no: Afghanistan diplomatic passport D0009914, issued in Afghanistan (Name in Latin script: Noor Mohammed Saqeb; name original script: نور
+  محمد ثاقب ; issued 10 May 2022, expires 10 May 2027). Member of Taliban Supreme Council and Head of Taliban Religious Committee. Belongs to Ahmadzai tribe. Height: 175 cm
 sanction:
-  listing_information: Listed by UN 1267 Committee on 25 January 2001 (amended on
-    21 Sep 2007, 29 Nov. 2011)
+  listing_information: Listed on 25 January 2001 (amended on 3 Sep 2003, 21 Sep 2007,
+    29 Nov. 2011, 10 Mar. 2026))
   committees: 1988 (Taliban)
-  control_date: '2026-02-06'
+  control_date: '2026-03-26'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1958'
+- raw_value: Approximately 1958
   year: 1958
+  month: 0
+  precision: month
+- raw_value: 18/09/1963
+  year: 1963
   precision: year
 places_of_birth:
 - raw_value: a) Bagrami District
