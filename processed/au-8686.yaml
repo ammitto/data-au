@@ -5,8 +5,9 @@ names:
   name_type: Primary Name
   script: Latn
 - text: Rubicon Unit
-  name_type: Primary Name
+  name_type: Alias
   script: Latn
+  alias_strength: Strong
 address: Patriot Park, Kubinka, Moscow Oblast, Russia
 sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
