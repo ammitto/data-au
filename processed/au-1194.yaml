@@ -38,7 +38,7 @@ additional_info: Confirmed to have died on 30 Sep. 2011 in Yemen. Review pursuan
   8 November 2022.
 sanction:
   listing_information: 'Listed on: 20 Jul. 2010 (amended on 30 Nov. 2011, 1 May 2019)'
-  committees: 1267 Committee (ISIL & Al-Qaida)
+  committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
@@ -61,6 +61,4 @@ places_of_birth:
 - raw_value: United States of America  
   country: United States of America  
 citizenships:
-- United States of America
-- Yemen
-- Yemen 
+- United States of America;Yemen

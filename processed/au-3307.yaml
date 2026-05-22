@@ -30,5 +30,4 @@ dates_of_birth:
   year: 1962
   precision: year
 citizenships:
-- Syria
-- France
+- France;Syria

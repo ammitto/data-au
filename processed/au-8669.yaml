@@ -29,7 +29,4 @@ dates_of_birth:
   year: 1977
   precision: year
 citizenships:
-- Russian
-- Serbian
-- Croatian
-- Montenegrin
+- Croatia;Montenegro;Russia;Serbia

@@ -65,5 +65,4 @@ places_of_birth:
 - raw_value: Central African Republic
   country: Central African Republic
 citizenships:
-- Chad
-- Central African Republic
+- Central African Republic;Chad

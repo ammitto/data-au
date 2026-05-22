@@ -30,5 +30,4 @@ places_of_birth:
 - raw_value: Germany
   country: Germany
 citizenships:
-- Russia
-- German
+- Germany;Russia

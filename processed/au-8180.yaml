@@ -24,5 +24,4 @@ dates_of_birth:
   year: 1975
   precision: year
 citizenships:
-- Russia
-- Swiss
+- Russia;Switzerland

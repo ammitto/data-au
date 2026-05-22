@@ -34,5 +34,4 @@ places_of_birth:
 - raw_value: Bulgaria
   country: Bulgaria
 citizenships:
-- Russia
-- Bulgaria
+- Bulgaria;Russia

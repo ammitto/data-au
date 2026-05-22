@@ -35,5 +35,4 @@ places_of_birth:
 - raw_value: Kazakhstan
   country: Kazakhstan
 citizenships:
-- Russia
-- Ukraine
+- Russia;Ukraine

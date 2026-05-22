@@ -61,5 +61,4 @@ places_of_birth:
 - raw_value: Uganda
   country: Uganda
 citizenships:
-- South Sudan
-- Uganda
+- South Sudan;Uganda

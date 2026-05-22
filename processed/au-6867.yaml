@@ -19,5 +19,3 @@ dates_of_birth:
 - raw_value: '1977-08-07'
   year: 1977
   precision: year
-citizenships:
-- Russia

@@ -80,5 +80,4 @@ dates_of_birth:
   year: 1965
   precision: year
 citizenships:
-- 'Somalia: Sweden'
-- Somalia; Sweden
+- Somalia;Sweden

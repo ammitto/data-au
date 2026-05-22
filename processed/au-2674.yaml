@@ -65,5 +65,4 @@ places_of_birth:
 - raw_value: Sudan
   country: Sudan
 citizenships:
-- Central African Republic
-- Sudan
+- Central African Republic;Sudan

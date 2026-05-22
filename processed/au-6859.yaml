@@ -19,5 +19,3 @@ dates_of_birth:
 - raw_value: '1968-10-22'
   year: 1968
   precision: year
-citizenships:
-- Russia

@@ -31,5 +31,4 @@ places_of_birth:
 - raw_value: Ukraine
   country: Ukraine
 citizenships:
-- Ukraine
-- Russia
+- Russia;Ukraine

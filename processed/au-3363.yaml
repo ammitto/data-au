@@ -33,5 +33,4 @@ places_of_birth:
 - raw_value: Moldova
   country: Moldova
 citizenships:
-- Russia
-- Ukraine
+- Russia;Ukraine

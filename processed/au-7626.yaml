@@ -36,5 +36,4 @@ places_of_birth:
 - raw_value: USSR
   country: USSR
 citizenships:
-- Russia
-- Ukraine
+- Russia;Ukraine

@@ -38,5 +38,4 @@ places_of_birth:
 - raw_value: Ukrainian SSR (now Ukraine)
   country: Ukrainian SSR (now Ukraine)
 citizenships:
-- Russia
-- Ukraine
+- Russia;Ukraine

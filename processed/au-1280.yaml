@@ -47,5 +47,4 @@ places_of_birth:
 - raw_value: Iran
   country: Iran
 citizenships:
-- Iran
-- United States
+- Iran;United States of America

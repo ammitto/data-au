@@ -25,7 +25,7 @@ additional_info: 'CDi.038 Designation: a) Brigadier General b) Deputy Commander 
   authorities for his arrest.'
 sanction:
   listing_information: Listed by 1533 Committee on 25 Oct. 2023
-  committees: 1533 (Democratic Republic of the Congo)
+  committees: 1533 (Democratic People’s Republic of the Congo)
   control_date: '2025-12-11'
   instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
     Congo) Regulations 2008
@@ -41,4 +41,5 @@ places_of_birth:
 - raw_value: Democratic Republic of Congo
   country: Democratic Republic of Congo
 citizenships:
-- Democratic Republic of the Congo
+- Congo
+- Democratic Republic of the

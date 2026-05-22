@@ -58,6 +58,4 @@ places_of_birth:
 - raw_value: Russia
   country: Russia
 citizenships:
-- Moldova
-- Russia
-- Ukraine
+- Moldova;Russia;Ukraine

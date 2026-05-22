@@ -34,5 +34,4 @@ places_of_birth:
 - raw_value: Georgia
   country: Georgia
 citizenships:
-- Russia
-- Georgia
+- Georgia;Russia

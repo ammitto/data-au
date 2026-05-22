@@ -43,5 +43,4 @@ places_of_birth:
 - raw_value: Australia
   country: Australia
 citizenships:
-- Australia
-- Lebanon
+- Australia;Lebanon

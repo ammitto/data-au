@@ -64,5 +64,4 @@ places_of_birth:
 - raw_value: Egypt
   country: Egypt
 citizenships:
-- Australia
-- Egypt
+- Australia;Egypt

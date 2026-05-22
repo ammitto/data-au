@@ -15,7 +15,7 @@ additional_info: 'CDi.019 Title: military leader of the Mouvement du 23 Mars (M2
   Rwanda.'
 sanction:
   listing_information: Listed by 1533 Committee on 30 Nov. 2012
-  committees: 1533 (Democratic Republic of the Congo)
+  committees: 1533 (Democratic People’s Republic of the Congo)
   control_date: '2025-12-11'
   instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
     Congo) Regulations 2008
@@ -40,4 +40,5 @@ places_of_birth:
 - raw_value: Democratic Republic of the Congo
   country: Democratic Republic of the Congo
 citizenships:
-- Democratic Republic of the Congo
+- Congo
+- Democratic Republic of the

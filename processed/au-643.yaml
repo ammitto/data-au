@@ -25,7 +25,7 @@ additional_info: 'CDi.021 Passport no: Democratic Republic of the Congo number O
 sanction:
   listing_information: 'Listed by Committee 1533 on: 1 Nov. 2005 (amended on 13 Oct.
     2016)'
-  committees: 1533 (Democratic Republic of the Congo)
+  committees: 1533 (Democratic People’s Republic of the Congo)
   control_date: '2025-12-11'
   instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
     Congo) Regulations 2008
@@ -38,4 +38,5 @@ dates_of_birth:
   year: 1971
   precision: year
 citizenships:
-- Democratic Republic of the Congo
+- Congo
+- Democratic Republic of the

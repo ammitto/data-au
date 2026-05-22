@@ -36,5 +36,4 @@ places_of_birth:
 - raw_value: Belogorsk Ukrainian SSR (now Ukraine)
   country: Belogorsk Ukrainian SSR (now Ukraine)
 citizenships:
-- Russia
-- Ukraine
+- Russia;Ukraine
