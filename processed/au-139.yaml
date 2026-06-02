@@ -25,9 +25,6 @@ dates_of_birth:
 - raw_value: '1965-03-29'
   year: 1965
   precision: year
-- raw_value: '1965-03-30'
-  year: 1965
-  precision: year
 places_of_birth:
 - raw_value: Nangarhar Province
   country: Nangarhar Province
