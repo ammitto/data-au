@@ -1,6 +1,5 @@
 ---
 reference: '8253'
-entity_type: vessel
 names:
 - text: NOBLE
   name_type: Primary Name

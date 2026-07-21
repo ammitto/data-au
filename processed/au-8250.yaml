@@ -1,6 +1,5 @@
 ---
 reference: '8250'
-entity_type: vessel
 names:
 - text: EDERRA
   name_type: Primary Name
