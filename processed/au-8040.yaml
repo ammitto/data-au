@@ -1,5 +1,6 @@
 ---
 reference: '8040'
+entity_type: person
 names:
 - text: Dmitry Yuryevich NIKULIN
   name_type: Primary Name

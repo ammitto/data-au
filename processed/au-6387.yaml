@@ -1,5 +1,6 @@
 ---
 reference: '6387'
+entity_type: person
 names:
 - text: Igor Ananskikh
   name_type: Primary Name

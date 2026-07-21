@@ -1,5 +1,6 @@
 ---
 reference: '3117'
+entity_type: person
 names:
 - text: Maxime Hauchard
   name_type: Primary Name

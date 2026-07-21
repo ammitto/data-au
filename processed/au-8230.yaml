@@ -1,5 +1,6 @@
 ---
 reference: '8230'
+entity_type: vessel
 names:
 - text: MOCHA
   name_type: Primary Name

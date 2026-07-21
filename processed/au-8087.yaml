@@ -1,5 +1,6 @@
 ---
 reference: '8087'
+entity_type: organization
 names:
 - text: JSC Resurs
   name_type: Primary Name

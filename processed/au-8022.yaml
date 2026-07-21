@@ -1,5 +1,6 @@
 ---
 reference: '8022'
+entity_type: person
 names:
 - text: Dmitriy Vladislavovich SHALKOV
   name_type: Primary Name

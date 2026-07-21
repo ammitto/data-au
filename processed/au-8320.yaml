@@ -1,5 +1,6 @@
 ---
 reference: '8320'
+entity_type: vessel
 names:
 - text: MILLEROVO
   name_type: Primary Name

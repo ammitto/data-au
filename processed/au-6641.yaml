@@ -1,5 +1,6 @@
 ---
 reference: '6641'
+entity_type: person
 names:
 - text: Yevgeny Popov
   name_type: Primary Name

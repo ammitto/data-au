@@ -1,5 +1,6 @@
 ---
 reference: '300'
+entity_type: organization
 names:
 - text: LASHKAR-E-TAYYIBA
   name_type: Primary Name

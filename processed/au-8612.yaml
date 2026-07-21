@@ -1,5 +1,6 @@
 ---
 reference: '8612'
+entity_type: vessel
 names:
 - text: ANATOLY KOLODKIN
   name_type: Primary Name

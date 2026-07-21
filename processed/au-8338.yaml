@@ -1,5 +1,6 @@
 ---
 reference: '8338'
+entity_type: vessel
 names:
 - text: LUCKY FAIRY
   name_type: Primary Name

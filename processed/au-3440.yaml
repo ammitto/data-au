@@ -1,5 +1,6 @@
 ---
 reference: '3440'
+entity_type: person
 names:
 - text: Pak Mun Il
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '3144'
+entity_type: person
 names:
 - text: Salim Benghalem
   name_type: Primary Name

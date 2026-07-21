@@ -1,5 +1,6 @@
 ---
 reference: '6514'
+entity_type: person
 names:
 - text: Roman Vodyanov
   name_type: Primary Name

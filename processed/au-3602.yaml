@@ -1,5 +1,6 @@
 ---
 reference: '3602'
+entity_type: person
 names:
 - text: Anjem Choudary
   name_type: Primary Name

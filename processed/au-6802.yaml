@@ -1,5 +1,6 @@
 ---
 reference: '6802'
+entity_type: person
 names:
 - text: Denis Yakovlevich GAFNER
   name_type: Primary Name

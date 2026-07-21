@@ -1,5 +1,6 @@
 ---
 reference: '6401'
+entity_type: person
 names:
 - text: Dmitri Kuznetsov
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6645'
+entity_type: person
 names:
 - text: Vladimir Resin
   name_type: Primary Name

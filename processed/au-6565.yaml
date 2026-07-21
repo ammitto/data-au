@@ -1,5 +1,6 @@
 ---
 reference: '6565'
+entity_type: person
 names:
 - text: Dmitry ISLAMOV
   name_type: Primary Name

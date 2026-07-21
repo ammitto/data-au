@@ -1,5 +1,6 @@
 ---
 reference: '8611'
+entity_type: vessel
 names:
 - text: KEMEROVO
   name_type: Primary Name

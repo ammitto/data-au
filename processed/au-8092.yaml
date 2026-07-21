@@ -1,5 +1,6 @@
 ---
 reference: '8092'
+entity_type: organization
 names:
 - text: IQ Components Limited Liability Company
   name_type: Primary Name

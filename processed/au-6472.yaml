@@ -1,5 +1,6 @@
 ---
 reference: '6472'
+entity_type: person
 names:
 - text: Sergey Altukhov
   name_type: Primary Name

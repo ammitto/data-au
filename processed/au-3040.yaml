@@ -1,5 +1,6 @@
 ---
 reference: '3040'
+entity_type: person
 names:
 - text: AZZAM ABDULLAH ZUREIK AL-MAULID AL-SUBHI
   name_type: Primary Name

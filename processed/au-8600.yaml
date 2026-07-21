@@ -1,5 +1,6 @@
 ---
 reference: '8600'
+entity_type: vessel
 names:
 - text: INVICTA
   name_type: Primary Name

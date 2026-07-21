@@ -1,5 +1,6 @@
 ---
 reference: '480'
+entity_type: person
 names:
 - text: Noureddine Ben Ali Ben Belkassem Al-Drissi
   name_type: Primary Name

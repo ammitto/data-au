@@ -1,5 +1,6 @@
 ---
 reference: '8426'
+entity_type: vessel
 names:
 - text: BOBCAT
   name_type: Primary Name

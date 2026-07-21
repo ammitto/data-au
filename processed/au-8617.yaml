@@ -1,5 +1,6 @@
 ---
 reference: '8617'
+entity_type: vessel
 names:
 - text: DELVINA
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8368'
+entity_type: vessel
 names:
 - text: ELEPHANT
   name_type: Primary Name

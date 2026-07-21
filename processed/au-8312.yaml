@@ -1,5 +1,6 @@
 ---
 reference: '8312'
+entity_type: vessel
 names:
 - text: FUGA BLUEMARINE
   name_type: Primary Name

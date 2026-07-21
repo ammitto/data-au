@@ -1,5 +1,6 @@
 ---
 reference: '8406'
+entity_type: vessel
 names:
 - text: NOMAD
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6588'
+entity_type: person
 names:
 - text: Sergey Kotkin
   name_type: Primary Name

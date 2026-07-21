@@ -1,5 +1,6 @@
 ---
 reference: '8248'
+entity_type: vessel
 names:
 - text: NICHOLE
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '303'
+entity_type: person
 names:
 - text: Majeed Abdul Chaudhry
   name_type: Primary Name

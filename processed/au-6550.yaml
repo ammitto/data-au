@@ -1,5 +1,6 @@
 ---
 reference: '6550'
+entity_type: person
 names:
 - text: Vitali Jefimow
   name_type: Primary Name

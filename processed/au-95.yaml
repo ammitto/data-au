@@ -1,5 +1,6 @@
 ---
 reference: '95'
+entity_type: person
 names:
 - text: Walijan
   name_type: Primary Name

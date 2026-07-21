@@ -1,5 +1,6 @@
 ---
 reference: '8302'
+entity_type: vessel
 names:
 - text: ADHARA
   name_type: Primary Name

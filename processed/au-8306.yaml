@@ -1,5 +1,6 @@
 ---
 reference: '8306'
+entity_type: vessel
 names:
 - text: DENEB
   name_type: Primary Name

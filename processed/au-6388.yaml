@@ -1,5 +1,6 @@
 ---
 reference: '6388'
+entity_type: person
 names:
 - text: Vadim Belousov
   name_type: Primary Name

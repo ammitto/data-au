@@ -1,5 +1,6 @@
 ---
 reference: '6382'
+entity_type: person
 names:
 - text: Sergei Leonov
   name_type: Primary Name

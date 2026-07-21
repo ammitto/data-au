@@ -1,5 +1,6 @@
 ---
 reference: '6613'
+entity_type: person
 names:
 - text: Andrey Markov
   name_type: Primary Name

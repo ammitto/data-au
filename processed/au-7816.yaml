@@ -1,5 +1,6 @@
 ---
 reference: '7816'
+entity_type: person
 names:
 - text: Hossein TAEB
   name_type: Primary Name

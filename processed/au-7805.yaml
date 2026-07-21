@@ -1,5 +1,6 @@
 ---
 reference: '7805'
+entity_type: person
 names:
 - text: Elena Evgenievna LEONENKO
   name_type: Primary Name

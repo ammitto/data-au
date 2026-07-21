@@ -1,5 +1,6 @@
 ---
 reference: '307'
+entity_type: person
 names:
 - text: Mohammed Tufail
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8381'
+entity_type: vessel
 names:
 - text: BONIFACY
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6334'
+entity_type: person
 names:
 - text: Maria Drobot
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8622'
+entity_type: vessel
 names:
 - text: VIKTOR BAKAEV
   name_type: Primary Name

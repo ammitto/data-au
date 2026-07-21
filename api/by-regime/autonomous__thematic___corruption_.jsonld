@@ -1,0 +1,52 @@
+{
+  "@context": "https://www.ammitto.org/ontology/context.jsonld",
+  "@type": "Index",
+  "slice": "by-regime",
+  "regime": {
+    "@id": "https://www.ammitto.org/regime/autonomous__thematic___corruption_"
+  },
+  "entries": [
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6855"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6856"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6857"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6858"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6859"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6860"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6861"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6862"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6863"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6864"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6865"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6866"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6867"
+    },
+    {
+      "@id": "https://www.ammitto.org/entry/au/consolidated-list/6868"
+    }
+  ]
+}

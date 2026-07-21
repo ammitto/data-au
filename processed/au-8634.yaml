@@ -1,5 +1,6 @@
 ---
 reference: '8634'
+entity_type: vessel
 names:
 - text: BRONCO
   name_type: Primary Name

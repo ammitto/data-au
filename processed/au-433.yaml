@@ -1,5 +1,6 @@
 ---
 reference: '433'
+entity_type: person
 names:
 - text: Salim Y Salamuddin Julkipli
   name_type: Primary Name

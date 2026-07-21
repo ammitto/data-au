@@ -1,5 +1,6 @@
 ---
 reference: '3612'
+entity_type: person
 names:
 - text: Andrii Shypitsyn
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '360'
+entity_type: person
 names:
 - text: Zakarya Essabar
   name_type: Primary Name

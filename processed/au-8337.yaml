@@ -1,5 +1,6 @@
 ---
 reference: '8337'
+entity_type: vessel
 names:
 - text: VIKRAM
   name_type: Primary Name

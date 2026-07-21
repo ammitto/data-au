@@ -1,5 +1,6 @@
 ---
 reference: '155'
+entity_type: organization
 names:
 - text: AL-QAIDA
   name_type: Primary Name

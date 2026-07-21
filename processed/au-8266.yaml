@@ -1,5 +1,6 @@
 ---
 reference: '8266'
+entity_type: vessel
 names:
 - text: CORUS
   name_type: Primary Name

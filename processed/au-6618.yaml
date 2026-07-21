@@ -1,5 +1,6 @@
 ---
 reference: '6618'
+entity_type: person
 names:
 - text: Anton Nemkin
   name_type: Primary Name

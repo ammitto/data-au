@@ -1,5 +1,6 @@
 ---
 reference: '6590'
+entity_type: person
 names:
 - text: Anton Krasnoshtanov
   name_type: Primary Name

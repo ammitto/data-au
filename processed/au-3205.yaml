@@ -1,5 +1,6 @@
 ---
 reference: '3205'
+entity_type: person
 names:
 - text: KIM CHOL SAM
   name_type: Primary Name

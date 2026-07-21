@@ -1,5 +1,6 @@
 ---
 reference: '3141'
+entity_type: person
 names:
 - text: Hasan Al-Salahayn Salih Al-Sha’ari
   name_type: Primary Name

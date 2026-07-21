@@ -1,5 +1,6 @@
 ---
 reference: '6642'
+entity_type: person
 names:
 - text: Aleksandr Prokopyev
   name_type: Primary Name

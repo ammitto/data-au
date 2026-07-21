@@ -1,5 +1,6 @@
 ---
 reference: '6553'
+entity_type: person
 names:
 - text: Viktor Subarev
   name_type: Primary Name

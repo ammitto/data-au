@@ -1,5 +1,6 @@
 ---
 reference: '6650'
+entity_type: person
 names:
 - text: Igor Rudensky
   name_type: Primary Name

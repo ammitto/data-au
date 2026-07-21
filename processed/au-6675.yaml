@@ -1,5 +1,6 @@
 ---
 reference: '6675'
+entity_type: organization
 names:
 - text: Genbank
   name_type: Primary Name

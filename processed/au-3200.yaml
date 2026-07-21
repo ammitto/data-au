@@ -1,5 +1,6 @@
 ---
 reference: '3200'
+entity_type: person
 names:
 - text: Kim Song Chol
   name_type: Primary Name

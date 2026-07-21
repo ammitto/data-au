@@ -1,5 +1,6 @@
 ---
 reference: '8416'
+entity_type: vessel
 names:
 - text: NAGARJUNA
   name_type: Primary Name

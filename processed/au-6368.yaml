@@ -1,5 +1,6 @@
 ---
 reference: '6368'
+entity_type: person
 names:
 - text: Andrey Lugovoy
   name_type: Primary Name

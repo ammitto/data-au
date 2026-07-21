@@ -1,5 +1,6 @@
 ---
 reference: '31'
+entity_type: person
 names:
 - text: Mohammad Ahmadi
   name_type: Primary Name

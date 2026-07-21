@@ -1,5 +1,6 @@
 ---
 reference: '8291'
+entity_type: vessel
 names:
 - text: ELODIE I
   name_type: Primary Name

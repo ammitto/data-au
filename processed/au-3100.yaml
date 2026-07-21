@@ -1,5 +1,6 @@
 ---
 reference: '3100'
+entity_type: person
 names:
 - text: Peter Gadet
   name_type: Primary Name

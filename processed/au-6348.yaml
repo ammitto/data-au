@@ -1,5 +1,6 @@
 ---
 reference: '6348'
+entity_type: person
 names:
 - text: Viktor Sobolev
   name_type: Primary Name

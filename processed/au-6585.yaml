@@ -1,5 +1,6 @@
 ---
 reference: '6585'
+entity_type: person
 names:
 - text: Vladimir Kononov
   name_type: Primary Name

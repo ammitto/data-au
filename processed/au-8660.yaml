@@ -1,5 +1,6 @@
 ---
 reference: '8660'
+entity_type: vessel
 names:
 - text: DORRY
   name_type: Primary Name

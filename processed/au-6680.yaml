@@ -1,5 +1,6 @@
 ---
 reference: '6680'
+entity_type: person
 names:
 - text: Vladimir KOLOKOLTSEV
   name_type: Primary Name

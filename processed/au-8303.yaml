@@ -1,5 +1,6 @@
 ---
 reference: '8303'
+entity_type: vessel
 names:
 - text: CHEETAH II
   name_type: Primary Name

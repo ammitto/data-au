@@ -1,5 +1,6 @@
 ---
 reference: '8301'
+entity_type: vessel
 names:
 - text: CARUZO
   name_type: Primary Name

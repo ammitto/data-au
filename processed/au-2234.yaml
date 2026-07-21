@@ -1,5 +1,6 @@
 ---
 reference: '2234'
+entity_type: person
 names:
 - text: Adel SAFAR
   name_type: Primary Name

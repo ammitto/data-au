@@ -1,5 +1,6 @@
 ---
 reference: '6492'
+entity_type: person
 names:
 - text: Daniil Bessarabov
   name_type: Primary Name

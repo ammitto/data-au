@@ -1,5 +1,6 @@
 ---
 reference: '6533'
+entity_type: person
 names:
 - text: Nikolay Goncharov
   name_type: Primary Name

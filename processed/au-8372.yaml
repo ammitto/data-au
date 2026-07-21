@@ -1,5 +1,6 @@
 ---
 reference: '8372'
+entity_type: vessel
 names:
 - text: MD MIRANDA
   name_type: Primary Name

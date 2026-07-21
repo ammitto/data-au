@@ -1,5 +1,6 @@
 ---
 reference: '6499'
+entity_type: person
 names:
 - text: Nikolay Bortsov
   name_type: Primary Name

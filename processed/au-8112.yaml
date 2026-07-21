@@ -1,5 +1,6 @@
 ---
 reference: '8112'
+entity_type: organization
 names:
 - text: Rossiyskaya Gazeta
   name_type: Primary Name

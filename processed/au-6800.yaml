@@ -1,5 +1,6 @@
 ---
 reference: '6800'
+entity_type: person
 names:
 - text: Yevgeniy Eduardovich GLOTOV
   name_type: Primary Name

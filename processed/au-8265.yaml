@@ -1,5 +1,6 @@
 ---
 reference: '8265'
+entity_type: vessel
 names:
 - text: MT SAURI
   name_type: Primary Name

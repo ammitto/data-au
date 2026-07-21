@@ -1,5 +1,6 @@
 ---
 reference: '6412'
+entity_type: person
 names:
 - text: Igor Shubin
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8318'
+entity_type: vessel
 names:
 - text: HU PO
   name_type: Primary Name

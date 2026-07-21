@@ -1,5 +1,6 @@
 ---
 reference: '3240'
+entity_type: person
 names:
 - text: CHO IL U
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8039'
+entity_type: person
 names:
 - text: Aleksey BUDNEV
   name_type: Primary Name

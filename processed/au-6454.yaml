@@ -1,5 +1,6 @@
 ---
 reference: '6454'
+entity_type: person
 names:
 - text: Aleksey Sitnikov
   name_type: Primary Name

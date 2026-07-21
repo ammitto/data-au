@@ -1,5 +1,6 @@
 ---
 reference: '8237'
+entity_type: vessel
 names:
 - text: DASHAN
   name_type: Primary Name

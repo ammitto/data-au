@@ -1,5 +1,6 @@
 ---
 reference: '2310'
+entity_type: person
 names:
 - text: Zuhair HAMAD
   name_type: Primary Name

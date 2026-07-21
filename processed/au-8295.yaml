@@ -1,5 +1,6 @@
 ---
 reference: '8295'
+entity_type: vessel
 names:
 - text: ARLAN
   name_type: Primary Name

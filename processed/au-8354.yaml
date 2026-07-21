@@ -1,5 +1,6 @@
 ---
 reference: '8354'
+entity_type: vessel
 names:
 - text: PATE
   name_type: Primary Name

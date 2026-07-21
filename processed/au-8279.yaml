@@ -1,5 +1,6 @@
 ---
 reference: '8279'
+entity_type: vessel
 names:
 - text: SAMUDRA
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6531'
+entity_type: person
 names:
 - text: Aleksey Govyrin
   name_type: Primary Name

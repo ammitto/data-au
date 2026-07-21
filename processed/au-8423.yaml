@@ -1,5 +1,6 @@
 ---
 reference: '8423'
+entity_type: vessel
 names:
 - text: MIRABEL
   name_type: Primary Name

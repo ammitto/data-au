@@ -1,5 +1,6 @@
 ---
 reference: '8070'
+entity_type: person
 names:
 - text: Oleg Evgenevich ROMANENKO
   name_type: Primary Name

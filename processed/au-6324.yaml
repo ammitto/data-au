@@ -1,5 +1,6 @@
 ---
 reference: '6324'
+entity_type: person
 names:
 - text: Alexey Kurinny
   name_type: Primary Name

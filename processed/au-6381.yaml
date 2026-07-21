@@ -1,5 +1,6 @@
 ---
 reference: '6381'
+entity_type: person
 names:
 - text: Aleksei Zhuravlyev
   name_type: Primary Name

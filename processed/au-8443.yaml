@@ -1,5 +1,6 @@
 ---
 reference: '8443'
+entity_type: person
 names:
 - text: Prophane Victor
   name_type: Primary Name

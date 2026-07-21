@@ -1,5 +1,6 @@
 ---
 reference: '6691'
+entity_type: organization
 names:
 - text: Profinet Pte Ltd
   name_type: Primary Name

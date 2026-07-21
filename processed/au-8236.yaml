@@ -1,5 +1,6 @@
 ---
 reference: '8236'
+entity_type: vessel
 names:
 - text: UDAYA
   name_type: Primary Name

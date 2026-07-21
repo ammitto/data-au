@@ -1,5 +1,6 @@
 ---
 reference: '127'
+entity_type: person
 names:
 - text: Mohammad Zahid
   name_type: Primary Name

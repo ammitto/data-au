@@ -1,5 +1,6 @@
 ---
 reference: '8643'
+entity_type: vessel
 names:
 - text: CHENG HE
   name_type: Primary Name

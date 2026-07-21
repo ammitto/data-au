@@ -1,5 +1,6 @@
 ---
 reference: '6451'
+entity_type: person
 names:
 - text: Andrei Skoch
   name_type: Primary Name

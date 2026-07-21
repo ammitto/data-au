@@ -1,5 +1,6 @@
 ---
 reference: '9'
+entity_type: person
 names:
 - text: Attiqullah Akhund
   name_type: Primary Name
