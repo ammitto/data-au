@@ -1,5 +1,6 @@
 ---
 reference: '6319'
+entity_type: person
 names:
 - text: Nikolai Kolomeytsev
   name_type: Primary Name

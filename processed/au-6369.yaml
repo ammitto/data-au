@@ -1,5 +1,6 @@
 ---
 reference: '6369'
+entity_type: person
 names:
 - text: Dmitry Svishchev
   name_type: Primary Name

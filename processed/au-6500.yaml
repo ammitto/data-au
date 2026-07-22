@@ -1,5 +1,6 @@
 ---
 reference: '6500'
+entity_type: person
 names:
 - text: Sergey Boyarskiy
   name_type: Primary Name

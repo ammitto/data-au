@@ -1,5 +1,6 @@
 ---
 reference: '8656'
+entity_type: vessel
 names:
 - text: THORIN
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '3433'
+entity_type: person
 names:
 - text: Kim Kyong Il
   name_type: Primary Name

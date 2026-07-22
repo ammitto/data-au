@@ -1,5 +1,6 @@
 ---
 reference: '3209'
+entity_type: person
 names:
 - text: Son Mun San
   name_type: Primary Name

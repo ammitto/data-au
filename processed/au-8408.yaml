@@ -1,5 +1,6 @@
 ---
 reference: '8408'
+entity_type: vessel
 names:
 - text: DINASTY
   name_type: Primary Name

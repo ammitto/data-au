@@ -1,5 +1,6 @@
 ---
 reference: '2312'
+entity_type: person
 names:
 - text: Mujahed ISMAIL
   name_type: Primary Name

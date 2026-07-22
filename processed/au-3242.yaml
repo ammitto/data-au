@@ -1,5 +1,6 @@
 ---
 reference: '3242'
+entity_type: person
 names:
 - text: Choe Hwi
   name_type: Primary Name

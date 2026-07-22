@@ -1,5 +1,6 @@
 ---
 reference: '8373'
+entity_type: vessel
 names:
 - text: VENUS III
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8700'
+entity_type: organization
 names:
 - text: Commercial Joint Stock Bank Viking
   name_type: Primary Name

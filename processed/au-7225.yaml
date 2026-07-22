@@ -1,5 +1,6 @@
 ---
 reference: '7225'
+entity_type: person
 names:
 - text: Dmitry Anatolyevich Steshin
   name_type: Primary Name

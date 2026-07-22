@@ -1,5 +1,6 @@
 ---
 reference: '6667'
+entity_type: person
 names:
 - text: Aliaksandr Piatrovich VETSIANEVICH
   name_type: Primary Name

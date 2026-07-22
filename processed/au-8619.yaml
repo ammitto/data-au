@@ -1,5 +1,6 @@
 ---
 reference: '8619'
+entity_type: vessel
 names:
 - text: AGNI
   name_type: Primary Name

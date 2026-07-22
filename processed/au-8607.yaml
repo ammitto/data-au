@@ -1,5 +1,6 @@
 ---
 reference: '8607'
+entity_type: vessel
 names:
 - text: DIVA 1
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8081'
+entity_type: organization
 names:
 - text: The Central Aerohydrodynamic Institute Named after Professor N.E. Zhukovsky
     Federal Autonomous Enterprise

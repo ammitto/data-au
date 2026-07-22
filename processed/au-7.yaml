@@ -1,5 +1,6 @@
 ---
 reference: '7'
+entity_type: person
 names:
 - text: Abdul Latif Mansur
   name_type: Primary Name

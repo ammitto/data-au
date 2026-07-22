@@ -1,5 +1,6 @@
 ---
 reference: '8614'
+entity_type: vessel
 names:
 - text: LEONA
   name_type: Primary Name

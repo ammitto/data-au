@@ -1,5 +1,6 @@
 ---
 reference: '8271'
+entity_type: vessel
 names:
 - text: NIKOLAY ZADORNOV
   name_type: Primary Name

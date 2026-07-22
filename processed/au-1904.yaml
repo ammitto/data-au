@@ -1,5 +1,6 @@
 ---
 reference: '1904'
+entity_type: person
 names:
 - text: Vlastimir Dordević
   name_type: Primary Name

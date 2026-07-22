@@ -1,5 +1,6 @@
 ---
 reference: '6831'
+entity_type: person
 names:
 - text: Aleksei DROGANOV
   name_type: Primary Name

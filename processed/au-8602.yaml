@@ -1,5 +1,6 @@
 ---
 reference: '8602'
+entity_type: vessel
 names:
 - text: PEACE
   name_type: Primary Name

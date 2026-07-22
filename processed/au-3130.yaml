@@ -1,5 +1,6 @@
 ---
 reference: '3130'
+entity_type: person
 names:
 - text: Shamil Magomedovich Ismailov
   name_type: Primary Name

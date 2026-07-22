@@ -1,5 +1,6 @@
 ---
 reference: '6505'
+entity_type: person
 names:
 - text: Vladimir Burmatov
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8636'
+entity_type: vessel
 names:
 - text: OCEAN RIVER
   name_type: Primary Name

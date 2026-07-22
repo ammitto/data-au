@@ -1,5 +1,6 @@
 ---
 reference: '8424'
+entity_type: vessel
 names:
 - text: AMULET
   name_type: Primary Name

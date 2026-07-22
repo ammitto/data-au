@@ -1,5 +1,6 @@
 ---
 reference: '7820'
+entity_type: person
 names:
 - text: Akram Al-Ajouri
   name_type: Primary Name

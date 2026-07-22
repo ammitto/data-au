@@ -1,5 +1,6 @@
 ---
 reference: '8304'
+entity_type: vessel
 names:
 - text: WALRUS
   name_type: Primary Name

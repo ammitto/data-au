@@ -1,5 +1,6 @@
 ---
 reference: '3137'
+entity_type: person
 names:
 - text: Nusret Imamovic
   name_type: Primary Name

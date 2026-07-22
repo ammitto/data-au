@@ -1,5 +1,6 @@
 ---
 reference: '8589'
+entity_type: person
 names:
 - text: Majid Mousavi
   name_type: Primary Name

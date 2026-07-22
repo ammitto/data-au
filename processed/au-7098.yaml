@@ -1,5 +1,6 @@
 ---
 reference: '7098'
+entity_type: person
 names:
 - text: Vladimir PAVLENKO
   name_type: Primary Name

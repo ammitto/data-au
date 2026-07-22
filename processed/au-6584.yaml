@@ -1,5 +1,6 @@
 ---
 reference: '6584'
+entity_type: person
 names:
 - text: Sergey Kolunov
   name_type: Primary Name

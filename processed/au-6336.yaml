@@ -1,5 +1,6 @@
 ---
 reference: '6336'
+entity_type: person
 names:
 - text: Nikolay Osadchy
   name_type: Primary Name

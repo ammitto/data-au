@@ -1,5 +1,6 @@
 ---
 reference: '3603'
+entity_type: person
 names:
 - text: Salah Badi
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '7700'
+entity_type: person
 names:
 - text: Mohammad Reza NAQDI
   name_type: Primary Name

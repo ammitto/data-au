@@ -1,5 +1,6 @@
 ---
 reference: '8675'
+entity_type: organization
 names:
 - text: Atomaiz
   name_type: Primary Name

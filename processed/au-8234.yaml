@@ -1,5 +1,6 @@
 ---
 reference: '8234'
+entity_type: vessel
 names:
 - text: STARLIT
   name_type: Primary Name

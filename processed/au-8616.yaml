@@ -1,5 +1,6 @@
 ---
 reference: '8616'
+entity_type: vessel
 names:
 - text: BELOGROD
   name_type: Primary Name

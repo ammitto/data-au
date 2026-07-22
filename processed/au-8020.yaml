@@ -1,5 +1,6 @@
 ---
 reference: '8020'
+entity_type: person
 names:
 - text: Yury Viktorovich USHAKOV
   name_type: Primary Name

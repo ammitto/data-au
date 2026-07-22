@@ -1,5 +1,6 @@
 ---
 reference: '6338'
+entity_type: person
 names:
 - text: Sergey Gavrilov
   name_type: Primary Name

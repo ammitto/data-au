@@ -1,5 +1,6 @@
 ---
 reference: '8232'
+entity_type: vessel
 names:
 - text: GARASAN
   name_type: Primary Name

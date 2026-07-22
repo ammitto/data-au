@@ -1,5 +1,6 @@
 ---
 reference: '3175'
+entity_type: person
 names:
 - text: Joseph Kony
   name_type: Primary Name

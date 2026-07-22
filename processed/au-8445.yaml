@@ -1,5 +1,6 @@
 ---
 reference: '8445'
+entity_type: person
 names:
 - text: Dimitri Herard
   name_type: Primary Name

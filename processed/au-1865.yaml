@@ -1,5 +1,6 @@
 ---
 reference: '1865'
+entity_type: person
 names:
 - text: Ratko Mladić
   name_type: Primary Name

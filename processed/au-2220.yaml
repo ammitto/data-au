@@ -1,5 +1,6 @@
 ---
 reference: '2220'
+entity_type: person
 names:
 - text: Shaariya ABU
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '8343'
+entity_type: vessel
 names:
 - text: MARABELLA SUN
   name_type: Primary Name

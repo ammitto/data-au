@@ -1,5 +1,6 @@
 ---
 reference: '7900'
+entity_type: organization
 names:
 - text: East Shipyard Joint Stock Company
   name_type: Primary Name

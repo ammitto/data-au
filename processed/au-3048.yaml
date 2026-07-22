@@ -1,5 +1,6 @@
 ---
 reference: '3048'
+entity_type: person
 names:
 - text: SHAFI SULTAN MOHAMMED AL-AJMI
   name_type: Primary Name

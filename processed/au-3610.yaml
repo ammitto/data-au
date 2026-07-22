@@ -1,5 +1,6 @@
 ---
 reference: '3610'
+entity_type: person
 names:
 - text: Andrey Borisovich Shein
   name_type: Primary Name

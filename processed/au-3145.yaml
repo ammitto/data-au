@@ -1,5 +1,6 @@
 ---
 reference: '3145'
+entity_type: person
 names:
 - text: Abu Ubaydah Yusuf Al-Anabi
   name_type: Primary Name

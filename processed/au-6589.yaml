@@ -1,5 +1,6 @@
 ---
 reference: '6589'
+entity_type: person
 names:
 - text: Denis Kravchenko
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '7080'
+entity_type: person
 names:
 - text: Valery Nikolayevich VASILYEV
   name_type: Primary Name

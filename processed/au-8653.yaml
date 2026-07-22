@@ -1,5 +1,6 @@
 ---
 reference: '8653'
+entity_type: vessel
 names:
 - text: KALUGA
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6570'
+entity_type: person
 names:
 - text: Georgy Karlov
   name_type: Primary Name

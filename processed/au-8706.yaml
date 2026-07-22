@@ -1,5 +1,6 @@
 ---
 reference: '8706'
+entity_type: organization
 names:
 - text: AKIBANK
   name_type: Primary Name

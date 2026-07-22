@@ -1,5 +1,6 @@
 ---
 reference: '6428'
+entity_type: person
 names:
 - text: Pavel Fedyaev
   name_type: Primary Name

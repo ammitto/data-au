@@ -1,5 +1,6 @@
 ---
 reference: '6317'
+entity_type: person
 names:
 - text: Dmitry Novikov
   name_type: Primary Name

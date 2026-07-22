@@ -1,5 +1,6 @@
 ---
 reference: '6805'
+entity_type: person
 names:
 - text: Alexey Yurevich AVDEEV
   name_type: Primary Name

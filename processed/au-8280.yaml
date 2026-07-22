@@ -1,5 +1,6 @@
 ---
 reference: '8280'
+entity_type: vessel
 names:
 - text: SOORAJ
   name_type: Primary Name

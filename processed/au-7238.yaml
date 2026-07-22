@@ -1,5 +1,6 @@
 ---
 reference: '7238'
+entity_type: organization
 names:
 - text: The Base
   name_type: Primary Name

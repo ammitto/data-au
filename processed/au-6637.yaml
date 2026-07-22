@@ -1,5 +1,6 @@
 ---
 reference: '6637'
+entity_type: person
 names:
 - text: Vladimir Plotnikov
   name_type: Primary Name

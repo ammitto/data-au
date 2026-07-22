@@ -1,5 +1,6 @@
 ---
 reference: '700'
+entity_type: person
 names:
 - text: SA'D ABD-AL-MAJID AL-FAISAL AL-TIKRITI
   name_type: Primary Name

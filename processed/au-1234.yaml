@@ -1,5 +1,6 @@
 ---
 reference: '1234'
+entity_type: person
 names:
 - text: SAID JAN  ‘ABD AL-SALAM
   name_type: Primary Name

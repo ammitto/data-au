@@ -1,5 +1,6 @@
 ---
 reference: '1250'
+entity_type: organization
 names:
 - text: Libyan Investment Authority
   name_type: Primary Name

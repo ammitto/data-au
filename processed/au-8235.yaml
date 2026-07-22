@@ -1,5 +1,6 @@
 ---
 reference: '8235'
+entity_type: vessel
 names:
 - text: AQUA TITAN
   name_type: Primary Name

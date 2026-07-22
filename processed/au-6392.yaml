@@ -1,5 +1,6 @@
 ---
 reference: '6392'
+entity_type: person
 names:
 - text: Sergei Kabyshev
   name_type: Primary Name

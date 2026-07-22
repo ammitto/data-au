@@ -1,5 +1,6 @@
 ---
 reference: '3116'
+entity_type: person
 names:
 - text: Peter Cherif
   name_type: Primary Name

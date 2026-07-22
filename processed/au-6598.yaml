@@ -1,5 +1,6 @@
 ---
 reference: '6598'
+entity_type: person
 names:
 - text: Anatoliy Lesun
   name_type: Primary Name

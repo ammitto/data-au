@@ -1,5 +1,6 @@
 ---
 reference: '8603'
+entity_type: vessel
 names:
 - text: AILANA
   name_type: Primary Name

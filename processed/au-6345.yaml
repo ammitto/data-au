@@ -1,5 +1,6 @@
 ---
 reference: '6345'
+entity_type: person
 names:
 - text: Georgy Kamnev
   name_type: Primary Name

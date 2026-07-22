@@ -1,5 +1,6 @@
 ---
 reference: '8610'
+entity_type: vessel
 names:
 - text: DAKSHA
   name_type: Primary Name

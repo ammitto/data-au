@@ -1,5 +1,6 @@
 ---
 reference: '8647'
+entity_type: vessel
 names:
 - text: MIRES
   name_type: Primary Name

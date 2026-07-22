@@ -1,5 +1,6 @@
 ---
 reference: '3221'
+entity_type: person
 names:
 - text: Kim Kyong-nam
   name_type: Primary Name

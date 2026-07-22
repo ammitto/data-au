@@ -1,5 +1,6 @@
 ---
 reference: '6546'
+entity_type: person
 names:
 - text: Alexander Drozdov
   name_type: Primary Name

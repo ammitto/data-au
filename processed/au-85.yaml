@@ -1,5 +1,6 @@
 ---
 reference: '85'
+entity_type: person
 names:
 - text: Ahmed Jan Akhundzada Wazir
   name_type: Primary Name

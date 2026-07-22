@@ -1,5 +1,6 @@
 ---
 reference: '44'
+entity_type: person
 names:
 - text: Hamdullah Nomani
   name_type: Primary Name

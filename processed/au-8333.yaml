@@ -1,5 +1,6 @@
 ---
 reference: '8333'
+entity_type: vessel
 names:
 - text: SARD
   name_type: Primary Name

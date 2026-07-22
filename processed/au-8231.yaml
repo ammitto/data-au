@@ -1,5 +1,6 @@
 ---
 reference: '8231'
+entity_type: vessel
 names:
 - text: FAST KATHY
   name_type: Primary Name

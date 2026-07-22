@@ -1,5 +1,6 @@
 ---
 reference: '8254'
+entity_type: vessel
 names:
 - text: WILMA II
   name_type: Primary Name

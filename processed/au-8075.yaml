@@ -1,5 +1,6 @@
 ---
 reference: '8075'
+entity_type: organization
 names:
 - text: Central Election Commission of the Russian Federation
   name_type: Primary Name

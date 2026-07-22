@@ -1,5 +1,6 @@
 ---
 reference: '8287'
+entity_type: vessel
 names:
 - text: MA JIN
   name_type: Primary Name

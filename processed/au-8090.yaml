@@ -1,5 +1,6 @@
 ---
 reference: '8090'
+entity_type: organization
 names:
 - text: Chelyabinsk Forge and Press Plant Public Joint Stock Company
   name_type: Primary Name

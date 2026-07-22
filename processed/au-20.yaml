@@ -1,5 +1,6 @@
 ---
 reference: '20'
+entity_type: person
 names:
 - text: Matiullah
   name_type: Primary Name

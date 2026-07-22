@@ -1,5 +1,6 @@
 ---
 reference: '8404'
+entity_type: vessel
 names:
 - text: CAVALIER
   name_type: Primary Name

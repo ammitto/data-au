@@ -1,5 +1,6 @@
 ---
 reference: '6534'
+entity_type: person
 names:
 - text: Anton Gorelkin
   name_type: Primary Name

@@ -1,5 +1,6 @@
 ---
 reference: '6560'
+entity_type: person
 names:
 - text: Viktor IGNATOV
   name_type: Primary Name

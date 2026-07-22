@@ -1,5 +1,6 @@
 ---
 reference: '6378'
+entity_type: person
 names:
 - text: Boris Paykin
   name_type: Primary Name

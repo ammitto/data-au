@@ -1,5 +1,6 @@
 ---
 reference: '8363'
+entity_type: vessel
 names:
 - text: TIBURON
   name_type: Primary Name

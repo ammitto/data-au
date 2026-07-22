@@ -1,5 +1,6 @@
 ---
 reference: '7500'
+entity_type: person
 names:
 - text: Fatemeh GHORBAN-HOSSEINI
   name_type: Primary Name

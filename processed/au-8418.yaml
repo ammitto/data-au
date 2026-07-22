@@ -1,5 +1,6 @@
 ---
 reference: '8418'
+entity_type: vessel
 names:
 - text: ARCADIA
   name_type: Primary Name
