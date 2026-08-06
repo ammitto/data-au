@@ -1,0 +1,44 @@
+---
+reference: '8822'
+entity_type: person
+names:
+- text: Corneille Nangaa Yobeluo
+  name_type: Primary Name
+  script: Latn
+- text: Corneille Nangaa
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Corneille Yobeluo
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: a) Boulevard Biangala, No. 36 Q, Salongo Sud C, Lemba, Kinshasa, Democratic
+  Republic of the Congo; b) North Kivu, Democratic Republic of the Congo
+additional_info: |-
+  Designation: Leader of the Alliance Fleuve Congo (AFC)
+  Passport No: a) Democratic Republic of the Congo number OP1097934 b) Democratic Republic of the Congo number DP0000149 c) Democratic Republic of the Congo number DP0003850.
+  Gender: Male. Corneille Nangaa Yobeluo is the leader of the Alliance Fleuve Congo (AFC) (CDe.010), a politico-military movement allied with the United Nations-sanctioned March 23 Movement/Congolese Revolutionary Army (M23/ARC) (CDe.006).
+sanction:
+  listing_information: Listed by 1533 Committee on 14 July 2026.
+  committees: 1533 (Democratic People’s Republic of the Congo)
+  control_date: '2026-07-21'
+  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
+    Congo) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1970-07-09'
+  year: 1970
+  precision: year
+places_of_birth:
+- raw_value: Bagboya
+  country: Bagboya
+- raw_value: Haut-Uele
+  country: Haut-Uele
+- raw_value: Democratic Republic of the Congo
+  country: Democratic Republic of the Congo
+citizenships:
+- Congo, Democratic Republic of the

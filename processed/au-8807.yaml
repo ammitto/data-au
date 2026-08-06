@@ -1,0 +1,44 @@
+---
+reference: '8807'
+entity_type: person
+names:
+- text: Mansour ZARRINGHALAM
+  name_type: Primary Name
+  script: Latn
+- text: Mansour ZARRIN GHALAM
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Mansur ZARRIN GHALAM
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Tehran, Iran; Dubai, United Arab Emirates
+additional_info: |-
+  CEO of GCM Exchange
+  Passport: R0052384, Saint Kitts and Nevis (expired 16 November 2021);
+  Passport: Y53912417, Iran;
+  National ID: 4579852826, Iran
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) List 2012
+  committees: Autonomous (Iran)
+  control_date: '2026-05-12'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1963-03-22'
+  year: 1963
+  precision: year
+places_of_birth:
+- raw_value: Damghan
+  country: Damghan
+- raw_value: Iran
+  country: Iran
+citizenships:
+- Iran
+- Saint Kitts and Nevis

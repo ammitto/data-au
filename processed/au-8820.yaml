@@ -1,0 +1,41 @@
+---
+reference: '8820'
+entity_type: person
+names:
+- text: Muhammad al-Hindi
+  name_type: Primary Name
+  script: Latn
+- text: Mohammed al-Hindi
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Muhammad Sa’id Muhammad Yusuf Al-Hindi
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: محمد الهندي
+  name_type: Original Script
+  script: Arab
+address: Damascus, Syria
+sanction:
+  listing_information: First listed on 6 June via Charter of the United Nations (Listed
+    Persons and Entities) Amendment (No. 2) Instrument 2026
+  committees: 1373 (2001)
+  control_date: '2026-06-03'
+  instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
+    (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1955-10-25'
+  year: 1955
+  precision: year
+places_of_birth:
+- raw_value: Gaza
+  country: Gaza
+- raw_value: Palestine
+  country: Palestine
+citizenships:
+- State of Palestine

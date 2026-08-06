@@ -1,0 +1,30 @@
+---
+reference: '8799'
+entity_type: person
+names:
+- text: Claudia Viviana Oliveros Forero
+  name_type: Primary Name
+  script: Latn
+additional_info: |-
+  SDi.013. Designation: Owner and manager of International Services Agency (A4SI). Passport no: Colombia number
+  AZ321704, expires 20 Jul. 2032 National identification no: Colombia Cedula No. 52252815. Gender: Female.
+sanction:
+  listing_information: Listed by the 1591 Committee on 28 April 2026.
+  committees: 1591 (Sudan)
+  control_date: '2026-05-08'
+  instrument: Charter of the United Nations (Sanctions — Sudan) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1973-01-02'
+  year: 1973
+  precision: year
+places_of_birth:
+- raw_value: Bogota
+  country: Bogota
+- raw_value: Colombia
+  country: Colombia
+citizenships:
+- Colombia

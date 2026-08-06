@@ -1,0 +1,59 @@
+---
+reference: '8824'
+entity_type: person
+names:
+- text: Muhammed Lumisa
+  name_type: Primary Name
+  script: Latn
+- text: Lumisa, Muhamad
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: L. Kato
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+- text: Luminsa
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+- text: Lumwinsa
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+- text: Mukade
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+- text: Mukake
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+address: Democratic Republic of the Congo
+additional_info: |-
+  Designation: Commander, doctor and head of external logistics of the Allied Democratic Forces (ADF) (CDe.001)
+  Nationality: Uganda Passport no: na National identification no: na. Gender: Male
+  As one of the commanders of the Allied Democratic Forces (ADF), MUHAMMED LUMISA is involved in planning, promulgating, and supporting the militia’s activities. He also oversees the group’s external logistics.
+sanction:
+  listing_information: Listed by 1533 Committee on 14 July 2026.
+  committees: 1533 (Democratic People’s Republic of the Congo)
+  control_date: '2026-07-21'
+  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
+    Congo) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: 'Approximately: Between 1959 and 1965'
+  year: 1959
+  precision: year
+places_of_birth:
+- raw_value: Kampala District
+  country: Kampala District
+- raw_value: Central Region
+  country: Central Region
+- raw_value: Uganda
+  country: Uganda
+citizenships:
+- Uganda

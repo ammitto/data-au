@@ -1,0 +1,40 @@
+---
+reference: '8825'
+entity_type: person
+names:
+- text: Charles Sematama
+  name_type: Primary Name
+  script: Latn
+- text: Sebanyana
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Hauts Plateaux, South Kivu, Democratic Republic of the Congo
+additional_info: |-
+  Designation: a) Colonel; b) Commander and military leader of Twirwaneho (CDe.011)
+  Gender: Male. Passport no: na National identification no: na
+sanction:
+  listing_information: Listed by 1533 Committee on 14 July 2026
+  committees: 1533 (Democratic People’s Republic of the Congo)
+  control_date: '2026-07-21'
+  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
+    Congo) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1975'
+  year: 1975
+  precision: year
+places_of_birth:
+- raw_value: Kalunyo Village
+  country: Kalunyo Village
+- raw_value: Kamombo Localities
+  country: Kamombo Localities
+- raw_value: South Kivu
+  country: South Kivu
+- raw_value: Democratic Republic of the Congo
+  country: Democratic Republic of the Congo
+citizenships:
+- Congo, Democratic Republic of the

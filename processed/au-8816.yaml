@@ -1,0 +1,26 @@
+---
+reference: '8816'
+entity_type: organization
+names:
+- text: Meitarim Farm
+  name_type: Primary Name
+  script: Latn
+- text: Meitarim Outpost
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: West Bank (South Hebron Hills region), Palestine
+additional_info: Farming outpost in the West Bank owned and founded by Yinon Levi.
+  Yinon Levi was sanctioned by the Australian Government under the human rights criteria
+  on 25 July 2024.
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-06-02'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 1) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

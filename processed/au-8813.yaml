@@ -1,0 +1,31 @@
+---
+reference: '8813'
+entity_type: person
+names:
+- text: Eden LEVI
+  name_type: Primary Name
+  script: Latn
+- text: Eden LEVY
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+additional_info: |-
+  Settler
+  National ID: 206727158
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-06-02'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 1) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1996-06-08'
+  year: 1996
+  precision: year
+citizenships:
+- Israel

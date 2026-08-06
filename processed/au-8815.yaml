@@ -1,0 +1,30 @@
+---
+reference: '8815'
+entity_type: organization
+names:
+- text: Moshe’s Farm
+  name_type: Primary Name
+  script: Latn
+- text: Emek Tirzah Farm
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Tirza Valley Farm Outpost
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+address: West Bank (Near Hamra, Northern Jordan Valley), Palestine
+additional_info: |-
+  Near Hamra, Northern Jordan Valley
+  https://www.chan-baemek.com
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-06-02'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 1) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

@@ -1,0 +1,40 @@
+---
+reference: '8797'
+entity_type: person
+names:
+- text: Al-Goney Hamdan Dagalo
+  name_type: Primary Name
+  script: Latn
+- text: Algoney Hamdan Dagalo
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Al-Qoni Hamdan Dagalo
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Dubai, United Arab Emirates
+additional_info: 'SDi.011. Designation: Procurement Director of the Rapid Support
+  Forces. Passport no: a) Sudan number B00017334 b) Sudan number B00024943, expires
+  27 Sep 2031 c) Kenya number AK1586127. National identification number: United Arab
+  Emirates 784199014302485. Gender: Male.'
+sanction:
+  listing_information: Listed by the 1591 Committee on 28 April 2026.
+  committees: 1591 (Sudan)
+  control_date: '2026-05-08'
+  instrument: Charter of the United Nations (Sanctions — Sudan) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1990-08-07'
+  year: 1990
+  precision: year
+places_of_birth:
+- raw_value: Nayala North
+  country: Nayala North
+- raw_value: Sudan
+  country: Sudan
+citizenships:
+- Sudan

@@ -1,0 +1,30 @@
+---
+reference: '8808'
+entity_type: organization
+names:
+- text: Law Enforcement Forces of the Islamic Republic of Iran
+  name_type: Primary Name
+  script: Latn
+- text: Iran’s Law Enforcement Forces
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Faraja
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Intizamiyeh Jumhuriyih Islamiyih Iran
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) List 2012
+  committees: Autonomous (Iran)
+  control_date: '2026-05-12'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

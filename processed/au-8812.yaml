@@ -1,0 +1,44 @@
+---
+reference: '8812'
+entity_type: person
+names:
+- text: Ben Zion GOPSTEIN
+  name_type: Primary Name
+  script: Latn
+- text: Ben-Zion GOPSTEIN
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Bentzi GOPSTEIN
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Bentzi GOPHSTEIN
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Bentzi GOPHSTAIN
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Givat HaAvot, Kiryat Arba, West Bank, Palestine
+additional_info: |-
+  Founder and director of Lehava which was sanctioned by Australia on 21 October 2001 under Part 4 (Security Council decisions that relate to terrorism and dealings with assets) of the Charter of the United Nations Act 1945.
+  National ID: 024526394
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-06-02'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 1) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1969-09-10'
+  year: 1969
+  precision: year
+citizenships:
+- Israel

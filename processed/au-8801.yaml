@@ -1,0 +1,40 @@
+---
+reference: '8801'
+entity_type: person
+names:
+- text: Eskander MOMENI KALAGARI
+  name_type: Primary Name
+  script: Latn
+- text: Eskander MOMENI
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: اسکندر مؤمنی
+  name_type: Original Script
+  script: Arab
+address: Iran
+additional_info: Minister of the Interior, Government of the Islamic Republic of Iran
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) List 2012
+  committees: Autonomous (Iran)
+  control_date: '2026-05-12'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1963-01-15'
+  year: 1963
+  precision: year
+places_of_birth:
+- raw_value: Qaem Shahr
+  country: Qaem Shahr
+- raw_value: Mazandaran
+  country: Mazandaran
+- raw_value: Iran
+  country: Iran
+citizenships:
+- Iran

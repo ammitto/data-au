@@ -1,0 +1,19 @@
+---
+reference: '8828'
+entity_type: organization
+names:
+- text: Alliance Fleuve Congo (AFC)
+  name_type: Primary Name
+  script: Latn
+address: eastern Democratic Republic of the Congo
+additional_info: Established in 2023.
+sanction:
+  listing_information: Listed by 1533 Committee on 14 July 2026
+  committees: 1533 (Democratic People’s Republic of the Congo)
+  control_date: '2026-07-21'
+  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
+    Congo) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

@@ -1,0 +1,31 @@
+---
+reference: '8798'
+entity_type: person
+names:
+- text: Alvaro Andres Quijano Becerra
+  name_type: Primary Name
+  script: Latn
+additional_info: 'SDi.012. Designation: Founder of International Services Agency (A4SI).
+  Passport no: a) Colombia number AP628498 b) Italy number YB7731256, expires 01 Mar
+  2031. National identification no: Colombia Cedula No. 80413253. Gender: Male.'
+sanction:
+  listing_information: Listed by the 1591 Committee on 28 April 2026.
+  committees: 1591 (Sudan)
+  control_date: '2026-05-08'
+  instrument: Charter of the United Nations (Sanctions — Sudan) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1967-07-18'
+  year: 1967
+  precision: year
+places_of_birth:
+- raw_value: Bogota
+  country: Bogota
+- raw_value: Colombia
+  country: Colombia
+citizenships:
+- Colombia
+- Italy

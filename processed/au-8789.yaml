@@ -1,0 +1,24 @@
+---
+reference: '8789'
+entity_type: person
+names:
+- text: Tijani Ibrahim Moussa Mohamed
+  name_type: Primary Name
+  script: Latn
+- text: Al Zeir Salem
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: 'SDi.010. Designation: Field Commander of the Rapid Support Forces.
+  Male.'
+sanction:
+  listing_information: Listed by the 1591 Committee on 24 February 2026.
+  committees: 1591 (Sudan)
+  control_date: '2026-02-26'
+  instrument: Charter of the United Nations (Sanctions — Sudan) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+citizenships:
+- Sudan

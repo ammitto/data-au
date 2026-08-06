@@ -1,0 +1,38 @@
+---
+reference: '8791'
+entity_type: person
+names:
+- text: Abd El Hamid Salim Ibrahim Brukan Al-Khatouni
+  name_type: Primary Name
+  script: Latn
+- text: Abu Omar Al Sarraf
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: عبد الحميد سالم إبراهيم بروكان الخاتوني
+  name_type: Original Script
+  script: Arab
+address: Iraq
+additional_info: |-
+  QDi.438
+  Served as a senior leader in ISIL (Da’esh) listed as Al-Qaida in Iraq (QDe.115) as its financial management officer. Mother’s name: Khadija Hattab Ismail. Gender: Male.
+sanction:
+  listing_information: Listed 26 March 2026 pursuant to resolutions 1267 (1999), 1989
+    (2011) and 2253 (2015).
+  committees: 1267 (ISIL (Da'esh) and Al-Qaida)
+  control_date: '2026-03-27'
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: true
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1970-09-01'
+  year: 1970
+  precision: year
+places_of_birth:
+- raw_value: Iraq
+  country: Iraq
+citizenships:
+- Iraq

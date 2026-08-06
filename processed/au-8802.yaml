@@ -1,0 +1,27 @@
+---
+reference: '8802'
+entity_type: person
+names:
+- text: Seyed Majid Feiz JAFARI
+  name_type: Primary Name
+  script: Latn
+- text: سید مجید فیض جعفری
+  name_type: Original Script
+  script: Arab
+additional_info: Chief of the Public Security Police
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) List 2012
+  committees: Autonomous (Iran)
+  control_date: '2026-05-12'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+places_of_birth:
+- raw_value: Iran
+  country: Iran
+citizenships:
+- Iran

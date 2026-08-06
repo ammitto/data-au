@@ -1,0 +1,96 @@
+---
+reference: '8819'
+entity_type: person
+names:
+- text: Ziad al-Nakhaleh
+  name_type: Primary Name
+  script: Latn
+- text: Ziyad al-Nakhaleh
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziad Nakhaleh
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziad al-Nakhalah
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziad Nakhale
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziyad al-Nakhalah
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Abu Tariq
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziad al-Nakhla
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziyad Rushdi al-Nakhalah
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziyad Rushdi
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziyad Rushdi Husayn
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziad Al-Nakhala
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziad Nakhala
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziyad al-Nakhala
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziad Al-Nakhla
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ziyad Nahale
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: زياد النخالة
+  name_type: Original Script
+  script: Arab
+address: Lebanon; Syria
+sanction:
+  listing_information: Listed on 6 June 2026 under the Charter of the United Nations
+    (Listed Persons and Entities) Amendment (No. 2) Instrument 2026.
+  committees: 1373 (2001)
+  control_date: '2026-06-03'
+  instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
+    (No. 2) Instrument 2026.
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: 06/04/1953
+  year: 1953
+  precision: year
+- raw_value: 03/01/1953
+  year: 1953
+  precision: year
+places_of_birth:
+- raw_value: Khan Yunis
+  country: Khan Yunis
+- raw_value: Palestine
+  country: Palestine
+citizenships:
+- State of Palestine

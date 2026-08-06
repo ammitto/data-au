@@ -1,0 +1,75 @@
+---
+reference: '8793'
+entity_type: organization
+names:
+- text: Balochistan Liberation Army
+  name_type: Primary Name
+  script: Latn
+- text: BLA
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Baloch Liberation Army
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Fitna al-Hindustan
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Majeed Brigade
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Fateh Squad
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Zephyr Intelligence Research and Analysis Bureau
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Baluchistan Liberation Army
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Qazi Aero Hive Rangers
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: QAHR
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Hakkal
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Fidayeen Squad
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Special Tactical Operations Squad
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Hakkal Media
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Baluch Liberation Army
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Pakistan, Afghanistan, Iran
+sanction:
+  listing_information: Listed on 8 May 2026 pursuant to the Charter of the United
+    Nations (Listed Persons and Entities) Amendment (No. 1) Instrument 2026.
+  committees: 1373 (2001)
+  control_date: '2026-05-08'
+  instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
+    (No. 1) Instrument 2026.
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

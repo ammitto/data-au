@@ -1,0 +1,52 @@
+---
+reference: '8821'
+entity_type: person
+names:
+- text: Ahmed Sharif Abdallah Odeh
+  name_type: Primary Name
+  script: Latn
+- text: Ahmed Odeh
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ahmad Udih
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ahmad Sharif Abdallah Odeh
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ahmad Odeh
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Ahmed Sharif Abdullah Odeh
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Jordan
+additional_info: Passport N450025 (Jordan)
+sanction:
+  listing_information: First listed on 6 June 2026 via Charter of the United Nations
+    (Listed Persons and Entities) Amendment (No. 2) Instrument 2026
+  committees: 1373 (2001)
+  control_date: '2026-06-03'
+  instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
+    (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: 01/01/1951
+  year: 1951
+  precision: year
+- raw_value: 20/02/1951
+  year: 1951
+  precision: year
+places_of_birth:
+- raw_value: Jordan
+  country: Jordan
+citizenships:
+- Jordan
