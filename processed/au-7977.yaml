@@ -47,4 +47,5 @@ places_of_birth:
 - raw_value: Somalia
   country: Somalia
 citizenships:
-- Kenya;Somalia
+- Kenya
+- Somalia

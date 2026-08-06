@@ -70,4 +70,5 @@ places_of_birth:
 - raw_value: Russian Federation
   country: Russian Federation
 citizenships:
-- Georgia;Russia
+- Georgia
+- Russia

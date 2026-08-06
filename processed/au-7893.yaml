@@ -31,4 +31,5 @@ places_of_birth:
 - raw_value: Azerbaijan
   country: Azerbaijan
 citizenships:
-- Azerbaijan;Slovak Republic
+- Azerbaijan
+- Slovak Republic

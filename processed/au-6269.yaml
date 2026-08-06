@@ -41,4 +41,5 @@ places_of_birth:
 - raw_value: Trinidad and Tobago
   country: Trinidad and Tobago
 citizenships:
-- Trinidad and Tobago;United States of America
+- Trinidad and Tobago
+- United States of America

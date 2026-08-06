@@ -51,4 +51,5 @@ places_of_birth:
 - raw_value: Kuwait
   country: Kuwait
 citizenships:
-- Jordan;Türkiye
+- Jordan
+- Türkiye

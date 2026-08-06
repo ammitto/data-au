@@ -26,4 +26,5 @@ dates_of_birth:
   year: 1976
   precision: year
 citizenships:
-- Estonia;Russia
+- Estonia
+- Russia

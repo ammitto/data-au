@@ -73,4 +73,5 @@ places_of_birth:
 - raw_value: Malaysia
   country: Malaysia
 citizenships:
-- Indonesia;Malaysia
+- Indonesia
+- Malaysia

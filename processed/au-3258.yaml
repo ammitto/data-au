@@ -40,4 +40,5 @@ places_of_birth:
 - raw_value: Germany
   country: Germany
 citizenships:
-- Algeria;Germany
+- Algeria
+- Germany

@@ -49,4 +49,5 @@ places_of_birth:
 - raw_value: Germany
   country: Germany
 citizenships:
-- Germany;Morocco
+- Germany
+- Morocco

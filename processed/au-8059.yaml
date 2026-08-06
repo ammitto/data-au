@@ -36,4 +36,5 @@ places_of_birth:
 - raw_value: Crimea
   country: Crimea
 citizenships:
-- Russia;Ukraine
+- Russia
+- Ukraine

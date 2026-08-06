@@ -43,8 +43,7 @@ sanction:
 dates_of_birth:
 - raw_value: Approximately 1968
   year: 1968
-  month: 0
-  precision: month
+  precision: year
 - raw_value: 29/09/1963
   year: 1963
   precision: year

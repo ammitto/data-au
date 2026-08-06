@@ -51,4 +51,5 @@ places_of_birth:
 - raw_value: Bourem Region
   country: Bourem Region
 citizenships:
-- Mali;Mauritania
+- Mali
+- Mauritania

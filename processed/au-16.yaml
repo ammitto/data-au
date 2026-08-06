@@ -34,8 +34,7 @@ sanction:
 dates_of_birth:
 - raw_value: Approximately 1963
   year: 1963
-  month: 0
-  precision: month
+  precision: year
 places_of_birth:
 - raw_value: a) Ghorak District
   country: a) Ghorak District

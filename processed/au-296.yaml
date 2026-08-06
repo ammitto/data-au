@@ -56,4 +56,5 @@ places_of_birth:
 - raw_value: Algeria
   country: Algeria
 citizenships:
-- Algeria;State of Palestine
+- Algeria
+- State of Palestine

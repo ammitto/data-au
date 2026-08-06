@@ -33,4 +33,5 @@ places_of_birth:
 - raw_value: Afghanistan
   country: Afghanistan
 citizenships:
-- Afghanistan;Pakistan
+- Afghanistan
+- Pakistan

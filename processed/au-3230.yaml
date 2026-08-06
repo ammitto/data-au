@@ -55,4 +55,5 @@ places_of_birth:
 - raw_value: Syrian Arab Republic
   country: Syrian Arab Republic
 citizenships:
-- State of Palestine;Syria
+- State of Palestine
+- Syria

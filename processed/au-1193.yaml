@@ -70,8 +70,7 @@ sanction:
 dates_of_birth:
 - raw_value: Approximately 1972
   year: 1972
-  month: 0
-  precision: month
+  precision: year
 - raw_value: 27/07/1976
   year: 1976
   precision: year

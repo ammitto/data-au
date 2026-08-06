@@ -56,4 +56,5 @@ places_of_birth:
 - raw_value: now Republic of Moldova
   country: now Republic of Moldova
 citizenships:
-- Russia;Ukraine
+- Russia
+- Ukraine

@@ -42,12 +42,10 @@ sanction:
 dates_of_birth:
 - raw_value: Approximately 1942
   year: 1942
-  month: 0
-  precision: month
+  precision: year
 - raw_value: Approximately 1948
   year: 1948
-  month: 0
-  precision: month
+  precision: year
 places_of_birth:
 - raw_value: a) Garda Saray area
   country: a) Garda Saray area

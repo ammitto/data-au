@@ -48,4 +48,5 @@ places_of_birth:
 - raw_value: Mauritania
   country: Mauritania
 citizenships:
-- Mali;Mauritania
+- Mali
+- Mauritania

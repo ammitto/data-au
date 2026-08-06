@@ -61,4 +61,5 @@ places_of_birth:
 - raw_value: "  United States of America"
   country: "  United States of America"
 citizenships:
-- Jordan;United States of America
+- Jordan
+- United States of America

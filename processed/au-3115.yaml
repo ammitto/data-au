@@ -53,4 +53,5 @@ places_of_birth:
 - raw_value: France
   country: France
 citizenships:
-- France;Tunisia
+- France
+- Tunisia

@@ -72,7 +72,7 @@ dates_of_birth:
   year: 1978
   precision: year
 - raw_value: " "
-  precision: full
+  precision: unknown
 places_of_birth:
 - raw_value: Raymah village
   country: Raymah village

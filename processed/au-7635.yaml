@@ -51,4 +51,5 @@ places_of_birth:
 - raw_value: Uzbekistan
   country: Uzbekistan
 citizenships:
-- Ukraine;Uzbekistan
+- Ukraine
+- Uzbekistan

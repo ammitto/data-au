@@ -35,8 +35,7 @@ dates_of_birth:
 
     28/08/1965
   year: 1968
-  month: 0
-  precision: month
+  precision: year
 - raw_value: '1968'
   year: 1968
   precision: year
