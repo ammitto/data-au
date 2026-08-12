@@ -46,8 +46,10 @@ sanction:
   maritime_restriction: false
 dates_of_birth:
 - raw_value: 'Approximately: Between 1959 and 1965'
-  year: 1959
-  precision: year
+  circa: true
+  year_range_from: 1959
+  year_range_to: 1965
+  precision: range
 places_of_birth:
 - raw_value: Kampala District
   country: Kampala District
