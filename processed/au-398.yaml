@@ -41,10 +41,10 @@ additional_info: |-
   QDi.087
   Senior leader of Jemaah Islamiyah (QE.J.92.02). Brother of Gun Gun Rusman Gunawan (QI.G.218.06). In custody of the United States of America, as of Jul. 2007. Review pursuant to Security Council resolution 1822 (2008) was concluded on 13 Apr. 2010. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
 sanction:
-  listing_information: Listed by the UN 1267 Committee on 28 January 2003 (amended
-    on 2 July 2007 and 27 Jul 2007, 16 May 2011, 6 Dec 2019, 8 Nov 2022)
+  listing_information: 28 Jan. 2003 (amended on 2 Jul. 2007, 27 Jul. 2007, 16 May
+    2011, 6 Dec. 2019, 8 Nov. 2022, 18 Aug. 2026)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '2026-08-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -52,15 +52,24 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1964-04-04'
+- raw_value: 4/04/1964
+  year: 1964
+  precision: year
+- raw_value: '1966'
+  year: 1966
+  precision: year
+- raw_value: a) 4/04/1964 b) 1966
   year: 1964
   precision: year
 places_of_birth:
-- raw_value: Cianjur
-  country: Cianjur
+- raw_value: a) Cianjur
+  country: a) Cianjur
 - raw_value: West Java
   country: West Java
+- raw_value: Indonesia b) Sukamanah
+  country: Indonesia b) Sukamanah
 - raw_value: Indonesia
   country: Indonesia
 citizenships:
 - Indonesia
+- Malaysia

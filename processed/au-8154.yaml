@@ -13,14 +13,18 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
+- text: ISAAC MUPETA
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
 address: Luzira Prison, Luzira, Kampala, Uganda
-additional_info: "Passport no: Uganda number A00195974 \n\nNational identification
-  no: Uganda CM920231090NZA\n\n\n\nAbubakar Swalleh provides financial, material,
-  or technological support for, or financial or other services to, or in support of,
-  ISIL (listed as Al-Qaida in Iraq (QDe.115). He acted, since 2018, as an ISIL facilitator
-  who provides financial and logistic support including recruitment for ISIL in East
-  and Southern Africa. Phone number: +963936016952. Gender: Male INTERPOL-UN Security
-  Council Special Notice weblink: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+additional_info: "Passport no: Uganda number A00195974,  expires on 16 Dec. 2029\n\nNational
+  identification no: Uganda CM920231090NZA\n\n\n\nAbubakar Swalleh provides financial,
+  material, or technological support for, or financial or other services to, or in
+  support of, ISIL (listed as Al-Qaida in Iraq (QDe.115). He acted, since 2018, as
+  an ISIL facilitator who provides financial and logistic support including recruitment
+  for ISIL in East and Southern Africa. Phone number: +963936016952. Gender: Male
+  INTERPOL-UN Security Council Special Notice weblink: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
   \n\n\n\nAbubakar Swalleh was listed on 16 June 2025 pursuant to paragraphs 2 and
   5 of resolution 2734 (2024) as being associated with ISIL or Al-Qaida for “participating
   in the financing, planning, facilitating, preparing, or perpetrating of acts or
@@ -38,7 +42,7 @@ additional_info: "Passport no: Uganda number A00195974 \n\nNational identificati
   acts of terrorism or instigate such acts by ISIL."
 sanction:
   listing_information: Listed by the 1267/1989/2253 (ISIL (Da'esh) and Al-Qaida) Committee
-    on 16 June 2025
+    on 16 June 2025 (amended on 14 Aug. 2026)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
@@ -48,7 +52,7 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1992-01-13'
+- raw_value: a) 13/01/1992 b) 16/03/1993
   year: 1992
   precision: year
 places_of_birth:

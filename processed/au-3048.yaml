@@ -2,7 +2,7 @@
 reference: '3048'
 entity_type: person
 names:
-- text: SHAFI SULTAN MOHAMMED AL-AJMI
+- text: SHAFI SULTAN MOHAMMED SULTAN AL-AJMI
   name_type: Primary Name
   script: Latn
 - text: Shafi al-Ajmi
@@ -17,18 +17,24 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
+- text: Shafi S. M. S. Alajmi
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
 address: Area 3, Street 327, Building 41, Al-Uqaylah, Kuwait
 additional_info: |-
-  Kuwait Passport no.: 0216155930
+  Passport no: a) Kuwait 03111298  b) Kuwait 003111298, issued in Kuwait on 16 September 2010, expired 15 September 2020 in the name of Shafi S M S Alajmi, Arabic script شافي سلطان محمد سلطان العجم c) 0216155930
+
+  National identification no: Kuwait 273010101204
 
   Fundraiser for Al-Nusrah Front for the People of the Levant (QDe.137). In November 2023, he was released from prison in Kuwait as part of the Special Amiri Decree Pardon No. 225/2023. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
 sanction:
   listing_information: |-
     UN Reference Number: QDi.338
 
-    Listed on 23 Sep. 2014 (amended on 24 Nov. 2020, 22 August 2025)
+    Listed on 23 Sep. 2014 (amended on 24 Nov. 2020, 22 August 2025, 13 Aug. 2026)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '2026-08-14'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true

@@ -31,6 +31,22 @@ names:
 - text: سيف العدل
   name_type: Original Script
   script: Arab
+- text: Salem al-Sharif (سالم الشريف)
+  name_type: Alias
+  script: Arab
+  alias_strength: Weak
+- text: Hazem al-Madani
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+- text: Aber Sabil
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+- text: Abu Khaled al-San’ani
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
 additional_info: 'QDi.001. Responsible for Usama bin Laden’s (deceased) security.
   Hair: Dark. Review pursuant to Security Council resolution 1822 (2008) was concluded
   on 15 Jun. 2010.  Review pursuant to Security Council resolution 2253 (2015) was

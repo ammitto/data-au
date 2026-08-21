@@ -9,18 +9,13 @@ names:
   name_type: Original Script
   script: Arab
 address: a) Mali b) Algeria
-additional_info: 'QDe.134. A group affiliated with the Islamic State in Iraq and the
-  Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), that has perpetrated attacks
-  in Indonesia. Founded and led by Abu Bakar Ba''asyir (QDi.217). Established on 27
-  Jul. 2008 in Solo, Indonesia. Had been associated with Jemmah Islamiya (JI) (QDe.092).
-  Review pursuant to Security Council resolution 2253 (2015) was concluded on 7 June
-  2018. Website: http://ansharuttauhid.com/ Review pursuant to Security Council resolution
-  2368 (2017) was concluded on 15 November 2021.'
+additional_info: 'Associated with The Organization of Al-Qaida in the Islamic Maghreb,
+  (QDe.014), Al Mourabitoun (QDe.141), and Mokhtar Belmokhtar (QDi.136). Active in
+  the Sahel/Sahara region. Review concluded on: 15 Nov. 2021, 31 Dec. 2025'
 sanction:
-  listing_information: Listed by the 1267 Committee on 12 Mar. 2012 ( amended on 17
-    Jul. 2018, 15 Nov. 2021 )
+  listing_information: 'Listed on: 5 Dec. 2012 (amended on 15 Nov. 2021, 18 Aug. 2026)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '2026-08-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true

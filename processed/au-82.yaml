@@ -22,15 +22,17 @@ names:
   alias_strength: Strong
 address: Afghanistan
 additional_info: 'TAi.082 Title: Maulavi. Designation: Deputy Minister of Security
-  (Intelligence) under the Taliban regime (1996-2001). Passport no: Afghanistan diplomatic
-  passport D0009755, issued on 23 Oct. 2021, expires on 23 Oct. 2026. (Name in Latin
-  script: Abdulhaq Waseeq). Height: 168 cm'
+  (Intelligence) under the Taliban regime (1996-2001). Passport no: a) Afghanistan
+  number D0009755, issued on 23 Oct. 2021, expires 23 Oct. 2026 (Name in Latin script:
+  Abdulhaq Waseeq) b) Afghanistan number D0010689, issued on 29 Mar. 2026, expires
+  29 Mar. 2031 (Name in Latin script: Abdulhaq Waseeq, name in original script: عبد
+  الحق وثيق). Height: 168 cm'
 sanction:
-  listing_information: Listed on 31 Jan. 2001 (amended on 3 Sep. 2003, 21 Sep. 2007,
-    3 Oct. 2008, 29 Nov. 2011, 31 Dec. 2013, 11 Feb 2014, 7 Sep. 2016, 10 Mar. 2026,
-    28 Apr. 2026)
+  listing_information: Listed on 31 Jan. 2001 ( amended on 3 Sep. 2003, 21 Sep. 2007,
+    3 Oct. 2008, 29 Nov. 2011, 31 Dec. 2013, 11 Feb. 2014, 7 Sep. 2016, 10 Mar. 2026,
+    28 Apr. 2026, 30 Jul. 2026)
   committees: 1988 (Taliban)
-  control_date: '2026-05-08'
+  control_date: '2026-07-31'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013
   targeted_financial_sanction: true
   travel_ban: true
@@ -47,12 +49,14 @@ dates_of_birth:
   year: 1968
   precision: year
 places_of_birth:
-- raw_value: Gharib village
-  country: Gharib village
+- raw_value: a) Gharib village
+  country: a) Gharib village
 - raw_value: Khogyani District
   country: Khogyani District
 - raw_value: Ghazni Province
   country: Ghazni Province
+- raw_value: Afghanistan b) Ghazni
+  country: Afghanistan b) Ghazni
 - raw_value: Afghanistan
   country: Afghanistan
 citizenships:
