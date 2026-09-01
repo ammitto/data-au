@@ -51,7 +51,7 @@ sanction:
   listing_information: Listed by UN 1267 and 1989 Committee on 12 August 2011 (amended
     on 24 Nov. 2020, 15 Nov. 2021, 18 Aug. 2026).
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '2026-08-28'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -69,9 +69,6 @@ dates_of_birth:
   year: 1979
   precision: year
 - raw_value: 8/8/1980
-  year: 1980
-  precision: year
-- raw_value: '1980-08-08'
   year: 1980
   precision: year
 places_of_birth:

@@ -1,0 +1,18 @@
+---
+reference: '8879'
+entity_type: vessel
+names:
+- text: SOUTH HILL 2
+  name_type: Primary Name
+  script: Latn
+sanction:
+  listing_information: Listed by the 1718 USNC Committee on 21 June 2017
+  committees: 1718 (DPRK)
+  control_date: '2026-08-28'
+  instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
+    of Korea) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false
+imo_number: '8412467'

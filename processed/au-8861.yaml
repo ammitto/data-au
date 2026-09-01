@@ -1,0 +1,22 @@
+---
+reference: '8861'
+entity_type: vessel
+names:
+- text: HU CHANG
+  name_type: Primary Name
+  script: Latn
+- text: O UN CHONG NYON HO
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+sanction:
+  listing_information: Listed by the UNSC 1718 Committee on 21 June 2017
+  committees: 1718 (DPRK)
+  control_date: '2026-08-28'
+  instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
+    of Korea) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false
+imo_number: '8330815'

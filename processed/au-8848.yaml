@@ -1,0 +1,30 @@
+---
+reference: '8848'
+entity_type: vessel
+names:
+- text: SONG JIN
+  name_type: Primary Name
+  script: Latn
+- text: JANG JA SAN CHONG NYON HO
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: SONGJIN
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: HONGWON 88
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+sanction:
+  listing_information: Listed by the UNSC 1718 Committee on 21 June 2017
+  committees: 1718 (DPRK)
+  control_date: '2026-08-28'
+  instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
+    of Korea) Regulations 2008
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false
+imo_number: '8133530'
