@@ -16,10 +16,12 @@ names:
 - text: ISAAC MUPETA
   name_type: Alias
   script: Latn
-  alias_strength: Weak
+  alias_strength: Strong
 address: Luzira Prison, Luzira, Kampala, Uganda
 additional_info: "Passport no: Uganda number A00195974,  expires on 16 Dec. 2029\n\nNational
-  identification no: Uganda CM920231090NZA\n\n\n\nAbubakar Swalleh provides financial,
+  identification no:  a) Uganda CM920231090NZA b) Zambia Z15105123, issued on 5. Aug.
+  2020 (fraudulently acquired under the name Isaac Mupeta, born 9 May 1993 in Lusaka,
+  Zambia, registration number 102523/29/1)\n\n\n\nAbubakar Swalleh provides financial,
   material, or technological support for, or financial or other services to, or in
   support of, ISIL (listed as Al-Qaida in Iraq (QDe.115). He acted, since 2018, as
   an ISIL facilitator who provides financial and logistic support including recruitment
@@ -42,9 +44,9 @@ additional_info: "Passport no: Uganda number A00195974,  expires on 16 Dec. 2029
   acts of terrorism or instigate such acts by ISIL."
 sanction:
   listing_information: Listed by the 1267/1989/2253 (ISIL (Da'esh) and Al-Qaida) Committee
-    on 16 June 2025 (amended on 14 Aug. 2026)
+    on 16 June 2025 (amended on 14 Aug. 2026, 4 Sep. 2026)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '2026-09-07'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
