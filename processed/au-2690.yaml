@@ -31,7 +31,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-08-07'
   year: 1954
-  precision: year
+  month: 8
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Pochyot
   country: Pochyot

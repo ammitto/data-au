@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1976-05-06'
   year: 1976
-  precision: year
+  month: 5
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Mevaseret Zion
   country: Mevaseret Zion

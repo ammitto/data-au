@@ -24,6 +24,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-03-29'
   year: 1960
-  precision: year
+  month: 3
+  day: 29
+  precision: full
 citizenships:
 - Myanmar

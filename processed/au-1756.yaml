@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1968-06-07'
   year: 1968
-  precision: year
+  month: 6
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Bijeljina
   country: Bijeljina

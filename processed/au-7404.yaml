@@ -25,10 +25,14 @@ sanction:
 dates_of_birth:
 - raw_value: 12/05/1971
   year: 1971
-  precision: year
+  month: 5
+  day: 12
+  precision: full
 - raw_value: 12/05/1972
   year: 1972
-  precision: year
+  month: 5
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Norilsk
   country: Norilsk

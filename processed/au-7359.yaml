@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-06-03'
   year: 1964
-  precision: year
+  month: 6
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Perm
   country: Perm

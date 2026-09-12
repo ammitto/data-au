@@ -48,7 +48,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1974-11-24'
   year: 1974
-  precision: year
+  month: 11
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Khadzhalmahi Village
   country: Khadzhalmahi Village

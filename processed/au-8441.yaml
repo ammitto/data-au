@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1993-02-28'
   year: 1993
-  precision: year
+  month: 2
+  day: 28
+  precision: full
 places_of_birth:
 - raw_value: Haiti
   country: Haiti

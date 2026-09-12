@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-08-26'
   year: 1963
-  precision: year
+  month: 8
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Meybod
   country: Meybod

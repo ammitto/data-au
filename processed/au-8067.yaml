@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1979-09-02'
   year: 1979
-  precision: year
+  month: 9
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Kaliningrad
   country: Kaliningrad

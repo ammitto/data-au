@@ -20,6 +20,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1951-01-23'
   year: 1951
-  precision: year
+  month: 1
+  day: 23
+  precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

@@ -33,7 +33,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1968-08-11'
   year: 1968
-  precision: year
+  month: 8
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Vyshnivka
   country: Vyshnivka

@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1955-05-04'
   year: 1955
-  precision: year
+  month: 5
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: al-Samnah
   country: al-Samnah

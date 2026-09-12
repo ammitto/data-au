@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1943-03-12'
   year: 1943
-  precision: year
+  month: 3
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Goles
   country: Goles

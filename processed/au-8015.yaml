@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1975-01-16'
   year: 1975
-  precision: year
+  month: 1
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Kazan
   country: Kazan

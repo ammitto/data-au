@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-06-18'
   year: 1964
-  precision: year
+  month: 6
+  day: 18
+  precision: full
 places_of_birth:
 - raw_value: Kaesong
   country: Kaesong

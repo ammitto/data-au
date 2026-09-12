@@ -24,9 +24,13 @@ sanction:
 dates_of_birth:
 - raw_value: 26/03/1968
   year: 1968
-  precision: year
+  month: 3
+  day: 26
+  precision: full
 - raw_value: 15/10/1970
   year: 1970
-  precision: year
+  month: 10
+  day: 15
+  precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

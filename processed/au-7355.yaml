@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1953-09-12'
   year: 1953
-  precision: year
+  month: 9
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Almalyk
   country: Almalyk

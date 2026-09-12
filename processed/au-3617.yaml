@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1981-03-07'
   year: 1981
-  precision: year
+  month: 3
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Makeevka - Donetsk Oblast
   country: Makeevka - Donetsk Oblast

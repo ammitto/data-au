@@ -27,7 +27,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1977-04-03'
   year: 1977
-  precision: year
+  month: 4
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Essaouria
   country: Essaouria

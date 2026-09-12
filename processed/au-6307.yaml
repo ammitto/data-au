@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-07-22'
   year: 1969
-  precision: year
+  month: 7
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Kozelsk
   country: Kozelsk

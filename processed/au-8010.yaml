@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1983-07-18'
   year: 1983
-  precision: year
+  month: 7
+  day: 18
+  precision: full
 places_of_birth:
 - raw_value: Lesozavodsk
   country: Lesozavodsk

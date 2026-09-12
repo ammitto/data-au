@@ -26,6 +26,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1953-03-10'
   year: 1953
-  precision: year
+  month: 3
+  day: 10
+  precision: full
 citizenships:
 - Zimbabwe

@@ -51,6 +51,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-03-06'
   year: 1973
-  precision: year
+  month: 3
+  day: 6
+  precision: full
 citizenships:
 - Kuwait

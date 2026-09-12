@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1982-09-06'
   year: 1982
-  precision: year
+  month: 9
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Byarozawka
   country: Byarozawka

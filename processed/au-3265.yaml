@@ -56,7 +56,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-01-05'
   year: 1972
-  precision: year
+  month: 1
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Sumedang
   country: Sumedang

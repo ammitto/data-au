@@ -30,7 +30,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1994-05-11'
   year: 1994
-  precision: year
+  month: 5
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Glasgow
   country: Glasgow

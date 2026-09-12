@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-04-05'
   year: 1970
-  precision: year
+  month: 4
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Rybinsk district
   country: Rybinsk district

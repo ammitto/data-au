@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1978-07-14'
   year: 1978
-  precision: year
+  month: 7
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Nizhnevartovsk
   country: Nizhnevartovsk

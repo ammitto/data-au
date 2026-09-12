@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1951-09-24'
   year: 1951
-  precision: year
+  month: 9
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Russia
   country: Russia

@@ -44,7 +44,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1959-12-05'
   year: 1959
-  precision: year
+  month: 12
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Osh
   country: Osh

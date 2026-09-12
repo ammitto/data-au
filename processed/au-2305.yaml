@@ -51,7 +51,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1950-01-01'
   year: 1950
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Hama
   country: Hama

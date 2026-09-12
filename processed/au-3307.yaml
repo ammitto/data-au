@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-07-05'
   year: 1962
-  precision: year
+  month: 7
+  day: 5
+  precision: full
 citizenships:
 - France
 - Syria

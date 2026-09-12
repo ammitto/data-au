@@ -89,22 +89,34 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-09-28'
   year: 1973
-  precision: year
+  month: 9
+  day: 28
+  precision: full
 - raw_value: '1973-08-22'
   year: 1973
-  precision: year
+  month: 8
+  day: 22
+  precision: full
 - raw_value: '1979-12-31'
   year: 1979
-  precision: year
+  month: 12
+  day: 31
+  precision: full
 - raw_value: '1973-09-26'
   year: 1973
-  precision: year
+  month: 9
+  day: 26
+  precision: full
 - raw_value: '1973-08-26'
   year: 1973
-  precision: year
+  month: 8
+  day: 26
+  precision: full
 - raw_value: '1982-06-10'
   year: 1982
-  precision: year
+  month: 6
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Tiaret
   country: Tiaret

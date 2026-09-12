@@ -42,7 +42,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-12-04'
   year: 1964
-  precision: year
+  month: 12
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Tabarka
   country: Tabarka

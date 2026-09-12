@@ -20,6 +20,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-09-03'
   year: 1969
-  precision: year
+  month: 9
+  day: 3
+  precision: full
 citizenships:
 - Russia

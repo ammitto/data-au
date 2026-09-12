@@ -60,22 +60,29 @@ dates_of_birth:
   precision: year
 - raw_value: 18/09/1964
   year: 1964
-  precision: year
+  month: 9
+  day: 18
+  precision: full
 - raw_value: '1965'
   year: 1965
   precision: year
 - raw_value: '08/1961'
   year: 1961
-  precision: year
+  month: 8
+  precision: month
 - raw_value: 07/1961
   year: 1961
-  precision: year
+  month: 7
+  precision: month
 - raw_value: 1/01/1961
   year: 1961
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 - raw_value: 04/1963
   year: 1963
-  precision: year
+  month: 4
+  precision: month
 places_of_birth:
 - raw_value: a) Palaro Village
   country: a) Palaro Village

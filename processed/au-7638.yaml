@@ -48,7 +48,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1980-03-18'
   year: 1980
-  precision: year
+  month: 3
+  day: 18
+  precision: full
 places_of_birth:
 - raw_value: a) Mikhailovka
   country: a) Mikhailovka

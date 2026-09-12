@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1966-04-18'
   year: 1966
-  precision: year
+  month: 4
+  day: 18
+  precision: full
 places_of_birth:
 - raw_value: Beni-Suef
   country: Beni-Suef

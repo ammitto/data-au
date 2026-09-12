@@ -37,7 +37,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-11-10'
   year: 1972
-  precision: year
+  month: 11
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Democratic Republic of the Congo
   country: Democratic Republic of the Congo

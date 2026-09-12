@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1981-04-27'
   year: 1981
-  precision: year
+  month: 4
+  day: 27
+  precision: full
 places_of_birth:
 - raw_value: Rassukha village
   country: Rassukha village

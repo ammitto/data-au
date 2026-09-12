@@ -50,7 +50,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1979-04-10'
   year: 1979
-  precision: year
+  month: 4
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Garissa
   country: Garissa

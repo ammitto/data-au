@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1968-04-18'
   year: 1968
-  precision: year
+  month: 4
+  day: 18
+  precision: full
 places_of_birth:
 - raw_value: Minsk
   country: Minsk

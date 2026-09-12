@@ -26,7 +26,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1977-02-21'
   year: 1977
-  precision: year
+  month: 2
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: Omsk
   country: Omsk

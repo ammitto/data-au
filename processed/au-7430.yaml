@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1979-10-14'
   year: 1979
-  precision: year
+  month: 10
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Ukhta
   country: Ukhta

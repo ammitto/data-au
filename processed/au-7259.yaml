@@ -34,9 +34,13 @@ sanction:
 dates_of_birth:
 - raw_value: 27/09/1959
   year: 1959
-  precision: year
+  month: 9
+  day: 27
+  precision: full
 - raw_value: 29/09/1959
   year: 1959
-  precision: year
+  month: 9
+  day: 29
+  precision: full
 citizenships:
 - Ukraine

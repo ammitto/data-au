@@ -36,7 +36,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-03-04'
   year: 1962
-  precision: year
+  month: 3
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Uglegorsky
   country: Uglegorsky

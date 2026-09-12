@@ -23,7 +23,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-01-27'
   year: 1954
-  precision: year
+  month: 1
+  day: 27
+  precision: full
 places_of_birth:
 - raw_value: Sasovo
   country: Sasovo

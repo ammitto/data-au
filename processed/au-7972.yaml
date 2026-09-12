@@ -27,6 +27,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1994-11-23'
   year: 1994
-  precision: year
+  month: 11
+  day: 23
+  precision: full
 citizenships:
 - Israel

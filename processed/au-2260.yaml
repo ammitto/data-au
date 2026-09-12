@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1961-03-01'
   year: 1961
-  precision: year
+  month: 3
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Latakia
   country: Latakia

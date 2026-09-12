@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-06-26'
   year: 1967
-  precision: year
+  month: 6
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Qatif-Bab al Shamal
   country: Qatif-Bab al Shamal

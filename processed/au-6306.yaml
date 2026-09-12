@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1959-05-25'
   year: 1959
-  precision: year
+  month: 5
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Leninogorsk
   country: Leninogorsk

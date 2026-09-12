@@ -31,7 +31,9 @@ dates_of_birth:
   precision: year
 - raw_value: 9/09/1966
   year: 1966
-  precision: year
+  month: 9
+  day: 9
+  precision: full
 - raw_value: 1960 9/09/1966
   year: 1960
   precision: year

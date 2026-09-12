@@ -35,13 +35,17 @@ sanction:
 dates_of_birth:
 - raw_value: 01/09/1972
   year: 1972
-  precision: year
+  month: 9
+  day: 1
+  precision: full
 - raw_value: '1975'
   year: 1975
   precision: year
 - raw_value: 16/03/1972
   year: 1972
-  precision: year
+  month: 3
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: a) Ngungu
   country: a) Ngungu

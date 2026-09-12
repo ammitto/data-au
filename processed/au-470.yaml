@@ -47,13 +47,19 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-01-15'
   year: 1973
-  precision: year
+  month: 1
+  day: 15
+  precision: full
 - raw_value: '1974-01-15'
   year: 1974
-  precision: year
+  month: 1
+  day: 15
+  precision: full
 - raw_value: '1975-03-31'
   year: 1975
-  precision: year
+  month: 3
+  day: 31
+  precision: full
 places_of_birth:
 - raw_value: Tunis
   country: Tunis

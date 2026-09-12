@@ -68,7 +68,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1938-12-10'
   year: 1938
-  precision: year
+  month: 12
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Dara’a
   country: Dara’a

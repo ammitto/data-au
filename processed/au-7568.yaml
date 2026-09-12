@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1955-05-30'
   year: 1955
-  precision: year
+  month: 5
+  day: 30
+  precision: full
 places_of_birth:
 - raw_value: Vitebsk
   country: Vitebsk

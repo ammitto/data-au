@@ -30,7 +30,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-05-14'
   year: 1963
-  precision: year
+  month: 5
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: a) Butera
   country: a) Butera

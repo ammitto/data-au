@@ -23,7 +23,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-08-11'
   year: 1964
-  precision: year
+  month: 8
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Makassar
   country: Makassar

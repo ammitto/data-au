@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-11-03'
   year: 1954
-  precision: year
+  month: 11
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Novogorodka
   country: Novogorodka

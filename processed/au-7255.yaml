@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-01-18'
   year: 1954
-  precision: year
+  month: 1
+  day: 18
+  precision: full
 places_of_birth:
 - raw_value: Tashkent
   country: Tashkent

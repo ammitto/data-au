@@ -28,13 +28,19 @@ sanction:
 dates_of_birth:
 - raw_value: 21/06/1958
   year: 1958
-  precision: year
+  month: 6
+  day: 21
+  precision: full
 - raw_value: 26/06/1958
   year: 1958
-  precision: year
+  month: 6
+  day: 26
+  precision: full
 - raw_value: 28/06/1958
   year: 1958
-  precision: year
+  month: 6
+  day: 28
+  precision: full
 places_of_birth:
 - raw_value: Nyaksimvol
   country: Nyaksimvol

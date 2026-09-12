@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1975-11-10'
   year: 1975
-  precision: year
+  month: 11
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Tbilisi
   country: Tbilisi

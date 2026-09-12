@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1974-01-06'
   year: 1974
-  precision: year
+  month: 1
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Bereznyaki
   country: Bereznyaki

@@ -53,10 +53,14 @@ sanction:
 dates_of_birth:
 - raw_value: 8/10/1970
   year: 1970
-  precision: year
+  month: 10
+  day: 8
+  precision: full
 - raw_value: 1/01/1970
   year: 1970
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Jordan
   country: Jordan

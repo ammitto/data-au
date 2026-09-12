@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1977-02-06'
   year: 1977
-  precision: year
+  month: 2
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Poltava
   country: Poltava

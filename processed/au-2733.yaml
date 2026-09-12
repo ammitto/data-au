@@ -42,7 +42,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-11-09'
   year: 1963
-  precision: year
+  month: 11
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Former German Democratic Republic (DDR)
   country: Former German Democratic Republic (DDR)

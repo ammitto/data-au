@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1985-03-04'
   year: 1985
-  precision: year
+  month: 3
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Jakarta
   country: Jakarta

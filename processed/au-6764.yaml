@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1975-04-12'
   year: 1975
-  precision: year
+  month: 4
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Kyiv
   country: Kyiv

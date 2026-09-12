@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-03-20'
   year: 1964
-  precision: year
+  month: 3
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Sayranovo
   country: Sayranovo

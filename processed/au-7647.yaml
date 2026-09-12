@@ -36,10 +36,14 @@ sanction:
 dates_of_birth:
 - raw_value: 20/05/1972
   year: 1972
-  precision: year
+  month: 5
+  day: 20
+  precision: full
 - raw_value: 30/05/1972
   year: 1972
-  precision: year
+  month: 5
+  day: 30
+  precision: full
 places_of_birth:
 - raw_value: Luhansk
   country: Luhansk

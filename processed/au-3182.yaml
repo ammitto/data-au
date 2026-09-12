@@ -49,7 +49,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1977-05-03'
   year: 1977
-  precision: year
+  month: 5
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Nuseirat Refugee Camp
   country: Nuseirat Refugee Camp

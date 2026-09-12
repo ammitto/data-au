@@ -35,13 +35,19 @@ sanction:
 dates_of_birth:
 - raw_value: 3/03/1965
   year: 1965
-  precision: year
+  month: 3
+  day: 3
+  precision: full
 - raw_value: 1/01/1965
   year: 1965
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 - raw_value: 11/01/1965
   year: 1965
-  precision: year
+  month: 1
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Tuburan
   country: Tuburan

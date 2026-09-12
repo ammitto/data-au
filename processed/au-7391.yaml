@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-10-14'
   year: 1969
-  precision: year
+  month: 10
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Barnaul
   country: Barnaul

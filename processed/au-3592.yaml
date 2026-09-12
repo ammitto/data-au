@@ -76,7 +76,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1978-10-11'
   year: 1978
-  precision: year
+  month: 10
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Indonesia
   country: Indonesia

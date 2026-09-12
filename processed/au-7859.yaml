@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1977-08-15'
   year: 1977
-  precision: year
+  month: 8
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Russia
   country: Russia

@@ -67,7 +67,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1979-05-27'
   year: 1979
-  precision: year
+  month: 5
+  day: 27
+  precision: full
 places_of_birth:
 - raw_value: Saudi Arabia
   country: Saudi Arabia

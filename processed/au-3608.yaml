@@ -27,7 +27,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1989-05-09'
   year: 1989
-  precision: year
+  month: 5
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Jeddah
   country: Jeddah

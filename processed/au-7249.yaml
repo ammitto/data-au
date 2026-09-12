@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1968-12-01'
   year: 1968
-  precision: year
+  month: 12
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Gay
   country: Gay

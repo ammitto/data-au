@@ -19,7 +19,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1957-12-15'
   year: 1957
-  precision: year
+  month: 12
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Leninskoye village
   country: Leninskoye village

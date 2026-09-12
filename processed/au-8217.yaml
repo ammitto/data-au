@@ -33,7 +33,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1955-01-20'
   year: 1955
-  precision: year
+  month: 1
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Encheia
   country: Encheia

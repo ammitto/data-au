@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1982-07-26'
   year: 1982
-  precision: year
+  month: 7
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Moscow
   country: Moscow

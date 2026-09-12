@@ -36,10 +36,14 @@ sanction:
 dates_of_birth:
 - raw_value: 10/05/1980
   year: 1980
-  precision: year
+  month: 5
+  day: 10
+  precision: full
 - raw_value: 21/10/1983
   year: 1983
-  precision: year
+  month: 10
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: Snezhnoye
   country: Snezhnoye

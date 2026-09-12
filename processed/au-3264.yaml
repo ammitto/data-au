@@ -61,7 +61,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-01-15'
   year: 1970
-  precision: year
+  month: 1
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Grozny
   country: Grozny

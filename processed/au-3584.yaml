@@ -43,7 +43,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1988-11-15'
   year: 1988
-  precision: year
+  month: 11
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Zawiya
   country: Zawiya

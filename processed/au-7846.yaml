@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1955-10-21'
   year: 1955
-  precision: year
+  month: 10
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: Yazvo
   country: Yazvo

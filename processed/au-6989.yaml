@@ -21,6 +21,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1947-06-03'
   year: 1947
-  precision: year
+  month: 6
+  day: 3
+  precision: full
 citizenships:
 - Russia

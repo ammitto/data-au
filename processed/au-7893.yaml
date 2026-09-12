@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1966-05-07'
   year: 1966
-  precision: year
+  month: 5
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Baku
   country: Baku

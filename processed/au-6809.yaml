@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-08-06'
   year: 1969
-  precision: year
+  month: 8
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Gorki
   country: Gorki

@@ -21,6 +21,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1958-11-23'
   year: 1958
-  precision: year
+  month: 11
+  day: 23
+  precision: full
 citizenships:
 - Moldova

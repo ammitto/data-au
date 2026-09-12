@@ -40,7 +40,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1986-02-22'
   year: 1986
-  precision: year
+  month: 2
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Mount Hope
   country: Mount Hope

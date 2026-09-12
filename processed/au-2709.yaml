@@ -26,7 +26,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1958-01-05'
   year: 1958
-  precision: year
+  month: 1
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Abakan
   country: Abakan

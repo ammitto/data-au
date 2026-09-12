@@ -57,7 +57,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1959-09-24'
   year: 1959
-  precision: year
+  month: 9
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Al-Khitan area
   country: Al-Khitan area

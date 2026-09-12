@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1988-02-20'
   year: 1988
-  precision: year
+  month: 2
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Luhansk
   country: Luhansk

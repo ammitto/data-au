@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-06-20'
   year: 1963
-  precision: year
+  month: 6
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Severodvinsk
   country: Severodvinsk

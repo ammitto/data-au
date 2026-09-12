@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-09-29'
   year: 1969
-  precision: year
+  month: 9
+  day: 29
+  precision: full
 places_of_birth:
 - raw_value: Ventspils
   country: Ventspils

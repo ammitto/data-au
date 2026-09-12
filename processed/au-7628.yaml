@@ -40,10 +40,14 @@ sanction:
 dates_of_birth:
 - raw_value: 29/09/1982
   year: 1982
-  precision: year
+  month: 9
+  day: 29
+  precision: full
 - raw_value: 23/09/1982
   year: 1982
-  precision: year
+  month: 9
+  day: 23
+  precision: full
 places_of_birth:
 - raw_value: Kyiv
   country: Kyiv

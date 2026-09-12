@@ -58,10 +58,14 @@ sanction:
 dates_of_birth:
 - raw_value: 30/12/1960
   year: 1960
-  precision: year
+  month: 12
+  day: 30
+  precision: full
 - raw_value: 13/12/1960
   year: 1960
-  precision: year
+  month: 12
+  day: 13
+  precision: full
 places_of_birth:
 - raw_value: Bethlehem
   country: Bethlehem

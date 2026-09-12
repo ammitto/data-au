@@ -20,6 +20,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-03-25'
   year: 1969
-  precision: year
+  month: 3
+  day: 25
+  precision: full
 citizenships:
 - Syria

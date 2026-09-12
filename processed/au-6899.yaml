@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-11-30'
   year: 1960
-  precision: year
+  month: 11
+  day: 30
+  precision: full
 places_of_birth:
 - raw_value: St Petersburg
   country: St Petersburg

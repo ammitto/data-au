@@ -48,6 +48,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1947-08-14'
   year: 1947
-  precision: year
+  month: 8
+  day: 14
+  precision: full
 citizenships:
 - Myanmar

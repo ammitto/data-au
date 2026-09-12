@@ -31,10 +31,14 @@ sanction:
 dates_of_birth:
 - raw_value: 25/04/1957
   year: 1957
-  precision: year
+  month: 4
+  day: 25
+  precision: full
 - raw_value: 25/04/1967
   year: 1967
-  precision: year
+  month: 4
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Indonesia
   country: Indonesia

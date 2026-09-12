@@ -27,7 +27,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-09-28'
   year: 1960
-  precision: year
+  month: 9
+  day: 28
+  precision: full
 places_of_birth:
 - raw_value: Damghan
   country: Damghan

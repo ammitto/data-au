@@ -52,7 +52,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1953-10-04'
   year: 1953
-  precision: year
+  month: 10
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Masjid al-Qadesia
   country: Masjid al-Qadesia

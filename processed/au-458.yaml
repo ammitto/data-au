@@ -35,10 +35,14 @@ sanction:
 dates_of_birth:
 - raw_value: '09/01/1951'
   year: 1951
-  precision: year
+  month: 1
+  day: 9
+  precision: full
 - raw_value: '09/02/1951'
   year: 1951
-  precision: year
+  month: 2
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Rafah
   country: Rafah

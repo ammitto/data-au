@@ -43,7 +43,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1938-08-17'
   year: 1938
-  precision: year
+  month: 8
+  day: 17
+  precision: full
 places_of_birth:
 - raw_value: Jombang
   country: Jombang

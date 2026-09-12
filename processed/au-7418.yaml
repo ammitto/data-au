@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1965-09-12'
   year: 1965
-  precision: year
+  month: 9
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Orekhovo-Zuevo
   country: Orekhovo-Zuevo

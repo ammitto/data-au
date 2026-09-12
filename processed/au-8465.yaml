@@ -22,4 +22,6 @@ sanction:
 dates_of_birth:
 - raw_value: '1956-08-11'
   year: 1956
-  precision: year
+  month: 8
+  day: 11
+  precision: full

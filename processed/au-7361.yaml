@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1974-10-08'
   year: 1974
-  precision: year
+  month: 10
+  day: 8
+  precision: full
 places_of_birth:
 - raw_value: Arkhangelka village
   country: Arkhangelka village

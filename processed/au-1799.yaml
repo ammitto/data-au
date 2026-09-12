@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-01-19'
   year: 1962
-  precision: year
+  month: 1
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Marićka
   country: Marićka

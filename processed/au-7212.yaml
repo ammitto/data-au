@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-07-25'
   year: 1962
-  precision: year
+  month: 7
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Bishkek
   country: Bishkek

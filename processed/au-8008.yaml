@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1968-10-13'
   year: 1968
-  precision: year
+  month: 10
+  day: 13
+  precision: full
 places_of_birth:
 - raw_value: Saryozek
   country: Saryozek

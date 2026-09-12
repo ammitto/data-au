@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-06-24'
   year: 1973
-  precision: year
+  month: 6
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Cherepovets
   country: Cherepovets

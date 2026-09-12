@@ -39,7 +39,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1974-07-15'
   year: 1974
-  precision: year
+  month: 7
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: kharkiv
   country: kharkiv

@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1985-07-13'
   year: 1985
-  precision: year
+  month: 7
+  day: 13
+  precision: full
 places_of_birth:
 - raw_value: Saqra
   country: Saqra

@@ -45,7 +45,9 @@ dates_of_birth:
   precision: year
 - raw_value: 30/01/1972
   year: 1972
-  precision: year
+  month: 1
+  day: 30
+  precision: full
 places_of_birth:
 - raw_value: Nahrin District
   country: Nahrin District

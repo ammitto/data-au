@@ -35,10 +35,14 @@ sanction:
 dates_of_birth:
 - raw_value: 22/09/1988
   year: 1988
-  precision: year
+  month: 9
+  day: 22
+  precision: full
 - raw_value: 22/09/1989
   year: 1989
-  precision: year
+  month: 9
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Alexandria
   country: Alexandria

@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-06-11'
   year: 1970
-  precision: year
+  month: 6
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Asbest
   country: Asbest

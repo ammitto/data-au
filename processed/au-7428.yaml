@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1983-03-29'
   year: 1983
-  precision: year
+  month: 3
+  day: 29
+  precision: full
 places_of_birth:
 - raw_value: Svobodny-18
   country: Svobodny-18

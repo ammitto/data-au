@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1983-08-22'
   year: 1983
-  precision: year
+  month: 8
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Belgorod
   country: Belgorod

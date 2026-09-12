@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-03-14'
   year: 1967
-  precision: year
+  month: 3
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Budennovsk
   country: Budennovsk

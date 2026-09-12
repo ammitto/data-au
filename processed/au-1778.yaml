@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-06-30'
   year: 1954
-  precision: year
+  month: 6
+  day: 30
+  precision: full
 places_of_birth:
 - raw_value: Ponor
   country: Ponor

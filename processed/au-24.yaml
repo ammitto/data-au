@@ -46,7 +46,9 @@ dates_of_birth:
   precision: year
 - raw_value: 29/09/1963
   year: 1963
-  precision: year
+  month: 9
+  day: 29
+  precision: full
 places_of_birth:
 - raw_value: Yatimak village
   country: Yatimak village

@@ -46,7 +46,9 @@ dates_of_birth:
   precision: year
 - raw_value: 04/06/1969
   year: 1969
-  precision: year
+  month: 6
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Poti village
   country: Poti village

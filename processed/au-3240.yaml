@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1945-05-10'
   year: 1945
-  precision: year
+  month: 5
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Musan
   country: Musan

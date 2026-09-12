@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-07-02'
   year: 1967
-  precision: year
+  month: 7
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Ivanovo
   country: Ivanovo

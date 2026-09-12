@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-06-17'
   year: 1973
-  precision: year
+  month: 6
+  day: 17
+  precision: full
 places_of_birth:
 - raw_value: Zheleznogorsk
   country: Zheleznogorsk

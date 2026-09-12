@@ -51,10 +51,14 @@ sanction:
 dates_of_birth:
 - raw_value: 15/10/1963
   year: 1963
-  precision: year
+  month: 10
+  day: 15
+  precision: full
 - raw_value: 14/02/1973
   year: 1973
-  precision: year
+  month: 2
+  day: 14
+  precision: full
 - raw_value: '1967'
   year: 1967
   precision: year

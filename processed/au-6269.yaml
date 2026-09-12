@@ -34,7 +34,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-07-04'
   year: 1967
-  precision: year
+  month: 7
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Rio Claro
   country: Rio Claro

@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-11-18'
   year: 1967
-  precision: year
+  month: 11
+  day: 18
+  precision: full
 places_of_birth:
 - raw_value: Donbas
   country: Donbas

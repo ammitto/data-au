@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-12-02'
   year: 1954
-  precision: year
+  month: 12
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Mar’yino
   country: Mar’yino

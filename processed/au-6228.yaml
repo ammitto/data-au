@@ -38,7 +38,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1983-05-25'
   year: 1983
-  precision: year
+  month: 5
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Taza
   country: Taza

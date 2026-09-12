@@ -36,10 +36,14 @@ sanction:
 dates_of_birth:
 - raw_value: '09/05/1982'
   year: 1982
-  precision: year
+  month: 5
+  day: 9
+  precision: full
 - raw_value: '09/05/1981'
   year: 1981
-  precision: year
+  month: 5
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Makiiva (Donetsk Oblast)
   country: Makiiva (Donetsk Oblast)

@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1953-05-28'
   year: 1953
-  precision: year
+  month: 5
+  day: 28
+  precision: full
 places_of_birth:
 - raw_value: Pushkin
   country: Pushkin

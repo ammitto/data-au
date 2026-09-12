@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-04-14'
   year: 1970
-  precision: year
+  month: 4
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Krasnoyarsk
   country: Krasnoyarsk

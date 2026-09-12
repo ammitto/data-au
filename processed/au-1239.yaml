@@ -45,10 +45,14 @@ dates_of_birth:
   precision: year
 - raw_value: 05/02/1974
   year: 1974
-  precision: year
+  month: 2
+  day: 5
+  precision: full
 - raw_value: 5/02/1974
   year: 1974
-  precision: year
+  month: 2
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Tripoli
   country: Tripoli

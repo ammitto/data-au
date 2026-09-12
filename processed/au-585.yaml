@@ -37,10 +37,14 @@ sanction:
 dates_of_birth:
 - raw_value: 7/07/1956
   year: 1956
-  precision: year
+  month: 7
+  day: 7
+  precision: full
 - raw_value: 17/06/1963
   year: 1963
-  precision: year
+  month: 6
+  day: 17
+  precision: full
 places_of_birth:
 - raw_value: Olazloo Sharbajer
   country: Olazloo Sharbajer

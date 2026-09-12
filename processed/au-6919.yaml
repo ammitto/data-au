@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1956-03-01'
   year: 1956
-  precision: year
+  month: 3
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Polazna
   country: Polazna

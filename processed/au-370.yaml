@@ -32,10 +32,14 @@ dates_of_birth:
   precision: year
 - raw_value: 21/03/1974
   year: 1974
-  precision: year
+  month: 3
+  day: 21
+  precision: full
 - raw_value: '1974-03-21'
   year: 1974
-  precision: year
+  month: 3
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: Baghdad
   country: Baghdad

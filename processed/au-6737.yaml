@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1978-11-24'
   year: 1978
-  precision: year
+  month: 11
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: St. Petersburg
   country: St. Petersburg

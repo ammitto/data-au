@@ -34,10 +34,14 @@ sanction:
 dates_of_birth:
 - raw_value: '1946-10-14'
   year: 1946
-  precision: year
+  month: 10
+  day: 14
+  precision: full
 - raw_value: '1948-12-16'
   year: 1948
-  precision: year
+  month: 12
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Mouila
   country: Mouila

@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1955-08-11'
   year: 1955
-  precision: year
+  month: 8
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Kaspiysk
   country: Kaspiysk

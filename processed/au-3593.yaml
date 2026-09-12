@@ -66,7 +66,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1966-06-03'
   year: 1966
-  precision: year
+  month: 6
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Negri Sembilan
   country: Negri Sembilan

@@ -39,7 +39,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1971-10-21'
   year: 1971
-  precision: year
+  month: 10
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: a) Baghdad
   country: a) Baghdad

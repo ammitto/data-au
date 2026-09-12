@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1976-11-03'
   year: 1976
-  precision: year
+  month: 11
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Simferopol
   country: Simferopol

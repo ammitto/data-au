@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1974-12-28'
   year: 1974
-  precision: year
+  month: 12
+  day: 28
+  precision: full
 places_of_birth:
 - raw_value: Bukino
   country: Bukino

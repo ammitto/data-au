@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1950-01-14'
   year: 1950
-  precision: year
+  month: 1
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Solenoye
   country: Solenoye

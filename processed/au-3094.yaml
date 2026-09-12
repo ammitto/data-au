@@ -60,7 +60,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1976-06-23'
   year: 1976
-  precision: year
+  month: 6
+  day: 23
+  precision: full
 places_of_birth:
 - raw_value: Central African Republic
   country: Central African Republic

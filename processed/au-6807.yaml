@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-06-09'
   year: 1973
-  precision: year
+  month: 6
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Pleshchenitsy
   country: Pleshchenitsy

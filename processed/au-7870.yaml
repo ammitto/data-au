@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-03-12'
   year: 1970
-  precision: year
+  month: 3
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Chutove
   country: Chutove

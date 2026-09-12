@@ -25,10 +25,14 @@ sanction:
 dates_of_birth:
 - raw_value: 07/02/1988
   year: 1988
-  precision: year
+  month: 2
+  day: 7
+  precision: full
 - raw_value: 17/02/1988
   year: 1988
-  precision: year
+  month: 2
+  day: 17
+  precision: full
 places_of_birth:
 - raw_value: Salekhard
   country: Salekhard

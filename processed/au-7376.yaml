@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1975-05-22'
   year: 1975
-  precision: year
+  month: 5
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Chernogorsk
   country: Chernogorsk

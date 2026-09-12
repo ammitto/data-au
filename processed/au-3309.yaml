@@ -20,6 +20,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-03-10'
   year: 1960
-  precision: year
+  month: 3
+  day: 10
+  precision: full
 citizenships:
 - Syria

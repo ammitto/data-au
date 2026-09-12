@@ -27,7 +27,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1946-01-01'
   year: 1946
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Al Ihsa
   country: Al Ihsa

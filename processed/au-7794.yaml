@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1971-09-16'
   year: 1971
-  precision: year
+  month: 9
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: North Korea
   country: North Korea

@@ -31,7 +31,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1984-08-15'
   year: 1984
-  precision: year
+  month: 8
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Democratic People's Republic of Korea
   country: Democratic People's Republic of Korea

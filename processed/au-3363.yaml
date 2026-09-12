@@ -27,7 +27,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1977-12-27'
   year: 1977
-  precision: year
+  month: 12
+  day: 27
+  precision: full
 places_of_birth:
 - raw_value: Tiraspol
   country: Tiraspol

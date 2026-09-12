@@ -31,7 +31,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1955-10-25'
   year: 1955
-  precision: year
+  month: 10
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Gaza
   country: Gaza

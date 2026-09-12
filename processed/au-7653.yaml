@@ -56,10 +56,14 @@ sanction:
 dates_of_birth:
 - raw_value: 23/06/1972
   year: 1972
-  precision: year
+  month: 6
+  day: 23
+  precision: full
 - raw_value: 23/07/1972
   year: 1972
-  precision: year
+  month: 7
+  day: 23
+  precision: full
 places_of_birth:
 - raw_value: Vinnytsia
   country: Vinnytsia

@@ -83,10 +83,14 @@ sanction:
 dates_of_birth:
 - raw_value: 16/11/1977
   year: 1977
-  precision: year
+  month: 11
+  day: 16
+  precision: full
 - raw_value: 16/11/1974
   year: 1974
-  precision: year
+  month: 11
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: a) Solo
   country: a) Solo

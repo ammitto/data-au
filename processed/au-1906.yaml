@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1957-03-14'
   year: 1957
-  precision: year
+  month: 3
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Popovići
   country: Popovići

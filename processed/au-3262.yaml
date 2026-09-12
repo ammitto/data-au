@@ -43,7 +43,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1983-09-06'
   year: 1983
-  precision: year
+  month: 9
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Surakarta
   country: Surakarta

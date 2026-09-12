@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1961-04-05'
   year: 1961
-  precision: year
+  month: 4
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Rujište
   country: Rujište

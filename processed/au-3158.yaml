@@ -37,6 +37,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-02-18'
   year: 1962
-  precision: year
+  month: 2
+  day: 18
+  precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

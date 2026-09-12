@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1957-11-19'
   year: 1957
-  precision: year
+  month: 11
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Asino
   country: Asino

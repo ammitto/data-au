@@ -61,7 +61,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-01-20'
   year: 1960
-  precision: year
+  month: 1
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Kuwait
   country: Kuwait

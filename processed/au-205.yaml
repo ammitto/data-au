@@ -44,13 +44,19 @@ sanction:
 dates_of_birth:
 - raw_value: 01/03/1964
   year: 1964
-  precision: year
+  month: 3
+  day: 1
+  precision: full
 - raw_value: 14/04/1964
   year: 1964
-  precision: year
+  month: 4
+  day: 14
+  precision: full
 - raw_value: 14/04/1965
   year: 1965
-  precision: year
+  month: 4
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Kuwait
   country: Kuwait

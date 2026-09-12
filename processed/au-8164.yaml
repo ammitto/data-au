@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1974-04-23'
   year: 1974
-  precision: year
+  month: 4
+  day: 23
+  precision: full
 places_of_birth:
 - raw_value: St Petersburg
   country: St Petersburg

@@ -36,7 +36,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-08-03'
   year: 1973
-  precision: year
+  month: 8
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Bizerta
   country: Bizerta

@@ -34,7 +34,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1975-11-20'
   year: 1975
-  precision: year
+  month: 11
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Sfax
   country: Sfax

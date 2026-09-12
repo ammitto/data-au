@@ -36,7 +36,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1950-12-15'
   year: 1950
-  precision: year
+  month: 12
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Vladivostok
   country: Vladivostok

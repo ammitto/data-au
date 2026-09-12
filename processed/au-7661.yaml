@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-08-22'
   year: 1960
-  precision: year
+  month: 8
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Alagir
   country: Alagir

@@ -27,7 +27,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1977-03-30'
   year: 1977
-  precision: year
+  month: 3
+  day: 30
+  precision: full
 places_of_birth:
 - raw_value: Port-au-Prince
   country: Port-au-Prince

@@ -72,7 +72,9 @@ sanction:
 dates_of_birth:
 - raw_value: 1/05/1972
   year: 1972
-  precision: year
+  month: 5
+  day: 1
+  precision: full
 - raw_value: 16/09/1973  
   year: 1973
   precision: year

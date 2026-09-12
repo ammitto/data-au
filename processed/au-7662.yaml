@@ -36,7 +36,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-03-27'
   year: 1963
-  precision: year
+  month: 3
+  day: 27
+  precision: full
 places_of_birth:
 - raw_value: Sevastopol
   country: Sevastopol

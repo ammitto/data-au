@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1984-09-01'
   year: 1984
-  precision: year
+  month: 9
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Akhtubinsk
   country: Akhtubinsk

@@ -31,13 +31,19 @@ sanction:
 dates_of_birth:
 - raw_value: 10/07/1965
   year: 1965
-  precision: year
+  month: 7
+  day: 10
+  precision: full
 - raw_value: 11/07/1965
   year: 1965
-  precision: year
+  month: 7
+  day: 11
+  precision: full
 - raw_value: 07/11/1965
   year: 1965
-  precision: year
+  month: 11
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: El Dibabiya
   country: El Dibabiya

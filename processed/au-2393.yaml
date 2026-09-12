@@ -30,6 +30,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1956-08-25'
   year: 1956
-  precision: year
+  month: 8
+  day: 25
+  precision: full
 citizenships:
 - Zimbabwe

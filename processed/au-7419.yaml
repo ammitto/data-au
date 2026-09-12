@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1961-09-21'
   year: 1961
-  precision: year
+  month: 9
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: Mariupol
   country: Mariupol

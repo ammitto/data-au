@@ -21,6 +21,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1966-11-06'
   year: 1966
-  precision: year
+  month: 11
+  day: 6
+  precision: full
 citizenships:
 - Ukraine

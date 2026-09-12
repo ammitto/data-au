@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1949-09-01'
   year: 1949
-  precision: year
+  month: 9
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Kazachya Sloboda village
   country: Kazachya Sloboda village

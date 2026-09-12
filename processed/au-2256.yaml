@@ -47,7 +47,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1951-05-20'
   year: 1951
-  precision: year
+  month: 5
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Damascus
   country: Damascus

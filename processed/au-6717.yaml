@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-04-02'
   year: 1962
-  precision: year
+  month: 4
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Moscow
   country: Moscow

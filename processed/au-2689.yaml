@@ -38,10 +38,14 @@ sanction:
 dates_of_birth:
 - raw_value: 19/03/1967
   year: 1967
-  precision: year
+  month: 3
+  day: 19
+  precision: full
 - raw_value: 19/11/1956
   year: 1956
-  precision: year
+  month: 11
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Vladimirovka (a.k.a. Vladimirovca)
   country: Vladimirovka (a.k.a. Vladimirovca)

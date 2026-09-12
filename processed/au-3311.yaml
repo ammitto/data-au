@@ -36,6 +36,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1944-02-07'
   year: 1944
-  precision: year
+  month: 2
+  day: 7
+  precision: full
 citizenships:
 - Syria

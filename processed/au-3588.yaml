@@ -27,7 +27,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-01-01'
   year: 1960
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Yei
   country: Yei

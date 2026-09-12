@@ -73,25 +73,39 @@ sanction:
 dates_of_birth:
 - raw_value: 4/04/1969
   year: 1969
-  precision: year
+  month: 4
+  day: 4
+  precision: full
 - raw_value: 4/04/1960
   year: 1960
-  precision: year
+  month: 4
+  day: 4
+  precision: full
 - raw_value: 4/06/1960
   year: 1960
-  precision: year
+  month: 6
+  day: 4
+  precision: full
 - raw_value: '1968-01-14'
   year: 1968
-  precision: year
+  month: 1
+  day: 14
+  precision: full
 - raw_value: '1960-06-04'
   year: 1960
-  precision: year
+  month: 6
+  day: 4
+  precision: full
 - raw_value: '1960-08-11'
   year: 1960
-  precision: year
+  month: 8
+  day: 11
+  precision: full
 - raw_value: '1960-11-13'
   year: 1960
-  precision: year
+  month: 11
+  day: 13
+  precision: full
 places_of_birth:
 - raw_value: Bengasi
   country: Bengasi

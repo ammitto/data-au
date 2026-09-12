@@ -51,10 +51,14 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-02-05'
   year: 1970
-  precision: year
+  month: 2
+  day: 5
+  precision: full
 - raw_value: '1969-02-05'
   year: 1969
-  precision: year
+  month: 2
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Tunis
   country: Tunis

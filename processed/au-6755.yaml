@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-01-04'
   year: 1967
-  precision: year
+  month: 1
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Bilibino
   country: Bilibino

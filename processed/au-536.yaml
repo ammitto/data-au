@@ -57,7 +57,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-08-16'
   year: 1960
-  precision: year
+  month: 8
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Kudus
   country: Kudus

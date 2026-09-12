@@ -36,7 +36,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1978-05-09'
   year: 1978
-  precision: year
+  month: 5
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Rouiba
   country: Rouiba

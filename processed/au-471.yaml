@@ -49,10 +49,14 @@ sanction:
 dates_of_birth:
 - raw_value: '1977-10-21'
   year: 1977
-  precision: year
+  month: 10
+  day: 21
+  precision: full
 - raw_value: '1977-11-21'
   year: 1977
-  precision: year
+  month: 11
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: Beja
   country: Beja

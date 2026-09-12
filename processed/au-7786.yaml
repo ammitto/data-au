@@ -41,6 +41,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-09-24'
   year: 1962
-  precision: year
+  month: 9
+  day: 24
+  precision: full
 citizenships:
 - Jordan

@@ -43,7 +43,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1952-11-09'
   year: 1952
-  precision: year
+  month: 11
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Leningrad (now St Petersburg); alt Armenia
   country: Leningrad (now St Petersburg); alt Armenia

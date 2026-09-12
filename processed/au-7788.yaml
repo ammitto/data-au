@@ -62,7 +62,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-10-03'
   year: 1964
-  precision: year
+  month: 10
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Aqbat Jabr
   country: Aqbat Jabr

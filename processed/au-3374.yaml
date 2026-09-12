@@ -23,7 +23,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-11-07'
   year: 1963
-  precision: year
+  month: 11
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Krasnodon
   country: Krasnodon

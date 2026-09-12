@@ -27,7 +27,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1957-01-03'
   year: 1957
-  precision: year
+  month: 1
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Leningrad (now St Petersburg)
   country: Leningrad (now St Petersburg)

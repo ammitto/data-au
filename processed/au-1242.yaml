@@ -33,7 +33,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1944-04-04'
   year: 1944
-  precision: year
+  month: 4
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Alrhaybat
   country: Alrhaybat

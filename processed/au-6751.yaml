@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1953-09-09'
   year: 1953
-  precision: year
+  month: 9
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Chust
   country: Chust

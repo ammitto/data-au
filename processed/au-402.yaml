@@ -53,16 +53,24 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-12-18'
   year: 1969
-  precision: year
+  month: 12
+  day: 18
+  precision: full
 - raw_value: '1968-05-25'
   year: 1968
-  precision: year
+  month: 5
+  day: 25
+  precision: full
 - raw_value: '1968-12-18'
   year: 1968
-  precision: year
+  month: 12
+  day: 18
+  precision: full
 - raw_value: '1969-07-14'
   year: 1969
-  precision: year
+  month: 7
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Asima-Tunis
   country: Asima-Tunis

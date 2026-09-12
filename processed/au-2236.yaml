@@ -43,7 +43,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1946-02-19'
   year: 1946
-  precision: year
+  month: 2
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Damascus
   country: Damascus

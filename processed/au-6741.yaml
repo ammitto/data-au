@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1952-08-20'
   year: 1952
-  precision: year
+  month: 8
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Irkutsk Oblast
   country: Irkutsk Oblast

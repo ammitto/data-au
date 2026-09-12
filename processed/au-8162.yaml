@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-01-05'
   year: 1964
-  precision: year
+  month: 1
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Khabarovsk
   country: Khabarovsk

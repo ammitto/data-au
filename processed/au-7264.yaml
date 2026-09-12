@@ -33,7 +33,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1976-12-01'
   year: 1976
-  precision: year
+  month: 12
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Zaporizhzhia
   country: Zaporizhzhia

@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1983-12-13'
   year: 1983
-  precision: year
+  month: 12
+  day: 13
+  precision: full
 places_of_birth:
 - raw_value: London
   country: London

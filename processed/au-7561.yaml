@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1976-12-22'
   year: 1976
-  precision: year
+  month: 12
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Dobele
   country: Dobele

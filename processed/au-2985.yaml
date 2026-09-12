@@ -52,7 +52,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-12-18'
   year: 1972
-  precision: year
+  month: 12
+  day: 18
+  precision: full
 places_of_birth:
 - raw_value: Donetsk
   country: Donetsk

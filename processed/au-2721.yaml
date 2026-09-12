@@ -46,7 +46,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1965-05-02'
   year: 1965
-  precision: year
+  month: 5
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Sloviansk (Donetsk oblast)
   country: Sloviansk (Donetsk oblast)

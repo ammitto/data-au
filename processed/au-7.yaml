@@ -41,7 +41,9 @@ dates_of_birth:
   precision: year
 - raw_value: 12/11/1967
   year: 1967
-  precision: year
+  month: 11
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: a) Zurmat District
   country: a) Zurmat District

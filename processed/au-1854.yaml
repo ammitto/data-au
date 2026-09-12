@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1947-12-06'
   year: 1947
-  precision: year
+  month: 12
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Štović
   country: Štović

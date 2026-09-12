@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-11-26'
   year: 1970
-  precision: year
+  month: 11
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Belarus
   country: Belarus

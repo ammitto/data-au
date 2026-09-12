@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1987-05-16'
   year: 1987
-  precision: year
+  month: 5
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Yekaterinburg
   country: Yekaterinburg

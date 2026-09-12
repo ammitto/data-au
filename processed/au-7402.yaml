@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1978-10-29'
   year: 1978
-  precision: year
+  month: 10
+  day: 29
+  precision: full
 places_of_birth:
 - raw_value: Severouralsk
   country: Severouralsk

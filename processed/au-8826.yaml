@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1978-08-06'
   year: 1978
-  precision: year
+  month: 8
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: NA
   country: NA

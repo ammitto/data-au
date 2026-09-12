@@ -29,10 +29,14 @@ sanction:
 dates_of_birth:
 - raw_value: 28/12/1965
   year: 1965
-  precision: year
+  month: 12
+  day: 28
+  precision: full
 - raw_value: 29/12/1965
   year: 1965
-  precision: year
+  month: 12
+  day: 29
+  precision: full
 places_of_birth:
 - raw_value: a) Bashali
   country: a) Bashali

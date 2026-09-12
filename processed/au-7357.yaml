@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1980-07-24'
   year: 1980
-  precision: year
+  month: 7
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Magdeburg
   country: Magdeburg

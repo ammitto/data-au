@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1948-11-16'
   year: 1948
-  precision: year
+  month: 11
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Kostroma Oblast
   country: Kostroma Oblast

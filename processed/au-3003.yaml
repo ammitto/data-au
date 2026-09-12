@@ -31,7 +31,9 @@ sanction:
 dates_of_birth:
 - raw_value: 07/04/1980
   year: 1980
-  precision: year
+  month: 4
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Simferopol
   country: Simferopol

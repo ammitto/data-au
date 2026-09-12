@@ -54,7 +54,9 @@ dates_of_birth:
   precision: year
 - raw_value: 24/10/1971
   year: 1971
-  precision: year
+  month: 10
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Uruzgan
   country: Uruzgan

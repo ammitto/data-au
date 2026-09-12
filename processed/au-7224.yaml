@@ -26,7 +26,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-03-23'
   year: 1964
-  precision: year
+  month: 3
+  day: 23
+  precision: full
 places_of_birth:
 - raw_value: Nizhny Tagil
   country: Nizhny Tagil

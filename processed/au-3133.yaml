@@ -42,7 +42,11 @@ sanction:
 dates_of_birth:
 - raw_value: 30/01/1968
   year: 1968
-  precision: year
+  month: 1
+  day: 30
+  precision: full
 - raw_value: 30/01/1969
   year: 1969
-  precision: year
+  month: 1
+  day: 30
+  precision: full

@@ -41,7 +41,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-02-07'
   year: 1960
-  precision: year
+  month: 2
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Donetsk
   country: Donetsk

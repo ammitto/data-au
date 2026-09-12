@@ -37,7 +37,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-03-12'
   year: 1964
-  precision: year
+  month: 3
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Romny
   country: Romny

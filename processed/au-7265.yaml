@@ -33,7 +33,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-05-09'
   year: 1962
-  precision: year
+  month: 5
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Novopetrivka
   country: Novopetrivka

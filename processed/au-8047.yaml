@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1956-01-03'
   year: 1956
-  precision: year
+  month: 1
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Starobelsk
   country: Starobelsk

@@ -44,7 +44,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1989-02-23'
   year: 1989
-  precision: year
+  month: 2
+  day: 23
+  precision: full
 places_of_birth:
 - raw_value: Uganda
   country: Uganda

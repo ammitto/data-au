@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1957-11-16'
   year: 1957
-  precision: year
+  month: 11
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Bolshie Klyuchi village
   country: Bolshie Klyuchi village

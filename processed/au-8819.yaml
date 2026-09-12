@@ -83,10 +83,14 @@ sanction:
 dates_of_birth:
 - raw_value: 06/04/1953
   year: 1953
-  precision: year
+  month: 4
+  day: 6
+  precision: full
 - raw_value: 03/01/1953
   year: 1953
-  precision: year
+  month: 1
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Khan Yunis
   country: Khan Yunis

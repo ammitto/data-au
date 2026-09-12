@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-01-20'
   year: 1972
-  precision: year
+  month: 1
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Kursk
   country: Kursk

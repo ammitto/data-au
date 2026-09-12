@@ -25,6 +25,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1947-04-26'
   year: 1947
-  precision: year
+  month: 4
+  day: 26
+  precision: full
 citizenships:
 - Guinea-Bissau

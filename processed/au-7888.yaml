@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1957-02-21'
   year: 1957
-  precision: year
+  month: 2
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: Lytkarino
   country: Lytkarino

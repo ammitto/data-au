@@ -21,6 +21,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-03-12'
   year: 1967
-  precision: year
+  month: 3
+  day: 12
+  precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

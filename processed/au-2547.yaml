@@ -42,16 +42,24 @@ sanction:
 dates_of_birth:
 - raw_value: 11/11/1960
   year: 1960
-  precision: year
+  month: 11
+  day: 11
+  precision: full
 - raw_value: 11/11/1967
   year: 1967
-  precision: year
+  month: 11
+  day: 11
+  precision: full
 - raw_value: 11/11/1969
   year: 1969
-  precision: year
+  month: 11
+  day: 11
+  precision: full
 - raw_value: 1/01/1969
   year: 1969
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Lamu Island
   country: Lamu Island

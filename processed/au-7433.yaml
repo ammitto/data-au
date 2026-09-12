@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-12-13'
   year: 1973
-  precision: year
+  month: 12
+  day: 13
+  precision: full
 places_of_birth:
 - raw_value: Nevonka village
   country: Nevonka village

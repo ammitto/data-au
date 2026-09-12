@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-10-27'
   year: 1964
-  precision: year
+  month: 10
+  day: 27
+  precision: full
 places_of_birth:
 - raw_value: Bilohirsk
   country: Bilohirsk

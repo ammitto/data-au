@@ -22,9 +22,13 @@ sanction:
 dates_of_birth:
 - raw_value: 19/12/1980
   year: 1980
-  precision: year
+  month: 12
+  day: 19
+  precision: full
 - raw_value: 19/01/1980
   year: 1980
-  precision: year
+  month: 1
+  day: 19
+  precision: full
 citizenships:
 - Iraq

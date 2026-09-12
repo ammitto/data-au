@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1957-02-22'
   year: 1957
-  precision: year
+  month: 2
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Shitkhala
   country: Shitkhala

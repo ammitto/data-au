@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1976-06-19'
   year: 1976
-  precision: year
+  month: 6
+  day: 19
+  precision: full
 citizenships:
 - Estonia
 - Russia

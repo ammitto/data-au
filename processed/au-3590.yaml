@@ -51,7 +51,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-02-16'
   year: 1973
-  precision: year
+  month: 2
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Laayoune
   country: Laayoune

@@ -20,9 +20,11 @@ sanction:
 dates_of_birth:
 - raw_value: 03/1965
   year: 1965
-  precision: year
+  month: 3
+  precision: month
 - raw_value: 04/1965
   year: 1965
-  precision: year
+  month: 4
+  precision: month
 citizenships:
 - Iran

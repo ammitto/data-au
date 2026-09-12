@@ -39,7 +39,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1981-07-30'
   year: 1981
-  precision: year
+  month: 7
+  day: 30
+  precision: full
 places_of_birth:
 - raw_value: Bonn
   country: Bonn

@@ -45,42 +45,55 @@ sanction:
 dates_of_birth:
 - raw_value: 03/1955
   year: 1955
-  precision: year
+  month: 3
+  precision: month
 - raw_value: 04/1955
   year: 1955
-  precision: year
+  month: 4
+  precision: month
 - raw_value: 05/1955
   year: 1955
-  precision: year
+  month: 5
+  precision: month
 - raw_value: 06/1955
   year: 1955
-  precision: year
+  month: 6
+  precision: month
 - raw_value: 07/1955
   year: 1955
-  precision: year
+  month: 7
+  precision: month
 - raw_value: '08/1955'
   year: 1955
-  precision: year
+  month: 8
+  precision: month
 - raw_value: '09/1955'
   year: 1955
-  precision: year
+  month: 9
+  precision: month
 - raw_value: 10/1955
   year: 1955
-  precision: year
+  month: 10
+  precision: month
 - raw_value: 11/1955
   year: 1955
-  precision: year
+  month: 11
+  precision: month
 - raw_value: 12/1955
   year: 1955
-  precision: year
+  month: 12
+  precision: month
 - raw_value: 01/1956
   year: 1956
-  precision: year
+  month: 1
+  precision: month
 - raw_value: 02/1956
   year: 1956
-  precision: year
+  month: 2
+  precision: month
 - raw_value: 03/1956
   year: 1956
-  precision: year
+  month: 3
+  precision: month
 citizenships:
 - Iran

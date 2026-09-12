@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1946-11-20'
   year: 1946
-  precision: year
+  month: 11
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Leningrad
   country: Leningrad

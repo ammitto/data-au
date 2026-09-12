@@ -18,6 +18,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1988-01-06'
   year: 1988
-  precision: year
+  month: 1
+  day: 6
+  precision: full
 citizenships:
 - Haiti

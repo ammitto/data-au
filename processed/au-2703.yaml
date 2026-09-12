@@ -36,7 +36,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-05-31'
   year: 1960
-  precision: year
+  month: 5
+  day: 31
+  precision: full
 places_of_birth:
 - raw_value: Zagorsk (Sergiev Posad)
   country: Zagorsk (Sergiev Posad)

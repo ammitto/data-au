@@ -108,16 +108,24 @@ sanction:
 dates_of_birth:
 - raw_value: 14/03/1974
   year: 1974
-  precision: year
+  month: 3
+  day: 14
+  precision: full
 - raw_value: 13/04/1974
   year: 1974
-  precision: year
+  month: 4
+  day: 13
+  precision: full
 - raw_value: 14/04/1974
   year: 1974
-  precision: year
+  month: 4
+  day: 14
+  precision: full
 - raw_value: 1/08/1970
   year: 1970
-  precision: year
+  month: 8
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Zanzibar
   country: Zanzibar

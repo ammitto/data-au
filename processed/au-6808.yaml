@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1968-04-02'
   year: 1968
-  precision: year
+  month: 4
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Kostyukovichi
   country: Kostyukovichi

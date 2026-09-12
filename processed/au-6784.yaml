@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1984-12-11'
   year: 1984
-  precision: year
+  month: 12
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Volzhsky
   country: Volzhsky

@@ -43,6 +43,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-06-12'
   year: 1972
-  precision: year
+  month: 6
+  day: 12
+  precision: full
 citizenships:
 - State of Palestine

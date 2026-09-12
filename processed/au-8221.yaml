@@ -26,6 +26,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1966-06-06'
   year: 1966
-  precision: year
+  month: 6
+  day: 6
+  precision: full
 citizenships:
 - Guinea-Bissau

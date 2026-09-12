@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1985-04-22'
   year: 1985
-  precision: year
+  month: 4
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Kherson
   country: Kherson

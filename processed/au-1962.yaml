@@ -29,6 +29,8 @@ dates_of_birth:
   precision: year
 - raw_value: 12/02/1956
   year: 1956
-  precision: year
+  month: 2
+  day: 12
+  precision: full
 citizenships:
 - Iran

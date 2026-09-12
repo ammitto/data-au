@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1929-08-23'
   year: 1929
-  precision: year
+  month: 8
+  day: 23
+  precision: full
 places_of_birth:
 - raw_value: Dyleevka
   country: Dyleevka

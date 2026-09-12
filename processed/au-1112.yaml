@@ -90,7 +90,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1971-10-10'
   year: 1971
-  precision: year
+  month: 10
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Hetian Area
   country: Hetian Area

@@ -76,7 +76,9 @@ dates_of_birth:
   precision: year
 - raw_value: 1/01/1964
   year: 1964
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Ntoke Village
   country: Ntoke Village

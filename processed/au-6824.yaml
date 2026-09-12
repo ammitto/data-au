@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-08-30'
   year: 1954
-  precision: year
+  month: 8
+  day: 30
+  precision: full
 places_of_birth:
 - raw_value: Kopys
   country: Kopys

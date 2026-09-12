@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-01-19'
   year: 1963
-  precision: year
+  month: 1
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Kirovograd
   country: Kirovograd

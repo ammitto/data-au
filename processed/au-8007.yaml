@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1959-02-04'
   year: 1959
-  precision: year
+  month: 2
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Kormovoe
   country: Kormovoe

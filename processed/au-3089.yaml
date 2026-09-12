@@ -42,7 +42,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1986-03-09'
   year: 1986
-  precision: year
+  month: 3
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Ariana
   country: Ariana

@@ -61,16 +61,24 @@ sanction:
 dates_of_birth:
 - raw_value: 28/05/1984
   year: 1984
-  precision: year
+  month: 5
+  day: 28
+  precision: full
 - raw_value: 3/12/1979
   year: 1979
-  precision: year
+  month: 12
+  day: 3
+  precision: full
 - raw_value: 3/03/1979
   year: 1979
-  precision: year
+  month: 3
+  day: 3
+  precision: full
 - raw_value: 8/8/1980
   year: 1980
-  precision: year
+  month: 8
+  day: 8
+  precision: full
 places_of_birth:
 - raw_value: East Lombok
   country: East Lombok

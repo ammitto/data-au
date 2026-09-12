@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-02-27'
   year: 1973
-  precision: year
+  month: 2
+  day: 27
+  precision: full
 places_of_birth:
 - raw_value: Ulyap
   country: Ulyap

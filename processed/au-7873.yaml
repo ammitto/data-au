@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1959-10-03'
   year: 1959
-  precision: year
+  month: 10
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: St Petersburg
   country: St Petersburg

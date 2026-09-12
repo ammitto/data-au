@@ -23,6 +23,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-04-04'
   year: 1960
-  precision: year
+  month: 4
+  day: 4
+  precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

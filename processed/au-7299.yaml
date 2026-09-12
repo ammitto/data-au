@@ -22,9 +22,13 @@ dates_of_birth:
   precision: year
 - raw_value: 25/03/1966
   year: 1966
-  precision: year
+  month: 3
+  day: 25
+  precision: full
 - raw_value: 26/03/1966
   year: 1966
-  precision: year
+  month: 3
+  day: 26
+  precision: full
 citizenships:
 - Russia

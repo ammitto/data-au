@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1979-07-16'
   year: 1979
-  precision: year
+  month: 7
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Slonim
   country: Slonim

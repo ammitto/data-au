@@ -33,7 +33,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1949-04-07'
   year: 1949
-  precision: year
+  month: 4
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Shepetovka
   country: Shepetovka

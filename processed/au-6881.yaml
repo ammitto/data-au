@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1951-12-25'
   year: 1951
-  precision: year
+  month: 12
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Savinskoye
   country: Savinskoye

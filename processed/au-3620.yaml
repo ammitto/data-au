@@ -35,10 +35,14 @@ sanction:
 dates_of_birth:
 - raw_value: 10/07/1968
   year: 1968
-  precision: year
+  month: 7
+  day: 10
+  precision: full
 - raw_value: 10/06/1968
   year: 1968
-  precision: year
+  month: 6
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Bahawalpur
   country: Bahawalpur

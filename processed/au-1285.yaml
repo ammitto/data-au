@@ -51,7 +51,9 @@ dates_of_birth:
   precision: year
 - raw_value: 25/06/1979
   year: 1979
-  precision: year
+  month: 6
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Maiwand District
   country: Maiwand District

@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1947-10-08'
   year: 1947
-  precision: year
+  month: 10
+  day: 8
+  precision: full
 places_of_birth:
 - raw_value: Cherepovets
   country: Cherepovets

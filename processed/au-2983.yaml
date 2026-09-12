@@ -35,13 +35,19 @@ sanction:
 dates_of_birth:
 - raw_value: 07/04/1979
   year: 1979
-  precision: year
+  month: 4
+  day: 7
+  precision: full
 - raw_value: 07/04/1980
   year: 1980
-  precision: year
+  month: 4
+  day: 7
+  precision: full
 - raw_value: 25/07/1978
   year: 1978
-  precision: year
+  month: 7
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Stakhanov
   country: Stakhanov

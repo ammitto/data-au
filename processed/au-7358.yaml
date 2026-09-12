@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1980-02-06'
   year: 1980
-  precision: year
+  month: 2
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Saint Petersburg
   country: Saint Petersburg

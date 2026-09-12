@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-05-25'
   year: 1964
-  precision: year
+  month: 5
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Engels
   country: Engels

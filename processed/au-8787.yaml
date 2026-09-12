@@ -19,7 +19,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-01-01'
   year: 1972
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Khartoum
   country: Khartoum

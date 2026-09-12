@@ -47,7 +47,9 @@ dates_of_birth:
   precision: year
 - raw_value: 20/09/1968
   year: 1968
-  precision: year
+  month: 9
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: a) Gharib village
   country: a) Gharib village

@@ -49,7 +49,9 @@ dates_of_birth:
   precision: year
 - raw_value: 25/12/1970
   year: 1970
-  precision: year
+  month: 12
+  day: 25
+  precision: full
 - raw_value: '1971'
   year: 1971
   precision: year

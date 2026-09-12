@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1984-10-25'
   year: 1984
-  precision: year
+  month: 10
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Penza
   country: Penza

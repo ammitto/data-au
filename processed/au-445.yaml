@@ -45,7 +45,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1966-07-07'
   year: 1966
-  precision: year
+  month: 7
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Lanao del Sur
   country: Lanao del Sur

@@ -31,7 +31,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1983-01-21'
   year: 1983
-  precision: year
+  month: 1
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: Debaltsevo
   country: Debaltsevo

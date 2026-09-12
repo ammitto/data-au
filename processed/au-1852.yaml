@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1948-02-15'
   year: 1948
-  precision: year
+  month: 2
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Vlasenica
   country: Vlasenica

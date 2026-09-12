@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1980-08-15'
   year: 1980
-  precision: year
+  month: 8
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Kuybyshev
   country: Kuybyshev

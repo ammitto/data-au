@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1941-04-27'
   year: 1941
-  precision: year
+  month: 4
+  day: 27
+  precision: full
 places_of_birth:
 - raw_value: Altstatten
   country: Altstatten

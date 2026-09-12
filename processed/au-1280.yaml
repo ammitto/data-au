@@ -40,10 +40,14 @@ sanction:
 dates_of_birth:
 - raw_value: 15/03/1955
   year: 1955
-  precision: year
+  month: 3
+  day: 15
+  precision: full
 - raw_value: 06/03/1955
   year: 1955
-  precision: year
+  month: 3
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Iran
   country: Iran

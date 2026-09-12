@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-09-10'
   year: 1970
-  precision: year
+  month: 9
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Ekaterinburg
   country: Ekaterinburg

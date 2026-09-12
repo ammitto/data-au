@@ -48,7 +48,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1980-10-29'
   year: 1980
-  precision: year
+  month: 10
+  day: 29
+  precision: full
 places_of_birth:
 - raw_value: Astrakhan
   country: Astrakhan

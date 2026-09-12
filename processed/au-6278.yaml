@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1951-05-21'
   year: 1951
-  precision: year
+  month: 5
+  day: 21
+  precision: full
 places_of_birth:
 - raw_value: Nikolayevsk-on-Amur
   country: Nikolayevsk-on-Amur

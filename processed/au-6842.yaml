@@ -19,7 +19,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-09-28'
   year: 1973
-  precision: year
+  month: 9
+  day: 28
+  precision: full
 places_of_birth:
 - raw_value: Vinnitsa
   country: Vinnitsa

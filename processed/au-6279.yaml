@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1960-06-06'
   year: 1960
-  precision: year
+  month: 6
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Siversky
   country: Siversky

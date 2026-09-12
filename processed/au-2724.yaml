@@ -37,16 +37,24 @@ sanction:
 dates_of_birth:
 - raw_value: 28/03/1953
   year: 1953
-  precision: year
+  month: 3
+  day: 28
+  precision: full
 - raw_value: 28/09/1953
   year: 1953
-  precision: year
+  month: 9
+  day: 28
+  precision: full
 - raw_value: 29/09/1953
   year: 1953
-  precision: year
+  month: 9
+  day: 29
+  precision: full
 - raw_value: 28/08/1953
   year: 1953
-  precision: year
+  month: 8
+  day: 28
+  precision: full
 places_of_birth:
 - raw_value: Simferopol
   country: Simferopol

@@ -35,10 +35,14 @@ sanction:
 dates_of_birth:
 - raw_value: 07/08/1957
   year: 1957
-  precision: year
+  month: 8
+  day: 7
+  precision: full
 - raw_value: '08/07/1957'
   year: 1957
-  precision: year
+  month: 7
+  day: 8
+  precision: full
 places_of_birth:
 - raw_value: Stalino city (now Donetsk)
   country: Stalino city (now Donetsk)

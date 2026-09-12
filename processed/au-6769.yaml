@@ -19,7 +19,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1957-04-14'
   year: 1957
-  precision: year
+  month: 4
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Drohobych
   country: Drohobych

@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1965-06-24'
   year: 1965
-  precision: year
+  month: 6
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Belogorsk Ukrainian SSR (now Ukraine)
   country: Belogorsk Ukrainian SSR (now Ukraine)

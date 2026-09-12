@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1951-05-02'
   year: 1951
-  precision: year
+  month: 5
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Bryansk
   country: Bryansk

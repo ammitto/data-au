@@ -42,10 +42,14 @@ sanction:
 dates_of_birth:
 - raw_value: 29/03/1965
   year: 1965
-  precision: year
+  month: 3
+  day: 29
+  precision: full
 - raw_value: 18/01/1970
   year: 1970
-  precision: year
+  month: 1
+  day: 18
+  precision: full
 places_of_birth:
 - raw_value: Artemivsk (2016 renamed back to Bakhmut)
   country: Artemivsk (2016 renamed back to Bakhmut)

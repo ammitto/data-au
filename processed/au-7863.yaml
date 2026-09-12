@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-12-14'
   year: 1972
-  precision: year
+  month: 12
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Krasnogorsk
   country: Krasnogorsk

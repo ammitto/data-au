@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1987-01-24'
   year: 1987
-  precision: year
+  month: 1
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Semipalatinsk
   country: Semipalatinsk

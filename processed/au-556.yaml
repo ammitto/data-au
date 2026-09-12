@@ -51,10 +51,14 @@ sanction:
 dates_of_birth:
 - raw_value: 18/03/1966
   year: 1966
-  precision: year
+  month: 3
+  day: 18
+  precision: full
 - raw_value: 10/03/1967
   year: 1967
-  precision: year
+  month: 3
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Bulanza
   country: Bulanza

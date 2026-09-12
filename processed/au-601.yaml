@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-01-01'
   year: 1967
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: El-Fasher
   country: El-Fasher

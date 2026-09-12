@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1975-10-11'
   year: 1975
-  precision: year
+  month: 10
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Kirkuk
   country: Kirkuk

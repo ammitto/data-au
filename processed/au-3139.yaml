@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1993-02-26'
   year: 1993
-  precision: year
+  month: 2
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Morocco
   country: Morocco

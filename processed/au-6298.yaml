@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-01-07'
   year: 1967
-  precision: year
+  month: 1
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Michurinsk
   country: Michurinsk

@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-07-26'
   year: 1962
-  precision: year
+  month: 7
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Sukhumi
   country: Sukhumi

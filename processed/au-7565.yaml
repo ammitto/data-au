@@ -29,6 +29,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-03-02'
   year: 1970
-  precision: year
+  month: 3
+  day: 2
+  precision: full
 citizenships:
 - Belarus

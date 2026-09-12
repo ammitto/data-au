@@ -69,7 +69,9 @@ sanction:
 dates_of_birth:
 - raw_value: 5/02/1981
   year: 1981
-  precision: year
+  month: 2
+  day: 5
+  precision: full
 - raw_value: 1/01/1972  
   year: 1972
   precision: year
@@ -78,6 +80,8 @@ dates_of_birth:
   precision: year
 - raw_value: 1/01/1972
   year: 1972
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 citizenships:
 - Afghanistan

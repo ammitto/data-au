@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1965-11-10'
   year: 1965
-  precision: year
+  month: 11
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Vinnitsa
   country: Vinnitsa

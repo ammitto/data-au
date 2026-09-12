@@ -74,7 +74,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-06-01'
   year: 1972
-  precision: year
+  month: 6
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Ghardaia
   country: Ghardaia

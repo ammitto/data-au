@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1983-12-16'
   year: 1983
-  precision: year
+  month: 12
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Izhevsk
   country: Izhevsk

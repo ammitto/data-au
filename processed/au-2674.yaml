@@ -54,10 +54,14 @@ dates_of_birth:
   precision: year
 - raw_value: 1/01/1970
   year: 1970
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 - raw_value: 1/01/1971
   year: 1971
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: a) Ndele
   country: a) Ndele

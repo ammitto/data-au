@@ -56,13 +56,19 @@ sanction:
 dates_of_birth:
 - raw_value: 25/06/1964
   year: 1964
-  precision: year
+  month: 6
+  day: 25
+  precision: full
 - raw_value: 24/06/1964
   year: 1964
-  precision: year
+  month: 6
+  day: 24
+  precision: full
 - raw_value: 26/06/1964
   year: 1964
-  precision: year
+  month: 6
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Luhansk
   country: Luhansk

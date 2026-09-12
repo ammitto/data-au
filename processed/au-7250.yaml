@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-04-24'
   year: 1972
-  precision: year
+  month: 4
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Krasnaya Sloboda
   country: Krasnaya Sloboda

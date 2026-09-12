@@ -19,7 +19,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-02-04'
   year: 1962
-  precision: year
+  month: 2
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Irkutsk Region
   country: Irkutsk Region

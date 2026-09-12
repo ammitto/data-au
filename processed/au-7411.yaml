@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1979-03-19'
   year: 1979
-  precision: year
+  month: 3
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Cheboksary
   country: Cheboksary

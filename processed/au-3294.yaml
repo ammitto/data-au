@@ -32,6 +32,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-10-10'
   year: 1954
-  precision: year
+  month: 10
+  day: 10
+  precision: full
 citizenships:
 - Syria

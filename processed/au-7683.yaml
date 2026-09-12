@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1984-08-07'
   year: 1984
-  precision: year
+  month: 8
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Babol
   country: Babol

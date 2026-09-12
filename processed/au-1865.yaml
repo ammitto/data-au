@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1942-03-12'
   year: 1942
-  precision: year
+  month: 3
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Municipality of Kalinovik
   country: Municipality of Kalinovik

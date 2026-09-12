@@ -39,7 +39,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1983-01-19'
   year: 1983
-  precision: year
+  month: 1
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Sabratha
   country: Sabratha

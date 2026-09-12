@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-03-26'
   year: 1967
-  precision: year
+  month: 3
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Dnepropetrovsk
   country: Dnepropetrovsk

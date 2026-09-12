@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1965-06-02'
   year: 1965
-  precision: year
+  month: 6
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Belarus
   country: Belarus

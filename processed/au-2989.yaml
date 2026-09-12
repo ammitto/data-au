@@ -36,10 +36,14 @@ sanction:
 dates_of_birth:
 - raw_value: 13/01/1954
   year: 1954
-  precision: year
+  month: 1
+  day: 13
+  precision: full
 - raw_value: 13/01/1959
   year: 1959
-  precision: year
+  month: 1
+  day: 13
+  precision: full
 places_of_birth:
 - raw_value: Dzerzhynsk
   country: Dzerzhynsk

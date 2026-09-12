@@ -34,7 +34,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1992-03-14'
   year: 1992
-  precision: year
+  month: 3
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Ordzhonikidzevskaya village
   country: Ordzhonikidzevskaya village

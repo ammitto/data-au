@@ -45,7 +45,9 @@ dates_of_birth:
   precision: year
 - raw_value: 22/03/1973
   year: 1973
-  precision: year
+  month: 3
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: a) Sarpolad village
   country: a) Sarpolad village

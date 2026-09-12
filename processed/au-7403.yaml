@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-01-19'
   year: 1973
-  precision: year
+  month: 1
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Chelyabinsk
   country: Chelyabinsk

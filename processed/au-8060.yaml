@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-08-10'
   year: 1969
-  precision: year
+  month: 8
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Volgograd
   country: Volgograd

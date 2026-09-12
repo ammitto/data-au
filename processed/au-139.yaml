@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1965-03-29'
   year: 1965
-  precision: year
+  month: 3
+  day: 29
+  precision: full
 places_of_birth:
 - raw_value: Nangarhar Province
   country: Nangarhar Province

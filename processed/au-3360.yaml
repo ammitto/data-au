@@ -28,10 +28,14 @@ sanction:
 dates_of_birth:
 - raw_value: 27/06/1966
   year: 1966
-  precision: year
+  month: 6
+  day: 27
+  precision: full
 - raw_value: 26/06/1966
   year: 1966
-  precision: year
+  month: 6
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Donetsk
   country: Donetsk

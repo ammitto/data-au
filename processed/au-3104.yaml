@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1959-06-26'
   year: 1959
-  precision: year
+  month: 6
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Derna
   country: Derna

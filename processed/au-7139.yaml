@@ -20,6 +20,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1999-09-11'
   year: 1999
-  precision: year
+  month: 9
+  day: 11
+  precision: full
 citizenships:
 - Russia

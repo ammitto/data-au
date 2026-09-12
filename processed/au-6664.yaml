@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1981-10-17'
   year: 1981
-  precision: year
+  month: 10
+  day: 17
+  precision: full
 places_of_birth:
 - raw_value: Minsk
   country: Minsk

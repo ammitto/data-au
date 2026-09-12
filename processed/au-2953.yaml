@@ -69,13 +69,19 @@ sanction:
 dates_of_birth:
 - raw_value: 25/06/1964
   year: 1964
-  precision: year
+  month: 6
+  day: 25
+  precision: full
 - raw_value: 5/12/1965
   year: 1965
-  precision: year
+  month: 12
+  day: 5
+  precision: full
 - raw_value: 12/05/1965
   year: 1965
-  precision: year
+  month: 5
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Oran
   country: Oran

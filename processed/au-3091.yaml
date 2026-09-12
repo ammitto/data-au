@@ -49,7 +49,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1991-05-07'
   year: 1991
-  precision: year
+  month: 5
+  day: 7
+  precision: full
 places_of_birth:
 - raw_value: Melbourne
   country: Melbourne

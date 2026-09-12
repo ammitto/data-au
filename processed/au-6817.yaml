@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1971-08-17'
   year: 1971
-  precision: year
+  month: 8
+  day: 17
+  precision: full
 places_of_birth:
 - raw_value: Khotomel
   country: Khotomel

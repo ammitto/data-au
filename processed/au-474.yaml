@@ -35,13 +35,19 @@ sanction:
 dates_of_birth:
 - raw_value: '1966-05-29'
   year: 1966
-  precision: year
+  month: 5
+  day: 29
+  precision: full
 - raw_value: '1966-05-25'
   year: 1966
-  precision: year
+  month: 5
+  day: 25
+  precision: full
 - raw_value: '1986-05-09'
   year: 1986
-  precision: year
+  month: 5
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Tunis
   country: Tunis

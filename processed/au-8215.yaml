@@ -47,13 +47,19 @@ sanction:
 dates_of_birth:
 - raw_value: 11/09/1968
   year: 1968
-  precision: year
+  month: 9
+  day: 11
+  precision: full
 - raw_value: 18/09/1968
   year: 1968
-  precision: year
+  month: 9
+  day: 18
+  precision: full
 - raw_value: '09/11/1968'
   year: 1968
-  precision: year
+  month: 11
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Salfit
   country: Salfit

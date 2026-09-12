@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1946-04-10'
   year: 1946
-  precision: year
+  month: 4
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Senjski Rudnik
   country: Senjski Rudnik

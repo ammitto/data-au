@@ -49,7 +49,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1968-04-11'
   year: 1968
-  precision: year
+  month: 4
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Kuwait
   country: Kuwait

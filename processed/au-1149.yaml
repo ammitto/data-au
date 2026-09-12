@@ -70,7 +70,9 @@ sanction:
 dates_of_birth:
 - raw_value: 5/06/1978
   year: 1978
-  precision: year
+  month: 6
+  day: 5
+  precision: full
 - raw_value: " "
   precision: unknown
 places_of_birth:

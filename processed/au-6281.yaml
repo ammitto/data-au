@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1965-07-19'
   year: 1965
-  precision: year
+  month: 7
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Koblyakovo
   country: Koblyakovo

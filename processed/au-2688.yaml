@@ -39,7 +39,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-11-26'
   year: 1972
-  precision: year
+  month: 11
+  day: 26
+  precision: full
 places_of_birth:
 - raw_value: Beltsy (Bălți)
   country: Beltsy (Bălți)

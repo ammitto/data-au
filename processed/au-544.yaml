@@ -37,7 +37,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1957-11-03'
   year: 1957
-  precision: year
+  month: 11
+  day: 3
+  precision: full
 places_of_birth:
 - raw_value: Kafr Al-Shaykh; Egypt
   country: Kafr Al-Shaykh; Egypt

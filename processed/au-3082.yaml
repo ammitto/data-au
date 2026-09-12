@@ -31,7 +31,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1975-04-05'
   year: 1975
-  precision: year
+  month: 4
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Indonesia
   country: Indonesia

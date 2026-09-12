@@ -86,7 +86,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1951-06-19'
   year: 1951
-  precision: year
+  month: 6
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Giza
   country: Giza

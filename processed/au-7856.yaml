@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-05-11'
   year: 1969
-  precision: year
+  month: 5
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Kirishi
   country: Kirishi

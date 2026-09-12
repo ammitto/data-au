@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1956-07-31'
   year: 1956
-  precision: year
+  month: 7
+  day: 31
+  precision: full
 places_of_birth:
 - raw_value: Ordzhonikidze (now Vladikavkaz)
   country: Ordzhonikidze (now Vladikavkaz)

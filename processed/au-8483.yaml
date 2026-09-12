@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-04-24'
   year: 1954
-  precision: year
+  month: 4
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Marshad
   country: Marshad

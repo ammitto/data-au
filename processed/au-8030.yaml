@@ -33,7 +33,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1941-09-15'
   year: 1941
-  precision: year
+  month: 9
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Arbat
   country: Arbat

@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-08-22'
   year: 1973
-  precision: year
+  month: 8
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Russia
   country: Russia

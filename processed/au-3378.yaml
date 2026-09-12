@@ -31,6 +31,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-04-29'
   year: 1973
-  precision: year
+  month: 4
+  day: 29
+  precision: full
 citizenships:
 - Ukraine

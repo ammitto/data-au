@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1949-07-01'
   year: 1949
-  precision: year
+  month: 7
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Al Bayda
   country: Al Bayda

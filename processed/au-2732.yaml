@@ -33,7 +33,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1961-08-22'
   year: 1961
-  precision: year
+  month: 8
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Ussuriysk
   country: Ussuriysk

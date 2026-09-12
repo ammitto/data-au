@@ -46,7 +46,9 @@ dates_of_birth:
   precision: year
 - raw_value: 01/01/1969
   year: 1969
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: a) Darzab District
   country: a) Darzab District

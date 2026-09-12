@@ -21,6 +21,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1968-11-13'
   year: 1968
-  precision: year
+  month: 11
+  day: 13
+  precision: full
 citizenships:
 - Ukraine

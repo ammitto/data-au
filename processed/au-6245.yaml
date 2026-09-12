@@ -80,13 +80,19 @@ sanction:
 dates_of_birth:
 - raw_value: 05/10/1976
   year: 1976
-  precision: year
+  month: 10
+  day: 5
+  precision: full
 - raw_value: 01/10/1976
   year: 1976
-  precision: year
+  month: 10
+  day: 1
+  precision: full
 - raw_value: 06/01/1976
   year: 1976
-  precision: year
+  month: 1
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: a) Tall'Afar
   country: a) Tall'Afar

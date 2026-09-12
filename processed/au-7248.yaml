@@ -25,10 +25,14 @@ sanction:
 dates_of_birth:
 - raw_value: '09/10/1954'
   year: 1954
-  precision: year
+  month: 10
+  day: 9
+  precision: full
 - raw_value: '09/11/1954'
   year: 1954
-  precision: year
+  month: 11
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: St Petersburg
   country: St Petersburg

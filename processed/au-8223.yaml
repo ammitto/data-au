@@ -30,6 +30,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-12-18'
   year: 1954
-  precision: year
+  month: 12
+  day: 18
+  precision: full
 citizenships:
 - Guinea-Bissau

@@ -32,7 +32,9 @@ dates_of_birth:
   precision: year
 - raw_value: '1953-01-01'
   year: 1953
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Al Bayda
   country: Al Bayda

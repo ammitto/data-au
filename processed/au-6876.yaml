@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-03-08'
   year: 1972
-  precision: year
+  month: 3
+  day: 8
+  precision: full
 places_of_birth:
 - raw_value: Gomel
   country: Gomel

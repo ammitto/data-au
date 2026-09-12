@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1958-03-09'
   year: 1958
-  precision: year
+  month: 3
+  day: 9
+  precision: full
 places_of_birth:
 - raw_value: Akmolinsk
   country: Akmolinsk

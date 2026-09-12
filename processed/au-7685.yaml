@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1964-08-15'
   year: 1964
-  precision: year
+  month: 8
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Isfahan
   country: Isfahan

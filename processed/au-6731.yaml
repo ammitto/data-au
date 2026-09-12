@@ -20,7 +20,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1939-02-20'
   year: 1939
-  precision: year
+  month: 2
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Mynak
   country: Mynak

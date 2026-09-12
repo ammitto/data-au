@@ -37,9 +37,13 @@ dates_of_birth:
   precision: year
 - raw_value: 22/09/1967
   year: 1967
-  precision: year
+  month: 9
+  day: 22
+  precision: full
 - raw_value: 30/09/1965
   year: 1965
-  precision: year
+  month: 9
+  day: 30
+  precision: full
 citizenships:
 - Iran

@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-03-15'
   year: 1970
-  precision: year
+  month: 3
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Voroshilovgrad - Luhansk
   country: Voroshilovgrad - Luhansk

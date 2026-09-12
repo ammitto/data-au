@@ -58,10 +58,14 @@ sanction:
 dates_of_birth:
 - raw_value: 1/01/1968
   year: 1968
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 - raw_value: 24/04/1968
   year: 1968
-  precision: year
+  month: 4
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: a) Kef Rih
   country: a) Kef Rih

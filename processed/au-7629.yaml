@@ -40,7 +40,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1976-03-11'
   year: 1976
-  precision: year
+  month: 3
+  day: 11
+  precision: full
 places_of_birth:
 - raw_value: Dzhambul/ Jambul (currently known as Taraz)
   country: Dzhambul/ Jambul (currently known as Taraz)

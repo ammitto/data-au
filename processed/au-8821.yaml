@@ -41,10 +41,14 @@ sanction:
 dates_of_birth:
 - raw_value: 01/01/1951
   year: 1951
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 - raw_value: 20/02/1951
   year: 1951
-  precision: year
+  month: 2
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Jordan
   country: Jordan

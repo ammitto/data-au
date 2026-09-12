@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1968-06-14'
   year: 1968
-  precision: year
+  month: 6
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: Neftekamsk
   country: Neftekamsk

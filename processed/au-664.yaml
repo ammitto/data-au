@@ -24,7 +24,9 @@ dates_of_birth:
   precision: year
 - raw_value: 14/03/1942
   year: 1942
-  precision: year
+  month: 3
+  day: 14
+  precision: full
 places_of_birth:
 - raw_value: a) Mosul
   country: a) Mosul

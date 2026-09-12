@@ -31,12 +31,18 @@ sanction:
 dates_of_birth:
 - raw_value: 2/02/1956
   year: 1956
-  precision: year
+  month: 2
+  day: 2
+  precision: full
 - raw_value: 5/07/1957
   year: 1957
-  precision: year
+  month: 7
+  day: 5
+  precision: full
 - raw_value: 13/09/1944
   year: 1944
-  precision: year
+  month: 9
+  day: 13
+  precision: full
 citizenships:
 - Iran

@@ -90,7 +90,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-04-19'
   year: 1963
-  precision: year
+  month: 4
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Gebang village
   country: Gebang village

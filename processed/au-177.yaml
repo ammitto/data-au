@@ -37,7 +37,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-06-06'
   year: 1963
-  precision: year
+  month: 6
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Gharbia
   country: Gharbia

@@ -41,7 +41,9 @@ dates_of_birth:
   precision: year
 - raw_value: 24/10/1972
   year: 1972
-  precision: year
+  month: 10
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Shigal District
   country: Shigal District

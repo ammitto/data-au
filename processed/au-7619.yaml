@@ -45,10 +45,14 @@ sanction:
 dates_of_birth:
 - raw_value: 20/01/1988
   year: 1988
-  precision: year
+  month: 1
+  day: 20
+  precision: full
 - raw_value: 20/11/1988
   year: 1988
-  precision: year
+  month: 11
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Krasnoarmeisk
   country: Krasnoarmeisk

@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1950-01-24'
   year: 1950
-  precision: year
+  month: 1
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: a) Belarus;                          b) Leningrad (now St Petersburg)
   country: a) Belarus;                          b) Leningrad (now St Petersburg)

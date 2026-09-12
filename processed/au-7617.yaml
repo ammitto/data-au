@@ -32,10 +32,14 @@ sanction:
 dates_of_birth:
 - raw_value: 26/06/1973
   year: 1973
-  precision: year
+  month: 6
+  day: 26
+  precision: full
 - raw_value: 29/08/1969
   year: 1969
-  precision: year
+  month: 8
+  day: 29
+  precision: full
 places_of_birth:
 - raw_value: Sverdlovsk
   country: Sverdlovsk

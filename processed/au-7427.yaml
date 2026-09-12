@@ -29,10 +29,14 @@ sanction:
 dates_of_birth:
 - raw_value: 20/07/1957
   year: 1957
-  precision: year
+  month: 7
+  day: 20
+  precision: full
 - raw_value: 15/05/1960
   year: 1960
-  precision: year
+  month: 5
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Budennovskaya
   country: Budennovskaya

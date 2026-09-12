@@ -52,7 +52,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1951-02-19'
   year: 1951
-  precision: year
+  month: 2
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Novosibirsk
   country: Novosibirsk

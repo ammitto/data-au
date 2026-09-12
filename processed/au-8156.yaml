@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1979-06-20'
   year: 1979
-  precision: year
+  month: 6
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Samara
   country: Samara

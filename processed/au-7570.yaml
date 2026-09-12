@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1959-07-28'
   year: 1959
-  precision: year
+  month: 7
+  day: 28
+  precision: full
 places_of_birth:
 - raw_value: Tambov
   country: Tambov

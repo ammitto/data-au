@@ -29,7 +29,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1966-05-15'
   year: 1966
-  precision: year
+  month: 5
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Chisinau
   country: Chisinau

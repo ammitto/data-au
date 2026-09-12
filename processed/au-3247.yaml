@@ -35,6 +35,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1948-08-10'
   year: 1948
-  precision: year
+  month: 8
+  day: 10
+  precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

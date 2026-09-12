@@ -21,6 +21,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1978-08-24'
   year: 1978
-  precision: year
+  month: 8
+  day: 24
+  precision: full
 citizenships:
 - Ukraine

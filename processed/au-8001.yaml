@@ -28,7 +28,9 @@ sanction:
 dates_of_birth:
 - raw_value: '2001-08-23'
   year: 2001
-  precision: year
+  month: 8
+  day: 23
+  precision: full
 places_of_birth:
 - raw_value: Altayskiy Kray
   country: Altayskiy Kray

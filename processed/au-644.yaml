@@ -60,10 +60,14 @@ sanction:
 dates_of_birth:
 - raw_value: 6/02/1967
   year: 1967
-  precision: year
+  month: 2
+  day: 6
+  precision: full
 - raw_value: 2/02/1967
   year: 1967
-  precision: year
+  month: 2
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Rutshuru
   country: Rutshuru

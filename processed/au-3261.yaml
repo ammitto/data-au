@@ -36,7 +36,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1988-07-16'
   year: 1988
-  precision: year
+  month: 7
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: London
   country: London

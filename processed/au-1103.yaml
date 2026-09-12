@@ -66,7 +66,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1950-06-05'
   year: 1950
-  precision: year
+  month: 6
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Sargodha
   country: Sargodha

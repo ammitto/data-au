@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1948-09-25'
   year: 1948
-  precision: year
+  month: 9
+  day: 25
+  precision: full
 places_of_birth:
 - raw_value: Kaminschina
   country: Kaminschina

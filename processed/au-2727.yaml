@@ -35,7 +35,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1958-03-22'
   year: 1958
-  precision: year
+  month: 3
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Ordzhonikidze
   country: Ordzhonikidze

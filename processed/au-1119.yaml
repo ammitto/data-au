@@ -27,7 +27,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1961-03-12'
   year: 1961
-  precision: year
+  month: 3
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Lahore
   country: Lahore

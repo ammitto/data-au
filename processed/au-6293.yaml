@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1971-03-27'
   year: 1971
-  precision: year
+  month: 3
+  day: 27
+  precision: full
 places_of_birth:
 - raw_value: Kyzyl-Orda
   country: Kyzyl-Orda

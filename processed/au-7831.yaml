@@ -33,7 +33,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1967-09-20'
   year: 1967
-  precision: year
+  month: 9
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Lebanon
   country: Lebanon

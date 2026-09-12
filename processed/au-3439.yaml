@@ -32,6 +32,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1969-05-06'
   year: 1969
-  precision: year
+  month: 5
+  day: 6
+  precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

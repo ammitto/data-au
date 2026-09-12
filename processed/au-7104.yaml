@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1979-12-05'
   year: 1979
-  precision: year
+  month: 12
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Nikopol
   country: Nikopol

@@ -61,10 +61,14 @@ sanction:
 dates_of_birth:
 - raw_value: 16/06/1967
   year: 1967
-  precision: year
+  month: 6
+  day: 16
+  precision: full
 - raw_value: 1/01/1967
   year: 1967
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 places_of_birth:
 - raw_value: Al-Qaim
   country: Al-Qaim

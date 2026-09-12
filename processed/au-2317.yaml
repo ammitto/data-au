@@ -41,7 +41,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1952-03-12'
   year: 1952
-  precision: year
+  month: 3
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Homs
   country: Homs

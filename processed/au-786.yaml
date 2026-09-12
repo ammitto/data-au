@@ -28,10 +28,14 @@ sanction:
 dates_of_birth:
 - raw_value: 6/04/1961
   year: 1961
-  precision: year
+  month: 4
+  day: 6
+  precision: full
 - raw_value: 4/06/1961
   year: 1961
-  precision: year
+  month: 6
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Mugambazi
   country: Mugambazi

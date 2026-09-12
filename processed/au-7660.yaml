@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1950-05-12'
   year: 1950
-  precision: year
+  month: 5
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Novgorod
   country: Novgorod

@@ -22,7 +22,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1973-10-05'
   year: 1973
-  precision: year
+  month: 10
+  day: 5
+  precision: full
 places_of_birth:
 - raw_value: Uvarovo
   country: Uvarovo

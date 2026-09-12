@@ -28,10 +28,14 @@ sanction:
 dates_of_birth:
 - raw_value: 15/02/1954
   year: 1954
-  precision: year
+  month: 2
+  day: 15
+  precision: full
 - raw_value: 15/02/1957
   year: 1957
-  precision: year
+  month: 2
+  day: 15
+  precision: full
 places_of_birth:
 - raw_value: Barnaul
   country: Barnaul

@@ -21,9 +21,13 @@ sanction:
 dates_of_birth:
 - raw_value: 24/07/1942
   year: 1942
-  precision: year
+  month: 7
+  day: 24
+  precision: full
 - raw_value: 20/07/1942
   year: 1942
-  precision: year
+  month: 7
+  day: 20
+  precision: full
 citizenships:
 - Myanmar

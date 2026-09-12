@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1951-07-22'
   year: 1951
-  precision: year
+  month: 7
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Gusev
   country: Gusev

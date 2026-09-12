@@ -21,6 +21,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1963-03-21'
   year: 1963
-  precision: year
+  month: 3
+  day: 21
+  precision: full
 citizenships:
 - Iran

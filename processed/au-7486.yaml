@@ -20,6 +20,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1970-08-01'
   year: 1970
-  precision: year
+  month: 8
+  day: 1
+  precision: full
 citizenships:
 - Iran

@@ -24,7 +24,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1971-08-23'
   year: 1971
-  precision: year
+  month: 8
+  day: 23
+  precision: full
 places_of_birth:
 - raw_value: Avdeevka
   country: Avdeevka

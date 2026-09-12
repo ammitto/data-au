@@ -21,7 +21,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1959-06-10'
   year: 1959
-  precision: year
+  month: 6
+  day: 10
+  precision: full
 places_of_birth:
 - raw_value: Dakovo
   country: Dakovo

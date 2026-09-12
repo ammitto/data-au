@@ -34,7 +34,9 @@ dates_of_birth:
   precision: year
 - raw_value: 22/02/1957
   year: 1957
-  precision: year
+  month: 2
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Mial area
   country: Mial area

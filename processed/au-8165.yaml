@@ -24,6 +24,8 @@ sanction:
 dates_of_birth:
 - raw_value: '1954-03-11'
   year: 1954
-  precision: year
+  month: 3
+  day: 11
+  precision: full
 citizenships:
 - Russia

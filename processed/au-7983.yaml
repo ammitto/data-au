@@ -29,10 +29,14 @@ sanction:
 dates_of_birth:
 - raw_value: 12/03/1966
   year: 1966
-  precision: year
+  month: 3
+  day: 12
+  precision: full
 - raw_value: 20/03/1964
   year: 1964
-  precision: year
+  month: 3
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Staneh
   country: Staneh

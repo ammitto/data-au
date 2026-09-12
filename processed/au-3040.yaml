@@ -55,7 +55,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1976-04-12'
   year: 1976
-  precision: year
+  month: 4
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Al Baraka
   country: Al Baraka

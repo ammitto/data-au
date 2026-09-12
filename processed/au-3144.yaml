@@ -23,7 +23,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1980-07-06'
   year: 1980
-  precision: year
+  month: 7
+  day: 6
+  precision: full
 places_of_birth:
 - raw_value: Bourg la Reine
   country: Bourg la Reine

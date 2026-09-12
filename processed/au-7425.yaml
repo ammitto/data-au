@@ -25,10 +25,14 @@ sanction:
 dates_of_birth:
 - raw_value: '1975-12-08'
   year: 1975
-  precision: year
+  month: 12
+  day: 8
+  precision: full
 - raw_value: '1975-08-12'
   year: 1975
-  precision: year
+  month: 8
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Kaluga
   country: Kaluga

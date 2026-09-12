@@ -23,6 +23,8 @@ sanction:
 dates_of_birth:
 - raw_value: '2002-07-05'
   year: 2002
-  precision: year
+  month: 7
+  day: 5
+  precision: full
 citizenships:
 - Israel

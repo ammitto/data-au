@@ -32,7 +32,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1962-04-16'
   year: 1962
-  precision: year
+  month: 4
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Borskoe
   country: Borskoe

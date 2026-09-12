@@ -24,10 +24,14 @@ sanction:
 dates_of_birth:
 - raw_value: 16/10/1969
   year: 1969
-  precision: year
+  month: 10
+  day: 16
+  precision: full
 - raw_value: 17/10/1969
   year: 1969
-  precision: year
+  month: 10
+  day: 17
+  precision: full
 places_of_birth:
 - raw_value: Kular Ust‑Yansky
   country: Kular Ust‑Yansky

@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1965-02-02'
   year: 1965
-  precision: year
+  month: 2
+  day: 2
+  precision: full
 places_of_birth:
 - raw_value: Cherepovets
   country: Cherepovets

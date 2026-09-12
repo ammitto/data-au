@@ -47,10 +47,14 @@ sanction:
 dates_of_birth:
 - raw_value: 04/05/1948
   year: 1948
-  precision: year
+  month: 5
+  day: 4
+  precision: full
 - raw_value: 4/05/1946
   year: 1946
-  precision: year
+  month: 5
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Tulungagung
   country: Tulungagung

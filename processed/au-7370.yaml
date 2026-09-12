@@ -24,10 +24,14 @@ sanction:
 dates_of_birth:
 - raw_value: 17/09/1982
   year: 1982
-  precision: year
+  month: 9
+  day: 17
+  precision: full
 - raw_value: 17/08/1983
   year: 1983
-  precision: year
+  month: 8
+  day: 17
+  precision: full
 places_of_birth:
 - raw_value: Nukus
   country: Nukus

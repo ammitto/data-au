@@ -50,7 +50,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1978-09-22'
   year: 1978
-  precision: year
+  month: 9
+  day: 22
+  precision: full
 places_of_birth:
 - raw_value: Kabo
   country: Kabo

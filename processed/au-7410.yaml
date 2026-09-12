@@ -25,7 +25,9 @@ sanction:
 dates_of_birth:
 - raw_value: '1972-09-20'
   year: 1972
-  precision: year
+  month: 9
+  day: 20
+  precision: full
 places_of_birth:
 - raw_value: Obninsk
   country: Obninsk

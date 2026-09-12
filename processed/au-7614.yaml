@@ -33,10 +33,14 @@ sanction:
 dates_of_birth:
 - raw_value: 01/03/1977
   year: 1977
-  precision: year
+  month: 3
+  day: 1
+  precision: full
 - raw_value: 28/02/1977
   year: 1977
-  precision: year
+  month: 2
+  day: 28
+  precision: full
 places_of_birth:
 - raw_value: a) Frunze
   country: a) Frunze
