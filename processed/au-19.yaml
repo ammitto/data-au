@@ -30,7 +30,8 @@ sanction:
 dates_of_birth:
 - raw_value: Approximately 1957
   year: 1957
-  precision: year
+  circa: true
+  precision: circa
 places_of_birth:
 - raw_value: Zangi Abad village
   country: Zangi Abad village

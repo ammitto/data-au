@@ -25,7 +25,8 @@ sanction:
 dates_of_birth:
 - raw_value: Approximately 1973
   year: 1973
-  precision: year
+  circa: true
+  precision: circa
 places_of_birth:
 - raw_value: Daman District
   country: Daman District

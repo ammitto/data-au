@@ -44,7 +44,8 @@ dates_of_birth:
   precision: year
 - raw_value: Approximately 1975
   year: 1975
-  precision: year
+  circa: true
+  precision: circa
 - raw_value: 20/09/1968
   year: 1968
   month: 9

@@ -36,7 +36,8 @@ dates_of_birth:
 
     28/08/1965
   year: 1968
-  precision: year
+  circa: true
+  precision: circa
 - raw_value: '1968'
   year: 1968
   precision: year

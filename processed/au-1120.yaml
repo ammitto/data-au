@@ -52,13 +52,16 @@ sanction:
 dates_of_birth:
 - raw_value: Approximately 1967
   year: 1967
-  precision: year
+  circa: true
+  precision: circa
 - raw_value: Approximately 1961
   year: 1961
-  precision: year
+  circa: true
+  precision: circa
 - raw_value: Approximately 1973
   year: 1973
-  precision: year
+  circa: true
+  precision: circa
 places_of_birth:
 - raw_value: Shunkrai village
   country: Shunkrai village
