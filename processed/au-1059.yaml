@@ -48,7 +48,9 @@ sanction:
 dates_of_birth:
 - raw_value: 19/07/1981  
   year: 1981
-  precision: year
+  month: 7
+  day: 19
+  precision: full
 places_of_birth:
 - raw_value: Cebu City
   country: Cebu City

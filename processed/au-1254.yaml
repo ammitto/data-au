@@ -88,7 +88,9 @@ dates_of_birth:
   precision: full
 - raw_value: " 24/06/1402"
   year: 1402
-  precision: year
+  month: 6
+  day: 24
+  precision: full
 places_of_birth:
 - raw_value: Riyadh
   country: Riyadh

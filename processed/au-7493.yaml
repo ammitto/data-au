@@ -32,6 +32,8 @@ sanction:
 dates_of_birth:
 - raw_value: 23/09/1977 
   year: 1977
-  precision: year
+  month: 9
+  day: 23
+  precision: full
 citizenships:
 - Iran

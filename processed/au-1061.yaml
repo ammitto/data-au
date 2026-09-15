@@ -70,7 +70,9 @@ sanction:
 dates_of_birth:
 - raw_value: 12/03/1966 
   year: 1966
-  precision: year
+  month: 3
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: 686 A. Mabini Street
   country: 686 A. Mabini Street

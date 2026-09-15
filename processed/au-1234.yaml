@@ -74,10 +74,14 @@ dates_of_birth:
   precision: full
 - raw_value: 1/01/1972  
   year: 1972
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 - raw_value: 1/01/1972 
   year: 1972
-  precision: year
+  month: 1
+  day: 1
+  precision: full
 - raw_value: 1/01/1972
   year: 1972
   month: 1

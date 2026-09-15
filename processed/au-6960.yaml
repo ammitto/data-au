@@ -20,7 +20,6 @@ sanction:
   maritime_restriction: false
 dates_of_birth:
 - raw_value: 10/061962
-  year: 619
-  precision: year
+  precision: unknown
 citizenships:
 - Russia

@@ -32,6 +32,8 @@ sanction:
 dates_of_birth:
 - raw_value: 05/06/1960 
   year: 1960
-  precision: year
+  month: 6
+  day: 5
+  precision: full
 citizenships:
 - Iran

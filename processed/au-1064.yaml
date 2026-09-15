@@ -78,7 +78,9 @@ sanction:
 dates_of_birth:
 - raw_value: 4/10/1972  
   year: 1972
-  precision: year
+  month: 10
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Sitio Banga Maiti
   country: Sitio Banga Maiti

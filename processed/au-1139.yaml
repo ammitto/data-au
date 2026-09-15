@@ -79,7 +79,9 @@ sanction:
 dates_of_birth:
 - raw_value: 16/06/1969 
   year: 1969
-  precision: year
+  month: 6
+  day: 16
+  precision: full
 places_of_birth:
 - raw_value: Iraq
   country: Iraq

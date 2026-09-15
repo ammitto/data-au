@@ -48,7 +48,9 @@ dates_of_birth:
   precision: year
 - raw_value: 12/12/1965 
   year: 1965
-  precision: year
+  month: 12
+  day: 12
+  precision: full
 places_of_birth:
 - raw_value: Deb-Deb
   country: Deb-Deb

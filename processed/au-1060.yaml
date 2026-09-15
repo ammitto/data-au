@@ -37,7 +37,9 @@ sanction:
 dates_of_birth:
 - raw_value: 4/11/1963  
   year: 1963
-  precision: year
+  month: 11
+  day: 4
+  precision: full
 places_of_birth:
 - raw_value: Arco
   country: Arco
