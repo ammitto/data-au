@@ -10,7 +10,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
   committees: Autonomous (Russia)
-  control_date: '2022-04-06'
+  control_date: '2026-09-10'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 11) Instrument 2022
   targeted_financial_sanction: true
@@ -18,9 +18,9 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1982-10-23'
-  year: 1982
-  month: 10
+- raw_value: '1966-08-23'
+  year: 1966
+  month: 8
   day: 23
   precision: full
 places_of_birth:
