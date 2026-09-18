@@ -1,4 +1,3 @@
----
 reference: '8438'
 entity_type: person
 names:
@@ -15,8 +14,7 @@ additional_info: |-
 
   National identification no: 001-843-989-7 (NIF - Haiti)
 sanction:
-  listing_information: Listed by UN 2653 Committee on 21 October 2022 (amended on
-    20 October 2023)
+  listing_information: Listed by UN 2653 Committee on 21 October 2022 (amended on 20 October 2023)
   committees: 2653 (Haiti)
   control_date: '2025-12-05'
   instrument: Charter of the United Nations (Sanctions—Haiti) Regulations 2025

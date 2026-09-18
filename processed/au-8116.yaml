@@ -1,4 +1,3 @@
----
 reference: '8116'
 entity_type: organization
 names:
@@ -17,17 +16,17 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-address: "Solviny Pr, 18A, Fl 2, Pom I K 9A O 1 Moscow 117593 Russia;\nPr-kt novoyasenevskii,
-  d. 32, k. 1, pomeshch 1/1 Moscow 117463 Russia;\nBolshoy Kislovsky, per 1, building
-  2 Moscow; Russia;\nBol'shaya Nikiskaya Ulitsa, 12cl Moscow 125009\t Russia"
+address: |-
+  Solviny Pr, 18A, Fl 2, Pom I K 9A O 1 Moscow 117593 Russia;
+  Pr-kt novoyasenevskii, d. 32, k. 1, pomeshch 1/1 Moscow 117463 Russia;
+  Bolshoy Kislovsky, per 1, building 2 Moscow; Russia;
+  Bol'shaya Nikiskaya Ulitsa, 12cl Moscow 125009	 Russia
 additional_info: http://sp-agency.ru
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
   control_date: '2025-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

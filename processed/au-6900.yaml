@@ -1,20 +1,15 @@
----
 reference: '6900'
 entity_type: person
 names:
 - text: Sergey KULIKOV
   name_type: Primary Name
   script: Latn
-additional_info: Chairman of the board of management company Rusnano LLC; Member of
-  the board of directors of Rusnano JSC; First Deputy Chairman of the board of the
-  Military Industrial Commission
+additional_info: Chairman of the board of management company Rusnano LLC; Member of the board of directors of Rusnano JSC; First Deputy Chairman of the board of the Military Industrial Commission
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-04-06'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 11) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

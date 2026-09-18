@@ -1,20 +1,15 @@
----
 reference: '6811'
 entity_type: person
 names:
 - text: Igor Vladimirovich MOZHILOVSKY
   name_type: Primary Name
   script: Latn
-additional_info: Assistant to the Belarusian Minister of Defense for Military Economy
-  and Finance; Head of the Main Financial and Economic Department in the Belarusian
-  Ministry of Defense
+additional_info: Assistant to the Belarusian Minister of Defense for Military Economy and Finance; Head of the Main Financial and Economic Department in the Belarusian Ministry of Defense
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2022
   committees: Autonomous (Ukraine)
   control_date: '2022-03-25'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 10) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

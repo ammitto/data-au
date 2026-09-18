@@ -1,4 +1,3 @@
----
 reference: '3102'
 entity_type: person
 names:
@@ -21,11 +20,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'SSi.005 Designation: a) Sudan People’s Liberation Army Major General
-  b) Commander, Presidential Guard Unit. Passport no: R00005943, South Sudan. His
-  Presidential Guard led the slaughter of Nuer civilians in and around Juba, many
-  who were buried in mass graves. One such grave was purported to contain 200-300
-  civilians.'
+additional_info: 'SSi.005 Designation: a) Sudan People’s Liberation Army Major General b) Commander, Presidential Guard Unit. Passport no: R00005943, South Sudan. His Presidential Guard led the slaughter of Nuer civilians in and around Juba, many who were buried in mass graves. One such grave was purported to contain 200-300 civilians.'
 sanction:
   listing_information: Listed on 1 July 2015.
   committees: 2206 (South Sudan)

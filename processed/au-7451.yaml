@@ -1,9 +1,7 @@
----
 reference: '7451'
 entity_type: organization
 names:
-- text: Research and Production Corporation Konstruktorskoye Byuro Mashynostroyeniya
-    Joint Stock Company 
+- text: Research and Production Corporation Konstruktorskoye Byuro Mashynostroyeniya Joint Stock Company 
   name_type: Primary Name
   script: Latn
 - text: KBM
@@ -21,12 +19,10 @@ names:
 address: 42, Okskiy Prospekt, Kolomna, Moscow Region, 140402, Russia
 additional_info: 'Website: www.kbm.ru  '
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 2) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

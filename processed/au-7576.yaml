@@ -1,4 +1,3 @@
----
 reference: '7576'
 entity_type: organization
 names:
@@ -16,12 +15,10 @@ names:
 address: Kashirskoe Highway, 49, 115409, Russia
 additional_info: 'Company identification number: 115476103698;https://renera.ru/'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-07-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 8) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

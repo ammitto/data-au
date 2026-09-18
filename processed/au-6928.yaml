@@ -1,19 +1,15 @@
----
 reference: '6928'
 entity_type: person
 names:
 - text: Zeljko RUNJE
   name_type: Primary Name
   script: Latn
-additional_info: Member of the Management Board Vice President for Oil, Gas and Offshore
-  Business Development at Rosneft Oil Company
+additional_info: Member of the Management Board Vice President for Oil, Gas and Offshore Business Development at Rosneft Oil Company
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-04-06'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 11) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

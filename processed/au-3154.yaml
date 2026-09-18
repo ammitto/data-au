@@ -1,18 +1,15 @@
----
 reference: '3154'
 entity_type: person
 names:
 - text: Kang Ryong
   name_type: Primary Name
   script: Latn
-additional_info: KPi.020. Former Korea Mining Development Trading Corporation (KOMID)
-  Representative in Syria.
+additional_info: KPi.020. Former Korea Mining Development Trading Corporation (KOMID) Representative in Syria.
 sanction:
   listing_information: First listed on 2/03/2016 (amended on 16/08/2023)
   committees: 1718 (DPRK)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
-    of Korea) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic of Korea) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

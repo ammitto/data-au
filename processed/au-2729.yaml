@@ -1,4 +1,3 @@
----
 reference: '2729'
 entity_type: person
 names:
@@ -26,12 +25,10 @@ names:
   script: Latn
   alias_strength: Strong
 sanction:
-  listing_information: Listed on 19 Jun. 2014 (re-listed on 16 Jun. 2017, 10 June
-    2020 and 10 June 2023)
+  listing_information: Listed on 19 Jun. 2014 (re-listed on 16 Jun. 2017, 10 June 2020 and 10 June 2023)
   committees: Autonomous (Russia)
   control_date: '2023-06-10'
-  instrument: Listed on 19 Jun. 2014 (re-listed on 16 Jun. 2017, 10 June 2020 and
-    10 June 2023)
+  instrument: Listed on 19 Jun. 2014 (re-listed on 16 Jun. 2017, 10 June 2020 and 10 June 2023)
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

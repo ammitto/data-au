@@ -1,4 +1,3 @@
----
 reference: '733'
 entity_type: person
 names:
@@ -32,8 +31,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: a) Fuad Dawod Farm, Az Zabadani, Damascus, Damascus, Syrian Arab Republic
-  b) Beirut, Lebanon
+address: a) Fuad Dawod Farm, Az Zabadani, Damascus, Damascus, Syrian Arab Republic b) Beirut, Lebanon
 additional_info: 'IQi.085, Listed on: 27 Jul. 2005 ( amended on 5 Aug. 2025 )'
 sanction:
   listing_information: Listed by the 1518 Committee

@@ -1,4 +1,3 @@
----
 reference: '8386'
 entity_type: organization
 names:
@@ -11,12 +10,10 @@ names:
   alias_strength: Strong
 address: Potonggang District, Pyongyang, Democratic People's Republic of Korea
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Democratic People’s Republic of Korea) List 2012
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Democratic People’s Republic of Korea) List 2012
   committees: Autonomous (DPRK)
   control_date: '2025-11-06'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Democratic People’s Republic of Korea) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Democratic People’s Republic of Korea) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

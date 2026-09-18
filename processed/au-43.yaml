@@ -1,4 +1,3 @@
----
 reference: '43'
 entity_type: person
 names:
@@ -21,16 +20,9 @@ names:
   script: Latn
   alias_strength: Strong
 address: Kabul, Afghanistan
-additional_info: 'TAi.043 Title: Qari. Designation: a) Minister of Planning under
-  the Taliban regime (1996-2001) b) Minister of Higher Education under the Taliban
-  regime (1996-2001). Passport no: Afghanistan diplomatic passport D0009731, issued
-  on 13 Oct. 2021 in Kabul, Afghanistan (Name in Latin script: Iadenamohammad Nazri
-  Mohammad; expires on 13 Oct. 2026) b) OA 454044, issued in Afghanistan. Member of
-  Taliban Supreme Council responsible for Takhar and Badakhshan provinces. Height
-  172cm.'
+additional_info: 'TAi.043 Title: Qari. Designation: a) Minister of Planning under the Taliban regime (1996-2001) b) Minister of Higher Education under the Taliban regime (1996-2001). Passport no: Afghanistan diplomatic passport D0009731, issued on 13 Oct. 2021 in Kabul, Afghanistan (Name in Latin script: Iadenamohammad Nazri Mohammad; expires on 13 Oct. 2026) b) OA 454044, issued in Afghanistan. Member of Taliban Supreme Council responsible for Takhar and Badakhshan provinces. Height 172cm.'
 sanction:
-  listing_information: Listed on 25 January 2001 (amended 3 Sep 2003, 9 July 2007,
-    21 Sep 2007, 29 Nov 2011, 25 Oct 2012, 7 Sep. 2016, 10 Mar. 2026)
+  listing_information: Listed on 25 January 2001 (amended 3 Sep 2003, 9 July 2007, 21 Sep 2007, 29 Nov 2011, 25 Oct 2012, 7 Sep. 2016, 10 Mar. 2026)
   committees: 1988 (Taliban)
   control_date: '2026-05-08'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013

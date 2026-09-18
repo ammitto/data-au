@@ -1,4 +1,3 @@
----
 reference: '8755'
 entity_type: organization
 names:
@@ -13,15 +12,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: K.B, Building 10, 9-go Maya Street, Lipetsk City, Lipetsk Region, 398017,
-  Russia
+address: K.B, Building 10, 9-go Maya Street, Lipetsk City, Lipetsk Region, 398017, Russia
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Russia)
   control_date: '2026-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

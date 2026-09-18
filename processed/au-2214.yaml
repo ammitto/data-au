@@ -1,4 +1,3 @@
----
 reference: '2214'
 entity_type: person
 names:
@@ -14,9 +13,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Libya
-additional_info: Former Secretary-General of the General People’s Congress, effectively
-  head of state for the Qadhafi regime. Responsible for Qadhafi regime’s repressive
-  policies by close association and for legitimating these policies.
+additional_info: Former Secretary-General of the General People’s Congress, effectively head of state for the Qadhafi regime. Responsible for Qadhafi regime’s repressive policies by close association and for legitimating these policies.
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011LBY0023. Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Libya) List 2012 [F2012L00481]

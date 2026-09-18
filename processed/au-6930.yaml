@@ -1,19 +1,15 @@
----
 reference: '6930'
 entity_type: person
 names:
 - text: Oleg Yevgenyevich AKSYUTIN
   name_type: Primary Name
   script: Latn
-additional_info: Deputy Chairman of the Management Committee of Gazprom; CEO of South
-  Stream Transport BV
+additional_info: Deputy Chairman of the Management Committee of Gazprom; CEO of South Stream Transport BV
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-04-06'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 11) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

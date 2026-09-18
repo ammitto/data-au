@@ -1,4 +1,3 @@
----
 reference: '98'
 entity_type: person
 names:
@@ -8,12 +7,9 @@ names:
 - text: عبد الواحد شفيق
   name_type: Original Script
   script: Arab
-additional_info: 'TAi.098 Title: Maulavi. Designation: Deputy Governor of Kabul Province
-  under the Taliban regime. Review pursuant to Security Council resolution 1822 (2008)
-  was concluded on 27 Jul. 2010'
+additional_info: 'TAi.098 Title: Maulavi. Designation: Deputy Governor of Kabul Province under the Taliban regime. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010'
 sanction:
-  listing_information: Listed on 23 February 2001 (amended on 21 Sep 2007, 3 Oct.
-    2008, 29 Nov. 2011)
+  listing_information: Listed on 23 February 2001 (amended on 21 Sep 2007, 3 Oct. 2008, 29 Nov. 2011)
   committees: 1988 (Taliban)
   control_date: '2026-02-06'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013

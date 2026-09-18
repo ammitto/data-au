@@ -1,4 +1,3 @@
----
 reference: '3572'
 entity_type: organization
 names:
@@ -10,8 +9,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Jongbaek 1-dong, Rakrang-guyok, Pyongyang, DPRK
-additional_info: KPe.069. Registered owner of the DPRK tanker PAEK MA, which was involved
-  in ship to ship transfer operations for oil in mid-January 2018.
+additional_info: KPe.069. Registered owner of the DPRK tanker PAEK MA, which was involved in ship to ship transfer operations for oil in mid-January 2018.
 sanction:
   listing_information: 'Listed on: 30 Mar. 2018'
   committees: 1718 (DPRK)

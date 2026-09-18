@@ -1,4 +1,3 @@
----
 reference: '8718'
 entity_type: organization
 names:
@@ -20,12 +19,10 @@ names:
 address: 3, Blagoveschenskaya Ul., Vologda, 160001, Russia
 additional_info: 'Website: https://severgazbank.ru/'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Russia)
   control_date: '2026-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

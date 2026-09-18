@@ -1,4 +1,3 @@
----
 reference: '7633'
 entity_type: person
 names:
@@ -21,18 +20,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Previously listed under 'Ukraine criteria' - Autonomous Sanctions
-  (Designated Persons and Entities and Declared Persons – Ukraine) Amendment List
-  2017 (No 2) [F2017L01118]; New listing start date 27 Aug 2023
+additional_info: Previously listed under 'Ukraine criteria' - Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Ukraine) Amendment List 2017 (No 2) [F2017L01118]; New listing start date 27 Aug 2023
 sanction:
-  listing_information: 'Instrument of first designation: Autonomous Sanctions (Designated
-    Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10)
-    Instrument 2023'
+  listing_information: 'Instrument of first designation: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2023'
   committees: Autonomous (Russia)
   control_date: '2023-08-27'
-  instrument: 'Instrument of first designation: Autonomous Sanctions (Designated Persons
-    and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument
-    2023'
+  instrument: 'Instrument of first designation: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2023'
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

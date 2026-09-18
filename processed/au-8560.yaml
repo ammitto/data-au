@@ -1,12 +1,10 @@
----
 reference: '8560'
 entity_type: organization
 names:
 - text: SEPANIR
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.064. Designation: Owned or controlled by, or acting on behalf
-  of, KAA.'
+additional_info: 'IRe.064. Designation: Owned or controlled by, or acting on behalf of, KAA.'
 sanction:
   listing_information: Listed by the 1737 Committee on 9 June 2010.
   committees: 1737 (Iran)

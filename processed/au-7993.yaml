@@ -1,13 +1,10 @@
----
 reference: '7993'
 entity_type: person
 names:
 - text: ABDEL RAHMAN JUMA BARKALLA
   name_type: Primary Name
   script: Latn
-additional_info: 'SDi.005.  Designation: Rapid Support Forces (RSF) Major General
-  and West Darfur Commander. Passport no: Sudan number P07834700 National identification
-  no: Sudan 21052659309. Other information: Gender: Male'
+additional_info: 'SDi.005.  Designation: Rapid Support Forces (RSF) Major General and West Darfur Commander. Passport no: Sudan number P07834700 National identification no: Sudan 21052659309. Other information: Gender: Male'
 sanction:
   listing_information: Listed by the 1591 Committee
   committees: 1591 (Sudan)

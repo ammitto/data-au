@@ -1,4 +1,3 @@
----
 reference: '2733'
 entity_type: person
 names:
@@ -25,16 +24,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Former Commander of the Western Military District (appointed in November
-  2015).  Actively involved in shaping and implementing the military campaign of the
-  Russian forces in Ukraine.  Deputy Minister of Defence since July 2018.
+additional_info: Former Commander of the Western Military District (appointed in November 2015).  Actively involved in shaping and implementing the military campaign of the Russian forces in Ukraine.  Deputy Minister of Defence since July 2018.
 sanction:
-  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March
-    2021 and 10 June 2023
+  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
   committees: Autonomous (Russia)
   control_date: '2023-06-10'
-  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and
-    10 June 2023
+  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

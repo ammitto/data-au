@@ -1,14 +1,11 @@
----
 reference: '3560'
 entity_type: organization
 names:
 - text: FIRST OIL JV CO LTD
   name_type: Primary Name
   script: Latn
-address: Jongbaek 1-dong, Rakrang-guyok, Pyongyang, Democratic People's Republic of
-  Korea
-additional_info: 'KPe.057. Owner of the DPRK tanker PAEK MA, which was involved in
-  ship-to-ship transfer operations for oil in mid-January 2018. IMO number: 5963351.'
+address: Jongbaek 1-dong, Rakrang-guyok, Pyongyang, Democratic People's Republic of Korea
+additional_info: 'KPe.057. Owner of the DPRK tanker PAEK MA, which was involved in ship-to-ship transfer operations for oil in mid-January 2018. IMO number: 5963351.'
 sanction:
   listing_information: 'Listed on: 30 Mar. 2018 (amended on 26 Jul. 2022)'
   committees: 1718 (DPRK)

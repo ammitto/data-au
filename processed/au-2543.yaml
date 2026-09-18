@@ -1,4 +1,3 @@
----
 reference: '2543'
 entity_type: person
 names:
@@ -29,12 +28,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Abdul Manan Chowk, Pashtunabad, Quetta, Baluchistan Province
-additional_info: TAi.163 Pakistan passport number BP4199631 expires on 25 June 2014,
-  officially cancelled as of 2013; Pakistan National Identification number 5440005229635,
-  officially cancelled as of 2013; co-owner of Haji Khairullah Haji Sattar Money Exchange
-  (TE.H.1.12.) and associated also with Abdul Satar Abdul Manan (TI.A.162.12.). Belongs
-  to Barakzai tribe.  Father's name is Haji Khudai Nazar.  Alternative father's name
-  is Nazar Mohammad.
+additional_info: TAi.163 Pakistan passport number BP4199631 expires on 25 June 2014, officially cancelled as of 2013; Pakistan National Identification number 5440005229635, officially cancelled as of 2013; co-owner of Haji Khairullah Haji Sattar Money Exchange (TE.H.1.12.) and associated also with Abdul Satar Abdul Manan (TI.A.162.12.). Belongs to Barakzai tribe.  Father's name is Haji Khudai Nazar.  Alternative father's name is Nazar Mohammad.
 sanction:
   listing_information: Listed on 29 June 2012 (amended on 11 Feb. 2014)
   committees: 1988 (Taliban)

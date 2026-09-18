@@ -1,4 +1,3 @@
----
 reference: '3099'
 entity_type: person
 names:
@@ -42,12 +41,7 @@ names:
   script: Latn
   alias_strength: Weak
 address: Jonglei State, Sudan/South Sudan
-additional_info: 'SSi.002 Title: Major General. Designation: Chief of General Staff,
-  SPLA in Opposition. Is the SPLM-IO Chief of General Staff and was previously the
-  commander of opposition forces in Jonglei State. His forces conducted an early February
-  2015 attack in Jonglei State, and as of March 2015, he had tried to destroy the
-  peace in Jonglei State through attacks on the civilian population.  Photograph available
-  for inclusion in the INTERPOL-UN Security Council Special Notice.'
+additional_info: 'SSi.002 Title: Major General. Designation: Chief of General Staff, SPLA in Opposition. Is the SPLM-IO Chief of General Staff and was previously the commander of opposition forces in Jonglei State. His forces conducted an early February 2015 attack in Jonglei State, and as of March 2015, he had tried to destroy the peace in Jonglei State through attacks on the civilian population.  Photograph available for inclusion in the INTERPOL-UN Security Council Special Notice.'
 sanction:
   listing_information: 'Listed on: 1 Jul. 2015 (amended on 3 Nov. 2016)'
   committees: 2206 (South Sudan)

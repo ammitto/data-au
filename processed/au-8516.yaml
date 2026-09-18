@@ -1,4 +1,3 @@
----
 reference: '8516'
 entity_type: organization
 names:
@@ -9,9 +8,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-additional_info: 'IRe.020. Designation: Khatam al-Anbiya (KAA) subsidiary. Fater has
-  worked with foreign suppliers, likely on behalf of other KAA companies on IRGC projects
-  in Iran.'
+additional_info: 'IRe.020. Designation: Khatam al-Anbiya (KAA) subsidiary. Fater has worked with foreign suppliers, likely on behalf of other KAA companies on IRGC projects in Iran.'
 sanction:
   listing_information: Listed by the 1737 Committee on 9 June 2010.
   committees: 1737 (Iran)

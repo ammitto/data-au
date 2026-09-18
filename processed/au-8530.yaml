@@ -1,17 +1,20 @@
----
 reference: '8530'
 entity_type: organization
 names:
 - text: KAVEH CUTTING TOOLS COMPANY
   name_type: Primary Name
   script: Latn
-address: "a) 3rd Km of Khalaj Road, Seyyedi Street, Mashad, 91638, Iran (Islamic Republic
-  of) \n\nb) Km 4 of Khalaj Road, End of Seyedi Street, Mashad, Iran (Islamic Republic
-  of) \n\nc) P.O. Box 91735-549, Mashad, Iran (Islamic Republic of) \n\nd) Khalaj
-  Rd., End of Seyyedi Alley, Mashad, Iran (Islamic Republic of) \n\ne) Moqan St.,
-  Pasdaran St., Pasdaran Cross Rd., Tehran, Iran (Islamic Republic of)"
-additional_info: 'IRe.034. Designation: Owned or controlled by, or acts on behalf
-  of, DIO.'
+address: |-
+  a) 3rd Km of Khalaj Road, Seyyedi Street, Mashad, 91638, Iran (Islamic Republic of) 
+
+  b) Km 4 of Khalaj Road, End of Seyedi Street, Mashad, Iran (Islamic Republic of) 
+
+  c) P.O. Box 91735-549, Mashad, Iran (Islamic Republic of) 
+
+  d) Khalaj Rd., End of Seyyedi Alley, Mashad, Iran (Islamic Republic of) 
+
+  e) Moqan St., Pasdaran St., Pasdaran Cross Rd., Tehran, Iran (Islamic Republic of)
+additional_info: 'IRe.034. Designation: Owned or controlled by, or acts on behalf of, DIO.'
 sanction:
   listing_information: Listed by the 1737 Committee on 9 June 2010.
   committees: 1737 (Iran)

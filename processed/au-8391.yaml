@@ -1,4 +1,3 @@
----
 reference: '8391'
 entity_type: organization
 names:
@@ -9,15 +8,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 196006 St Petersburg, Internal Territory of the City, Moskovskaya
-  Zastava Municipal District, Tsvetochnaya St., 16 Litera P, Room 28
+additional_info: 196006 St Petersburg, Internal Territory of the City, Moskovskaya Zastava Municipal District, Tsvetochnaya St., 16 Litera P, Room 28
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Thematic Sanctions) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Thematic Sanctions) Instrument 2022
   committees: Autonomous (Thematic - Cyber)
   control_date: '2025-11-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
-    Sanctions) Amendment (No. 3) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 3) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

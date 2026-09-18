@@ -1,4 +1,3 @@
----
 reference: '7463'
 entity_type: organization
 names:
@@ -16,12 +15,10 @@ names:
 address: Akhtubinsk, Astrakhan region, 416500, Russia 
 additional_info: Russian government entity 
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 2) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

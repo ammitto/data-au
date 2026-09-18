@@ -1,4 +1,3 @@
----
 reference: '2685'
 entity_type: person
 names:
@@ -21,13 +20,9 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Former Chairman of the Commonwealth of Independent States Committee
-  of the State Duma.  Actively supported use of Russian Armed Forces in Ukraine and
-  the annexation of Crimea.  Currently Chairman of the State Duma International Affairs
-  Committee
+additional_info: Former Chairman of the Commonwealth of Independent States Committee of the State Duma.  Actively supported use of Russian Armed Forces in Ukraine and the annexation of Crimea.  Currently Chairman of the State Duma International Affairs Committee
 sanction:
-  listing_information: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June
-    2023)
+  listing_information: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June 2023)
   committees: Autonomous (Ukraine)
   control_date: '2023-06-10'
   instrument: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June 2023)

@@ -1,13 +1,10 @@
----
 reference: '8551'
 entity_type: organization
 names:
 - text: QODS AERONAUTICS INDUSTRIES
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.055. Designation: Produces unmanned aerial vehicles (UAVs),
-  parachutes, para-gliders, para-motors, etc. IRGC has boasted of using these products
-  as part of its asymmetric warfare doctrine.'
+additional_info: 'IRe.055. Designation: Produces unmanned aerial vehicles (UAVs), parachutes, para-gliders, para-motors, etc. IRGC has boasted of using these products as part of its asymmetric warfare doctrine.'
 sanction:
   listing_information: Listed by the 1737 Committee on 24 March 2007.
   committees: 1737 (Iran)

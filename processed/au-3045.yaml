@@ -1,4 +1,3 @@
----
 reference: '3045'
 entity_type: person
 names:
@@ -38,12 +37,10 @@ additional_info: |-
   Kuwait, number 273030601222. A sentence of imprisonment for 15 years was issued against him by Kuwait in absentia on 30 July 2015. Provides support to Al-Qaida (QDe.004) and Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115), in Syria and Iraq.
   Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
 sanction:
-  listing_information: 'Listed on: 23 Sep. 2014 (amended on 15 Feb. 2017, 1 May 2019,
-    2 February 2023)'
+  listing_information: 'Listed on: 23 Sep. 2014 (amended on 15 Feb. 2017, 1 May 2019, 2 February 2023)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
-    Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

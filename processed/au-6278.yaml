@@ -1,22 +1,15 @@
----
 reference: '6278'
 entity_type: person
 names:
 - text: Yury Yakovlevich CHAIKA
   name_type: Primary Name
   script: Latn
-additional_info: Non-permanent member of the Security Council of the Russian Federation;
-  Presidential Plenipotentiary Envoy to the North Caucasian Federal District (as at
-  February 2022)
+additional_info: Non-permanent member of the Security Council of the Russian Federation; Presidential Plenipotentiary Envoy to the North Caucasian Federal District (as at February 2022)
 sanction:
-  listing_information: 'Instrument of first designation and declaration: Autonomous
-    Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment
-    (No. 1) Instrument 2022'
+  listing_information: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No. 1) Instrument 2022'
   committees: Autonomous (Ukraine)
   control_date: '2022-02-25'
-  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions
-    (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No.
-    1) Instrument 2022'
+  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No. 1) Instrument 2022'
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

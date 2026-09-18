@@ -1,19 +1,15 @@
----
 reference: '6724'
 entity_type: person
 names:
 - text: Maria Vladimirovna ZAKHAROVA
   name_type: Primary Name
   script: Latn
-additional_info: Director of the Information and Press Department of the Ministry
-  of Foreign Affairs
+additional_info: Director of the Information and Press Department of the Ministry of Foreign Affairs
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 5) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 5) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-03-08'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 5) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 5) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

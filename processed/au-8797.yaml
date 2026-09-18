@@ -1,4 +1,3 @@
----
 reference: '8797'
 entity_type: person
 names:
@@ -14,10 +13,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Dubai, United Arab Emirates
-additional_info: 'SDi.011. Designation: Procurement Director of the Rapid Support
-  Forces. Passport no: a) Sudan number B00017334 b) Sudan number B00024943, expires
-  27 Sep 2031 c) Kenya number AK1586127. National identification number: United Arab
-  Emirates 784199014302485. Gender: Male.'
+additional_info: 'SDi.011. Designation: Procurement Director of the Rapid Support Forces. Passport no: a) Sudan number B00017334 b) Sudan number B00024943, expires 27 Sep 2031 c) Kenya number AK1586127. National identification number: United Arab Emirates 784199014302485. Gender: Male.'
 sanction:
   listing_information: Listed by the 1591 Committee on 28 April 2026.
   committees: 1591 (Sudan)

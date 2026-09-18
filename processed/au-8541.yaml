@@ -1,12 +1,10 @@
----
 reference: '8541'
 entity_type: organization
 names:
 - text: NIRU BATTERY MANUFACTURING COMPANY
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.045. Designation: Subsidiary of DIO. Its role is to manufacture
-  power units for the Iranian military including missile systems.'
+additional_info: 'IRe.045. Designation: Subsidiary of DIO. Its role is to manufacture power units for the Iranian military including missile systems.'
 sanction:
   listing_information: Listed by the 1737 Committee on 3 March 2008.
   committees: 1737 (Iran)

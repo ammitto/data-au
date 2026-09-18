@@ -1,4 +1,3 @@
----
 reference: '3281'
 entity_type: organization
 names:
@@ -18,8 +17,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Pyongyang, DPRK
-additional_info: KPe.049. Koryo Credit Development Bank operates in the financial
-  services industry in the DPRK's economy.
+additional_info: KPe.049. Koryo Credit Development Bank operates in the financial services industry in the DPRK's economy.
 sanction:
   listing_information: 'Listed on: 4 Aug. 2017'
   committees: 1718 (DPRK)

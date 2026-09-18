@@ -1,4 +1,3 @@
----
 reference: '8565'
 entity_type: organization
 names:
@@ -10,8 +9,7 @@ names:
   script: Latn
   alias_strength: Weak
 address: Southeast Tehran, Iran (Islamic Republic of)
-additional_info: 'IRe.069. Designation: Owned or controlled by, or acts on behalf
-  of, SBIG.'
+additional_info: 'IRe.069. Designation: Owned or controlled by, or acts on behalf of, SBIG.'
 sanction:
   listing_information: Listed by the 1737 Committee on 9 June 2010.
   committees: 1737 (Iran)

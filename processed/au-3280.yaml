@@ -1,4 +1,3 @@
----
 reference: '3280'
 entity_type: organization
 names:
@@ -10,8 +9,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Central District,  Pyongyang, DPRK
-additional_info: KPe.048. The Korean National Insurance Company is a DPRK financial
-  and insurance company and is affiliated with Office 39.
+additional_info: KPe.048. The Korean National Insurance Company is a DPRK financial and insurance company and is affiliated with Office 39.
 sanction:
   listing_information: 'Listed on: 4 Aug. 2017'
   committees: 1718 (DPRK)

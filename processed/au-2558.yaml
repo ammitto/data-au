@@ -1,4 +1,3 @@
----
 reference: '2558'
 entity_type: organization
 names:
@@ -9,15 +8,12 @@ names:
   name_type: Original Script
   script: Arab
 address: a) Mali b) Algeria
-additional_info: 'Associated with The Organization of Al-Qaida in the Islamic Maghreb,
-  (QDe.014), Al Mourabitoun (QDe.141), and Mokhtar Belmokhtar (QDi.136). Active in
-  the Sahel/Sahara region. Review concluded on: 15 Nov. 2021, 31 Dec. 2025'
+additional_info: 'Associated with The Organization of Al-Qaida in the Islamic Maghreb, (QDe.014), Al Mourabitoun (QDe.141), and Mokhtar Belmokhtar (QDi.136). Active in the Sahel/Sahara region. Review concluded on: 15 Nov. 2021, 31 Dec. 2025'
 sanction:
   listing_information: 'Listed on: 5 Dec. 2012 (amended on 15 Nov. 2021, 18 Aug. 2026)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-08-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
-    Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: true

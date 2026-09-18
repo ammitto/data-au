@@ -1,4 +1,3 @@
----
 reference: '8704'
 entity_type: organization
 names:
@@ -16,12 +15,10 @@ names:
 address: 10A, 60-letiya Oktyabrya Avenue, Moscow, Russia, 117292
 additional_info: 'Website: http://www.nrb.ru/'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Russia)
   control_date: '2026-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

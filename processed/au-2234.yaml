@@ -1,4 +1,3 @@
----
 reference: '2234'
 entity_type: person
 names:
@@ -13,9 +12,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'Last known position: President of the Yarmouk Private university
-  in Syria. Prime Minister of the Syrian Arab Republic from April 2011 to June 2012.
-  Minister of Agriculture between 2003 and 2011.'
+additional_info: 'Last known position: President of the Yarmouk Private university in Syria. Prime Minister of the Syrian Arab Republic from April 2011 to June 2012. Minister of Agriculture between 2003 and 2011.'
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Instrument of first designation Autonomous Sanctions (Designated Persons and Entities and

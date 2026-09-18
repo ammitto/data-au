@@ -1,12 +1,10 @@
----
 reference: '8548'
 entity_type: organization
 names:
 - text: PARS TRASH COMPANY
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.052. Designation: Involved in centrifuge programme, identified
-  in IAEA reports.'
+additional_info: 'IRe.052. Designation: Involved in centrifuge programme, identified in IAEA reports.'
 sanction:
   listing_information: Listed by the 1737 Committee on 23 December 2006.
   committees: 1737 (Iran)

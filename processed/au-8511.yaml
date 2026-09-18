@@ -1,14 +1,10 @@
----
 reference: '8511'
 entity_type: organization
 names:
-- text: ESFAHAN NUCLEAR FUEL RESEARCH AND PRODUCTION CENTRE (NFRPC) AND ESFAHAN NUCLEAR
-    TECHNOLOGY CENTRE (ENTC)
+- text: ESFAHAN NUCLEAR FUEL RESEARCH AND PRODUCTION CENTRE (NFRPC) AND ESFAHAN NUCLEAR TECHNOLOGY CENTRE (ENTC)
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.015. Designation: Parts of the Atomic Energy Organisation of
-  Iran''s (AEOI) Nuclear Fuel Production and Procurement Company, which is involved
-  in enrichment-related activities. AEOI is designated under resolution 1737 (2006).'
+additional_info: 'IRe.015. Designation: Parts of the Atomic Energy Organisation of Iran''s (AEOI) Nuclear Fuel Production and Procurement Company, which is involved in enrichment-related activities. AEOI is designated under resolution 1737 (2006).'
 sanction:
   listing_information: Listed by the 1737 Committee on 24 March 2007.
   committees: 1737 (Iran)

@@ -1,20 +1,16 @@
----
 reference: '8692'
 entity_type: organization
 names:
 - text: Bank Iturup Limited Liability Company
   name_type: Primary Name
   script: Latn
-address: Pr-kt Kommunisticheskii D. 32, Yuzhno-Sakhalinsk, Sakhalin Region, 693020,
-  Russia
+address: Pr-kt Kommunisticheskii D. 32, Yuzhno-Sakhalinsk, Sakhalin Region, 693020, Russia
 additional_info: 'Website: https://iturupbank.ru'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Russia)
   control_date: '2026-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

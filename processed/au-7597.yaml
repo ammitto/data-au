@@ -1,4 +1,3 @@
----
 reference: '7597'
 entity_type: organization
 names:
@@ -20,12 +19,10 @@ names:
 address: 35 Bolshaya, Tatarskaya Street, Bldg. 5, 115184, Moscow, Russia
 additional_info: 'Company identification number: 1037719005873'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-07-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 8) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

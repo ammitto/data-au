@@ -1,4 +1,3 @@
----
 reference: '7584'
 entity_type: organization
 names:
@@ -12,12 +11,10 @@ names:
 address: Ul. Zavodskaya D. 10, Balakirevo, Aleksandrovsky District, 601630, Russia
 additional_info: 'Company identification number: 1023303153752'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-07-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 8) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

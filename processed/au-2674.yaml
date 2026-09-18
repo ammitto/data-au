@@ -1,4 +1,3 @@
----
 reference: '2674'
 entity_type: person
 names:
@@ -26,18 +25,12 @@ names:
   script: Latn
   alias_strength: Strong
 address: a) Birao, Central African Republic b) Sudan
-additional_info: 'CFi.002 Designation: a) General b) Minister for Security c) Director
-  General of the "Extraordinary Committee for the Defence of Democratic Achievements.
-  Passport No: a) D00001184 (CAR passport) b) no: P04838205, issued on 10 June 2018,
-  (issued in Bahri, Sudan.  Expires on 9 June 2023. Passport issued under the name
-  of Mohamed Adam Brema Abdallah). National identification no: a) 202-2708-8368 (Sudan).'
+additional_info: 'CFi.002 Designation: a) General b) Minister for Security c) Director General of the "Extraordinary Committee for the Defence of Democratic Achievements. Passport No: a) D00001184 (CAR passport) b) no: P04838205, issued on 10 June 2018, (issued in Bahri, Sudan.  Expires on 9 June 2023. Passport issued under the name of Mohamed Adam Brema Abdallah). National identification no: a) 202-2708-8368 (Sudan).'
 sanction:
-  listing_information: Listed on 9 May 2014 (amended on 4 Nov. 2014, 1 Mar. 2019,
-    6 Sept. 2019)
+  listing_information: Listed on 9 May 2014 (amended on 4 Nov. 2014, 1 Mar. 2019, 6 Sept. 2019)
   committees: 2127 (Central African Republic)
   control_date: '2019-09-09'
-  instrument: Charter of the United Nations (Sanctions—Central African Republic) Regulation
-    2014
+  instrument: Charter of the United Nations (Sanctions—Central African Republic) Regulation 2014
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

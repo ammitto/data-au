@@ -1,4 +1,3 @@
----
 reference: '2573'
 entity_type: organization
 names:
@@ -25,16 +24,13 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: a) North Kivu, Democratic Republic of the Congo b) South Kivu, Democratic
-  Republic of the Congo
-additional_info: CDe.005 Fdlr@fmx.de; fldrrse@yahoo.fr; fdlr@gmx.net; fdlrsrt@gmail.com;
-  humura2020@gmail.com.
+address: a) North Kivu, Democratic Republic of the Congo b) South Kivu, Democratic Republic of the Congo
+additional_info: CDe.005 Fdlr@fmx.de; fldrrse@yahoo.fr; fdlr@gmx.net; fdlrsrt@gmail.com; humura2020@gmail.com.
 sanction:
   listing_information: Listed by 1533 Committee on 31 Dec. 2012,
   committees: 1533 (Democratic People’s Republic of the Congo)
   control_date: '2025-12-11'
-  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
-    Congo) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the Congo) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

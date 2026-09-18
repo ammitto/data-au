@@ -1,4 +1,3 @@
----
 reference: '2731'
 entity_type: person
 names:
@@ -13,12 +12,10 @@ additional_info: |-
   Former Governor of the Ukrainian city of Sevastopol.  Made public statements supporting the illegal annexation of Crimea and Sevastopol and for Sevastopol to become the Southern capital of the Russian Federation.
   Former Deputy Minister of Industry and Trade of the Russian Federation.
 sanction:
-  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March
-    2021 and 10 June 2023
+  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
   committees: Autonomous (Russia)
   control_date: '2023-06-10'
-  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and
-    10 June 2023
+  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

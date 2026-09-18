@@ -1,9 +1,7 @@
----
 reference: '8136'
 entity_type: organization
 names:
-- text: Minsk Mechanical Works Named After S.I. Vavilov - Management Company of BelOMO
-    Holding Open Joint Stock Company
+- text: Minsk Mechanical Works Named After S.I. Vavilov - Management Company of BelOMO Holding Open Joint Stock Company
   name_type: Primary Name
   script: Latn
 - text: BelOMA
@@ -21,12 +19,10 @@ names:
 address: Makayenka Street, 23, Minsk, Misnk Region 220023 Belarus
 additional_info: https://www.belomo.by/
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
   control_date: '2025-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

@@ -1,12 +1,10 @@
----
 reference: '7279'
 entity_type: person
 names:
 - text: Marat Shakirzyanovich KHUSNULLIN
   name_type: Primary Name
   script: Latn
-additional_info: Deputy Prime Minister of the Russian Federation for Construction
-  and Regional Development
+additional_info: Deputy Prime Minister of the Russian Federation for Construction and Regional Development
 sanction:
   listing_information: |-
     Instrument of first designation

@@ -1,12 +1,10 @@
----
 reference: '7577'
 entity_type: organization
 names:
 - text: The National Research Centre Kurchatov Institute
   name_type: Primary Name
   script: Latn
-- text: Central Research Institute of Structural Materials Prometey Named by I.V.
-    Gorynin of National Research Centre Kurchatov Institute
+- text: Central Research Institute of Structural Materials Prometey Named by I.V. Gorynin of National Research Centre Kurchatov Institute
   name_type: Alias
   script: Latn
   alias_strength: Strong
@@ -21,12 +19,10 @@ names:
 address: 49 Shpalernaya Street, Saint Petersburg, 191015, Russia
 additional_info: http://www.crism-prometey.ru/
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-07-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 8) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

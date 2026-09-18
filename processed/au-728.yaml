@@ -1,4 +1,3 @@
----
 reference: '728'
 entity_type: person
 names:
@@ -24,9 +23,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: a) Al-Dawar Street, Bludan, Syrian Arab Republic b) Damascus, Syrian Arab
-  Republic c) Mosul, Iraq d) Wadi Al-Hawi, Iraq e) Dubai, United Arab Emirates f)
-  Al-Hasaka, Syrian Arab Republic
+address: a) Al-Dawar Street, Bludan, Syrian Arab Republic b) Damascus, Syrian Arab Republic c) Mosul, Iraq d) Wadi Al-Hawi, Iraq e) Dubai, United Arab Emirates f) Al-Hasaka, Syrian Arab Republic
 additional_info: IQi.080
 sanction:
   listing_information: Listed by the 1518 Committee

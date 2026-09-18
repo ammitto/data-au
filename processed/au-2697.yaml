@@ -1,4 +1,3 @@
----
 reference: '2697'
 entity_type: person
 names:
@@ -25,14 +24,9 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: One of the founders of Gunvor, one of the world’s largest independent
-  commodity trading companies involved in the oil and energy markets.  Engaged in
-  activities in the energy sector that have been directly linked to Putin, who has
-  investments in Gunvor and might have access to Gunvor funds.  Owner and manager
-  of the Volga Group, one of the largest investment groups in Russia
+additional_info: One of the founders of Gunvor, one of the world’s largest independent commodity trading companies involved in the oil and energy markets.  Engaged in activities in the energy sector that have been directly linked to Putin, who has investments in Gunvor and might have access to Gunvor funds.  Owner and manager of the Volga Group, one of the largest investment groups in Russia
 sanction:
-  listing_information: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June
-    2023)
+  listing_information: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June 2023)
   committees: Autonomous (Russia)
   control_date: '2023-06-10'
   instrument: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June 2023)

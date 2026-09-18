@@ -1,12 +1,13 @@
----
 reference: '8568'
 entity_type: organization
 names:
 - text: SOUTH SHIPPING LINE IRAN (SSL)
   name_type: Primary Name
   script: Latn
-address: "a) Qaem Magham Farahani St., Tehran, Iran (Islamic Republic of) \n\nb) Apt.
-  No. 7, 3rd Floor, No. 2, 4th Alley, Gandi Ave., Tehran, Iran (Islamic Republic of)"
+address: |-
+  a) Qaem Magham Farahani St., Tehran, Iran (Islamic Republic of) 
+
+  b) Apt. No. 7, 3rd Floor, No. 2, 4th Alley, Gandi Ave., Tehran, Iran (Islamic Republic of)
 additional_info: IRe.072.
 sanction:
   listing_information: Listed by the 1737 Committee on 9 June 2010.

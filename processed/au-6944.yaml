@@ -1,4 +1,3 @@
----
 reference: '6944'
 entity_type: organization
 names:
@@ -8,12 +7,10 @@ names:
 address: 2 Novaya Basmannaya Street, Moscow, 107174, Russia
 additional_info: www.russianrailways.com
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Ukraine) Amendment (No. 12) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Ukraine) Amendment (No. 12) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-04-14'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Ukraine)
-    Amendment (No. 12) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Ukraine) Amendment (No. 12) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

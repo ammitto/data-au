@@ -1,4 +1,3 @@
----
 reference: '2292'
 entity_type: person
 names:
@@ -17,8 +16,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'Last known position: Brigadier General and Presidential Adviser
-  on Security Affairs.'
+additional_info: 'Last known position: Brigadier General and Presidential Adviser on Security Affairs.'
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Instrument of first

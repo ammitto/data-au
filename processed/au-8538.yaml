@@ -1,4 +1,3 @@
----
 reference: '8538'
 entity_type: organization
 names:
@@ -9,12 +8,11 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-address: "a) P.O. Box 16315-189, Tehran, Iran (Islamic Republic of) \n\nb) Located
-  on the west side of Dabestan Street, Abbas Abad District, Tehran, Iran (Islamic
-  Republic of)"
-additional_info: 'IRe.042. Designation: MODLEX sells Iranian-produced arms to customers
-  around the world in contravention of resolution 1747 (2007), which prohibits Iran
-  from selling arms or related materiel.'
+address: |-
+  a) P.O. Box 16315-189, Tehran, Iran (Islamic Republic of) 
+
+  b) Located on the west side of Dabestan Street, Abbas Abad District, Tehran, Iran (Islamic Republic of)
+additional_info: 'IRe.042. Designation: MODLEX sells Iranian-produced arms to customers around the world in contravention of resolution 1747 (2007), which prohibits Iran from selling arms or related materiel.'
 sanction:
   listing_information: Listed by the 1737 Committee on 9 June 2010
   committees: 1737 (Iran)

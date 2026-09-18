@@ -1,4 +1,3 @@
----
 reference: '7504'
 entity_type: person
 names:
@@ -29,15 +28,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-additional_info: Brigadier-General, Commander of the Sarallah Headquarters of the
-  Islamic Revolutionary Guard Corps (IRGC)
+additional_info: Brigadier-General, Commander of the Sarallah Headquarters of the Islamic Revolutionary Guard Corps (IRGC)
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Thematic - Human Rights)
   control_date: '2023-03-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
-    Sanctions) Amendment (No. 2) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

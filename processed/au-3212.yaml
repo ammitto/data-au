@@ -1,4 +1,3 @@
----
 reference: '3212'
 entity_type: organization
 names:
@@ -13,10 +12,8 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: Segori-dong, Gyongheung St. Potonggang District, Pyongyang, Democratic People's
-  Republic of Korea
-additional_info: 'KPe.035. Daesong Bank is owned and controlled by Office 39 of the
-  Korea Workers’ Party. SWIFT/BIC: KDBKKPPY'
+address: Segori-dong, Gyongheung St. Potonggang District, Pyongyang, Democratic People's Republic of Korea
+additional_info: 'KPe.035. Daesong Bank is owned and controlled by Office 39 of the Korea Workers’ Party. SWIFT/BIC: KDBKKPPY'
 sanction:
   listing_information: 'Listed on: 30 Nov. 2016'
   committees: 1718 (DPRK)

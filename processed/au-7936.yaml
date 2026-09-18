@@ -1,4 +1,3 @@
----
 reference: '7936'
 entity_type: person
 names:
@@ -41,16 +40,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Deputy Head the Russian Federal Penitentiary Service (FSIN); Formerly
-  the Regional Head of the Russian Federal Penitentiary Service (FSIN) in Vladimir
-  Region until March 2023; National Tax No. 382101379684
+additional_info: Deputy Head the Russian Federal Penitentiary Service (FSIN); Formerly the Regional Head of the Russian Federal Penitentiary Service (FSIN) in Vladimir Region until March 2023; National Tax No. 382101379684
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2024
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2024
   committees: Autonomous (Thematic - Human Rights)
   control_date: '2024-02-26'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
-    Sanctions) Amendment (No. 2) Instrument 2024
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

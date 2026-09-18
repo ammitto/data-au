@@ -1,4 +1,3 @@
----
 reference: '6246'
 entity_type: person
 names:
@@ -17,18 +16,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: So-called ‘Head of the Donetsk People's Republic’ following the so-called
-  elections of 11 November 2018. Former so-called Deputy Chairman of the ‘People's
-  Council’ of the so-called ‘Donetsk People's Republic’. Former Speaker of the Donetsk
-  People's Republic "parliament", the People's Council. Donetsk People's Republic's
-  representative in the Contact Group for the Minsk talks
+additional_info: So-called ‘Head of the Donetsk People's Republic’ following the so-called elections of 11 November 2018. Former so-called Deputy Chairman of the ‘People's Council’ of the so-called ‘Donetsk People's Republic’. Former Speaker of the Donetsk People's Republic "parliament", the People's Council. Donetsk People's Republic's representative in the Contact Group for the Minsk talks
 sanction:
-  listing_information: Listed on 19 Jun. 2014 (re-listed on 16 Jun. 2017, 10 June
-    2020 and 10 June 2023)
+  listing_information: Listed on 19 Jun. 2014 (re-listed on 16 Jun. 2017, 10 June 2020 and 10 June 2023)
   committees: Autonomous (Ukraine)
   control_date: '2023-06-10'
-  instrument: Listed on 19 Jun. 2014 (re-listed on 16 Jun. 2017, 10 June 2020 and
-    10 June 2023)
+  instrument: Listed on 19 Jun. 2014 (re-listed on 16 Jun. 2017, 10 June 2020 and 10 June 2023)
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

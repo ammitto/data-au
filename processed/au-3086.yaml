@@ -1,4 +1,3 @@
----
 reference: '3086'
 entity_type: person
 names:
@@ -29,10 +28,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Chaman, Baluchistan Province, Pakistan.
-additional_info: 'TAi.173 Title: Haji. Passport no.: Pakistani passport number AA3829182.
-  National identification no.: Pakistani national identification number 5420124679187.
-  Owner of Haji Basir and Zarjmil Company Hawala (TAe.014), which provides financial
-  services to Taliban in the region.'
+additional_info: 'TAi.173 Title: Haji. Passport no.: Pakistani passport number AA3829182. National identification no.: Pakistani national identification number 5420124679187. Owner of Haji Basir and Zarjmil Company Hawala (TAe.014), which provides financial services to Taliban in the region.'
 sanction:
   listing_information: Listed on 27 Mar. 2015
   committees: 1988 (Taliban)

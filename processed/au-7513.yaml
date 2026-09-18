@@ -1,4 +1,3 @@
----
 reference: '7513'
 entity_type: organization
 names:
@@ -17,15 +16,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-additional_info: Islamic Revolutionary Guard Corps (IRGC) provincial corps operating
-  in Kurdistan province
+additional_info: Islamic Revolutionary Guard Corps (IRGC) provincial corps operating in Kurdistan province
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Thematic - Human Rights)
   control_date: '2023-03-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
-    Sanctions) Amendment (No. 2) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

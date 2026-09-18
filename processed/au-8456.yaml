@@ -1,4 +1,3 @@
----
 reference: '8456'
 entity_type: person
 names:
@@ -9,11 +8,9 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'IRi.004. Designation: a) Vice Admiral b) Chief of IRGC Joint Staff.
-  Position changed.'
+additional_info: 'IRi.004. Designation: a) Vice Admiral b) Chief of IRGC Joint Staff. Position changed.'
 sanction:
-  listing_information: Listed by the 1737 Committee on 24 March 2007 (amended on 17
-    December 2014)
+  listing_information: Listed by the 1737 Committee on 24 March 2007 (amended on 17 December 2014)
   committees: 1737 (Iran)
   control_date: '2025-12-12'
   instrument: Charter of the United Nations (Sanctions - Iran) Regulations 2025

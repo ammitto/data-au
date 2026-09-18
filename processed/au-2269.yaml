@@ -1,4 +1,3 @@
----
 reference: '2269'
 entity_type: organization
 names:
@@ -32,19 +31,18 @@ names:
 address: |-
   Cham Holding Building, Dara’a Highway, P.O. Box 9525,
   Ashrafiyat Sahnaya Area, Syrian Arab Republic
-additional_info: "Cham Holding was owned and operated by Rami MAKHLOUF until 2020.
-  \ \nCham Holding is the largest holding company in Syria.\nTel: +963 11 9962; +963
-  11 668 14000; +963 11 673 1044;\nFax: +963 11 673 1274;\nEmail: info@chamholding.sy;\nWebsite:
-  www.chamholding.sy"
+additional_info: |-
+  Cham Holding was owned and operated by Rami MAKHLOUF until 2020.  
+  Cham Holding is the largest holding company in Syria.
+  Tel: +963 11 9962; +963 11 668 14000; +963 11 673 1044;
+  Fax: +963 11 673 1274;
+  Email: info@chamholding.sy;
+  Website: www.chamholding.sy
 sanction:
-  listing_information: Designated under the Autonomous Sanctions Regulations 2011
-    on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011SYR0021.
-    Relisted on 12 January 2024
+  listing_information: Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011SYR0021. Relisted on 12 January 2024
   committees: Autonomous (Syria)
   control_date: '2024-01-12'
-  instrument: Designated under the Autonomous Sanctions Regulations 2011 on 2 March
-    2012. Formerly listed on the RBA Consolidated List as 2011SYR0021. Relisted on
-    12 January 2024
+  instrument: Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011SYR0021. Relisted on 12 January 2024
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

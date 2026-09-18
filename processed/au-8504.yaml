@@ -1,13 +1,10 @@
----
 reference: '8504'
 entity_type: organization
 names:
 - text: BARZAGANI TEJARAT TAVANMAD SACCAL COMPANIES
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.008. Designation: A subsidiary of Saccal System companies, this
-  company tried to purchase sensitive goods for an entity listed in resolution 1737
-  (2006).'
+additional_info: 'IRe.008. Designation: A subsidiary of Saccal System companies, this company tried to purchase sensitive goods for an entity listed in resolution 1737 (2006).'
 sanction:
   listing_information: Listed by the 1737 Committee on 3 March 2008.
   committees: 1737 (Iran)

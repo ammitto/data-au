@@ -1,4 +1,3 @@
----
 reference: '8000'
 entity_type: person
 names:
@@ -21,12 +20,10 @@ additional_info: |-
   Senior Employee of Zservers
   Passport number: 762246348
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Thematic Sanctions) Amendment (No. 1) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Thematic Sanctions) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Thematic - Cyber)
   control_date: '2025-02-12'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Thematic Sanctions) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Thematic Sanctions) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

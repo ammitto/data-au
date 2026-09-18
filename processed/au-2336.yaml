@@ -1,4 +1,3 @@
----
 reference: '2336'
 entity_type: person
 names:
@@ -29,8 +28,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'Last known position: Major General and Commander of  Operations
-  in Idlib.'
+additional_info: 'Last known position: Major General and Commander of  Operations in Idlib.'
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Instrument of first

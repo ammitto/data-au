@@ -1,4 +1,3 @@
----
 reference: '3446'
 entity_type: organization
 names:
@@ -18,8 +17,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Pyongyang, DPRK
-additional_info: KPe.054. The Ministry of National Defence manages the general administrative
-  and logistical needs of the Korean People's Army.
+additional_info: KPe.054. The Ministry of National Defence manages the general administrative and logistical needs of the Korean People's Army.
 sanction:
   listing_information: 'Listed on: 22 Dec. 2017'
   committees: 1718 (DPRK)

@@ -1,12 +1,10 @@
----
 reference: '8547'
 entity_type: organization
 names:
 - text: PARS AVIATION SERVICES COMPANY
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.051. Designation: Maintains various aircraft, including MI-171,
-  used by IRGC Air Force.'
+additional_info: 'IRe.051. Designation: Maintains various aircraft, including MI-171, used by IRGC Air Force.'
 sanction:
   listing_information: Listed by the 1737 Committee on 24 March 2007.
   committees: 1737 (Iran)

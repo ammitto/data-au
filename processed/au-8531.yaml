@@ -1,13 +1,10 @@
----
 reference: '8531'
 entity_type: organization
 names:
 - text: KAVOSHYAR COMPANY
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.035. Designation: Subsidiary company of AEOI which has sought
-  glass fibres, vacuum chamber furnaces and laboratory equipment for Iran''s nuclear
-  programme.'
+additional_info: 'IRe.035. Designation: Subsidiary company of AEOI which has sought glass fibres, vacuum chamber furnaces and laboratory equipment for Iran''s nuclear programme.'
 sanction:
   listing_information: Listed by the 1737 Committee on 24 March 2007.
   committees: 1737 (Iran)

@@ -1,17 +1,14 @@
----
 reference: '8114'
 entity_type: organization
 names:
-- text: All-Russian Public Organization Society for the Promotion of Russian Historical
-    Development Tsargrad
+- text: All-Russian Public Organization Society for the Promotion of Russian Historical Development Tsargrad
   name_type: Primary Name
   script: Latn
 - text: All-Russian Public Organization Tsargrad
   name_type: Alias
   script: Latn
   alias_strength: Strong
-- text: All-Russian Public Organization Society for the Development of Russian Historical
-    Education Double-Headed Eagle
+- text: All-Russian Public Organization Society for the Development of Russian Historical Education Double-Headed Eagle
   name_type: Alias
   script: Latn
   alias_strength: Strong
@@ -26,12 +23,10 @@ names:
 address: Pereulok Partiyniy, 1, 57, 3, I, 51, Moscow 115093 Russia
 additional_info: Company Identification No. 1167700052618
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
   control_date: '2025-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

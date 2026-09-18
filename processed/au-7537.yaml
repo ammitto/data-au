@@ -1,4 +1,3 @@
----
 reference: '7537'
 entity_type: person
 names:
@@ -13,15 +12,14 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: "Head of the Russian Presidential State-Legal Directorate; Aide to
-  Russian President Putin; \nMember of the Supervisory Board of Rosatom"
+additional_info: |-
+  Head of the Russian Presidential State-Legal Directorate; Aide to Russian President Putin; 
+  Member of the Supervisory Board of Rosatom
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-05-19'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 6) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

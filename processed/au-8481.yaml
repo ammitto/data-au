@@ -1,16 +1,12 @@
----
 reference: '8481'
 entity_type: person
 names:
 - text: MOHAMMAD QANNADI
   name_type: Primary Name
   script: Latn
-additional_info: 'IRi.029. Designation: Vice President for Research and Development
-  of the AEOI. Passport no: a) 20694, issued in Iran (Islamic Republic of) b) A0003044,
-  issued in Iran (Islamic Republic of).'
+additional_info: 'IRi.029. Designation: Vice President for Research and Development of the AEOI. Passport no: a) 20694, issued in Iran (Islamic Republic of) b) A0003044, issued in Iran (Islamic Republic of).'
 sanction:
-  listing_information: Listed by the 1737 Committee on 23 December 2006 (amended on
-    17 December 2014)
+  listing_information: Listed by the 1737 Committee on 23 December 2006 (amended on 17 December 2014)
   committees: 1737 (Iran)
   control_date: '2025-12-12'
   instrument: Charter of the United Nations (Sanctions - Iran) Regulations 2025

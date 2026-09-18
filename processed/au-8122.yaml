@@ -1,9 +1,7 @@
----
 reference: '8122'
 entity_type: organization
 names:
-- text: 27th Central Research Institute of the Ministry of Defence of the Russian
-    Federation
+- text: 27th Central Research Institute of the Ministry of Defence of the Russian Federation
   name_type: Primary Name
   script: Latn
 - text: 27th Scientific Centre
@@ -16,12 +14,10 @@ names:
   alias_strength: Strong
 address: Brigadirskiy Pereulok 13, Moscow 105005 Russia
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
   control_date: '2025-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

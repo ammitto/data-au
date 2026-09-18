@@ -1,4 +1,3 @@
----
 reference: '2204'
 entity_type: person
 names:
@@ -22,22 +21,18 @@ names:
   script: Latn
   alias_strength: Strong
 address: a) South Africa; b) United Arab Emirates
-additional_info: Former head of Cabinet, acting as Muammar Qadhafi’s Chief of Staff.
-  Responsible for Qadhafi regime’s repressive policies by close association and for
-  management of financial entity ultimately controlled by Qadhafi family.
+additional_info: Former head of Cabinet, acting as Muammar Qadhafi’s Chief of Staff. Responsible for Qadhafi regime’s repressive policies by close association and for management of financial entity ultimately controlled by Qadhafi family.
 sanction:
-  listing_information: "Designated under the Autonomous Sanctions Regulations 2011
-    on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011LBY0030.
-    \nInstrument of first designation and declaration: Autonomous Sanctions (Designated
-    Persons and Entities and Declared Persons – Libya) List 2012 [F2012L00481]\nRelisting
-    on 12 January 2024."
+  listing_information: |-
+    Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011LBY0030. 
+    Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Libya) List 2012 [F2012L00481]
+    Relisting on 12 January 2024.
   committees: Autonomous (Libya)
   control_date: '2024-01-12'
-  instrument: "Designated under the Autonomous Sanctions Regulations 2011 on 2 March
-    2012. Formerly listed on the RBA Consolidated List as 2011LBY0030. \nInstrument
-    of first designation and declaration: Autonomous Sanctions (Designated Persons
-    and Entities and Declared Persons – Libya) List 2012 [F2012L00481]\nRelisting
-    on 12 January 2024."
+  instrument: |-
+    Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011LBY0030. 
+    Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Libya) List 2012 [F2012L00481]
+    Relisting on 12 January 2024.
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

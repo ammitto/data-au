@@ -1,4 +1,3 @@
----
 reference: '6793'
 entity_type: person
 names:
@@ -7,12 +6,10 @@ names:
   script: Latn
 additional_info: General Director, InfoRos
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 9) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 9) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-03-25'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 9) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 9) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

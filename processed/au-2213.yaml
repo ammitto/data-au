@@ -1,4 +1,3 @@
----
 reference: '2213'
 entity_type: person
 names:
@@ -10,8 +9,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Libya
-additional_info: Former Minister for Health and Environment in Qadhafi Government.
-  Responsible for implementing Qadhafi regime’s repressive health policies.
+additional_info: Former Minister for Health and Environment in Qadhafi Government. Responsible for implementing Qadhafi regime’s repressive health policies.
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011LBY0027. Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Libya) List 2012 [F2012L00481]

@@ -1,4 +1,3 @@
----
 reference: '3172'
 entity_type: organization
 names:
@@ -29,10 +28,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-address: a) Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town (Korean-Dong),
-  Chung Ward, Pyongyang, Democratic People's Republic of Korea b) Chung-Guyok (Central
-  District), Sosong Street, Kyongrim-Dong, Pyongyang, Democratic People’s Republic
-  of Korea c) Changwang Street, Pyongyang Democratic People’s Republic of Korea
+address: a) Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town (Korean-Dong), Chung Ward, Pyongyang, Democratic People's Republic of Korea b) Chung-Guyok (Central District), Sosong Street, Kyongrim-Dong, Pyongyang, Democratic People’s Republic of Korea c) Changwang Street, Pyongyang Democratic People’s Republic of Korea
 additional_info: KPe.030. DPRK government entity
 sanction:
   listing_information: 'Listed on: 2 Mar. 2016 (amended on 26 Jul. 2022)'

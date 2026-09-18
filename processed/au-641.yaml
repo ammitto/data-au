@@ -1,4 +1,3 @@
----
 reference: '641'
 entity_type: person
 names:
@@ -17,17 +16,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: CDi.018 Former FARDC Deputy Military Regional Commander of 10th Military
-  Region in April 2004, dismissed for indiscipline.In December 2007, he was arrested
-  by Rwandan authorities when he tried to cross the border into the DRC. Reported
-  to have died in Kigali on 9 May 2014.
+additional_info: CDi.018 Former FARDC Deputy Military Regional Commander of 10th Military Region in April 2004, dismissed for indiscipline.In December 2007, he was arrested by Rwandan authorities when he tried to cross the border into the DRC. Reported to have died in Kigali on 9 May 2014.
 sanction:
-  listing_information: 'Listed by 1533 Committee on: 1 Nov. 2005 (amended on 13 Oct.
-    2016)'
+  listing_information: 'Listed by 1533 Committee on: 1 Nov. 2005 (amended on 13 Oct. 2016)'
   committees: 1533 (Democratic People’s Republic of the Congo)
   control_date: '2025-12-11'
-  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
-    Congo) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the Congo) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

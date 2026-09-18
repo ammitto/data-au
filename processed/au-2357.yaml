@@ -1,4 +1,3 @@
----
 reference: '2357'
 entity_type: organization
 names:
@@ -30,8 +29,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Dara’a Highway, Damascus, Syrian Arab Republic
-additional_info: 'Ramak Constructions Co. constructed facilities for the Syrian military.
-  Tel: +963 11 6858111. Mob: +963 933240231.'
+additional_info: 'Ramak Constructions Co. constructed facilities for the Syrian military. Tel: +963 11 6858111. Mob: +963 933240231.'
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Instrument of first designation: Autonomous Sanctions (Designated Persons and Entities and

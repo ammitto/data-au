@@ -1,4 +1,3 @@
----
 reference: '2353'
 entity_type: organization
 names:
@@ -10,8 +9,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Dara’a Highway, P.O. Box 9525, Ashrafiyat Sahnaya Area, Syrian Arab Republic
-additional_info: Mada Transport Group is a subsidiary of Cham Holding. Tel +963 11
-  99 62.
+additional_info: Mada Transport Group is a subsidiary of Cham Holding. Tel +963 11 99 62.
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Instrument of first

@@ -1,12 +1,10 @@
----
 reference: '7284'
 entity_type: person
 names:
 - text: Maksut Igorevich SHADAYEV
   name_type: Primary Name
   script: Latn
-additional_info: Minister of Digital Development, Communications and Mass Media of
-  the Russian Federation
+additional_info: Minister of Digital Development, Communications and Mass Media of the Russian Federation
 sanction:
   listing_information: |-
     Instrument of first designation

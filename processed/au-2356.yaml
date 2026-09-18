@@ -1,4 +1,3 @@
----
 reference: '2356'
 entity_type: organization
 names:
@@ -34,12 +33,10 @@ additional_info: |-
   Fax: +963 11 44694450;
   Email: sales@eltelme.com
 sanction:
-  listing_information: Designated under the Autonomous Sanctions Regulations 2011
-    on 2 March 2012. Relisted on 12 January 2024
+  listing_information: Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Relisted on 12 January 2024
   committees: Autonomous (Syria)
   control_date: '2024-01-12'
-  instrument: Designated under the Autonomous Sanctions Regulations 2011 on 2 March
-    2012. Relisted on 12 January 2024
+  instrument: Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Relisted on 12 January 2024
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

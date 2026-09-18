@@ -1,4 +1,3 @@
----
 reference: '3588'
 entity_type: person
 names:
@@ -9,12 +8,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'SSi.007 Title: Lieutenant. General Designation: a) Deputy Chief
-  of General Staff for Logistics b) Deputy Chief of Defence Staff and Inspector General
-  of the Army. As SPLA Deputy Chief of Staff for Logistics, Riak was one of the senior
-  officials of the Government of South Sudan who planned and oversaw an offensive
-  in Unity state in 2015 that resulted in widespread destruction and large population
-  displacement.'
+additional_info: 'SSi.007 Title: Lieutenant. General Designation: a) Deputy Chief of General Staff for Logistics b) Deputy Chief of Defence Staff and Inspector General of the Army. As SPLA Deputy Chief of Staff for Logistics, Riak was one of the senior officials of the Government of South Sudan who planned and oversaw an offensive in Unity state in 2015 that resulted in widespread destruction and large population displacement.'
 sanction:
   listing_information: 'Listed on: 13 Jul. 2018'
   committees: 2206 (South Sudan)

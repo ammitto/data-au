@@ -1,4 +1,3 @@
----
 reference: '8285'
 entity_type: vessel
 names:
@@ -6,8 +5,7 @@ names:
   name_type: Primary Name
   script: Latn
 sanction:
-  listing_information: Designated as a sanctioned vessel in the Autonomous Sanctions
-    (Sanctioned Vessels – Russia) Designation 2025
+  listing_information: Designated as a sanctioned vessel in the Autonomous Sanctions (Sanctioned Vessels – Russia) Designation 2025
   committees: Autonomous (Vessels)
   control_date: '2025-06-18'
   instrument: Autonomous Sanctions (Sanctioned Vessels – Russia) Designation 2025

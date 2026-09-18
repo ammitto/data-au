@@ -1,4 +1,3 @@
----
 reference: '2938'
 entity_type: organization
 names:
@@ -18,16 +17,16 @@ names:
   script: Latn
   alias_strength: Strong
 address: 3, rue de la Reine L-2418, Luxembourg; 58, Rue Charles Martel, L-2134, Luxembourg
-additional_info: "An investment strategy group that is owned or controlled by Gennady
-  Timchenko. \nWebsite: http://volga-resources.ru/ \nWebsite: http://volga-group.com/en/\nCompany
-  Identification No.: B127651"
+additional_info: |-
+  An investment strategy group that is owned or controlled by Gennady Timchenko. 
+  Website: http://volga-resources.ru/ 
+  Website: http://volga-group.com/en/
+  Company Identification No.: B127651
 sanction:
-  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March
-    2021 and 10 June 2023
+  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
   committees: Autonomous (Russia)
   control_date: '2023-06-10'
-  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and
-    10 June 2023
+  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

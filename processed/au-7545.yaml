@@ -1,12 +1,10 @@
----
 reference: '7545'
 entity_type: organization
 names:
 - text: N.A. Dollezhal Order of Lenin Research and Design Institute of Power Engineering
   name_type: Primary Name
   script: Latn
-- text: JSC Order of Lenin Research and Design Institute of Energy Engineering named
-    after N. A. Dollezhal
+- text: JSC Order of Lenin Research and Design Institute of Energy Engineering named after N. A. Dollezhal
   name_type: Alias
   script: Latn
   alias_strength: Strong
@@ -17,12 +15,10 @@ names:
 address: 28 Malaya Krasnoselskaya Street, Moscow, 107140, Russian Federation
 additional_info: 'Website: https://www.nikiet.ru/'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-05-19'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 6) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

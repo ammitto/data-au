@@ -1,4 +1,3 @@
----
 reference: '3440'
 entity_type: person
 names:
@@ -9,8 +8,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'KPi.079 Former overseas representative of Korea Daesong Bank. Passport
-  No: 563335509 (Expires 27 August 2018). Gender: male.'
+additional_info: 'KPi.079 Former overseas representative of Korea Daesong Bank. Passport No: 563335509 (Expires 27 August 2018). Gender: male.'
 sanction:
   listing_information: 'Listed on: 22 December 2017 (amended on 29 June 2023)'
   committees: 1718 (DPRK)

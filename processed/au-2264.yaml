@@ -1,4 +1,3 @@
----
 reference: '2264'
 entity_type: person
 names:
@@ -17,8 +16,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'Last known position: Chairman of Riyad Isa Development Corporation.
-  Former Director of Military Housing Establishment.'
+additional_info: 'Last known position: Chairman of Riyad Isa Development Corporation. Former Director of Military Housing Establishment.'
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011SYR0035.  Instrument of first

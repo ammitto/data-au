@@ -1,4 +1,3 @@
----
 reference: '7343'
 entity_type: person
 names:
@@ -11,12 +10,10 @@ names:
   alias_strength: Strong
 additional_info: Former Governor of Sistan and Baluchistan province
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2023
   committees: Autonomous (Thematic - Human Rights)
   control_date: '2023-02-01'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
-    Sanctions) Amendment (No. 1) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

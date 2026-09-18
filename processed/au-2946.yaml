@@ -1,4 +1,3 @@
----
 reference: '2946'
 entity_type: person
 names:
@@ -13,10 +12,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Afghanistan/Pakistan Border Area
-additional_info: 'TAi.171 Title: a) Maulavi b) Mullah. Haqqani Network (HQN) (TE.H.12.12.)
-  leader in command of over 100 militants active in Khost Province, Afghanistan as
-  of 2013. Involved in the preparation of attacks against Afghan and international
-  forces in Afghanistan.'
+additional_info: 'TAi.171 Title: a) Maulavi b) Mullah. Haqqani Network (HQN) (TE.H.12.12.) leader in command of over 100 militants active in Khost Province, Afghanistan as of 2013. Involved in the preparation of attacks against Afghan and international forces in Afghanistan.'
 sanction:
   listing_information: Listed on 31 July 2014
   committees: 1988 (Taliban)

@@ -1,4 +1,3 @@
----
 reference: '3171'
 entity_type: organization
 names:
@@ -14,8 +13,7 @@ names:
   script: Latn
   alias_strength: Strong
 address: Democratic People's Republic of Korea
-additional_info: KPe.029. NATA is involved in the DPRK's development of space science
-  and technology, including satellite launches and carrier rockets.
+additional_info: KPe.029. NATA is involved in the DPRK's development of space science and technology, including satellite launches and carrier rockets.
 sanction:
   listing_information: 'Listed on: 2 Mar. 2016 (amended on 15 Apr. 2024)'
   committees: 1718 (DPRK)

@@ -1,4 +1,3 @@
----
 reference: '2576'
 entity_type: person
 names:
@@ -21,21 +20,12 @@ names:
   script: Latn
   alias_strength: Strong
 address: a) Gao, Mali; b) Tabankort, Mali; c) In Khalil, Mali; d) Al Moustarat, Mali
-additional_info: Reportedly deceased as of December 2014. Leader of the Mouvement
-  pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO) (QE.M.134.12.). Member
-  of The Organization of Al-Qaida in the Islamic Maghreb (QE.T.14.01.). Arrested in
-  April 2005 in Mauritania, escaped from Nouakchott jail on 26 Apr. 2006. Re-arrested
-  in Sep. 2008 in Mali and released on 15 Apr. 2009. Associated with Mokhtar Belmokhtar
-  (QI.B.136.03.). Father’s name is Leewemere. Review pursuant to Security Council
-  resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security
-  Council resolution 2610 (2021) was concluded on 8 November 2022.
+additional_info: Reportedly deceased as of December 2014. Leader of the Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO) (QE.M.134.12.). Member of The Organization of Al-Qaida in the Islamic Maghreb (QE.T.14.01.). Arrested in April 2005 in Mauritania, escaped from Nouakchott jail on 26 Apr. 2006. Re-arrested in Sep. 2008 in Mali and released on 15 Apr. 2009. Associated with Mokhtar Belmokhtar (QI.B.136.03.). Father’s name is Leewemere. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
 sanction:
-  listing_information: 'Listed on: 22 Feb. 2013 (amended on 1 May 2019, 2 February
-    2023)'
+  listing_information: 'Listed on: 22 Feb. 2013 (amended on 1 May 2019, 2 February 2023)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
-    Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

@@ -1,4 +1,3 @@
----
 reference: '8491'
 entity_type: person
 names:
@@ -17,8 +16,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'IRi.040. Designation: Director of Uranium Mining Operations at the
-  Saghand Uranium Mine.'
+additional_info: 'IRi.040. Designation: Director of Uranium Mining Operations at the Saghand Uranium Mine.'
 sanction:
   listing_information: Listed on 3 March 2008 (amended on 17 December 2014)
   committees: 1737 (Iran)

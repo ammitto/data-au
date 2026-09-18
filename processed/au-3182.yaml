@@ -1,4 +1,3 @@
----
 reference: '3182'
 entity_type: person
 names:
@@ -30,18 +29,12 @@ names:
   script: Latn
   alias_strength: Strong
 address: Gaza Strip, State of Palestine
-additional_info: 'Passport no.: 0363464 (issued by Palestinian Authority).  Link between
-  Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115),
-  leader Abu Bakr al-Baghdadi, listed as Ibrahim Awwad Ibrahim Ali al-Badri al-Samarrai
-  (QDi.299), and armed groups in Gaza. Was using money to build an ISIL presence in
-  Gaza. Review pursuant to Security Council resolution 2368 (2017) was concluded on
-  15 November 2021.'
+additional_info: 'Passport no.: 0363464 (issued by Palestinian Authority).  Link between Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), leader Abu Bakr al-Baghdadi, listed as Ibrahim Awwad Ibrahim Ali al-Badri al-Samarrai (QDi.299), and armed groups in Gaza. Was using money to build an ISIL presence in Gaza. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021.'
 sanction:
   listing_information: 'Listed on: 20 April 2016'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
-    Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

@@ -1,4 +1,3 @@
----
 reference: '7825'
 entity_type: person
 names:
@@ -22,15 +21,12 @@ names:
   script: Arab
   alias_strength: Strong
 address: Lebanon
-additional_info: Passport D100008420 (Iran) expires 26 Jul 2026; National ID No. 4720725929
-  (Iran).
+additional_info: Passport D100008420 (Iran) expires 26 Jul 2026; National ID No. 4720725929 (Iran).
 sanction:
-  listing_information: Charter of the United Nations (Listed Entities) Amendment (No.
-    1) Instrument 2024
+  listing_information: Charter of the United Nations (Listed Entities) Amendment (No. 1) Instrument 2024
   committees: 1373 (2001)
   control_date: '2024-01-22'
-  instrument: Charter of the United Nations (Listed Entities) Amendment (No. 1) Instrument
-    2024
+  instrument: Charter of the United Nations (Listed Entities) Amendment (No. 1) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

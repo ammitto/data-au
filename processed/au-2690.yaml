@@ -1,4 +1,3 @@
----
 reference: '2690'
 entity_type: person
 names:
@@ -13,14 +12,9 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Member of the Parliament of Ukraine. Chairman of the pro-Russian
-  political party ‘Opposition Platform - For Life’ since November 2018.  Chairman
-  of the Pro-Russian political organisation Ukrainian Choice, a group which has tried
-  to undermine democratic processes in Ukraine.  Has provided support to former President
-  Yanukovych.
+additional_info: Member of the Parliament of Ukraine. Chairman of the pro-Russian political party ‘Opposition Platform - For Life’ since November 2018.  Chairman of the Pro-Russian political organisation Ukrainian Choice, a group which has tried to undermine democratic processes in Ukraine.  Has provided support to former President Yanukovych.
 sanction:
-  listing_information: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June
-    2023)
+  listing_information: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June 2023)
   committees: Autonomous (Ukraine)
   control_date: '2023-06-10'
   instrument: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June 2023)

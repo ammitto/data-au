@@ -1,4 +1,3 @@
----
 reference: '7546'
 entity_type: organization
 names:
@@ -24,12 +23,10 @@ names:
 address: Promzona Kaes, Udomlya, 171840, Russia
 additional_info: Company identification No. 1056906004550
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-05-19'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 6) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

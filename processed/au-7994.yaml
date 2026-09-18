@@ -1,13 +1,10 @@
----
 reference: '7994'
 entity_type: person
 names:
 - text: OSMAN MOHAMED HAMID MOHAMED
   name_type: Primary Name
   script: Latn
-additional_info: 'SDi.006. Designation: Rapid Support Forces (RSF) Major General and
-  Head of RSF Operations. National identification no: Sudan 11540384888. Other information:
-  Gender: Male'
+additional_info: 'SDi.006. Designation: Rapid Support Forces (RSF) Major General and Head of RSF Operations. National identification no: Sudan 11540384888. Other information: Gender: Male'
 sanction:
   listing_information: Listed by the 1591 Committee
   committees: 1591 (Sudan)

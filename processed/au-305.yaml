@@ -1,4 +1,3 @@
----
 reference: '305'
 entity_type: organization
 names:
@@ -10,20 +9,12 @@ names:
   script: Latn
   alias_strength: Strong
 address: Northern Ireland
-additional_info: The Red Hand Defenders (RHD) is a loyalist paramilitary entity that
-  formed in 1998. The RHD opposes the peace process and peace agreements, including
-  the Good Friday Agreement.
+additional_info: The Red Hand Defenders (RHD) is a loyalist paramilitary entity that formed in 1998. The RHD opposes the peace process and peace agreements, including the Good Friday Agreement.
 sanction:
-  listing_information: 'Instrument of first listing: Charter of the United Nations
-    (Anti terrorism — Persons and Entities) List 2002 (No 1). Lasted listed 13 September
-    2025 - Charter of the United Nations (Listed Persons and Entities) Amendment(No.2)
-    Instrument 2025'
+  listing_information: 'Instrument of first listing: Charter of the United Nations (Anti terrorism — Persons and Entities) List 2002 (No 1). Lasted listed 13 September 2025 - Charter of the United Nations (Listed Persons and Entities) Amendment(No.2) Instrument 2025'
   committees: 1373 (2001)
   control_date: '2025-09-13'
-  instrument: 'Instrument of first listing: Charter of the United Nations (Anti terrorism
-    — Persons and Entities) List 2002 (No 1). Lasted listed 13 September 2025 - Charter
-    of the United Nations (Listed Persons and Entities) Amendment(No.2) Instrument
-    2025'
+  instrument: 'Instrument of first listing: Charter of the United Nations (Anti terrorism — Persons and Entities) List 2002 (No 1). Lasted listed 13 September 2025 - Charter of the United Nations (Listed Persons and Entities) Amendment(No.2) Instrument 2025'
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

@@ -1,4 +1,3 @@
----
 reference: '8039'
 entity_type: person
 names:
@@ -12,12 +11,10 @@ names:
 address: 34 Zolotorozhskiy Val, Building 2, Moscow, 111033
 additional_info: Owner of Tekhnologiya LLC
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
   control_date: '2025-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
-    – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

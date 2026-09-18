@@ -1,4 +1,3 @@
----
 reference: '8506'
 entity_type: organization
 names:
@@ -9,8 +8,7 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-additional_info: 'IRe.010. Designation: Production and development of cruise missiles.
-  Responsible for naval missiles including cruise missiles.'
+additional_info: 'IRe.010. Designation: Production and development of cruise missiles. Responsible for naval missiles including cruise missiles.'
 sanction:
   listing_information: Listed by the 1737 Committee on 24 March 2007.
   committees: 1737 (Iran)

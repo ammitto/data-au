@@ -1,9 +1,7 @@
----
 reference: '7591'
 entity_type: organization
 names:
-- text: Joint Stock Company Machine Building Design Bureau ‘Iskra’ named after I.I.
-    Kartukov
+- text: Joint Stock Company Machine Building Design Bureau ‘Iskra’ named after I.I. Kartukov
   name_type: Primary Name
   script: Latn
 - text: PJSC MBDB ISKRA
@@ -25,12 +23,10 @@ names:
 address: 35 Leningradsky Prospect, Moscow, 125284, Russia
 additional_info: 'Company identification number: 1027714027395; http://iskramkb.ru/'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
-    Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-07-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
-    and Ukraine) Amendment (No. 8) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false
