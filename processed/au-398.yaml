@@ -59,6 +59,11 @@ dates_of_birth:
   precision: year
 - raw_value: a) 4/04/1964 b) 1966
   year: 1964
+  circa: false
+  precision: year
+- raw_value: a) 4/04/1964 b) 1966
+  year: 1966
+  circa: false
   precision: year
 places_of_birth:
 - raw_value: a) Cianjur

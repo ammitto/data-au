@@ -18,6 +18,11 @@ sanction:
 dates_of_birth:
 - raw_value: 27/05/1973 01/01/1975
   year: 1973
+  circa: false
+  precision: year
+- raw_value: 27/05/1973 01/01/1975
+  year: 1975
+  circa: false
   precision: year
 places_of_birth:
 - raw_value: Tripoli

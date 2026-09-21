@@ -30,6 +30,13 @@ dates_of_birth:
   year: 1968
   circa: true
   precision: circa
+- raw_value: |-
+    Approximately 1968
+
+    28/08/1965
+  year: 1965
+  circa: false
+  precision: year
 - raw_value: '1968'
   year: 1968
   precision: year

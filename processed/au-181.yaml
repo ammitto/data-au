@@ -34,6 +34,11 @@ sanction:
 dates_of_birth:
 - raw_value: a) 30/04/1963 b) 1960
   year: 1963
+  circa: false
+  precision: year
+- raw_value: a) 30/04/1963 b) 1960
+  year: 1960
+  circa: false
   precision: year
 places_of_birth:
 - raw_value: Qilagho village

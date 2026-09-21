@@ -33,6 +33,11 @@ sanction:
 dates_of_birth:
 - raw_value: 19/12/1962 30/12/1965
   year: 1962
+  circa: false
+  precision: year
+- raw_value: 19/12/1962 30/12/1965
+  year: 1965
+  circa: false
   precision: year
 places_of_birth:
 - raw_value: a) Simferopol

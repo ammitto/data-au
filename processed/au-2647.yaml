@@ -41,6 +41,11 @@ sanction:
 dates_of_birth:
 - raw_value: 7/02/1950/11/1950 08/08/1945
   year: 1950
+  circa: false
+  precision: year
+- raw_value: 7/02/1950/11/1950 08/08/1945
+  year: 1945
+  circa: false
   precision: year
 places_of_birth:
 - raw_value: a) Tainan

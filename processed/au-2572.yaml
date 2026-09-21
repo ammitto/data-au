@@ -30,6 +30,11 @@ dates_of_birth:
   precision: full
 - raw_value: 1960 9/09/1966
   year: 1960
+  circa: false
+  precision: year
+- raw_value: 1960 9/09/1966
+  year: 1966
+  circa: false
   precision: year
 places_of_birth:
 - raw_value: Bukavu
