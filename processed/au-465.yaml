@@ -1,3 +1,4 @@
+---
 reference: '465'
 entity_type: person
 names:
@@ -51,12 +52,21 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Reportedly deceased in November 2016. Father's name is Mohamed. Mother's name is Zohra Chemkha. Member of the Council of the Organization of Al-Qaida in the Islamic Maghreb (QDe.014) (AQIM). Head of Al Mouakaoune Biddam (QDe.139), Al Moulathamoun (QDe.140) and Al Mourabitoun (QDe.141). Review pursuant to Security Council resolution 1822 (2008) was concluded on 30 Jul. 2009. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+additional_info: Reportedly deceased in November 2016. Father's name is Mohamed. Mother's
+  name is Zohra Chemkha. Member of the Council of the Organization of Al-Qaida in
+  the Islamic Maghreb (QDe.014) (AQIM). Head of Al Mouakaoune Biddam (QDe.139), Al
+  Moulathamoun (QDe.140) and Al Mourabitoun (QDe.141). Review pursuant to Security
+  Council resolution 1822 (2008) was concluded on 30 Jul. 2009. Review pursuant to
+  Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant
+  to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
 sanction:
-  listing_information: 'Listed on: 11 Nov. 2003 (amended on 12 April 2006, 2 July 2007, 7 April 2008, 25 January 2010, 16 May 2011, 9 September 2014, 1 May 2019, 2 February 2023).'
+  listing_information: 'Listed on: 11 Nov. 2003 (amended on 12 April 2006, 2 July
+    2007, 7 April 2008, 25 January 2010, 16 May 2011, 9 September 2014, 1 May 2019,
+    2 February 2023).'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

@@ -1,3 +1,4 @@
+---
 reference: '8768'
 entity_type: organization
 names:
@@ -10,10 +11,12 @@ names:
   alias_strength: Strong
 address: Office 41, 10a Zinina Street, Kazan, Republic of Tatarstan, 420097, Russia
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Russia)
   control_date: '2026-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

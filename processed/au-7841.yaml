@@ -1,3 +1,4 @@
+---
 reference: '7841'
 entity_type: organization
 names:
@@ -16,12 +17,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: District 18, Central Sector, Tehran Station Quarter, Afshar Nou Alley, Fadaiyan Islam St., No 841, 1st floor Tehran Tehran Province Iran
+address: District 18, Central Sector, Tehran Station Quarter, Afshar Nou Alley, Fadaiyan
+  Islam St., No 841, 1st floor Tehran Tehran Province Iran
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   committees: Autonomous (Ukraine)
   control_date: '2024-02-23'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

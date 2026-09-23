@@ -1,3 +1,4 @@
+---
 reference: '7319'
 entity_type: person
 names:
@@ -8,12 +9,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Chief of Office of Military Security Affairs; Joint Secretary of the State Administration Council
+additional_info: Chief of Office of Military Security Affairs; Joint Secretary of
+  the State Administration Council
 sanction:
-  listing_information: Autonomous Sanctions (Designated and Declared Persons—Myanmar) Amendment Instrument 2023
+  listing_information: Autonomous Sanctions (Designated and Declared Persons—Myanmar)
+    Amendment Instrument 2023
   committees: Autonomous (Myanmar)
   control_date: '2023-02-01'
-  instrument: Autonomous Sanctions (Designated and Declared Persons—Myanmar) Amendment Instrument 2023
+  instrument: Autonomous Sanctions (Designated and Declared Persons—Myanmar) Amendment
+    Instrument 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

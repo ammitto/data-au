@@ -1,3 +1,4 @@
+---
 reference: '3576'
 entity_type: organization
 names:
@@ -8,8 +9,11 @@ names:
   name_type: Alias
   script: Hani
   alias_strength: Strong
-address: Unit 503, 5th Floor, Silvercord Tower 2, 30, Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong, China
-additional_info: KPe.073. Ship and commercial manager of HAO FAN 2 and HAO FAN 6, St Kitts-Nevis-flagged vessels. The HAO FAN 6 loaded coal at Nampo, DPRK on August 27, 2017. HAO FAN 2 loaded North Korean coal at Nampo, DPRK on June 3, 2017.
+address: Unit 503, 5th Floor, Silvercord Tower 2, 30, Canton Road, Tsim Sha Tsui,
+  Kowloon, Hong Kong, China
+additional_info: KPe.073. Ship and commercial manager of HAO FAN 2 and HAO FAN 6,
+  St Kitts-Nevis-flagged vessels. The HAO FAN 6 loaded coal at Nampo, DPRK on August
+  27, 2017. HAO FAN 2 loaded North Korean coal at Nampo, DPRK on June 3, 2017.
 sanction:
   listing_information: 'Listed on: 30 Mar. 2018'
   committees: 1718 (DPRK)

@@ -1,3 +1,4 @@
+---
 reference: '7452'
 entity_type: organization
 names:
@@ -23,10 +24,12 @@ names:
 address: 1 Sovetskaya Street, Khabarovsky Krai,  Komsomolsk-on-Amur,  618018, Russia
 additional_info: 'Email: mp@knaapo.msk.ru '
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

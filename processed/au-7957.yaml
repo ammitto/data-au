@@ -1,3 +1,4 @@
+---
 reference: '7957'
 entity_type: person
 names:
@@ -8,12 +9,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Mehdi GOGERDCHIAN is Managing Director and board member of Iranian-based company Iran Aircraft Manufacturing Industries (HESA).
+additional_info: Mehdi GOGERDCHIAN is Managing Director and board member of Iranian-based
+  company Iran Aircraft Manufacturing Industries (HESA).
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 1) Instrument 2024
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) Amendment (No. 1) Instrument 2024
   committees: Autonomous (Iran)
   control_date: '2024-05-12'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 1) Instrument 2024
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 1) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

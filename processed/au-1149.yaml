@@ -1,3 +1,4 @@
+---
 reference: '1149'
 entity_type: person
 names:
@@ -48,12 +49,20 @@ names:
   script: Latn
   alias_strength: Strong
 address: Yemen
-additional_info: 'Yemeni national identification number 973406, issued on 3 Jul. 1996. Yemeni passport number 00344994, issued on 3 Jul. 1999 in Sanaa.  Mother''s name: Fatima Muthanna Yahya. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  Leader of Al-Qaida in the Arabian Peninsula (QDe. 129) since Jun. 2015, pleaded loyalty to Aiman al-Zawahiri (QDi.006). As of February 2020, reportedly killed in a counterterrorism operation in Yemen. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.'
+additional_info: 'Yemeni national identification number 973406, issued on 3 Jul. 1996.
+  Yemeni passport number 00344994, issued on 3 Jul. 1999 in Sanaa.  Mother''s name:
+  Fatima Muthanna Yahya. Photo available for inclusion in the INTERPOL-UN Security
+  Council Special Notice.  Leader of Al-Qaida in the Arabian Peninsula (QDe. 129)
+  since Jun. 2015, pleaded loyalty to Aiman al-Zawahiri (QDi.006). As of February
+  2020, reportedly killed in a counterterrorism operation in Yemen. Review pursuant
+  to Security Council resolution 2368 (2017) was concluded on 24 November 2020.'
 sanction:
-  listing_information: Listed 11 May 2010 (amended  on 15 Apr. 2014, 24 Jun. 2016, 24 Nov. 2020, 11 Mar. 2025)
+  listing_information: Listed 11 May 2010 (amended  on 15 Apr. 2014, 24 Jun. 2016,
+    24 Nov. 2020, 11 Mar. 2025)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

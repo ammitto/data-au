@@ -1,3 +1,4 @@
+---
 reference: '7562'
 entity_type: person
 names:
@@ -6,10 +7,12 @@ names:
   script: Latn
 additional_info: Major General of the Armed Forces of the Republic of Belarus
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   committees: Autonomous (Ukraine)
   control_date: '2023-07-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 8) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

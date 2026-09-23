@@ -1,15 +1,19 @@
+---
 reference: '7433'
 entity_type: person
 names:
 - text: Dmitry Nikolaevich BEZRUKIKH
   name_type: Primary Name
   script: Latn
-additional_info: Head of the Office of the Federal Penitentiary Service for the Rostov Region in the Russian Federation
+additional_info: Head of the Office of the Federal Penitentiary Service for the Rostov
+  Region in the Russian Federation
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

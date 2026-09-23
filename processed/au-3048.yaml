@@ -1,3 +1,4 @@
+---
 reference: '3048'
 entity_type: person
 names:
@@ -34,7 +35,8 @@ sanction:
     Listed on 23 Sep. 2014 (amended on 24 Nov. 2020, 22 August 2025, 13 Aug. 2026)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-08-14'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

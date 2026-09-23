@@ -1,3 +1,4 @@
+---
 reference: '8455'
 entity_type: person
 names:
@@ -12,9 +13,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'IRi.003.  Member of the IRGC-Qods Force operating under the direction of Qods Force Commander, Major General Qasem Soleimani, who was designated by the UN Security Council in resolution 1747 (2007). Passport no: a) 6620505, issued in Iran (Islamic Republic of) b) 9003213, issued in Iran (Islamic Republic of). Facilitated a breach of paragraph 5 of resolution 1747 (2007) prohibiting the export of arms and related materiel from Iran.'
+additional_info: 'IRi.003.  Member of the IRGC-Qods Force operating under the direction
+  of Qods Force Commander, Major General Qasem Soleimani, who was designated by the
+  UN Security Council in resolution 1747 (2007). Passport no: a) 6620505, issued in
+  Iran (Islamic Republic of) b) 9003213, issued in Iran (Islamic Republic of). Facilitated
+  a breach of paragraph 5 of resolution 1747 (2007) prohibiting the export of arms
+  and related materiel from Iran.'
 sanction:
-  listing_information: Listed by the 1737 Committee on 18 April 2012 (amended on 17 December 2014)
+  listing_information: Listed by the 1737 Committee on 18 April 2012 (amended on 17
+    December 2014)
   committees: 1737 (Iran)
   control_date: '2025-12-12'
   instrument: Charter of the United Nations (Sanctions - Iran) Regulations 2025

@@ -1,3 +1,4 @@
+---
 reference: '1110'
 entity_type: person
 names:
@@ -20,13 +21,17 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: Rutshuru Territory, North Kivu, Democratic Republic of the Congo (as of June 2016)
-additional_info: 'CDi.024 Designation: a) FDLR-FOCA "SONOKI" Sector Commander b) FDLR-FOCA Brigadier General. Received military training in Egypt.'
+address: Rutshuru Territory, North Kivu, Democratic Republic of the Congo (as of June
+  2016)
+additional_info: 'CDi.024 Designation: a) FDLR-FOCA "SONOKI" Sector Commander b) FDLR-FOCA
+  Brigadier General. Received military training in Egypt.'
 sanction:
-  listing_information: Listed by 1533 Committee on 3 Mar. 2009 (amended on 13 Oct. 2016)
+  listing_information: Listed by 1533 Committee on 3 Mar. 2009 (amended on 13 Oct.
+    2016)
   committees: 1533 (Democratic People’s Republic of the Congo)
   control_date: '2025-12-11'
-  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the Congo) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
+    Congo) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

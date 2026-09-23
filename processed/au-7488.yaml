@@ -1,3 +1,4 @@
+---
 reference: '7488'
 entity_type: person
 names:
@@ -10,10 +11,12 @@ names:
   alias_strength: Strong
 additional_info: Member of the Board of Directors of Qods Aviation Industries (QAI) 
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 3) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 3) Instrument 2023
   committees: Autonomous (Ukraine)
   control_date: '2023-03-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 3) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 3) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

@@ -1,3 +1,4 @@
+---
 reference: '6269'
 entity_type: person
 names:
@@ -8,13 +9,24 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-address: 'a) United States of America (in detention, Federal Detention Center – Miami, Register Number: 10423-509 b) #12 Rio Claro Mayaro Road, Rio Claro, Trinidad (previous location 2008-March 2015) c) #7 GUAYAGUAYARE Road, Rio Claro, Trinidad (previous location circa 2003) d) United States of America (previous location- January 1991-2008)'
-additional_info: 'Passport no: a) Trinidad and Tobago TB162181 (issued on 27 January 2015, expired 26 January 2020) b) United States of America, 420985453 (expired 6 February 2017) National identification no: Trinidad and Tobago 19670704052. Other information: Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115). Recruited for ISIL and instructed individuals to perpetrate terrorist acts via online video. Physical description: height 176 cm, weight 73 kg, medium built, colour of eyes- brown, colour of hair- black/bald, complexion- brown. Speaks English.'
+address: 'a) United States of America (in detention, Federal Detention Center – Miami,
+  Register Number: 10423-509 b) #12 Rio Claro Mayaro Road, Rio Claro, Trinidad (previous
+  location 2008-March 2015) c) #7 GUAYAGUAYARE Road, Rio Claro, Trinidad (previous
+  location circa 2003) d) United States of America (previous location- January 1991-2008)'
+additional_info: 'Passport no: a) Trinidad and Tobago TB162181 (issued on 27 January
+  2015, expired 26 January 2020) b) United States of America, 420985453 (expired 6
+  February 2017) National identification no: Trinidad and Tobago 19670704052. Other
+  information: Senior member of Islamic State in Iraq and the Levant (ISIL), listed
+  as Al-Qaida in Iraq (QDe.115). Recruited for ISIL and instructed individuals to
+  perpetrate terrorist acts via online video. Physical description: height 176 cm,
+  weight 73 kg, medium built, colour of eyes- brown, colour of hair- black/bald, complexion-
+  brown. Speaks English.'
 sanction:
   listing_information: Listed on 23 Nov 2021
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

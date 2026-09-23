@@ -1,3 +1,4 @@
+---
 reference: '7984'
 entity_type: person
 names:
@@ -12,14 +13,16 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: |-
-  A Commander of Law Enforcement Command (LEF) forces in Tehran Province since 2019 and former Commander of LEF forces in Shiraz City from 2016 to 2019. 
-  Passport number: M51374090
+additional_info: "A Commander of Law Enforcement Command (LEF) forces in Tehran Province
+  since 2019 and former Commander of LEF forces in Shiraz City from 2016 to 2019.
+  \nPassport number: M51374090"
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument 2024
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) Amendment (No. 2) Instrument 2024
   committees: Autonomous (Iran)
   control_date: '2024-09-16'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument 2024
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 2) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

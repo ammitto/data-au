@@ -1,3 +1,4 @@
+---
 reference: '8804'
 entity_type: person
 names:
@@ -9,14 +10,15 @@ names:
   script: Latn
   alias_strength: Strong
 address: Iran
-additional_info: |-
-  Commander of the IRGC’s Seyyad al-Shohada Corps, Tehran province 
-  National ID No. 0872896595 (Iran)
+additional_info: "Commander of the IRGC’s Seyyad al-Shohada Corps, Tehran province
+  \nNational ID No. 0872896595 (Iran)"
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) List 2012
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) List 2012
   committees: Autonomous (Iran)
   control_date: '2026-05-12'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 2) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

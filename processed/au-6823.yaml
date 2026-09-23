@@ -1,15 +1,19 @@
+---
 reference: '6823'
 entity_type: person
 names:
 - text: Dmitry Alexandrovich ZABROTSKY
   name_type: Primary Name
   script: Latn
-additional_info: First Deputy Head of the Financial and Economic Department of the Ministry of Defense of Belarus
+additional_info: First Deputy Head of the Financial and Economic Department of the
+  Ministry of Defense of Belarus
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2022
   committees: Autonomous (Ukraine)
   control_date: '2022-03-25'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 10) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

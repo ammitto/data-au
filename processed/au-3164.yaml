@@ -1,3 +1,4 @@
+---
 reference: '3164'
 entity_type: organization
 names:
@@ -12,8 +13,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: a) 817 Haeun, Donghung-dong, Central District, Pyongyang, Democratic People's Republic of Korea b) 817, Haeum, Tonghun-dong, Chung-gu, Pyongyang, Democratic People's Republic of Korea
-additional_info: 'KPe.022. IMO Number: 5342883. The Chongchongang Shipping Company, through its vessel, the Chong Chon Gang, attempted to directly import the illicit shipment of conventional weapons and arms to the DPRK in July 2013.'
+address: a) 817 Haeun, Donghung-dong, Central District, Pyongyang, Democratic People's
+  Republic of Korea b) 817, Haeum, Tonghun-dong, Chung-gu, Pyongyang, Democratic People's
+  Republic of Korea
+additional_info: 'KPe.022. IMO Number: 5342883. The Chongchongang Shipping Company,
+  through its vessel, the Chong Chon Gang, attempted to directly import the illicit
+  shipment of conventional weapons and arms to the DPRK in July 2013.'
 sanction:
   listing_information: 'Listed on: 2 Mar. 2016 (amended on 26 Jul. 2022)'
   committees: 1718 (DPRK)

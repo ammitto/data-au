@@ -1,3 +1,4 @@
+---
 reference: '734'
 entity_type: person
 names:
@@ -15,7 +16,8 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: a) Al-Shahid Street, Al-Mahata Neighborhood, Az Zabadani, Az Zabadani, Syrian Arab Republic b) Yemen
+address: a) Al-Shahid Street, Al-Mahata Neighborhood, Az Zabadani, Az Zabadani, Syrian
+  Arab Republic b) Yemen
 additional_info: IQi.086
 sanction:
   listing_information: Listed by the 1518 Committee

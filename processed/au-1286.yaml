@@ -1,3 +1,4 @@
+---
 reference: '1286'
 entity_type: person
 names:
@@ -19,7 +20,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: TAi.157 Senior official in Konar Province during the Taliban regime. Represents and provides financial and logistical support to the Haqqani Network (TAe.012), which is based in Afghanistan/Pakistan border area. Member of the Taliban Financial Council. Has travelled abroad to raise funds on behalf of Sirajuddin Jallaloudine Haqqani (TAi.144), Jalaluddin Haqqani (TAi.040), the Haqqani network and the Taliban. Believed to be in Afghanistan/Pakistan border area.
+additional_info: TAi.157 Senior official in Konar Province during the Taliban regime.
+  Represents and provides financial and logistical support to the Haqqani Network
+  (TAe.012), which is based in Afghanistan/Pakistan border area. Member of the Taliban
+  Financial Council. Has travelled abroad to raise funds on behalf of Sirajuddin Jallaloudine
+  Haqqani (TAi.144), Jalaluddin Haqqani (TAi.040), the Haqqani network and the Taliban.
+  Believed to be in Afghanistan/Pakistan border area.
 sanction:
   listing_information: 'Listed on: 6 Jan. 2012 (amended 22 April 2013 and 31 May 2013)'
   committees: 1988 (Taliban)

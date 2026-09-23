@@ -1,3 +1,4 @@
+---
 reference: '8800'
 entity_type: person
 names:
@@ -5,7 +6,9 @@ names:
   name_type: Primary Name
   script: Latn
 address: Calle 77 9 76 APT 302, Bogota, Colombia
-additional_info: 'SDi.014. Passport no: a) Colombia number AS272175, expired 31 Mar. 2026 b) Spain number XDD789846 c) Colombia number BF868819, expires 1 Mar. 2035. National identification no: Colombia Cedula No. 79782423. Gender: Male.'
+additional_info: 'SDi.014. Passport no: a) Colombia number AS272175, expired 31 Mar.
+  2026 b) Spain number XDD789846 c) Colombia number BF868819, expires 1 Mar. 2035.
+  National identification no: Colombia Cedula No. 79782423. Gender: Male.'
 sanction:
   listing_information: Listed by the 1591 Committee on 28 April 2026.
   committees: 1591 (Sudan)

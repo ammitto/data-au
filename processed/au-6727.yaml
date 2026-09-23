@@ -1,3 +1,4 @@
+---
 reference: '6727'
 entity_type: person
 names:
@@ -6,10 +7,12 @@ names:
   script: Latn
 additional_info: Co-founder and editor-in-chief of the REGNUM portal
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 5) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 5) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-03-08'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 5) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 5) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

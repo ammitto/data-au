@@ -1,3 +1,4 @@
+---
 reference: '2950'
 entity_type: person
 names:
@@ -60,12 +61,20 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Was the official spokesman of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), and emir of ISIL in Syria, closely associated with Abu Mohammed al-Jawlani QDi.317) and Abu Bakr al-Baghdadi, listed as Ibrahim Awwad Ibrahim Ali al-Badri al-Samarrai (QDi.299). Reportedly killed in August 2016 in air strike near al-Bab, Syria. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+additional_info: Was the official spokesman of Islamic State in Iraq and the Levant
+  (ISIL), listed as Al-Qaida in Iraq (QDe.115), and emir of ISIL in Syria, closely
+  associated with Abu Mohammed al-Jawlani QDi.317) and Abu Bakr al-Baghdadi, listed
+  as Ibrahim Awwad Ibrahim Ali al-Badri al-Samarrai (QDi.299). Reportedly killed in
+  August 2016 in air strike near al-Bab, Syria. Review pursuant to Security Council
+  resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security
+  Council resolution 2368 (2017) was concluded on 15 November 2021. Photo available
+  for inclusion in the INTERPOL-UN Security Council Special Notice.
 sanction:
   listing_information: 'Listed on: 15 Aug. 2014 (amended on 1 May 2019, 11 Mar. 2025)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

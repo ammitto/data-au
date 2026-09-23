@@ -1,3 +1,4 @@
+---
 reference: '6949'
 entity_type: organization
 names:
@@ -19,10 +20,12 @@ names:
 address: d. 43 k. 1, ul. Dubrovinskogo Krasnoyarsk, Krasnoyarski Kr., 660017, Russia
 additional_info: www.eng.rushydro.ru
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Ukraine) Amendment (No. 12) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Ukraine) Amendment (No. 12) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-04-14'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Ukraine) Amendment (No. 12) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Ukraine)
+    Amendment (No. 12) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

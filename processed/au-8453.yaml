@@ -1,12 +1,16 @@
+---
 reference: '8453'
 entity_type: person
 names:
 - text: FEREIDOUN ABBASI-DAVANI
   name_type: Primary Name
   script: Latn
-additional_info: IRi.001.  Senior Ministry of Defence and Armed Forces Logistics (MODAFL) Scientist.  Has "links to the Institute of Applied Physics, working closely with Mohsen Fakhrizadeh-Mahabadi"  (designated under IRi.016).
+additional_info: IRi.001.  Senior Ministry of Defence and Armed Forces Logistics (MODAFL)
+  Scientist.  Has "links to the Institute of Applied Physics, working closely with
+  Mohsen Fakhrizadeh-Mahabadi"  (designated under IRi.016).
 sanction:
-  listing_information: Listed by the 1737 Committee on 24 March 2007 (amended on 17 December 2014).
+  listing_information: Listed by the 1737 Committee on 24 March 2007 (amended on 17
+    December 2014).
   committees: 1737 (Iran)
   control_date: '2025-12-12'
   instrument: Charter of the United Nations (Sanctions - Iran) Regulations 2025

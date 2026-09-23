@@ -1,3 +1,4 @@
+---
 reference: '3604'
 entity_type: person
 names:
@@ -32,12 +33,17 @@ names:
   script: Latn
   alias_strength: Weak
 address: Prison in Iraq
-additional_info: 'Former ISIL governor ofal-Jazira Province, military leader in the Syrian Arab Republic as well as member andchair of the ISIL Delegated Committee, which exercises administrative control of ISIL''saffairs. In custody of Iraq since 2019. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+additional_info: 'Former ISIL governor ofal-Jazira Province, military leader in the
+  Syrian Arab Republic as well as member andchair of the ISIL Delegated Committee,
+  which exercises administrative control of ISIL''saffairs. In custody of Iraq since
+  2019. Photo available for inclusion in the INTERPOL-UN Security Council Special
+  Notice. INTERPOL-UN Security Council Special Notice: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
 sanction:
   listing_information: 'Listed on: 19 Nov. 2018 (amended on 27 May 2022)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

@@ -1,10 +1,12 @@
+---
 reference: '2362'
 entity_type: organization
 names:
 - text: Business Lab
   name_type: Primary Name
   script: Latn
-address: Bldg. 9, Maysat Square, Al Rasafi St., P.O. Box 7155, Damascus, Syrian Arab Republic
+address: Bldg. 9, Maysat Square, Al Rasafi St., P.O. Box 7155, Damascus, Syrian Arab
+  Republic
 additional_info: |-
   Business Lab is a front company for the acquisition of sensitive
   equipment for the Scientific Studies and Research Centre.

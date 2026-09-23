@@ -1,3 +1,4 @@
+---
 reference: '8820'
 entity_type: person
 names:
@@ -17,10 +18,12 @@ names:
   script: Arab
 address: Damascus, Syria
 sanction:
-  listing_information: First listed on 6 June via Charter of the United Nations (Listed Persons and Entities) Amendment (No. 2) Instrument 2026
+  listing_information: First listed on 6 June via Charter of the United Nations (Listed
+    Persons and Entities) Amendment (No. 2) Instrument 2026
   committees: 1373 (2001)
   control_date: '2026-06-03'
-  instrument: Charter of the United Nations (Listed Persons and Entities) Amendment (No. 2) Instrument 2026
+  instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
+    (No. 2) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

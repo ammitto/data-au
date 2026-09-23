@@ -1,3 +1,4 @@
+---
 reference: '3563'
 entity_type: organization
 names:
@@ -7,7 +8,11 @@ names:
 address: |-
   Trust Company Complex, Ajeltake Road, Ajeltake Island, Majuro MH
   96960, Marshall Islands
-additional_info: KPe.060. In 2017, Tsang Yung Yuan (aka Neil Tsang) and Kingly Won attempted to engage in an oil deal valued at over $1 million with a petroleum company in a third country to illicitly transfer to the DPRK. Kingly Won acted as a broker for that petroleum company and a Chinese company that reached out to Kingly Won to purchase marine oil on its behalf.
+additional_info: KPe.060. In 2017, Tsang Yung Yuan (aka Neil Tsang) and Kingly Won
+  attempted to engage in an oil deal valued at over $1 million with a petroleum company
+  in a third country to illicitly transfer to the DPRK. Kingly Won acted as a broker
+  for that petroleum company and a Chinese company that reached out to Kingly Won
+  to purchase marine oil on its behalf.
 sanction:
   listing_information: 'Listed on: 30 Mar. 2018'
   committees: 1718 (DPRK)

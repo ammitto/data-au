@@ -1,3 +1,4 @@
+---
 reference: '3240'
 entity_type: person
 names:
@@ -17,12 +18,16 @@ names:
   script: Latn
   alias_strength: Strong
 address: Democratic People's Republic of Korea
-additional_info: 'KPi.040 Director of the Fifth Bureau of the Reconnaissance General Bureau. Passport no: 736410010. Cho is believed to be in charge of overseas espionage operations and foreign intelligence collection for the Democratic People''s Republic of Korea.'
+additional_info: 'KPi.040 Director of the Fifth Bureau of the Reconnaissance General
+  Bureau. Passport no: 736410010. Cho is believed to be in charge of overseas espionage
+  operations and foreign intelligence collection for the Democratic People''s Republic
+  of Korea.'
 sanction:
   listing_information: 'Listed on: 2 Jun. 2017 (amended on 26 Jul. 2022)'
   committees: 1718 (DPRK)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic of Korea) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
+    of Korea) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

@@ -1,3 +1,4 @@
+---
 reference: '7538'
 entity_type: organization
 names:
@@ -11,10 +12,12 @@ names:
 address: Myasnitskaya Ulitsa, 39 стр.1, Moscow, 101000, Russia
 additional_info: 'State registration number: 1047708022548'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-05-19'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 6) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 6) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

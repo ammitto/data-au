@@ -1,3 +1,4 @@
+---
 reference: '8493'
 entity_type: person
 names:
@@ -12,7 +13,8 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'IRi.042. Designation: a) Brigadier General b) Commander of IRGC Ground Forces.'
+additional_info: 'IRi.042. Designation: a) Brigadier General b) Commander of IRGC
+  Ground Forces.'
 sanction:
   listing_information: Listed on 24 March 2007 (amended on 17 December 2014)
   committees: 1737 (Iran)

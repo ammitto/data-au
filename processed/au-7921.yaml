@@ -1,3 +1,4 @@
+---
 reference: '7921'
 entity_type: organization
 names:
@@ -27,10 +28,12 @@ names:
 address: Dubininskaya street 61, room IV, room 35 Moscow Russia
 additional_info: Company Identification No.1197746727530 (Russia)
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   committees: Autonomous (Russia)
   control_date: '2024-02-23'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

@@ -1,3 +1,4 @@
+---
 reference: '2831'
 entity_type: organization
 names:
@@ -20,17 +21,18 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: 100/1, Dostoevskogo Street, Ufa 450077, Bashkhortostan Republic, Russian Federation
-additional_info: |-
-  Controlled by Arkady and Boris Rotenberg; Website: www.investcapitalbank.ru 
-  Bank Identifier Code (BIC): INAKRU41
-  Registration ID: 1060200012685 (Russia)
-  Tax ID No.: 0278129399 (Russia)
+address: 100/1, Dostoevskogo Street, Ufa 450077, Bashkhortostan Republic, Russian
+  Federation
+additional_info: "Controlled by Arkady and Boris Rotenberg; Website: www.investcapitalbank.ru
+  \nBank Identifier Code (BIC): INAKRU41\nRegistration ID: 1060200012685 (Russia)\nTax
+  ID No.: 0278129399 (Russia)"
 sanction:
-  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
+  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March
+    2021 and 10 June 2023
   committees: Autonomous (Russia)
   control_date: '2023-06-10'
-  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
+  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and
+    10 June 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

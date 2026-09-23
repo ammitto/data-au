@@ -1,3 +1,4 @@
+---
 reference: '8542'
 entity_type: organization
 names:
@@ -8,7 +9,8 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-additional_info: 'IRe.046. Designation: Operates within AEOI and has transferred funds on behalf of AEOI to entities associated with Iran''s nuclear programme.'
+additional_info: 'IRe.046. Designation: Operates within AEOI and has transferred funds
+  on behalf of AEOI to entities associated with Iran''s nuclear programme.'
 sanction:
   listing_information: Listed by the 1737 Committee on 24 March 2007.
   committees: 1737 (Iran)

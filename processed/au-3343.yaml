@@ -1,3 +1,4 @@
+---
 reference: '3343'
 entity_type: organization
 names:
@@ -8,9 +9,11 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: Fayez Mansour Street, Building No 35, Floor No 2, Baramkeh, P.O. Box 34081, Damascus, Syria
+address: Fayez Mansour Street, Building No 35, Floor No 2, Baramkeh, P.O. Box 34081,
+  Damascus, Syria
 sanction:
-  listing_information: 'Listed on: 17 Aug. 2017 (Relisted on 3 Aug. 2020 and 2 Aug. 2023)'
+  listing_information: 'Listed on: 17 Aug. 2017 (Relisted on 3 Aug. 2020 and 2 Aug.
+    2023)'
   committees: Autonomous (Syria)
   control_date: '2023-08-02'
   instrument: 'Listed on: 17 Aug. 2017 (Relisted on 3 Aug. 2020 and 2 Aug. 2023)'

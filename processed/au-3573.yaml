@@ -1,3 +1,4 @@
+---
 reference: '3573'
 entity_type: organization
 names:
@@ -9,7 +10,9 @@ names:
   script: Latn
   alias_strength: Strong
 address: Otan-dong, Chung-guyok, Pyongyang, Democratic People's Republic of Korea
-additional_info: 'KPe.070. Registered owner of DPRK tanker JI SONG 6, which is believed to have been involved in ship-to-ship transfer operations of oil in late January 2018. The company also owns vessels JI SONG 8 and WOORY STAR. IMO number: 5878561.'
+additional_info: 'KPe.070. Registered owner of DPRK tanker JI SONG 6, which is believed
+  to have been involved in ship-to-ship transfer operations of oil in late January
+  2018. The company also owns vessels JI SONG 8 and WOORY STAR. IMO number: 5878561.'
 sanction:
   listing_information: 'Listed on: 30 Mar. 2018 (amended on 26 Jul. 2022)'
   committees: 1718 (DPRK)

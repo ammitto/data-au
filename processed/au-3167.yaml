@@ -1,3 +1,4 @@
+---
 reference: '3167'
 entity_type: organization
 names:
@@ -8,8 +9,13 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: Jungson-dong, Sungri Street, Central District, Pyongyang, Democratic People’s Republic of Korea
-additional_info: KPe.025. KKBC provides financial services in support to Tanchon Commercial Bank and Korea Hyoksin Trading Corporation, a subordinate of the Korea Ryonbong General Corporation. Tanchon Commercial Bank has used KKBC to facilitate funds transfers likely amounting to millions of dollars, including transfers involving Korea Mining Development Corporation related funds.
+address: Jungson-dong, Sungri Street, Central District, Pyongyang, Democratic People’s
+  Republic of Korea
+additional_info: KPe.025. KKBC provides financial services in support to Tanchon Commercial
+  Bank and Korea Hyoksin Trading Corporation, a subordinate of the Korea Ryonbong
+  General Corporation. Tanchon Commercial Bank has used KKBC to facilitate funds transfers
+  likely amounting to millions of dollars, including transfers involving Korea Mining
+  Development Corporation related funds.
 sanction:
   listing_information: 'Listed on: 2 Mar. 2016'
   committees: 1718 (DPRK)

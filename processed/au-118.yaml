@@ -1,3 +1,4 @@
+---
 reference: '118'
 entity_type: person
 names:
@@ -20,9 +21,14 @@ names:
   script: Latn
   alias_strength: Strong
 address: Kabul, Afghanistan
-additional_info: 'TAi.118 Title: Mullah. Designation: Head of Ariana Afghan Airlines under the Taliban regime (1996-2001). Passport no: Afghanistan diplomatic passport D0009721 ; issued 12 Oct. 2021; (Name in Latin script: Hamidullah Saeed; name in original script: حميدالله سعيد ; expires 12 Oct. 2026.) Belongs to Ghilzai tribe. Height: 175cm'
+additional_info: 'TAi.118 Title: Mullah. Designation: Head of Ariana Afghan Airlines
+  under the Taliban regime (1996-2001). Passport no: Afghanistan diplomatic passport
+  D0009721 ; issued 12 Oct. 2021; (Name in Latin script: Hamidullah Saeed; name in
+  original script: حميدالله سعيد ; expires 12 Oct. 2026.) Belongs to Ghilzai tribe.
+  Height: 175cm'
 sanction:
-  listing_information: Listed on 25 January 2001 (amended on 3 Sep 2003, 9 July 2007, 21 Sep 2007, 29 Nov. 2011 and 13 Aug 2012, 10 Mar. 2026)
+  listing_information: Listed on 25 January 2001 (amended on 3 Sep 2003, 9 July 2007,
+    21 Sep 2007, 29 Nov. 2011 and 13 Aug 2012, 10 Mar. 2026)
   committees: 1988 (Taliban)
   control_date: '2026-05-08'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013

@@ -1,3 +1,4 @@
+---
 reference: '7733'
 entity_type: organization
 names:
@@ -22,10 +23,13 @@ additional_info: |-
 
   A subordinate of the Aerospace Industries Organisation and a front company for Fajr Industrial Group.
 sanction:
-  listing_information: 'Instrument of first designation: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument 2023'
+  listing_information: 'Instrument of first designation: Autonomous Sanctions (Designated
+    Persons and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument
+    2023'
   committees: Autonomous (Iran)
   control_date: '2023-10-18'
-  instrument: 'Instrument of first designation: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument 2023'
+  instrument: 'Instrument of first designation: Autonomous Sanctions (Designated Persons
+    and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument 2023'
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

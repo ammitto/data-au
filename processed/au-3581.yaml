@@ -1,3 +1,4 @@
+---
 reference: '3581'
 entity_type: person
 names:
@@ -27,7 +28,8 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'LYi.022. Designation: Leader of a transnational trafficking network. Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).'
+additional_info: 'LYi.022. Designation: Leader of a transnational trafficking network.
+  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).'
 sanction:
   listing_information: 'Listed on: 7 Jun. 2018 (amended on 17 Sep. 2018)'
   committees: 1970 (Libya)

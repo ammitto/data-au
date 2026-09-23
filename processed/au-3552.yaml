@@ -1,3 +1,4 @@
+---
 reference: '3552'
 entity_type: person
 names:
@@ -27,13 +28,24 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: a) 17 Tamoz, Mosul, Iraq (previous address) b) Tel Afar - Al-Saad, Mosul, Iraq (previous address)
-additional_info: 'Passport no: Iraq number A6489694, issued on 2 Sep. 2013 (expires on 31 Aug. 2021; name in Arabic script: سالم مصطفى محمد ال منصور). National identification no: a) Iraq national identification card 00813602, issued on 18 Sep. 2011 (name in Arabic script: سالم مصطفى محمد ال منصور). b) Iraq Certificate of Iraqi Nationality 300397, issued on 25 Jun. 2013 (name in Arabic script: سالم مصطفى محمد). Finance "emir"  for Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe. 115).  Mother''s name: Khadijah Mustafa Salih; Held in detention by the Iraqi intelligence service since 1029 and has been sentenced to death. Physical description: hair colour: black; eye colour: honey; height: 170 cm. Speaks Arabic. Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.'
+address: a) 17 Tamoz, Mosul, Iraq (previous address) b) Tel Afar - Al-Saad, Mosul,
+  Iraq (previous address)
+additional_info: 'Passport no: Iraq number A6489694, issued on 2 Sep. 2013 (expires
+  on 31 Aug. 2021; name in Arabic script: سالم مصطفى محمد ال منصور). National identification
+  no: a) Iraq national identification card 00813602, issued on 18 Sep. 2011 (name
+  in Arabic script: سالم مصطفى محمد ال منصور). b) Iraq Certificate of Iraqi Nationality
+  300397, issued on 25 Jun. 2013 (name in Arabic script: سالم مصطفى محمد). Finance
+  "emir"  for Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.
+  115).  Mother''s name: Khadijah Mustafa Salih; Held in detention by the Iraqi intelligence
+  service since 1029 and has been sentenced to death. Physical description: hair colour:
+  black; eye colour: honey; height: 170 cm. Speaks Arabic. Review pursuant to Security
+  Council resolution 2610 (2021) was concluded on 30 October 2023.'
 sanction:
   listing_information: 'Listed on: 6 Mar. 2018 (amended on 30 Oct 2023, 2 Dec 2024)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

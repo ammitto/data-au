@@ -1,3 +1,4 @@
+---
 reference: '6685'
 entity_type: organization
 names:
@@ -35,10 +36,14 @@ names:
 address: D. 8, Str. 1, Etaj 12, Nab. Presnenskaya, Moscow 123112, Russia
 additional_info: 'Website: https://rvc.ru'
 sanction:
-  listing_information: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 3) Instrument 2022'
+  listing_information: 'Instrument of first designation and declaration: Autonomous
+    Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine)
+    Amendment (No. 3) Instrument 2022'
   committees: Autonomous (Russia)
   control_date: '2022-03-03'
-  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 3) Instrument 2022'
+  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions
+    (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment
+    (No. 3) Instrument 2022'
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

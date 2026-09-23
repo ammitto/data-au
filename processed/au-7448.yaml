@@ -1,3 +1,4 @@
+---
 reference: '7448'
 entity_type: organization
 names:
@@ -15,10 +16,12 @@ names:
 address: Prospekt Imeni V.I. Lenina B/N, Volgograd, 400071, Russia 
 additional_info: 'Email: cdb@cdbtitan.ru '
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

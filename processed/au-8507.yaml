@@ -1,10 +1,13 @@
+---
 reference: '8507'
 entity_type: organization
 names:
 - text: DEFENCE INDUSTRIES ORGANISATION (DIO)
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.011. Designation: Overarching MODAFL-controlled entity, some of whose subordinates have been involved in the centrifuge programme making components, and in the missile programme.'
+additional_info: 'IRe.011. Designation: Overarching MODAFL-controlled entity, some
+  of whose subordinates have been involved in the centrifuge programme making components,
+  and in the missile programme.'
 sanction:
   listing_information: Listed by the 1737 Committee on 23 December 2006.
   committees: 1737 (Iran)

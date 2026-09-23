@@ -1,15 +1,21 @@
+---
 reference: '6653'
 entity_type: person
 names:
 - text: Denis Aleksandrovich BORTNIKOV
   name_type: Primary Name
   script: Latn
-additional_info: Deputy President and Chairman of Russia’s state-owned VTB Bank Management Board
+additional_info: Deputy President and Chairman of Russia’s state-owned VTB Bank Management
+  Board
 sanction:
-  listing_information: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No. 4) Instrument 2022'
+  listing_information: 'Instrument of first designation and declaration: Autonomous
+    Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment
+    (No. 4) Instrument 2022'
   committees: Autonomous (Russia)
   control_date: '2022-02-26'
-  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No. 4) Instrument 2022'
+  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions
+    (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No.
+    4) Instrument 2022'
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

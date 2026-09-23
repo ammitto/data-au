@@ -1,3 +1,4 @@
+---
 reference: '1285'
 entity_type: person
 names:
@@ -28,7 +29,13 @@ names:
   script: Latn
   alias_strength: Strong
 address: Kabul, Afghanistan
-additional_info: 'TAi.156 Title: Haji.  Senior Taliban official with military and financial responsibilities as at 2011. Passport no: Afghanistan diplomatic passport D0010409, issued on 29 Aug. 2024 in Kabul, Afghanistan (Name in Latin script: Noor Ahmad Agha; expires 29 Aug. 2029). Senior Taliban official with military and financial responsibilities as at 2011. Leader of the Taliban’s Military Council as of 2010. In 2008 and 2009, served as a Taliban finance officer and distributed money to Taliban commanders in Afghanistan/Pakistan border area. Height: 180cm'
+additional_info: 'TAi.156 Title: Haji.  Senior Taliban official with military and
+  financial responsibilities as at 2011. Passport no: Afghanistan diplomatic passport
+  D0010409, issued on 29 Aug. 2024 in Kabul, Afghanistan (Name in Latin script: Noor
+  Ahmad Agha; expires 29 Aug. 2029). Senior Taliban official with military and financial
+  responsibilities as at 2011. Leader of the Taliban’s Military Council as of 2010.
+  In 2008 and 2009, served as a Taliban finance officer and distributed money to Taliban
+  commanders in Afghanistan/Pakistan border area. Height: 180cm'
 sanction:
   listing_information: Listed on 6 Jan. 2012 (amended on 10 Mar. 2026)
   committees: 1988 (Taliban)

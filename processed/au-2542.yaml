@@ -1,3 +1,4 @@
+---
 reference: '2542'
 entity_type: person
 names:
@@ -23,8 +24,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: a)  Kachray Road, Pashtunabad, Quetta, Baluchistan Province, Pakistan, b) Nasrullah Khan Chowk, Pashtunabad Area, Baluchistan Province, Pakistan, c) Chaman, Baluchistan Province, Pakistan, d) Abdul Satar Food Shop, Ayno Mina 0093, Kandahar Province, Afghanistan
-additional_info: TAi.162 Pakistan passport number AM5421691 expires on 11 August 2013; Pakistan National Identification number 5420250161699; Afghan National Identification number 585629; co-owner of Haji Khairullah Haji Sattar Money Exchange (TE.H.1.12.) and associated also with Khairullah Barakzai (TI.K.163.12.).  Belongs to Barakzai tribe.  Father's name is Hajji 'Abd-al-Manaf.
+address: a)  Kachray Road, Pashtunabad, Quetta, Baluchistan Province, Pakistan, b)
+  Nasrullah Khan Chowk, Pashtunabad Area, Baluchistan Province, Pakistan, c) Chaman,
+  Baluchistan Province, Pakistan, d) Abdul Satar Food Shop, Ayno Mina 0093, Kandahar
+  Province, Afghanistan
+additional_info: TAi.162 Pakistan passport number AM5421691 expires on 11 August 2013;
+  Pakistan National Identification number 5420250161699; Afghan National Identification
+  number 585629; co-owner of Haji Khairullah Haji Sattar Money Exchange (TE.H.1.12.)
+  and associated also with Khairullah Barakzai (TI.K.163.12.).  Belongs to Barakzai
+  tribe.  Father's name is Hajji 'Abd-al-Manaf.
 sanction:
   listing_information: Listed on 28 June 2012 pursuant to resolution 1988 (2011).
   committees: 1988 (Taliban)

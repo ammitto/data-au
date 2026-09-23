@@ -1,3 +1,4 @@
+---
 reference: '3584'
 entity_type: person
 names:
@@ -24,7 +25,12 @@ names:
   name_type: Original Script
   script: Arab
 address: Zawiya, Libya
-additional_info: 'LYi.025. Designation: Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery Guard of Zawiya’s refinery. Passport no: HR8CHGP8; Date of issue: 27 April 2015; Place of issue: Zawiyah. National identification no: a) 119880210419 b) Personal Identification Card no: 728498; Date of issue: 24 February 2007). Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze).'
+additional_info: 'LYi.025. Designation: Commander of the Shuhada al-Nasr brigade,
+  Head of the Petrol Refinery Guard of Zawiya’s refinery. Passport no: HR8CHGP8; Date
+  of issue: 27 April 2015; Place of issue: Zawiyah. National identification no: a)
+  119880210419 b) Personal Identification Card no: 728498; Date of issue: 24 February
+  2007). Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset
+  Freeze).'
 sanction:
   listing_information: 'Listed on: 7 Jun. 2018 (amended on 17 Sep. 2018)'
   committees: 1970 (Libya)

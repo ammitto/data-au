@@ -1,3 +1,4 @@
+---
 reference: '2316'
 entity_type: person
 names:
@@ -16,7 +17,8 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'Last known position: Major General and Commander of the Syrian Arab Army’s 18th Armoured Division.'
+additional_info: 'Last known position: Major General and Commander of the Syrian Arab
+  Army’s 18th Armoured Division.'
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Instrument of first

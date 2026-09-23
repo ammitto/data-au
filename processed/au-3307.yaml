@@ -1,3 +1,4 @@
+---
 reference: '3307'
 entity_type: person
 names:
@@ -12,9 +13,12 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Last known position - General Manager of Yona Star International, a sanctioned entity under Australian sanctions law; Passport information - 13AF69606 (France)
+additional_info: Last known position - General Manager of Yona Star International,
+  a sanctioned entity under Australian sanctions law; Passport information - 13AF69606
+  (France)
 sanction:
-  listing_information: 'Listed on: 17 Aug. 2017 (Relisted on 3 Aug. 2020 and 2 Aug. 2023)'
+  listing_information: 'Listed on: 17 Aug. 2017 (Relisted on 3 Aug. 2020 and 2 Aug.
+    2023)'
   committees: Autonomous (Syria)
   control_date: '2023-08-02'
   instrument: 'Listed on: 17 Aug. 2017 (Relisted on 3 Aug. 2020 and 2 Aug. 2023)'

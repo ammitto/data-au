@@ -1,3 +1,4 @@
+---
 reference: '8012'
 entity_type: person
 names:
@@ -8,12 +9,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Deputy Minister of Construction and Housing and Public Utilities of the Russian Federation
+additional_info: Deputy Minister of Construction and Housing and Public Utilities
+  of the Russian Federation
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
   control_date: '2025-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

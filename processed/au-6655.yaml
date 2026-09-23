@@ -1,15 +1,21 @@
+---
 reference: '6655'
 entity_type: person
 names:
 - text: Petr Mikhailovich FRADKOV
   name_type: Primary Name
   script: Latn
-additional_info: Chairman and CEO of Promsvyazbank and General Director of the Russian Export Center
+additional_info: Chairman and CEO of Promsvyazbank and General Director of the Russian
+  Export Center
 sanction:
-  listing_information: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No. 4) Instrument 2022'
+  listing_information: 'Instrument of first designation and declaration: Autonomous
+    Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment
+    (No. 4) Instrument 2022'
   committees: Autonomous (Russia)
   control_date: '2022-02-26'
-  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No. 4) Instrument 2022'
+  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions
+    (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No.
+    4) Instrument 2022'
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

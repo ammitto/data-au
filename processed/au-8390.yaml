@@ -1,3 +1,4 @@
+---
 reference: '8390'
 entity_type: person
 names:
@@ -21,10 +22,12 @@ additional_info: |-
 
   Passport number (RUS): 726146360
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Thematic Sanctions) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Thematic Sanctions) Instrument 2022
   committees: Autonomous (Thematic - Cyber)
   control_date: '2025-11-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 3) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 3) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

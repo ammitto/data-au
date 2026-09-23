@@ -1,3 +1,4 @@
+---
 reference: '7874'
 entity_type: person
 names:
@@ -14,10 +15,12 @@ names:
   alias_strength: Strong
 additional_info: Director General of Surgutneftegas
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   committees: Autonomous (Russia)
   control_date: '2024-02-23'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

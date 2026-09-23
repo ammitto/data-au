@@ -1,3 +1,4 @@
+---
 reference: '8818'
 entity_type: organization
 names:
@@ -17,12 +18,16 @@ names:
   script: Latn
   alias_strength: Weak
 address: West Bank (close to the Halamish settlement), Palestine
-additional_info: Farming outpost in the West Bank owned and founded by Zvi Bar Yosef. Zvi Bar Yosef was sanctioned by the Australian Government under the Human Rights Criteria on 25 July 2024.
+additional_info: Farming outpost in the West Bank owned and founded by Zvi Bar Yosef.
+  Zvi Bar Yosef was sanctioned by the Australian Government under the Human Rights
+  Criteria on 25 July 2024.
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Thematic - Human Rights)
   control_date: '2026-06-02'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

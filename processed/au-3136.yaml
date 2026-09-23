@@ -1,11 +1,16 @@
+---
 reference: '3136'
 entity_type: person
 names:
 - text: Gulmurod Khalimov
   name_type: Primary Name
   script: Latn
-address: Afghanistan (Kunar and Nuristan provinces and border area of Zebok district, Badakhshan province)
-additional_info: Syria-based military expert, member and recruiter of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). Wanted by the Government of Tajikistan. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address: Afghanistan (Kunar and Nuristan provinces and border area of Zebok district,
+  Badakhshan province)
+additional_info: Syria-based military expert, member and recruiter of Islamic State
+  in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). Wanted by the Government
+  of Tajikistan. Review pursuant to Security Council resolution 2368 (2017) was concluded
+  on 24 November 2020.
 sanction:
   listing_information: |-
     UN Reference Number QDi.372
@@ -13,7 +18,8 @@ sanction:
     Listed on: 29 Feb. 2016 (amended on 24 Nov. 2020, 22 August 2025)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

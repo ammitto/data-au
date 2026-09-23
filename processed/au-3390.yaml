@@ -1,3 +1,4 @@
+---
 reference: '3390'
 entity_type: organization
 names:
@@ -9,10 +10,12 @@ names:
   script: Latn
   alias_strength: Strong
 sanction:
-  listing_information: Listed on 1 Sep. 2017 (relisted on 28 Aug. 2020) (relisted on 27 Aug 2023)
+  listing_information: Listed on 1 Sep. 2017 (relisted on 28 Aug. 2020) (relisted
+    on 27 Aug 2023)
   committees: Autonomous (Ukraine)
   control_date: '2023-08-29'
-  instrument: Listed on 1 Sep. 2017 (relisted on 28 Aug. 2020) (relisted on 27 Aug 2023)
+  instrument: Listed on 1 Sep. 2017 (relisted on 28 Aug. 2020) (relisted on 27 Aug
+    2023)
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

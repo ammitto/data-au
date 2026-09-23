@@ -1,3 +1,4 @@
+---
 reference: '3554'
 entity_type: organization
 names:
@@ -17,12 +18,19 @@ names:
   script: Latn
   alias_strength: Strong
 address: Al-Qaim, Al Anbar Province, Iraq
-additional_info: QDe.157. Money exchange business and owned by Umar Mahmud Irhayyim al-Kubaysi (QDi.412) as of mid-2016. Facilitated financial transactions on behalf of companies associated with Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115). Established in 2000 under License number 202, issued on 17 May 2000, and since withdrawn. Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.
+additional_info: QDe.157. Money exchange business and owned by Umar Mahmud Irhayyim
+  al-Kubaysi (QDi.412) as of mid-2016. Facilitated financial transactions on behalf
+  of companies associated with Islamic State in Iraq and the Levant (ISIL), listed
+  as Al-Qaida in Iraq (QDe.115). Established in 2000 under License number 202, issued
+  on 17 May 2000, and since withdrawn. Review pursuant to Security Council resolution
+  2610 (2021) was concluded on 30 October 2023.
 sanction:
-  listing_information: Listed by the 1267 Committee on 6 Mar. 2018 ( amended on 30 Oct. 2023 )
+  listing_information: Listed by the 1267 Committee on 6 Mar. 2018 ( amended on 30
+    Oct. 2023 )
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: true

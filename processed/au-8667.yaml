@@ -1,15 +1,19 @@
+---
 reference: '8667'
 entity_type: person
 names:
 - text: Vladislav GROMOV
   name_type: Primary Name
   script: Latn
-additional_info: Director of GLIDER ST PTY LTD, registered in Australia. Chief Investment Officer of ALT CAPITAL
+additional_info: Director of GLIDER ST PTY LTD, registered in Australia. Chief Investment
+  Officer of ALT CAPITAL
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Russia)
   control_date: '2026-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

@@ -1,3 +1,4 @@
+---
 reference: '8813'
 entity_type: person
 names:
@@ -12,10 +13,12 @@ additional_info: |-
   Settler
   National ID: 206727158
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Thematic - Human Rights)
   control_date: '2026-06-02'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

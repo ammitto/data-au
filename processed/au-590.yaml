@@ -1,3 +1,4 @@
+---
 reference: '590'
 entity_type: person
 names:
@@ -12,12 +13,19 @@ names:
   script: Latn
   alias_strength: Strong
 address: Algeria
-additional_info: Reportedly deceased in June 2020. Head of The Organization of Al-Qaida in the Islamic Maghreb (QE.T.14.01.). Sentenced in absentia to life imprisonment in Algeria on 21 March 2007. Father’s name is Rabah Droukdel. Mother’s name is Z’hour Zdigha.Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+additional_info: Reportedly deceased in June 2020. Head of The Organization of Al-Qaida
+  in the Islamic Maghreb (QE.T.14.01.). Sentenced in absentia to life imprisonment
+  in Algeria on 21 March 2007. Father’s name is Rabah Droukdel. Mother’s name is Z’hour
+  Zdigha.Review pursuant to Security Council resolution 2253 (2015) was concluded
+  on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was
+  concluded on 8 November 2022.
 sanction:
-  listing_information: Listed on 27 August 2007 (amended on 7 April 2008, 13 Dec. 2011, 1 May 2019, 2 February 2023)
+  listing_information: Listed on 27 August 2007 (amended on 7 April 2008, 13 Dec.
+    2011, 1 May 2019, 2 February 2023)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

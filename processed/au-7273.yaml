@@ -1,3 +1,4 @@
+---
 reference: '7273'
 entity_type: person
 names:
@@ -8,7 +9,8 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: So-called ‘Deputy Chairperson’ of the selfproclaimed ‘government’ of the so-called ‘People’s Republic of Luhansk’ in Ukraine
+additional_info: So-called ‘Deputy Chairperson’ of the selfproclaimed ‘government’
+  of the so-called ‘People’s Republic of Luhansk’ in Ukraine
 sanction:
   listing_information: |-
     Instrument of first designation

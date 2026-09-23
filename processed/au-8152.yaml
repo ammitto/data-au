@@ -1,3 +1,4 @@
+---
 reference: '8152'
 entity_type: person
 names:
@@ -14,10 +15,12 @@ names:
   alias_strength: Weak
 additional_info: Minister of National Security
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Thematic Sanctions) Amendment (No. 2) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Thematic Sanctions) Amendment (No. 2) Instrument 2025
   committees: Autonomous (Thematic - Human Rights)
   control_date: '2025-06-11'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Thematic Sanctions) Amendment (No. 2) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Thematic Sanctions) Amendment (No. 2) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

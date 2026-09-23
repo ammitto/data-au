@@ -1,3 +1,4 @@
+---
 reference: '1123'
 entity_type: organization
 names:
@@ -9,7 +10,9 @@ names:
   script: Latn
   alias_strength: Strong
 address: Rakwondong, Pothonggang District, Pyongyang, DPRK.
-additional_info: KPe.006. a DPRK company based in Pyongyang that is subordinate to Korea Ryonbong General Corporation (designated by theCommittee in April 2009) and is involved in the development of WMD.
+additional_info: KPe.006. a DPRK company based in Pyongyang that is subordinate to
+  Korea Ryonbong General Corporation (designated by theCommittee in April 2009) and
+  is involved in the development of WMD.
 sanction:
   listing_information: Listed by the UN 1718 Committee on 16 July 2009
   committees: 1718 (DPRK)

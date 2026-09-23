@@ -1,3 +1,4 @@
+---
 reference: '3619'
 entity_type: organization
 names:
@@ -44,12 +45,15 @@ names:
   script: Latn
   alias_strength: Strong
 address: "(Afghanistan/Pakistan border region)"
-additional_info: QDe.160. Splinter group of Tehrik-e Taliban Pakistan (TTP) (QDe.132). The group was formed in Darra Adam Khel, Federally Administered Tribal Area (FATA), Pakistan, in 2007.
+additional_info: QDe.160. Splinter group of Tehrik-e Taliban Pakistan (TTP) (QDe.132).
+  The group was formed in Darra Adam Khel, Federally Administered Tribal Area (FATA),
+  Pakistan, in 2007.
 sanction:
   listing_information: Listed by the 1267 Committee on 22 Mar. 2019
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: true

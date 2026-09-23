@@ -1,3 +1,4 @@
+---
 reference: '8597'
 entity_type: organization
 names:
@@ -5,10 +6,12 @@ names:
   name_type: Primary Name
   script: Latn
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) List 2012
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) List 2012
   committees: Autonomous (Iran)
   control_date: '2026-02-02'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

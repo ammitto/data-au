@@ -1,10 +1,12 @@
+---
 reference: '8546'
 entity_type: organization
 names:
 - text: PARCHIN CHEMICAL INDUSTRIES
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.050. Designation: Branch of DIO, which produces ammunition, explosives, as well as solid propellants for rockets and missiles.'
+additional_info: 'IRe.050. Designation: Branch of DIO, which produces ammunition,
+  explosives, as well as solid propellants for rockets and missiles.'
 sanction:
   listing_information: Listed by the 1737 Committee on 24 March 2007.
   committees: 1737 (Iran)

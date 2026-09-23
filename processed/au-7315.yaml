@@ -1,3 +1,4 @@
+---
 reference: '7315'
 entity_type: organization
 names:
@@ -12,13 +13,16 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: No. 1106, 11 Hemmat Corner, Hemmat Square, Hemmat Boulevard, Shokuhieh Industrial Town, Qom, Qom Province
+address: No. 1106, 11 Hemmat Corner, Hemmat Square, Hemmat Boulevard, Shokuhieh Industrial
+  Town, Qom, Qom Province
 additional_info: 'Registration Number: 3718116354'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 1) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 1) Instrument 2023
   committees: Autonomous (Ukraine)
   control_date: '2023-02-01'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 1) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 1) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

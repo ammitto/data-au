@@ -1,3 +1,4 @@
+---
 reference: '8135'
 entity_type: organization
 names:
@@ -21,14 +22,14 @@ names:
   script: Latn
   alias_strength: Strong
 address: Uspenskiy Prospekt, 1 Verkhnyaya Pyshma Sverdlovsk Region 624091 Russia
-additional_info: |-
-  https://www.ugmk.com/en/ 
-  https://ugmk.com/
+additional_info: "https://www.ugmk.com/en/ \nhttps://ugmk.com/"
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
   control_date: '2025-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

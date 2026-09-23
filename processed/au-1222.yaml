@@ -1,3 +1,4 @@
+---
 reference: '1222'
 entity_type: organization
 names:
@@ -39,12 +40,19 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: QDe.130. Was established in Afghanistan in 1980. In 1993, Harakat-ul Jihad Islami merged with Harakat ul-Mujahidin (QDe.008) to form Harakat ul-Ansar. In 1997, Harakat-ul Jihad Islami split from Harakat ul-Ansar and resumed using its former name. Operations are in India, Pakistan and Afghanistan. Banned in Pakistan. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+additional_info: QDe.130. Was established in Afghanistan in 1980. In 1993, Harakat-ul
+  Jihad Islami merged with Harakat ul-Mujahidin (QDe.008) to form Harakat ul-Ansar.
+  In 1997, Harakat-ul Jihad Islami split from Harakat ul-Ansar and resumed using its
+  former name. Operations are in India, Pakistan and Afghanistan. Banned in Pakistan.
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November
+  2020.
 sanction:
-  listing_information: Listed by the 1267 Committee on 6 Aug. 2010 ( amended on 13 Dec. 2011, 24 Nov. 2020 )
+  listing_information: Listed by the 1267 Committee on 6 Aug. 2010 ( amended on 13
+    Dec. 2011, 24 Nov. 2020 )
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: true

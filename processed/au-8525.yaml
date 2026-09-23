@@ -1,13 +1,11 @@
+---
 reference: '8525'
 entity_type: organization
 names:
 - text: IRISL BENELUX NV
   name_type: Primary Name
   script: Latn
-additional_info: |-
-  IRe.029. 
-
-  VAT Number BE480224531
+additional_info: "IRe.029. \n\nVAT Number BE480224531"
 sanction:
   listing_information: Listed by the 1737 Committee on 9 June 2010.
   committees: 1737 (Iran)

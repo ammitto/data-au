@@ -1,3 +1,4 @@
+---
 reference: '6781'
 entity_type: organization
 names:
@@ -7,10 +8,12 @@ names:
 address: Ilinka Str 9, Moscow 109097, Russia
 additional_info: 'Website: minfin.gov.ru'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-03-18'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 8) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

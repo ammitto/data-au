@@ -1,3 +1,4 @@
+---
 reference: '2565'
 entity_type: organization
 names:
@@ -21,9 +22,12 @@ names:
   script: Latn
   alias_strength: Strong
 address: Pyongyang, DPRK
-additional_info: KPe.012. The Korean Committee for Space Technology (KCST) orchestrated the DPRK's launches on 13 April 2012 and 12 December 2012 via the satellite control center and Sohae launch area.
+additional_info: KPe.012. The Korean Committee for Space Technology (KCST) orchestrated
+  the DPRK's launches on 13 April 2012 and 12 December 2012 via the satellite control
+  center and Sohae launch area.
 sanction:
-  listing_information: Listed on 22 January 2013 pursuant to UNSC resolution 2087 (2013)
+  listing_information: Listed on 22 January 2013 pursuant to UNSC resolution 2087
+    (2013)
   committees: 1718 (DPRK)
   control_date: '2026-02-20'
   instrument: Listed on 22 January 2013 pursuant to UNSC resolution 2087 (2013)

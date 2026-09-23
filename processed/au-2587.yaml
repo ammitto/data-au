@@ -1,3 +1,4 @@
+---
 reference: '2587'
 entity_type: person
 names:
@@ -16,7 +17,12 @@ names:
   script: Latn
   alias_strength: Strong
 address: Chaman, Baluchistan Province, Pakistan
-additional_info: TAi.167 Improvised explosive device manufacturer and facilitator for the Taliban. Taliban member responsible for Badghis Province, Afghanistan, as at mid – 2010. Former Taliban member responsible for Sar-e Pul and Samangan Provinces, Afghanistan. As Taliban military commander in Kandahar Province, Afghanistan, he was involved in organizing suicide attacks in neighboring provinces. Associated with Abdul Samad Achekzai (TI.A.160.12.).
+additional_info: TAi.167 Improvised explosive device manufacturer and facilitator
+  for the Taliban. Taliban member responsible for Badghis Province, Afghanistan, as
+  at mid – 2010. Former Taliban member responsible for Sar-e Pul and Samangan Provinces,
+  Afghanistan. As Taliban military commander in Kandahar Province, Afghanistan, he
+  was involved in organizing suicide attacks in neighboring provinces. Associated
+  with Abdul Samad Achekzai (TI.A.160.12.).
 sanction:
   listing_information: Listed on 16 April 2013
   committees: 1988 (Taliban)

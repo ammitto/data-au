@@ -1,3 +1,4 @@
+---
 reference: '3218'
 entity_type: organization
 names:
@@ -5,7 +6,8 @@ names:
   name_type: Primary Name
   script: Latn
 address: Pyongyang, Democratic People's Republic of Korea
-additional_info: KPe.041. Korea Taesong Trading Company has acted on behalf of KOMID in dealings with Syria.
+additional_info: KPe.041. Korea Taesong Trading Company has acted on behalf of KOMID
+  in dealings with Syria.
 sanction:
   listing_information: 'Listed on: 30 Nov. 2016'
   committees: 1718 (DPRK)

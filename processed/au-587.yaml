@@ -1,3 +1,4 @@
+---
 reference: '587'
 entity_type: person
 names:
@@ -24,12 +25,18 @@ names:
   script: Latn
   alias_strength: Strong
 address: Bab Ben Ghasheer, Tripoli, Libyan Arab Jamahiriya
-additional_info: a) Libyan passport 1990/345751. b) Libyan passport number 1990/345751. Libyan national identification number 220334. Mother's name is Kalthoum Abdul Salam al-Shaftari. Senior member of Libyan Islamic Fighting Group (QDe.011) and member of Al-Qaida (Qde.004). Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+additional_info: a) Libyan passport 1990/345751. b) Libyan passport number 1990/345751.
+  Libyan national identification number 220334. Mother's name is Kalthoum Abdul Salam
+  al-Shaftari. Senior member of Libyan Islamic Fighting Group (QDe.011) and member
+  of Al-Qaida (Qde.004). Review pursuant to Security Council resolution 2253 (2015)
+  was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610
+  (2021) was concluded on 8 November 2022.
 sanction:
   listing_information: Listedon 8 Jun. 2007 (amended on 13 Dec. 2011, 1 May 2019)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

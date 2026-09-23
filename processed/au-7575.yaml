@@ -1,3 +1,4 @@
+---
 reference: '7575'
 entity_type: organization
 names:
@@ -19,10 +20,12 @@ names:
 address: 9 Zapadnoye Shosse, Ulyanovsk Region, Dimitrovgrad, 433510, Russia
 additional_info: 'Company identification number: 1027300533380; http://www.niiar.ru/'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-07-20'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 8) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

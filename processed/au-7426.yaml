@@ -1,3 +1,4 @@
+---
 reference: '7426'
 entity_type: person
 names:
@@ -8,12 +9,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Member of the State Council for the Russian Federation, Governor of Yamalo-Nenets Autonomous Okrug
+additional_info: Member of the State Council for the Russian Federation, Governor
+  of Yamalo-Nenets Autonomous Okrug
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Russia)
   control_date: '2023-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

@@ -1,3 +1,4 @@
+---
 reference: '3131'
 entity_type: person
 names:
@@ -24,7 +25,11 @@ names:
   script: Latn
   alias_strength: Strong
 address: Pashtunabad, Quetta, Baluchistan Province, Pakistan
-additional_info: 'TAi.174 Title: Haji. National identification no.: Pakistani 5430312277059 (fraudulently obtained and since cancelled by the Government of Pakistan).  Key commander for Taliban military council involved in fundraising from Gulf-based donors. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Reportedly deceased as of November 2018.'
+additional_info: 'TAi.174 Title: Haji. National identification no.: Pakistani 5430312277059
+  (fraudulently obtained and since cancelled by the Government of Pakistan).  Key
+  commander for Taliban military council involved in fundraising from Gulf-based donors.
+  Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+  Reportedly deceased as of November 2018.'
 sanction:
   listing_information: Listed on 2 Nov. 2015
   committees: 1988 (Taliban)

@@ -1,3 +1,4 @@
+---
 reference: '1267'
 entity_type: person
 names:
@@ -44,12 +45,21 @@ names:
   script: Latn
   alias_strength: Strong
 address: Yemen
-additional_info: 'National identification no.: Saudi Arabian national identity card number 1089516791. Operational commander of Al-Qaida in the Arabian Peninsula (AQAP) (QE.A.129.10.). Has been involved in raising funds and stockpiling arms for AQAP operations and activities in Yemen. Known associate of Qasim Yahya Mahdi al-Rimi (QI.A.282.10.) and Fahd Mohammed Ahmed al-Quso (QI.A.288.10.). INTERPOL Orange Notice (file number 2009/52/OS/CCC, #14). INTERPOL Red Notice (Control Number A-596/3-2009, File Number 2009/3731). Father’s name is Ahmed Othman Al Omirah. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.'
+additional_info: 'National identification no.: Saudi Arabian national identity card
+  number 1089516791. Operational commander of Al-Qaida in the Arabian Peninsula (AQAP)
+  (QE.A.129.10.). Has been involved in raising funds and stockpiling arms for AQAP
+  operations and activities in Yemen. Known associate of Qasim Yahya Mahdi al-Rimi
+  (QI.A.282.10.) and Fahd Mohammed Ahmed al-Quso (QI.A.288.10.). INTERPOL Orange Notice
+  (file number 2009/52/OS/CCC, #14). INTERPOL Red Notice (Control Number A-596/3-2009,
+  File Number 2009/3731). Father’s name is Ahmed Othman Al Omirah. Review pursuant
+  to Security Council resolution 2368 (2017) was concluded on 24 November 2020.'
 sanction:
-  listing_information: Listed by UN 1267 Committee on 16 June 2011 (amended on 24 Nov. 2020)
+  listing_information: Listed by UN 1267 Committee on 16 June 2011 (amended on 24
+    Nov. 2020)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

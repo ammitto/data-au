@@ -1,3 +1,4 @@
+---
 reference: '3128'
 entity_type: person
 names:
@@ -85,13 +86,20 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: a) Syrian Arab Republic (located in as at Aug. 2015)  b) Iraq (possible alternative location as at Aug. 2015)
-additional_info: As at Aug. 2015, leads Jamaat Tarkhan, a terrorist group that forms part of the Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). Wanted by the authorities of the Russian Federation for terrorist crimes committed in its territory, including through an international arrest warrant. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021.
+address: a) Syrian Arab Republic (located in as at Aug. 2015)  b) Iraq (possible alternative
+  location as at Aug. 2015)
+additional_info: As at Aug. 2015, leads Jamaat Tarkhan, a terrorist group that forms
+  part of the Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115).
+  Wanted by the authorities of the Russian Federation for terrorist crimes committed
+  in its territory, including through an international arrest warrant. Photo available
+  for inclusion in the INTERPOL-UN Security Council Special Notice. Review pursuant
+  to Security Council resolution 2368 (2017) was concluded on 15 November 2021.
 sanction:
   listing_information: 'Listed on: 2 Oct. 2015 (amended on 10 Dec. 2015, 6 Sep. 2016)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

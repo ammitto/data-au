@@ -1,15 +1,20 @@
+---
 reference: '6812'
 entity_type: person
 names:
 - text: Oleg Leonidovich VOINOV
   name_type: Primary Name
   script: Latn
-additional_info: Head of the International Military Cooperation Department of the Belarusian Ministry of Defense; Assistant to the Minister of Defense for International Military Cooperation
+additional_info: Head of the International Military Cooperation Department of the
+  Belarusian Ministry of Defense; Assistant to the Minister of Defense for International
+  Military Cooperation
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2022
   committees: Autonomous (Ukraine)
   control_date: '2022-03-25'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 10) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

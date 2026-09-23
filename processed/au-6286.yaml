@@ -1,3 +1,4 @@
+---
 reference: '6286'
 entity_type: person
 names:
@@ -5,10 +6,14 @@ names:
   name_type: Primary Name
   script: Latn
 sanction:
-  listing_information: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No. 2) Instrument 2022'
+  listing_information: 'Instrument of first designation and declaration: Autonomous
+    Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment
+    (No. 2) Instrument 2022'
   committees: Autonomous (Ukraine)
   control_date: '2022-02-25'
-  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No. 2) Instrument 2022'
+  instrument: 'Instrument of first designation and declaration: Autonomous Sanctions
+    (Designated Persons and Entities and Declared Persons-Ukraine) Amendment (No.
+    2) Instrument 2022'
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

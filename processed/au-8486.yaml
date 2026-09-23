@@ -1,3 +1,4 @@
+---
 reference: '8486'
 entity_type: person
 names:
@@ -24,9 +25,11 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'IRi.034. Designation: Head of Novin Energy Company, which is designated under resolution 1747 (2007) (designated under IRe.046).'
+additional_info: 'IRi.034. Designation: Head of Novin Energy Company, which is designated
+  under resolution 1747 (2007) (designated under IRe.046).'
 sanction:
-  listing_information: Listed by the 1737 Committee on 3 March 2008 (amended on 17 December 2014)
+  listing_information: Listed by the 1737 Committee on 3 March 2008 (amended on 17
+    December 2014)
   committees: 1737 (Iran)
   control_date: '2025-12-12'
   instrument: Charter of the United Nations (Sanctions - Iran) Regulations 2025

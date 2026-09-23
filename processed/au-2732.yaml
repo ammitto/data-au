@@ -1,3 +1,4 @@
+---
 reference: '2732'
 entity_type: person
 names:
@@ -16,12 +17,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Commander of the Southern Military District (since September 2016).  Responsible for military forces in the region, including illegally annexed Crimea and Sevastopol.
+additional_info: Commander of the Southern Military District (since September 2016).  Responsible
+  for military forces in the region, including illegally annexed Crimea and Sevastopol.
 sanction:
-  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
+  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March
+    2021 and 10 June 2023
   committees: Autonomous (Ukraine)
   control_date: '2023-06-10'
-  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
+  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and
+    10 June 2023
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

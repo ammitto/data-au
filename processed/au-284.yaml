@@ -1,3 +1,4 @@
+---
 reference: '284'
 entity_type: organization
 names:
@@ -37,12 +38,20 @@ names:
   script: Latn
   alias_strength: Strong
 address: State of Palestine
-additional_info: Palestinian Islamic Jihad is an extremist organisation that fuses Sunni Islamic and Palestinian national objectives. It is committed to the destruction of Israel and the creation of an Islamic state that includes the Palestinian Territories and Israel.
+additional_info: Palestinian Islamic Jihad is an extremist organisation that fuses
+  Sunni Islamic and Palestinian national objectives. It is committed to the destruction
+  of Israel and the creation of an Islamic state that includes the Palestinian Territories
+  and Israel.
 sanction:
-  listing_information: 'Instrument of first listing: Charter of the United Nations (Anti terrorism — Persons and Entities) List 2001 (No. 2). Last listed on: 13/09/2025 - Charter of the United Nations (Listed Persons and Entities) Amendment (No.2) Instrument'
+  listing_information: 'Instrument of first listing: Charter of the United Nations
+    (Anti terrorism — Persons and Entities) List 2001 (No. 2). Last listed on: 13/09/2025
+    - Charter of the United Nations (Listed Persons and Entities) Amendment (No.2)
+    Instrument'
   committees: 1373 (2001)
   control_date: '2025-09-13'
-  instrument: 'Instrument of first listing: Charter of the United Nations (Anti terrorism — Persons and Entities) List 2001 (No. 2). Last listed on: 13/09/2025 - Charter of the United Nations (Listed Persons and Entities) Amendment (No.2) Instrument'
+  instrument: 'Instrument of first listing: Charter of the United Nations (Anti terrorism
+    — Persons and Entities) List 2001 (No. 2). Last listed on: 13/09/2025 - Charter
+    of the United Nations (Listed Persons and Entities) Amendment (No.2) Instrument'
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

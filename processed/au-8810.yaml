@@ -1,3 +1,4 @@
+---
 reference: '8810'
 entity_type: organization
 names:
@@ -12,17 +13,20 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: Tehran, First floor, Artamehr Building, Number 112, Homayoon Shahnavaz Street, Valiasr Street, Amanieh, 1966713311
+address: Tehran, First floor, Artamehr Building, Number 112, Homayoon Shahnavaz Street,
+  Valiasr Street, Amanieh, 1966713311
 additional_info: |-
   Registration No: 470939
   Tax ID No: 411489793615
   National ID:14004847680
   Date of Registration: 2015
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) List 2012
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) List 2012
   committees: Autonomous (Iran)
   control_date: '2026-05-12'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 2) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

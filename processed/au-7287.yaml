@@ -1,3 +1,4 @@
+---
 reference: '7287'
 entity_type: person
 names:
@@ -20,7 +21,11 @@ names:
   name_type: Original Script
   script: Arab
 address: Yemen
-additional_info: 'YEi.012. Designation: Major General, Commander of the Houthi Air Force and Air Defense Forces. Ahmad al-Hamzi, the commander of the Houthi Air Force and Air Defense Forces, as well as its UAV program, plays a leading role in Houthi military efforts that directly threaten the peace, security, and stability of Yemen. Physical Description: Eye Color: Brown; Hair: Brown.'
+additional_info: 'YEi.012. Designation: Major General, Commander of the Houthi Air
+  Force and Air Defense Forces. Ahmad al-Hamzi, the commander of the Houthi Air Force
+  and Air Defense Forces, as well as its UAV program, plays a leading role in Houthi
+  military efforts that directly threaten the peace, security, and stability of Yemen.
+  Physical Description: Eye Color: Brown; Hair: Brown.'
 sanction:
   listing_information: Listed by the 2140 Committee on 4 October 2022
   committees: 2140 (Yemen)

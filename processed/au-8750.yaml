@@ -1,3 +1,4 @@
+---
 reference: '8750'
 entity_type: organization
 names:
@@ -8,13 +9,16 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: ul. Donskaya, d. 13, Etazh 1 a, Pomeshcheniye XII, Komnata 11, Moscow, 119049, Russia
+address: ul. Donskaya, d. 13, Etazh 1 a, Pomeshcheniye XII, Komnata 11, Moscow, 119049,
+  Russia
 additional_info: 'Website: https://rtreg.ru/'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Russia)
   control_date: '2026-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

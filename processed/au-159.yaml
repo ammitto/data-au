@@ -1,3 +1,4 @@
+---
 reference: '159'
 entity_type: organization
 names:
@@ -27,12 +28,18 @@ names:
 - text: الجهاد الاسلامي المصري
   name_type: Original Script
   script: Arab
-additional_info: QDe.003. Co-founded by Aiman Muhammed Rabi al-Zawahiri (QDi.006), who was also its military leader. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+additional_info: QDe.003. Co-founded by Aiman Muhammed Rabi al-Zawahiri (QDi.006),
+  who was also its military leader. Review pursuant to Security Council resolution
+  1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution
+  2368 (2017) was concluded on 24 November 2020. Review pursuant to Security Council
+  resolution 2610 (2021) was concluded on 8 November 2022.
 sanction:
-  listing_information: Listed by UN 1267 Committee on 6 Oct. 2001 ( amended on 5 Mar. 2009, 13 Dec. 2011, 24 Nov. 2020, 8 Nov. 2022 )
+  listing_information: Listed by UN 1267 Committee on 6 Oct. 2001 ( amended on 5 Mar.
+    2009, 13 Dec. 2011, 24 Nov. 2020, 8 Nov. 2022 )
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: true

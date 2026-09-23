@@ -1,3 +1,4 @@
+---
 reference: '3146'
 entity_type: organization
 names:
@@ -17,12 +18,15 @@ names:
   script: Latn
   alias_strength: Strong
 address: Syrian Arab Republic
-additional_info: QDe.149. Moroccan-led terrorist organization formed in Aug. 2013 and operating in Syrian Arab Republic. Principally composed of foreign terrorist fighters and associated with AI-Nusrah Front for the People of the Levant (QDe.137).
+additional_info: QDe.149. Moroccan-led terrorist organization formed in Aug. 2013
+  and operating in Syrian Arab Republic. Principally composed of foreign terrorist
+  fighters and associated with AI-Nusrah Front for the People of the Levant (QDe.137).
 sanction:
   listing_information: Listed by the 1267 Committee on 29 Feb. 2016
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: true

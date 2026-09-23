@@ -1,3 +1,4 @@
+---
 reference: '8770'
 entity_type: organization
 names:
@@ -16,13 +17,16 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: Office 412, floor 4, section 1, building 1, Vasilisa Kozhina street, Moscow, 121096
+address: Office 412, floor 4, section 1, building 1, Vasilisa Kozhina street, Moscow,
+  121096
 additional_info: 'Website: https://crc-reg.com/en/'
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Russia)
   control_date: '2026-02-24'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2026
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

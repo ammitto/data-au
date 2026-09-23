@@ -1,15 +1,22 @@
+---
 reference: '1108'
 entity_type: person
 names:
 - text: Callixte Mbarushimana
   name_type: Primary Name
   script: Latn
-additional_info: CDi.010 FDLR Executive Secretary. Arrested in Paris on 3 October 2010 under ICC warrant for war crimes and crimes against humanity committed by FDLR troops in the Kivus in 2009. Transferred to The Hague on 25 January 2011and released by the ICC in late 2011. Elected FDLR Executive Secretary on 29 Nov. 2014 for a five-year term.
+additional_info: CDi.010 FDLR Executive Secretary. Arrested in Paris on 3 October
+  2010 under ICC warrant for war crimes and crimes against humanity committed by FDLR
+  troops in the Kivus in 2009. Transferred to The Hague on 25 January 2011and released
+  by the ICC in late 2011. Elected FDLR Executive Secretary on 29 Nov. 2014 for a
+  five-year term.
 sanction:
-  listing_information: Listed by 1533 Committee on 3 Mar. 2009 (amended on 13 Oct. 2016)
+  listing_information: Listed by 1533 Committee on 3 Mar. 2009 (amended on 13 Oct.
+    2016)
   committees: 1533 (Democratic People’s Republic of the Congo)
   control_date: '2025-12-10'
-  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the Congo) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
+    Congo) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

@@ -1,3 +1,4 @@
+---
 reference: '3058'
 entity_type: person
 names:
@@ -30,7 +31,8 @@ names:
 address: Dahyan, Sa’dah Governorate, Yemen
 additional_info: YEi.002. Huthi group second-in-command. Gender [Male].
 sanction:
-  listing_information: Listed by the 2140 Committee on 7 November 2014 ( amended on 20 Nov. 2014)
+  listing_information: Listed by the 2140 Committee on 7 November 2014 ( amended on
+    20 Nov. 2014)
   committees: 2140 (Yemen)
   control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—Yemen) Regulation 2014

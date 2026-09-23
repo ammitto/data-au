@@ -1,10 +1,12 @@
+---
 reference: '8567'
 entity_type: organization
 names:
 - text: SHO'A' AVIATION
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.071. Designation: Produces micro-lights which IRGC has claimed it is using as part of its asymmetric warfare doctrine.'
+additional_info: 'IRe.071. Designation: Produces micro-lights which IRGC has claimed
+  it is using as part of its asymmetric warfare doctrine.'
 sanction:
   listing_information: Listed by the 1737 Committee on 24 March 2007.
   committees: 1737 (Iran)

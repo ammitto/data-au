@@ -1,3 +1,4 @@
+---
 reference: '2366'
 entity_type: organization
 names:
@@ -20,8 +21,13 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-address: a) Abou Bakr Al Seddeq St., P.O. Box 5966, Damascus, Syrian Arab Republic, b) Al Moutanabi St., P.O. Box 2849, Damascus, Syrian Arab Republic, c) Baramkeh, P.O. Box 21120, Damascus, Syrian Arab Republic
-additional_info: 'Handasieh ‑ Organization for Engineering Industries is a front company for the acquisition of sensitive equipment for the Scientific Studies and Research Centre. Tel: +963 11 2121816, +963 11 2121834, +963 11 2214650, +963 11 2212743, +963 11 5110117.'
+address: a) Abou Bakr Al Seddeq St., P.O. Box 5966, Damascus, Syrian Arab Republic,
+  b) Al Moutanabi St., P.O. Box 2849, Damascus, Syrian Arab Republic, c) Baramkeh,
+  P.O. Box 21120, Damascus, Syrian Arab Republic
+additional_info: 'Handasieh ‑ Organization for Engineering Industries is a front company
+  for the acquisition of sensitive equipment for the Scientific Studies and Research
+  Centre. Tel: +963 11 2121816, +963 11 2121834, +963 11 2214650, +963 11 2212743,
+  +963 11 5110117.'
 sanction:
   listing_information: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Instrument of first

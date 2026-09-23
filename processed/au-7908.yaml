@@ -1,7 +1,9 @@
+---
 reference: '7908'
 entity_type: organization
 names:
-- text: V.V. Bakhirev State Scientific Research Institute of Machine Building Joint Stock Company
+- text: V.V. Bakhirev State Scientific Research Institute of Machine Building Joint
+    Stock Company
   name_type: Primary Name
   script: Latn
 - text: GosnNIImash JSC
@@ -15,10 +17,12 @@ names:
 address: 11 Sverdlova Prospekt Dzerzhinsk Nizhegorodskaya Oblast 606002 Russia
 additional_info: http://www.gosniimash.ru
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   committees: Autonomous (Russia)
   control_date: '2024-02-23'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

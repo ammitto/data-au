@@ -1,3 +1,4 @@
+---
 reference: '3174'
 entity_type: organization
 names:
@@ -5,7 +6,10 @@ names:
   name_type: Primary Name
   script: Latn
 address: Kangdong, Democratic People's Republic of Korea
-additional_info: KPe.032. The Second Economic Committee is involved in key aspects of the DPRK's missile program. The Second Economic Committee is responsible for overseeing the production of the DPRK's ballistic missiles, and directs the activities of KOMID.
+additional_info: KPe.032. The Second Economic Committee is involved in key aspects
+  of the DPRK's missile program. The Second Economic Committee is responsible for
+  overseeing the production of the DPRK's ballistic missiles, and directs the activities
+  of KOMID.
 sanction:
   listing_information: 'Listed on: 2 Mar. 2016'
   committees: 1718 (DPRK)

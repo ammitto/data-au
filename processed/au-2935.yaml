@@ -1,3 +1,4 @@
+---
 reference: '2935'
 entity_type: organization
 names:
@@ -17,17 +18,18 @@ names:
   script: Latn
   alias_strength: Strong
 address: Terminal Aeroport Sheremetyevo Khimki, 141400 Moskovskaya obl
-additional_info: |-
-  IInvolved in ground infrastructure for the Business Aviation Centre at Sheremetyevo International Airport in Moscow offering aircraft maintenance services, including aircraft storage and organisation support services for flight operations.  
-  Website: http://www.avia-group.su/; 
-  https://a-group.aero/
-  Registration ID: 1065047051343 (Russia)
-  Tax ID No.: 5047074511 (Russia)
+additional_info: "IInvolved in ground infrastructure for the Business Aviation Centre
+  at Sheremetyevo International Airport in Moscow offering aircraft maintenance services,
+  including aircraft storage and organisation support services for flight operations.
+  \ \nWebsite: http://www.avia-group.su/; \nhttps://a-group.aero/\nRegistration ID:
+  1065047051343 (Russia)\nTax ID No.: 5047074511 (Russia)"
 sanction:
-  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
+  listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March
+    2021 and 10 June 2023
   committees: Autonomous (Russia)
   control_date: '2023-06-10'
-  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and 10 June 2023
+  instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and
+    10 June 2023
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

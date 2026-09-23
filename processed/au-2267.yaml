@@ -1,3 +1,4 @@
+---
 reference: '2267'
 entity_type: organization
 names:
@@ -39,10 +40,14 @@ additional_info: |-
   Tel: +963 112110059; +963 112110043;
   Fax: +963 933333149
 sanction:
-  listing_information: Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011SYR0019. Relisted on 12 January 2024
+  listing_information: Designated under the Autonomous Sanctions Regulations 2011
+    on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011SYR0019.
+    Relisted on 12 January 2024
   committees: Autonomous (Syria)
   control_date: '2024-01-12'
-  instrument: Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011SYR0019. Relisted on 12 January 2024
+  instrument: Designated under the Autonomous Sanctions Regulations 2011 on 2 March
+    2012. Formerly listed on the RBA Consolidated List as 2011SYR0019. Relisted on
+    12 January 2024
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

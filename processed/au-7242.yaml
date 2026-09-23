@@ -1,3 +1,4 @@
+---
 reference: '7242'
 entity_type: person
 names:
@@ -10,10 +11,12 @@ names:
   alias_strength: Strong
 additional_info: Chair of the Board of the National Media Group
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 18) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 18) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-07-01'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 18) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 18) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

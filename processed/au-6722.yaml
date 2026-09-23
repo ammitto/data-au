@@ -1,15 +1,21 @@
+---
 reference: '6722'
 entity_type: person
 names:
 - text: Sergey Vladimirovich DRONOV
   name_type: Primary Name
   script: Latn
-additional_info: Commander-in-Chief of the Russian Air Force and Deputy Commander-in-Chief of the Aerospace Forces
+additional_info: Commander-in-Chief of the Russian Air Force and Deputy Commander-in-Chief
+  of the Aerospace Forces
 sanction:
-  listing_information: Instrument of first designation and declaration Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 4) Instrument 2022
+  listing_information: Instrument of first designation and declaration Autonomous
+    Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine)
+    Amendment (No. 4) Instrument 2022
   committees: Autonomous (Ukraine)
   control_date: '2022-03-08'
-  instrument: Instrument of first designation and declaration Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 4) Instrument 2022
+  instrument: Instrument of first designation and declaration Autonomous Sanctions
+    (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment
+    (No. 4) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

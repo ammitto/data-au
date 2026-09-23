@@ -1,10 +1,14 @@
+---
 reference: '8570'
 entity_type: organization
 names:
 - text: TAMAS COMPANY
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.074. Designation: Involved in enrichment-related activities. TAMAS is the overarching body, under which four subsidiaries have been established, including one for uranium extraction to concentration and another in charge of uranium processing, enrichment and waste.'
+additional_info: 'IRe.074. Designation: Involved in enrichment-related activities.
+  TAMAS is the overarching body, under which four subsidiaries have been established,
+  including one for uranium extraction to concentration and another in charge of uranium
+  processing, enrichment and waste.'
 sanction:
   listing_information: Listed by the 1737 Committee on 3 March 2008.
   committees: 1737 (Iran)

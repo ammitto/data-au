@@ -1,3 +1,4 @@
+---
 reference: '3118'
 entity_type: person
 names:
@@ -37,12 +38,18 @@ names:
   script: Latn
   alias_strength: Strong
 address: Homs, Syrian Arab Republic (location as at Sep. 2015)
-additional_info: Shura council member of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115) and in charge of ISIL’s media arm. ISIL’s provincial leader for Homs, Syrian Arab Republic as of mid-2014. Dubbed as the ISIL’s “kidnapper-in-chief”. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+additional_info: Shura council member of Islamic State in Iraq and the Levant, listed
+  as Al-Qaida in Iraq (AQI) (QDe.115) and in charge of ISIL’s media arm. ISIL’s provincial
+  leader for Homs, Syrian Arab Republic as of mid-2014. Dubbed as the ISIL’s “kidnapper-in-chief”.
+  Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb.
+  2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on
+  8 November 2022.
 sanction:
   listing_information: 'Listed on: 29 Sep. 2015 (amended on 1 May 2019)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

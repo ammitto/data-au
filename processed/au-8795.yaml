@@ -1,3 +1,4 @@
+---
 reference: '8795'
 entity_type: person
 names:
@@ -10,10 +11,12 @@ names:
   alias_strength: Strong
 address: Balochistan, Pakistan
 sanction:
-  listing_information: Listed on 8 May 2026 pursuant to the Charter of the United Nations (Listed Persons and Entities) Amendment (No. 1) Instrument 2026.
+  listing_information: Listed on 8 May 2026 pursuant to the Charter of the United
+    Nations (Listed Persons and Entities) Amendment (No. 1) Instrument 2026.
   committees: 1373 (2001)
   control_date: '2026-05-08'
-  instrument: Charter of the United Nations (Listed Persons and Entities) Amendment (No. 1) Instrument 2026.
+  instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
+    (No. 1) Instrument 2026.
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

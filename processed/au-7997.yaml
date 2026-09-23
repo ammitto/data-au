@@ -1,3 +1,4 @@
+---
 reference: '7997'
 entity_type: organization
 names:
@@ -18,10 +19,12 @@ names:
   alias_strength: Weak
 address: Barnaul, Russia
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Thematic Sanctions) Amendment (No. 1) Instrument 2025
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Thematic Sanctions) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Thematic - Cyber)
   control_date: '2025-02-12'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Thematic Sanctions) Amendment (No. 1) Instrument 2025
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Thematic Sanctions) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

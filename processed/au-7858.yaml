@@ -1,3 +1,4 @@
+---
 reference: '7858'
 entity_type: person
 names:
@@ -12,12 +13,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Member of the Federation Council of the Federal Assembly of the Russian Federation
+additional_info: Member of the Federation Council of the Federal Assembly of the Russian
+  Federation
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   committees: Autonomous (Russia)
   control_date: '2024-02-23'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

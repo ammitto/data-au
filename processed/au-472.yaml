@@ -1,3 +1,4 @@
+---
 reference: '472'
 entity_type: person
 names:
@@ -17,12 +18,17 @@ names:
   script: Latn
   alias_strength: Strong
 address: Somalia 
-additional_info: Present in Somalia as of Apr. 2009 following transfer from United Kingdom. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+additional_info: Present in Somalia as of Apr. 2009 following transfer from United
+  Kingdom. Review pursuant to Security Council resolution 2368 (2017) was concluded
+  on 24 November 2020.
 sanction:
-  listing_information: Listed by the UN 1267 Committee on 12 November 2003, (amended on 9 Sep. 2005, 30 Jan. 2009, 20 Apr. 2009, 21 Oct. 2010, 17 Aug. 2015, 24 Nov. 2020)
+  listing_information: Listed by the UN 1267 Committee on 12 November 2003, (amended
+    on 9 Sep. 2005, 30 Jan. 2009, 20 Apr. 2009, 21 Oct. 2010, 17 Aug. 2015, 24 Nov.
+    2020)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
   control_date: '2026-02-20'
-  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
+    Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true

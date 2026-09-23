@@ -1,3 +1,4 @@
+---
 reference: '100'
 entity_type: person
 names:
@@ -11,9 +12,14 @@ names:
 - text: نظر محمد
   name_type: Original Script
   script: Arab
-additional_info: 'TAi.100 Title: Maulavi. Designation: Acting, Governor of Kunduz Province under the Taliban regime.  Alternative title:  Sar Muallim.  Reconciled after the fall of the Taliban regime, and assumed duties under the new Government on district level in Kunduz Province. Confirmed assassinated by Taliban on 9 November 2008.'
+additional_info: 'TAi.100 Title: Maulavi. Designation: Acting, Governor of Kunduz
+  Province under the Taliban regime.  Alternative title:  Sar Muallim.  Reconciled
+  after the fall of the Taliban regime, and assumed duties under the new Government
+  on district level in Kunduz Province. Confirmed assassinated by Taliban on 9 November
+  2008.'
 sanction:
-  listing_information: Listed on 23 February 2001 (amended on 21 Sep 2007, 18 May 2012 and 31 Dec. 2013)
+  listing_information: Listed on 23 February 2001 (amended on 21 Sep 2007, 18 May
+    2012 and 31 Dec. 2013)
   committees: 1988 (Taliban)
   control_date: '2026-02-06'
   instrument: Charter of the United Nations (Sanctions—the Taliban) Regulation 2013

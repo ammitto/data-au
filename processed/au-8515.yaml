@@ -1,10 +1,12 @@
+---
 reference: '8515'
 entity_type: organization
 names:
 - text: FARAYAND TECHNIQUE
   name_type: Primary Name
   script: Latn
-additional_info: 'IRe.019. Designation: Involved in centrifuge programme, identified in IAEA reports.'
+additional_info: 'IRe.019. Designation: Involved in centrifuge programme, identified
+  in IAEA reports.'
 sanction:
   listing_information: Listed by the 1737 Committee on 23 December 2006.
   committees: 1737 (Iran)

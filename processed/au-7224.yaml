@@ -1,3 +1,4 @@
+---
 reference: '7224'
 entity_type: person
 names:
@@ -8,12 +9,16 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Director of Central Museum of the Great Patriotic War and Chairman of the Presidium of the Foundation for Strategic Initiatives of the Victory Museum in Russia
+additional_info: Director of Central Museum of the Great Patriotic War and Chairman
+  of the Presidium of the Foundation for Strategic Initiatives of the Victory Museum
+  in Russia
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 17) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 17) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-05-18'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 17) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 17) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

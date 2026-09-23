@@ -1,3 +1,4 @@
+---
 reference: '3177'
 entity_type: organization
 names:
@@ -77,7 +78,10 @@ names:
   script: Latn
   alias_strength: Strong
 address: Somalia
-additional_info: SOe.001.  Also listed by the Minister for Foreign Affairs on 21 August 2009 under section 15(1) of the Charter of the United Nations Act 1945 (CotUNA), pursuant to Australia's obligations under UNSC resolution 1373 (2001), see Consolidated List entry 1131.
+additional_info: SOe.001.  Also listed by the Minister for Foreign Affairs on 21 August
+  2009 under section 15(1) of the Charter of the United Nations Act 1945 (CotUNA),
+  pursuant to Australia's obligations under UNSC resolution 1373 (2001), see Consolidated
+  List entry 1131.
 sanction:
   listing_information: Listed on 12 April 2010.
   committees: 2713 (Al-Shabaab)

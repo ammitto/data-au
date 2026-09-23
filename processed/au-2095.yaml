@@ -1,3 +1,4 @@
+---
 reference: '2095'
 entity_type: organization
 names:
@@ -26,10 +27,12 @@ names:
   alias_strength: Strong
 address: 204 Taleghani Ave, Tehran, Iran
 sanction:
-  listing_information: Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012 (F2012L00479). Relisted 12 January 2024
+  listing_information: Designated under the Autonomous Sanctions Regulations 2011
+    on 2 March 2012 (F2012L00479). Relisted 12 January 2024
   committees: Autonomous (Iran)
   control_date: '2024-01-12'
-  instrument: Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012 (F2012L00479). Relisted 12 January 2024
+  instrument: Designated under the Autonomous Sanctions Regulations 2011 on 2 March
+    2012 (F2012L00479). Relisted 12 January 2024
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false

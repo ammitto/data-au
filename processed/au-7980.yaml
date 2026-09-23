@@ -1,3 +1,4 @@
+---
 reference: '7980'
 entity_type: person
 names:
@@ -13,10 +14,12 @@ additional_info: |-
   Advisor to Head of Iran’s Law Enforcement Command (LEF). Former Commander of LEF forces in Sistan and Baluchistan province from October 2020 to November 2022.
   National ID Number: 3672586654
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument 2024
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Iran) Amendment (No. 2) Instrument 2024
   committees: Autonomous (Iran)
   control_date: '2024-09-16'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2) Instrument 2024
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Iran) Amendment (No. 2) Instrument 2024
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

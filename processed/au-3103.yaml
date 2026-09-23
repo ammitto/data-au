@@ -1,3 +1,4 @@
+---
 reference: '3103'
 entity_type: person
 names:
@@ -12,7 +13,11 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: 'SSi.004 Title: Major General. Designation: Commander of the SPLA’s Third Division. Has led and directed military actions against opposition forces and conducted confrontational troop movements in violation of the CoHA. During May 2015, forces under his command killed children, women and old men, burned property, and stole livestock as they advanced through Unity State towards Thorjath oil field.'
+additional_info: 'SSi.004 Title: Major General. Designation: Commander of the SPLA’s
+  Third Division. Has led and directed military actions against opposition forces
+  and conducted confrontational troop movements in violation of the CoHA. During May
+  2015, forces under his command killed children, women and old men, burned property,
+  and stole livestock as they advanced through Unity State towards Thorjath oil field.'
 sanction:
   listing_information: Listed on 1 July 2015.
   committees: 2206 (South Sudan)

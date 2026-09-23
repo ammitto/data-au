@@ -1,3 +1,4 @@
+---
 reference: '6238'
 entity_type: person
 names:
@@ -20,13 +21,18 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Weak
-address: Kajuju camp of Medina II, Beni territory, North Kivu, Democratic Republic of the Congo (Last known location)
-additional_info: 'CDi.036  Designation: Overall leader of the Allied Democratic Forces (ADF) (CDe.001).  Longtime member of the ADF (CDe.001), Baluku used to be the second in command to ADF founder Jamil Mukulu (CDi.015) until he took over after FARDC military operation Sukola I in 2014'
+address: Kajuju camp of Medina II, Beni territory, North Kivu, Democratic Republic
+  of the Congo (Last known location)
+additional_info: 'CDi.036  Designation: Overall leader of the Allied Democratic Forces
+  (ADF) (CDe.001).  Longtime member of the ADF (CDe.001), Baluku used to be the second
+  in command to ADF founder Jamil Mukulu (CDi.015) until he took over after FARDC
+  military operation Sukola I in 2014'
 sanction:
   listing_information: Listed by 1533 Committee on 6 February 2020
   committees: 1533 (Democratic People’s Republic of the Congo)
   control_date: '2025-12-11'
-  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the Congo) Regulations 2008
+  instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
+    Congo) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

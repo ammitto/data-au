@@ -1,3 +1,4 @@
+---
 reference: '6909'
 entity_type: person
 names:
@@ -8,12 +9,15 @@ names:
   name_type: Alias
   script: Latn
   alias_strength: Strong
-additional_info: Deputy Prime Minister of the Russian Federation; Chief of the Government Staff of the Russian Federation; Chairman of the Supervisory Council of VTB Bank
+additional_info: Deputy Prime Minister of the Russian Federation; Chief of the Government
+  Staff of the Russian Federation; Chairman of the Supervisory Council of VTB Bank
 sanction:
-  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
   committees: Autonomous (Russia)
   control_date: '2022-04-06'
-  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
+    and Ukraine) Amendment (No. 11) Instrument 2022
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false

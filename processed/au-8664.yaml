@@ -1,3 +1,4 @@
+---
 reference: '8664'
 entity_type: person
 names:
@@ -5,7 +6,9 @@ names:
   name_type: Primary Name
   script: Latn
 address: Libya
-additional_info: 'LYi.005. Colonel. Governor of Ghat (South Libya).Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). No INTERPOL link available. (Believed status/location: South Libya).'
+additional_info: 'LYi.005. Colonel. Governor of Ghat (South Libya).Listed pursuant
+  to paragraph 15 of resolution 1970 (Travel Ban). No INTERPOL link available. (Believed
+  status/location: South Libya).'
 sanction:
   listing_information: 'Listed on: 26 Feb 2011 (amended on 1 Apr. 2016, 29 Nov. 2023)'
   committees: 1970 (Libya)
