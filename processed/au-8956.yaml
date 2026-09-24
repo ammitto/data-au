@@ -1,0 +1,34 @@
+---
+reference: '8956'
+entity_type: organization
+names:
+- text: Arzamas Machine-Building Plant Joint Stock Company
+  name_type: Primary Name
+  script: Latn
+- text: АО «Арзамасский машиностроительный завод»
+  name_type: Original Script
+  script: Cyrl
+- text: JSC Arzamas Machine-Building Plant
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Arzamas Machinery Plant
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: AMZ
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: 9 Maya Street, 2, Arzamas, Nizhny Novgorod Region, Russian Federation
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

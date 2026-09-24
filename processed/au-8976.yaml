@@ -1,0 +1,19 @@
+---
+reference: '8976'
+entity_type: vessel
+names:
+- text: SANAR - 9
+  name_type: Primary Name
+  script: Latn
+sanction:
+  listing_information: Autonomous Sanctions (Sanctioned Vessels – Russia) Amendment
+    (No. 2) Designation 2026
+  committees: Autonomous (Vessels)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Sanctioned Vessels – Russia) Amendment (No. 2)
+    Designation 2026
+  targeted_financial_sanction: false
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: true
+imo_number: '9300350'

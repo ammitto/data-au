@@ -1,0 +1,37 @@
+---
+reference: '8902'
+entity_type: person
+names:
+- text: Anastasia Pavlovna Akkuratova
+  name_type: Primary Name
+  script: Latn
+- text: Анастасия Павловна Аккуратова
+  name_type: Original Script
+  script: Cyrl
+- text: Anastasia Akkuratova
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: Deputy Director of the Department of State Policy in the Field of
+  Children’s Rights Protection, Ministry of Education of the Russian Federation; Director
+  of the Federal State Budgetary Institution “Centre for the Protection of Children’s
+  Rights and Interests”
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1978-05-21'
+  year: 1978
+  month: 5
+  day: 21
+  precision: full
+citizenships:
+- Russia

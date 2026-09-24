@@ -1,0 +1,32 @@
+---
+reference: '8898'
+entity_type: person
+names:
+- text: Dmitry Vladimirovich Pikiner
+  name_type: Primary Name
+  script: Latn
+- text: ПІКІНЕР Дмитро Володимирович
+  name_type: Original Script
+  script: Cyrl
+- text: ПИКИНЕР Дмитрий Владимирович
+  name_type: Original Script
+  script: Cyrl
+address: Occupied Crimea
+additional_info: Head of the military-patriotic club “Patriot”
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1981-10-13'
+  year: 1981
+  month: 10
+  day: 13
+  precision: full

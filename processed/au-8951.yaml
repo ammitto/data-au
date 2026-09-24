@@ -1,0 +1,30 @@
+---
+reference: '8951'
+entity_type: organization
+names:
+- text: Private Military Company Convoy
+  name_type: Primary Name
+  script: Latn
+- text: ЧВК «Конвой»
+  name_type: Original Script
+  script: Cyrl
+- text: PMC Convoy
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Convoy
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Novocherkassky Ave., 5a, letter A, office/room 1- N/35, St Petersburg, Russia
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

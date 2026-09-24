@@ -1,0 +1,30 @@
+---
+reference: '8893'
+entity_type: person
+names:
+- text: Lilya Valerievna Shvetsova
+  name_type: Primary Name
+  script: Latn
+- text: Лилия Валерьевна Швецова
+  name_type: Original Script
+  script: Cyrl
+address: ul. Grizodubova 48, k. 28, g. Melitopol, Zaporizhia Region, Ukraine
+additional_info: Head of the camp “Krasnaya Gvozdika”, a branch of the International
+  Children’s Centre “Artek”
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1984-07-11'
+  year: 1984
+  month: 7
+  day: 11
+  precision: full

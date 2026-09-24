@@ -1,0 +1,32 @@
+---
+reference: '8919'
+entity_type: person
+names:
+- text: Stanislav Alekseyevich Pozdnyakov
+  name_type: Primary Name
+  script: Latn
+- text: Станислав Алексеевич Поздняков
+  name_type: Original Script
+  script: Cyrl
+additional_info: Former President of the Olympic Committee of the Russian Federation;
+  Member of the Board of CSKA; Lieutenant Colonel of the Armed Forces of the Russian
+  Federation
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1973-09-27'
+  year: 1973
+  month: 9
+  day: 27
+  precision: full
+citizenships:
+- Russia

@@ -1,0 +1,35 @@
+---
+reference: '8903'
+entity_type: person
+names:
+- text: Svetlana Vladimirovna Dmitrova
+  name_type: Primary Name
+  script: Latn
+- text: Светлана Владимировна Дмитрова
+  name_type: Original Script
+  script: Cyrl
+- text: Svetlana Dmitrova
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: Head of the Department of Education of the Administration of Simferopol
+  District in Russian-occupied Crimea
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1968-01-06'
+  year: 1968
+  month: 1
+  day: 6
+  precision: full
+citizenships:
+- Russia

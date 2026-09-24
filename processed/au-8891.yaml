@@ -1,0 +1,31 @@
+---
+reference: '8891'
+entity_type: person
+names:
+- text: Konstantin Albertovich Fedorenko
+  name_type: Primary Name
+  script: Latn
+- text: Константин Альбертович Федоренко
+  name_type: Original Script
+  script: Cyrl
+address: 15 Pushkina St Belorechensk, Krasnodar Territory, Russia
+additional_info: Director of the Artek International Children’s Centre “Artek”
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1976-12-29'
+  year: 1976
+  month: 12
+  day: 29
+  precision: full
+citizenships:
+- Russia

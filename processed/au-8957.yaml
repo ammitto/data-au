@@ -1,0 +1,30 @@
+---
+reference: '8957'
+entity_type: organization
+names:
+- text: Zavod Korpusov Joint Stock Company
+  name_type: Primary Name
+  script: Latn
+- text: АО «Завод Корпусов»
+  name_type: Original Script
+  script: Cyrl
+- text: JSC Zavod Korpusov
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Zavod Korpusov JSC
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Vyksa, Nizhny Novgorod Region, Russian Federation
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

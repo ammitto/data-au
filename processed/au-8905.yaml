@@ -1,0 +1,35 @@
+---
+reference: '8905'
+entity_type: person
+names:
+- text: Aleksandra Aleksandrovna Bondareva
+  name_type: Primary Name
+  script: Latn
+- text: Александра Александровна Бондарева
+  name_type: Original Script
+  script: Cyrl
+- text: Alexandra Bondareva
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: Ombudsman for Children’s Rights in the Astrakhan Oblast of the Russian
+  Federation
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1968-08-04'
+  year: 1968
+  month: 8
+  day: 4
+  precision: full
+citizenships:
+- Russia

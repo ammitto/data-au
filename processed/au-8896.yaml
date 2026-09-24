@@ -1,0 +1,36 @@
+---
+reference: '8896'
+entity_type: person
+names:
+- text: Dmytro Yevhenovych Shevchenko
+  name_type: Primary Name
+  script: Latn
+- text: Дмитрий Евгеньевич Шевченко
+  name_type: Original Script
+  script: Cyrl
+- text: Dmitriy Evgenevich Shevchenko
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Petrovsky Boulevard, 21/99, Azov, Rostov Region, Russia
+additional_info: Director of the Centre for Military and Patriotic Training and Education
+  of Youth “WARRIOR”
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1984-02-20'
+  year: 1984
+  month: 2
+  day: 20
+  precision: full
+citizenships:
+- Russia

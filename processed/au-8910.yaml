@@ -1,0 +1,33 @@
+---
+reference: '8910'
+entity_type: person
+names:
+- text: Galina Vasilievna Mokshanova
+  name_type: Primary Name
+  script: Latn
+- text: Галина Васильевна Мокшанова
+  name_type: Original Script
+  script: Cyrl
+address: Republic of Mordovia, Zubovo-Polyansky District, Yavas Settlement, 40 Let
+  Pobedy Street, Bldg. 24
+additional_info: Head of Medical Unit No. 13 at Penal Colony No. 10 (IK-10), with
+  the rank of Colonel
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1966-01-16'
+  year: 1966
+  month: 1
+  day: 16
+  precision: full
+citizenships:
+- Russia

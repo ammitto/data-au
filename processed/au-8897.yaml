@@ -1,0 +1,31 @@
+---
+reference: '8897'
+entity_type: person
+names:
+- text: Igor Aleksandrovich Vorobyov
+  name_type: Primary Name
+  script: Latn
+- text: Игорь Александрович Воробьев
+  name_type: Original Script
+  script: Cyrl
+additional_info: Head of the Volgograd local branch of the Centre for Military and
+  Patriotic Training and Education of Youth “WARRIOR”
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1981-10-13'
+  year: 1981
+  month: 10
+  day: 13
+  precision: full
+citizenships:
+- Russia

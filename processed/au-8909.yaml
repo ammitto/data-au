@@ -1,0 +1,32 @@
+---
+reference: '8909'
+entity_type: person
+names:
+- text: Ivan Vasilyevich Veshkin
+  name_type: Primary Name
+  script: Latn
+- text: Иван Васильевич Вешкин
+  name_type: Original Script
+  script: Cyrl
+address: Republic of Mordovia, Tengushevsky District, Barashevo Settlement, Dachnaya
+  Street, 11, Apt. 1
+additional_info: Deputy Head of Penal Colony No. 10 (IK-10)
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1991-12-22'
+  year: 1991
+  month: 12
+  day: 22
+  precision: full
+citizenships:
+- Russia

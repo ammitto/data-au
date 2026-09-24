@@ -1,0 +1,36 @@
+---
+reference: '8907'
+entity_type: person
+names:
+- text: Aleksey Vladimirovich Anashkin
+  name_type: Primary Name
+  script: Latn
+- text: Алексей Владимирович Анашкин
+  name_type: Original Script
+  script: Cyrl
+- text: Alexei Vladimirovich Anashkin
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Republic of Mordovia, Zubovo-Polyansky District, Yavas Settlement, Kosareva
+  Street, 11, Apt. 26
+additional_info: Deputy Head of Penal Colony No. 10 (IK-10)
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1978-06-09'
+  year: 1978
+  month: 6
+  day: 9
+  precision: full
+citizenships:
+- Russia

@@ -1,0 +1,22 @@
+---
+reference: '8990'
+entity_type: vessel
+names:
+- text: LADY RANIA
+  name_type: Primary Name
+  script: Latn
+additional_info: Previous names include VICTORIA
+sanction:
+  listing_information: Autonomous Sanctions (Sanctioned Vessels – Russia) Amendment
+    (No. 2) Designation 2026
+  committees: Autonomous (Vessels)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Sanctioned Vessels – Russia) Amendment (No. 2)
+    Designation 2026
+  targeted_financial_sanction: false
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: true
+imo_number: '9784893'
+previous_names:
+- VICTORIA

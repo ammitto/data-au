@@ -1,0 +1,31 @@
+---
+reference: '8895'
+entity_type: person
+names:
+- text: Igor Valentinovich Kazarezov
+  name_type: Primary Name
+  script: Latn
+- text: Игорь Валентинович Казарезов
+  name_type: Original Script
+  script: Cyrl
+additional_info: Chairman of the Centre for Military and Patriotic Training and Education
+  of Youth “WARRIOR”
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1965-12-01'
+  year: 1965
+  month: 12
+  day: 1
+  precision: full
+citizenships:
+- Russia

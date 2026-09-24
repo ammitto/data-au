@@ -1,0 +1,32 @@
+---
+reference: '8918'
+entity_type: person
+names:
+- text: Mikhail Gerazievich Mamiashvili
+  name_type: Primary Name
+  script: Latn
+- text: Михаил Геразиевич Мамиашвили
+  name_type: Original Script
+  script: Cyrl
+additional_info: President of the Russian Wrestling Federation; Vice-President of
+  the UWW Executive Committee; member of the Executive Board of the Russian Olympic
+  Committee
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1963-11-21'
+  year: 1963
+  month: 11
+  day: 21
+  precision: full
+citizenships:
+- Russia

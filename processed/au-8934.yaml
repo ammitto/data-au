@@ -1,0 +1,22 @@
+---
+reference: '8934'
+entity_type: organization
+names:
+- text: VAS Experts LLC
+  name_type: Primary Name
+  script: Latn
+- text: Общество с ограниченной ответственностью Вас Экспертс
+  name_type: Original Script
+  script: Cyrl
+address: Avenue Liteyny 26, building a, office 5-13, Saint Peterburg, Russia
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

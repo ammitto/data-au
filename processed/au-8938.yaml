@@ -1,0 +1,25 @@
+---
+reference: '8938'
+entity_type: organization
+names:
+- text: ALTAIR HOLDING SA
+  name_type: Primary Name
+  script: Latn
+- text: Altair
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: |-
+  45-47, Boulevard De La Pétrusse, L-2320 Luxembourg
+  2C, Rue Nicolas Bové, L-1253, Luxembourg
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

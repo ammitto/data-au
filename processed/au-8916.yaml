@@ -1,0 +1,45 @@
+---
+reference: '8916'
+entity_type: person
+names:
+- text: Shanlik Shukorov
+  name_type: Primary Name
+  script: Latn
+- text: Шукуров Шанлик
+  name_type: Original Script
+  script: Cyrl
+- text: Шукуров Шанлік
+  name_type: Original Script
+  script: Cyrl
+- text: Shanlik Shukur
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Shanlik Shukurov
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Shukur Fatih
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: Chief Operating Officer of Alt Capital; Manager of Mastel Makina
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1981-12-03'
+  year: 1981
+  month: 12
+  day: 3
+  precision: full
+citizenships:
+- Azerbaijan

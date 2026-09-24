@@ -1,0 +1,30 @@
+---
+reference: '8913'
+entity_type: person
+names:
+- text: Sergey Anatolyevich Ovchinnikov
+  name_type: Primary Name
+  script: Latn
+- text: Сергей Анатольевич Овчинников
+  name_type: Original Script
+  script: Cyrl
+additional_info: General Director of Closed Joint-Stock Company NORSI-TRANS
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1955-05-05'
+  year: 1955
+  month: 5
+  day: 5
+  precision: full
+citizenships:
+- Russia

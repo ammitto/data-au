@@ -1,0 +1,30 @@
+---
+reference: '8920'
+entity_type: person
+names:
+- text: Ilya Nikolaevich Kurilov
+  name_type: Primary Name
+  script: Latn
+- text: Илья Николаевич Курилов
+  name_type: Original Script
+  script: Cyrl
+additional_info: Director of the Imperial Tula Arms Plant (TOZ)
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1977-09-26'
+  year: 1977
+  month: 9
+  day: 26
+  precision: full
+citizenships:
+- Russia

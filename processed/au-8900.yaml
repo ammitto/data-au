@@ -1,0 +1,32 @@
+---
+reference: '8900'
+entity_type: person
+names:
+- text: Denis Sergeyevich Chernobay
+  name_type: Primary Name
+  script: Latn
+- text: Денис Чернобай
+  name_type: Original Script
+  script: Cyrl
+additional_info: Chairman of the “Donetsk People’s Republic” branch of the All-Russian
+  Public-State Movement of Children and Youth “Movement of the First”
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '2002-08-07'
+  year: 2002
+  month: 8
+  day: 7
+  precision: full
+citizenships:
+- Russia
+- Ukraine

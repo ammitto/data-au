@@ -1,0 +1,30 @@
+---
+reference: '8921'
+entity_type: person
+names:
+- text: Yuriy Aleksandrovich Nabokov
+  name_type: Primary Name
+  script: Latn
+- text: Юрий Александрович Набоков
+  name_type: Original Script
+  script: Cyrl
+additional_info: General Director of JSC Scientific and Production Association “Pribor”
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1981-01-01'
+  year: 1981
+  month: 1
+  day: 1
+  precision: full
+citizenships:
+- Russia

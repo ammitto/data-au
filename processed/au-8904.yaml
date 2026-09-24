@@ -1,0 +1,36 @@
+---
+reference: '8904'
+entity_type: person
+names:
+- text: Andrey Pavlovich Sabinov
+  name_type: Primary Name
+  script: Latn
+- text: Андрей Павлович Сабинов
+  name_type: Original Script
+  script: Cyrl
+- text: Andrei Sabinov
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: Deputy of the “Regional Duma” established by the Russian occupation
+  administration in Kherson region; head of the Kherson regional branch of the Warrior
+  Centre
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1975-04-17'
+  year: 1975
+  month: 4
+  day: 17
+  precision: full
+citizenships:
+- Russia

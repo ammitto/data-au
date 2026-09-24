@@ -1,0 +1,35 @@
+---
+reference: '8950'
+entity_type: organization
+names:
+- text: Limited Liability Company “Military Industrial Company”
+  name_type: Primary Name
+  script: Latn
+- text: ООО «Военно-промышленная компания»
+  name_type: Original Script
+  script: Cyrl
+- text: Military Industrial Company
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: LLC MIC
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: VPK LLC
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: 15 Rochdelskaya Street, Building 8, Floor 3, Rooms 10–14, Moscow, Russian
+  Federation
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

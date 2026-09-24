@@ -1,0 +1,35 @@
+---
+reference: '8931'
+entity_type: organization
+names:
+- text: All-Russian Public-State Movement of Children and Youth “Movement of the First”
+  name_type: Primary Name
+  script: Latn
+- text: Общероссийское общественно-государственное движение детей и молодёжи «Движение
+    первых»
+  name_type: Original Script
+  script: Cyrl
+- text: Movement of the First
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Russian Movement of Children and Youth “Movement of the First”
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: RDDM “Movement of the First”
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Zemlyanoy Val street, 50A, building 2, Moscow, Russia
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

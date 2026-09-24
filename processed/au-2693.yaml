@@ -2,18 +2,18 @@
 reference: '2693'
 entity_type: person
 names:
-- text: Sergei Borisovich IVANOV
+- text: Sergei Pavlovich IVANOV
   name_type: Primary Name
   script: Latn
 - text: Sergey IVANOV
   name_type: Alias
   script: Latn
   alias_strength: Strong
-- text: Lt Gen. Sergey Borisovich IVANOV
+- text: Lt Gen. Sergey Pavlovich IVANOV
   name_type: Alias
   script: Latn
   alias_strength: Strong
-- text: Serhii Borysovych IVANOV
+- text: Serhii Pavlovich IVANOV
   name_type: Alias
   script: Latn
   alias_strength: Strong

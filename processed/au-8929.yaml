@@ -1,0 +1,35 @@
+---
+reference: '8929'
+entity_type: organization
+names:
+- text: Federal State Treasury Educational Institution “Nakhimov Naval School”
+  name_type: Primary Name
+  script: Latn
+- text: Нахимовское военно-морское училище
+  name_type: Original Script
+  script: Cyrl
+- text: Nakhimov Naval School
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Federal State Public Educational Institution "Nakhimov Naval School of the
+    Order of Honor of the Ministry of Defense of the Russian Federation"
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: NVMU
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Petrogradskaya Embankment, 2-4, St. Petersburg, 197046, Russia
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

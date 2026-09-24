@@ -1,0 +1,34 @@
+---
+reference: '8914'
+entity_type: person
+names:
+- text: Dmitry Valeryanovich Gachko
+  name_type: Primary Name
+  script: Latn
+- text: Дмитрий Валерьянович Гачко
+  name_type: Original Script
+  script: Cyrl
+- text: Dmytro Valerianovych Hachko
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: General Director and owner of limited liability company VAS EXPERTS
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1976-08-16'
+  year: 1976
+  month: 8
+  day: 16
+  precision: full
+citizenships:
+- Russia

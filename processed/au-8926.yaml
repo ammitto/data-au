@@ -1,0 +1,28 @@
+---
+reference: '8926'
+entity_type: organization
+names:
+- text: Federal State Budgetary Educational Institution “International Children’s
+    Centre Artek”
+  name_type: Primary Name
+  script: Latn
+- text: Федеральное Государственное Бюджетное Образовательное Учреждение Международный
+    Детский Центр Артек
+  name_type: Original Script
+  script: Cyrl
+- text: FDBNZ "MDTs "Artek"
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+address: 41 Leningradskaya Street, Yalta, Occupied Crimea, Ukraine
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

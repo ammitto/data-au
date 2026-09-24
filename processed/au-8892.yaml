@@ -1,0 +1,33 @@
+---
+reference: '8892'
+entity_type: person
+names:
+- text: Elena Vasilievna Romanovskaya
+  name_type: Primary Name
+  script: Latn
+- text: Елена Васильевна Романовская
+  name_type: Original Script
+  script: Cyrl
+address: Bakhchysarai District, Crimea, Occupied Ukraine
+additional_info: Deputy Chairman of the Council of Ministers and Minister of Labor
+  and Social Protection of the Russian-Occupied Republic of Crimea
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1966-03-05'
+  year: 1966
+  month: 3
+  day: 5
+  precision: full
+citizenships:
+- Russia
+- Ukraine

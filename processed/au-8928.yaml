@@ -1,0 +1,30 @@
+---
+reference: '8928'
+entity_type: organization
+names:
+- text: Centre for Military Sports Training and Patriotic Education of Youth “WARRIOR”
+  name_type: Primary Name
+  script: Latn
+- text: Центр военно-спортивной подготовки и патриотического воспитания молодежи «ВОИН»
+  name_type: Original Script
+  script: Cyrl
+- text: WARRIOR Centre
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Centre VOIN
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Russian Federation/Occupied territories in Ukraine
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Russia)
+  control_date: '2026-09-24'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Russia and Ukraine) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false
