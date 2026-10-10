@@ -1,9 +1,9 @@
 ---
 source: au
 count: 4009
-fetched_at: '2026-10-09T16:12:04Z'
+fetched_at: '2026-10-10T13:39:13Z'
 schema: ammitto:sources:au:v1
-pruned: 12
+pruned: 0
 files:
 - au-100.yaml
 - au-101.yaml
