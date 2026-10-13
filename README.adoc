@@ -1,244 +1,121 @@
-= Australia DFAT Sanctions Consolidated List
+= Ammitto Australian sanctions data
 
-image:https://img.shields.io/github/license/ammitto/data-au.svg[License]
-image:https://github.com/ammitto/data-au/actions/workflows/fetch.yml/badge.svg["Update Status", link="https://github.com/ammitto/data-au/actions/workflows/fetch.yml"]
+image:https://github.com/ammitto/data-au/actions/workflows/fetch.yml/badge.svg["Fetch Data", link="https://github.com/ammitto/data-au/actions/workflows/fetch.yml"]
 
-== Purpose
-
-This repository contains sanctioned individuals, entities, and vessels from the
-Australian Department of Foreign Affairs and Trade (DFAT) Consolidated List.
+This repository stores the Australian Sanctions Office (ASO) Consolidated List
+as YAML for Ammitto. The records in `processed/` cover the people, entities
+and vessels listed by the Department of Foreign Affairs and Trade (DFAT).
 
 == Source
 
-* **Authority**: Australia Department of Foreign Affairs and Trade (DFAT)
-* **URL**: https://www.dfat.gov.au/international-relations/security/sanctions/consolidated-list
-* **XLSX Download**: https://www.dfat.gov.au/sites/default/files/Australian_Sanctions_Consolidated_List.xlsx
-* **Format**: XLSX
-* **Update Frequency**: As updated by DFAT
-* **Country Code**: AU
+* Publisher: Australian Sanctions Office, Department of Foreign Affairs and Trade (DFAT)
+* List page: https://www.dfat.gov.au/international-relations/security/sanctions/consolidated-list
+* File downloaded: https://www.dfat.gov.au/sites/default/files/Australian_Sanctions_Consolidated_List.xlsx
 
-== Legal Basis
+The list holds individuals, entities and vessels subject to Australian
+sanctions: those sanctioned by the United Nations Security Council and those
+designated by the Foreign Minister under Australia's autonomous sanctions laws.
+DFAT notes that, in addition to the vessels on the list, all vessels in the
+DPRK vessel class of Australia's DPRK autonomous sanctions framework are also
+sanctioned, including all vessels flagged or registered in the DPRK. The
+"DPRK Vessel Class" is itself a listing (`au-8599.yaml`), and its
+`additional_info` holds the definition.
 
-Australia implements sanctions under multiple legal frameworks:
+== Contents
 
-* *Autonomous Sanctions Act 2011*
-* *Autonomous Sanctions Regulations 2011*
-* *Charter of the United Nations Act 1945*
-* Various country-specific regulations
+`processed/` holds one file per listing, named after the DFAT reference
+number: `processed/au-100.yaml` is reference 100. DFAT publishes each name
+variant as its own spreadsheet row; those rows are merged into one record.
 
-== Directory Structure
+`processed/_index.yaml` lists every file, with the time of the last fetch.
 
-```
-data-au/
-├── processed/         # Processed YAML files (one per entity)
-└── README.adoc        # This file
-```
-
-== Data Contents
-
-The DFAT list contains:
-
-* **Individuals**: Natural persons subject to sanctions
-* **Organizations**: Companies and entities subject to sanctions
-* **Vessels**: Ships subject to maritime sanctions
-
-== Source Data Format
-
-The processed YAML files in `processed/` follow this structure:
-
-=== Organization Entity
-[source,yaml]
-----
-id: '8577'
-type: organization
-names:
-  - full_name: "EXAMPLE COMPANY LTD"
-    is_primary: true
-    script: Latn
-  - full_name: "示例公司"
-    is_primary: false
-    script: Hani
-source_references:
-  - source_code: au
-    reference_number: '8577'
-organization_details:
-  country_of_registration: Russia
-remarks: 'Additional information about the entity'
-----
-
-=== Person Entity
-[source,yaml]
-----
-id: '1234'
-type: person
-names:
-  - full_name: "IVAN IVANOV"
-    is_primary: true
-    script: Latn
-source_references:
-  - source_code: au
-    reference_number: '1234'
-person_details:
-  dates_of_birth:
-    - year: 1970
-      month: 1
-      day: 15
-  nationalities:
-    - Russia
-remarks: 'Additional information about the person'
-----
-
-=== Vessel Entity
-[source,yaml]
-----
-id: '5678'
-type: vessel
-names:
-  - full_name: "EXAMPLE VESSEL"
-    is_primary: true
-    script: Latn
-source_references:
-  - source_code: au
-    reference_number: '5678'
-vessel_details:
-  imo_number: '1234567'
-  flag: Russia
-remarks: 'Additional information about the vessel'
-----
-
-=== Field Definitions
-
-[cols="1,4"]
+[cols="1,1,3"]
 |===
-| Field | Description
+| Key | Type | Meaning
 
-| `id`
-| Unique identifier for the entity
-
-| `type`
-| Entity type: `person`, `organization`, or `vessel`
-
-| `names`
-| Array of name variants with `full_name`, `is_primary`, and `script`
-
-| `source_references`
-| Array linking to original source with `source_code` and `reference_number`
-
-| `person_details`
-| Person-specific fields (dates_of_birth, nationalities, etc.)
-
-| `organization_details`
-| Organization-specific fields (country_of_registration, etc.)
-
-| `vessel_details`
-| Vessel-specific fields (imo_number, flag, etc.)
-
-| `remarks`
-| Additional textual information
-
+| `reference` | string | DFAT reference number
+| `entity_type` | string | `person`, `organization` or `vessel`
+| `names` | list | Name variants: `text`, `name_type` (`Primary Name`, `Alias` or `Original Script`), `script` (ISO 15924 code, such as `Latn` or `Arab`) and, for aliases, `alias_strength` (`Strong` or `Weak`)
+| `sanction` | map | `committees` (the regime, such as `Autonomous (Russia)` or a UN committee), `instrument` (the legal instrument), `listing_information`, `control_date`, and true or false flags for `targeted_financial_sanction`, `travel_ban`, `arms_embargo` and `maritime_restriction`
+| `additional_info` | string | Free text published with the listing
+| `address` | string | Address as published
+| `dates_of_birth` | list | Persons only: `raw_value` as published, parsed `year`, `month`, `day`, `precision` (`full`, `month`, `year`, `circa`, `range` or `unknown`) and, where they apply, `circa` and `year_range_from`, `year_range_to`
+| `places_of_birth` | list | Persons only: one entry per comma separated part of the published place, as `raw_value` (repeated in `country`)
+| `citizenships` | list | Persons only: citizenships as published
+| `imo_number` | string | Vessels only: IMO number
+| `previous_names` | list | Vessels only: earlier vessel names
 |===
 
-== Harmonized Data Format
+`downloaded/` is empty.
 
-After harmonization, entities are transformed into JSON-LD format for the knowledge graph.
+== Using the data
 
-=== Entity (JSON-LD)
-[source,json]
+Clone or download this repository and run either example from its root
+directory.
+
+Ruby:
+
+[source,ruby]
 ----
-{
-  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
-  "@id": "https://www.ammitto.org/entity/au/8577",
-  "@type": "OrganizationEntity",
-  "names": [
-    {
-      "@type": "NameVariant",
-      "fullName": "EXAMPLE COMPANY LTD",
-      "script": "Latn",
-      "isPrimary": true
-    }
-  ],
-  "organizationDetails": {
-    "@type": "OrganizationDetails",
-    "countryOfRegistration": "RU"
-  },
-  "remarks": "Additional information",
-  "sanctionEntries": [
-    {
-      "@id": "https://www.ammitto.org/entry/au/8577",
-      "@type": "SanctionEntry",
-      "authority": {
-        "@id": "https://www.ammitto.org/authority/au",
-        "name": "Australia DFAT"
-      },
-      "regime": {
-        "@type": "SanctionRegime",
-        "code": "AU_RUSSIA",
-        "name": "Russia"
-      },
-      "effects": [
-        {
-          "@type": "SanctionEffect",
-          "effectType": "asset_freeze",
-          "scope": "full"
-        },
-        {
-          "@type": "SanctionEffect",
-          "effectType": "entry_ban",
-          "scope": "full"
-        }
-      ],
-      "status": "active",
-      "period": {
-        "@type": "TemporalPeriod",
-        "listedDate": "2022-03-01"
-      }
-    }
-  ]
-}
+require "yaml"
+
+Dir.glob("processed/au-*.yaml").sort.each do |path|
+  record = YAML.safe_load_file(path)
+  name = record["names"].find { |n| n["name_type"] == "Primary Name" }
+  puts [record["reference"], record["entity_type"], name["text"]].join("\t")
+end
 ----
 
-=== Sanction Entry Fields
+Python (requires PyYAML, installed with `python3 -m pip install PyYAML`):
 
-[cols="1,4"]
-|===
-| Field | Description
+[source,python]
+----
+import glob
+import yaml
 
-| `effects`
-| Array of sanction effects (asset_freeze, entry_ban, trade_restriction, etc.)
+for path in sorted(glob.glob("processed/au-*.yaml")):
+    with open(path, encoding="utf-8") as f:
+        record = yaml.safe_load(f)
+    name = next(n for n in record["names"] if n["name_type"] == "Primary Name")
+    print(record["reference"], record["entity_type"], name["text"], sep="\t")
+----
 
-| `regime`
-| Sanctions regime (Russia, DPRK, Iran, etc.)
-
-| `status`
-| Entry status (active, delisted, expired)
-
-| `period`
-| Temporal information (listedDate, effectiveDate, expiryDate)
-
-| `legalInstruments`
-| Legal basis for the sanction
-
-|===
-
-== Knowledge Graph Integration
-
-This repository's processed YAML data feeds into the Ammitto knowledge graph.
-
-Harmonized JSON-LD for this source:
+The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/au.jsonld
 
-== Usage
+== Updates
 
-This data is part of the https://github.com/ammitto/ammitto[Ammitto] sanctions
-screening system.
+The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
+every day at 07:15 UTC and commits any change to `processed/`. It runs with
+`--prune`, so a listing DFAT has removed is deleted here on the next fetch.
 
-== Related Repositories
+== Development
 
-* https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem with harmonization
-* https://github.com/ammitto/data[data] - Harmonized knowledge graph output
-* https://github.com/ammitto/ammitto.github.io[ammitto.github.io] - Website with search
+`processed/` is generated by the Ammitto gem. To refresh it locally, use
+Ruby 3.3 (the version selected by the fetch workflow) and Bundler. From
+the repository root, run:
+
+[source,shell]
+----
+bundle install
+bundle exec ammitto fetch au --format yaml --output-dir processed --verbose --prune
+----
+
+`--prune` removes files for listings no longer present in the fetched list.
+Review the generated changes before committing them.
+
+Fetch and parser changes belong in the
+https://github.com/ammitto/ammitto[Ammitto gem]; its source models are in
+https://github.com/ammitto/ammitto/tree/main/lib/ammitto/sources/au[`lib/ammitto/sources/au/`].
+Report data or source-list issues in
+https://github.com/ammitto/data-au/issues[this repository].
 
 == License
 
 Data is sourced from official Australian government publications.
 Repository structure and processing code are under the MIT License.
+
+== Related
+
+* https://www.ammitto.org[ammitto.org]: search across all sources
+* https://github.com/ammitto/ammitto[ammitto]: the Ruby gem that fetches and harmonizes this data
