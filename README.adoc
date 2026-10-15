@@ -83,6 +83,60 @@ for path in sorted(glob.glob("processed/au-*.yaml")):
 The same list, harmonized with the other sources into JSON-LD:
 https://www.ammitto.org/api/v1/sources/au.jsonld
 
+== Harmonized field mapping
+
+The https://github.com/ammitto/ammitto/blob/main/lib/ammitto/sources/au/transformer.rb[au transformer]
+maps the processed source fields below to canonical Ruby attributes.
+Entity classes are in `Ammitto::Ontology::Entities`, entry/regime classes in
+`Ammitto::Ontology::Sanction`, and nested values in
+`Ammitto::Ontology::ValueObjects`. JSON-LD serialization can use different keys.
+
+[cols="2,2,4",options="header"]
+|===
+| Source fields | Canonical target | Transformation
+
+| `reference`, `entity_type`
+| `Entity.id`, concrete entity class; `SanctionEntry.reference_number`
+| Use the DFAT reference for IDs; dispatch person, organization, vessel and generic source records to their canonical builders.
+
+| `names`, `previous_names`
+| `Entity.names` (`NameVariant`)
+| Map `text`, `script` and primary-name status; add previous vessel names as non-primary variants.
+
+| `address`
+| `PersonEntity.addresses` or `OrganizationEntity.addresses`
+| Keep the full address in `Address.street`; use its final comma-separated part as country.
+
+| `dates_of_birth`, `places_of_birth`
+| `PersonEntity.birth_info` (`BirthInfo`)
+| Keep complete dates, years, ranges and circa. Match each date to its indexed place, falling back to the first place.
+
+| `citizenships`, `imo_number`
+| `PersonEntity.nationalities`, `VesselEntity.imo_number`
+| Copy citizenships for people and the IMO value for vessels.
+
+| `sanction.committees`
+| `SanctionEntry.regime` (`SanctionRegime`)
+| Use the first matching regime mapping; otherwise derive a code from the committee text, with an Australia default if absent.
+
+| `sanction.control_date`
+| `SanctionEntry.period.listed_date` (`TemporalPeriod`)
+| Parse stored ISO dates or DFAT month/day/year dates; invalid date text is reported rather than guessed.
+
+| `sanction.instrument`
+| `SanctionEntry.legal_bases` (`LegalInstrument`)
+| Retain the instrument text as identifier/title and derive the instrument type from its wording.
+
+| `sanction` effect flags
+| `SanctionEntry.effects` (`SanctionEffect`)
+| Map financial, travel, arms and maritime flags; maritime restriction becomes `sectoral_sanction` with its description.
+
+| `sanction.listing_information`, other `sanction` fields
+| `SanctionEntry.raw_source_detail.source_specific_fields`
+| Retain reference, committees, control date, instrument and listing text under `au:` metadata keys.
+
+|===
+
 == Updates
 
 The `Fetch Data` workflow (`.github/workflows/fetch.yml`) downloads the list
