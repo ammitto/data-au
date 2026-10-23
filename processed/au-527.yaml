@@ -32,7 +32,7 @@ sanction:
     Act 1945 List 2004 (No. 2) [F2021L00642, Gazette No. GN 46, 17 November 2004].
     Last listed on: 13/09/2025'
   committees: 1373 (2001)
-  control_date: '2022-09-16'
+  control_date: '1905-07-14'
   instrument: 'Instrument of first listing: Charter of the United Nations Act 1945
     List 2004 (No. 2) [F2021L00642, Gazette No. GN 46, 17 November 2004]. Last listed
     on: 13/09/2025'
@@ -41,10 +41,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1967-03-25'
-  year: 1967
-  month: 3
-  day: 25
+- raw_value: '1905-05-20'
+  year: 1905
+  month: 5
+  day: 20
   precision: full
 places_of_birth:
 - raw_value: Lebanon

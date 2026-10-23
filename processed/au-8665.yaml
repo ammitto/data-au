@@ -12,15 +12,15 @@ additional_info: 'LYi.001. Passport no: B010574. Listed pursuant to paragraph 15
 sanction:
   listing_information: 'Listed on: 26 Feb. 2011 (amended on 2 Apr. 2012, 26 Mar. 2015)'
   committees: 1970 (Libya)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Libya) Regulations 2011
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1950-07-01'
-  year: 1950
-  month: 7
-  day: 1
+- raw_value: '1905-05-03'
+  year: 1905
+  month: 5
+  day: 3
   precision: full

@@ -13,16 +13,16 @@ additional_info: 'GBi.006 Designation: a) Lieutenant-colonel b) Head of Intellig
 sanction:
   listing_information: Listed by 2048 Committee on 18 Jul. 2012
   committees: 2048 (Guinea-Bissau)
-  control_date: '2025-12-11'
+  control_date: '1905-07-17'
   targeted_financial_sanction: false
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1954-05-28'
-  year: 1954
+- raw_value: '1905-05-07'
+  year: 1905
   month: 5
-  day: 28
+  day: 7
   precision: full
 citizenships:
 - Guinea-Bissau

@@ -34,7 +34,7 @@ sanction:
   listing_information: Listed on 30 March 2026 (Amended on 8 July 2026), pursuant
     to resolutions 1267 (1999), 1989 (2011) and 2253 (2015).
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-07-10'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -42,10 +42,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1989-02-23'
-  year: 1989
-  month: 2
-  day: 23
+- raw_value: '1905-06-11'
+  year: 1905
+  month: 6
+  day: 11
   precision: full
 places_of_birth:
 - raw_value: Uganda

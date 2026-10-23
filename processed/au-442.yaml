@@ -32,7 +32,7 @@ sanction:
     10 Aug. 2009, 25 Jan. 2010, 16 May 2011, 11 Oct. 2016, 22 Sep. 2017, 1 May 2019,
     8 Nov. 2022, 21 Jul. 2023)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -40,10 +40,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1964-01-20'
-  year: 1964
-  month: 1
-  day: 20
+- raw_value: '1905-05-17'
+  year: 1905
+  month: 5
+  day: 17
   precision: full
 places_of_birth:
 - raw_value: Johor

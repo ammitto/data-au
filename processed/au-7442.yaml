@@ -10,7 +10,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Russia)
-  control_date: '2023-02-24'
+  control_date: '1905-07-15'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
@@ -18,10 +18,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1980-03-30'
-  year: 1980
-  month: 3
-  day: 30
+- raw_value: '1905-06-02'
+  year: 1905
+  month: 6
+  day: 2
   precision: full
 places_of_birth:
 - raw_value: Almaty

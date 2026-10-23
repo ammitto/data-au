@@ -23,7 +23,7 @@ sanction:
   listing_information: Charter of the United Nations (Listed Persons and Entities)
     Amendment (No. 3) Instrument 2025
   committees: 1373 (2001)
-  control_date: '2025-09-13'
+  control_date: '1905-07-17'
   instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
     (No. 3) Instrument 2025
   targeted_financial_sanction: true
@@ -31,10 +31,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1980-11-15'
-  year: 1980
-  month: 11
-  day: 15
+- raw_value: '1905-06-02'
+  year: 1905
+  month: 6
+  day: 2
   precision: full
 places_of_birth:
 - raw_value: Occupied Palestinian Territories

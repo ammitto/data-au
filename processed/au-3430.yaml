@@ -18,7 +18,7 @@ additional_info: 'KPi.064 Former overseas Foreign Trade Bank representative.  In
 sanction:
   listing_information: 'Listed on: 22 December 2017 (amended on 29 June 2023)'
   committees: 1718 (DPRK)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -26,10 +26,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1978-07-25'
-  year: 1978
-  month: 7
-  day: 25
+- raw_value: '1905-05-31'
+  year: 1905
+  month: 5
+  day: 31
   precision: full
 places_of_birth:
 - raw_value: Democratic People's Republic of Korea

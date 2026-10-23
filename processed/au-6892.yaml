@@ -10,7 +10,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 11) Instrument 2022
   committees: Autonomous (Russia)
-  control_date: '2022-04-06'
+  control_date: '1905-07-14'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 11) Instrument 2022
   targeted_financial_sanction: true
@@ -18,10 +18,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1958-03-09'
-  year: 1958
-  month: 3
-  day: 9
+- raw_value: '1905-05-11'
+  year: 1905
+  month: 5
+  day: 11
   precision: full
 places_of_birth:
 - raw_value: Akmolinsk

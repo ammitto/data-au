@@ -16,7 +16,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 17) Instrument 2022
   committees: Autonomous (Russia)
-  control_date: '2022-05-18'
+  control_date: '1905-07-14'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 17) Instrument 2022
   targeted_financial_sanction: true
@@ -24,10 +24,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1964-03-23'
-  year: 1964
-  month: 3
-  day: 23
+- raw_value: '1905-05-17'
+  year: 1905
+  month: 5
+  day: 17
   precision: full
 places_of_birth:
 - raw_value: Nizhny Tagil

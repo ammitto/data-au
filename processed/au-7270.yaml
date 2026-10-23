@@ -15,7 +15,7 @@ sanction:
     Entities and Declared Persons—Russia and
     Ukraine) Amendment (No. 21) Instrument 2022
   committees: Autonomous (Ukraine)
-  control_date: '2022-09-30'
+  control_date: '1905-07-14'
   instrument: |-
     Instrument of first designation
     and declaration
@@ -27,10 +27,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1968-04-10'
-  year: 1968
-  month: 4
-  day: 10
+- raw_value: '1905-05-21'
+  year: 1905
+  month: 5
+  day: 21
   precision: full
 citizenships:
 - Ukraine

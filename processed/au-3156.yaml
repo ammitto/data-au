@@ -10,7 +10,7 @@ additional_info: KPi.022. Korea Mining Development Trading Corporation (KOMID) E
 sanction:
   listing_information: First listed on 2/03/2016
   committees: 1718 (DPRK)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -18,10 +18,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1968-07-30'
-  year: 1968
-  month: 7
-  day: 30
+- raw_value: '1905-05-21'
+  year: 1905
+  month: 5
+  day: 21
   precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

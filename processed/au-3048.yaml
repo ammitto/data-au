@@ -34,7 +34,7 @@ sanction:
 
     Listed on 23 Sep. 2014 (amended on 24 Nov. 2020, 22 August 2025, 13 Aug. 2026)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-08-14'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -42,10 +42,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1973-01-01'
-  year: 1973
-  month: 1
-  day: 1
+- raw_value: '1905-05-26'
+  year: 1905
+  month: 5
+  day: 26
   precision: full
 places_of_birth:
 - raw_value: Warah

@@ -16,7 +16,7 @@ additional_info: 'A Kuwait-based financier, recruiter and facilitator for Islami
 sanction:
   listing_information: Listed on 15 Aug. 2014, amended 23 March 2021
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -24,10 +24,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1960-11-17'
-  year: 1960
-  month: 11
-  day: 17
+- raw_value: '1905-05-13'
+  year: 1905
+  month: 5
+  day: 13
   precision: full
 places_of_birth:
 - raw_value: a) Kuwait b) Qatar

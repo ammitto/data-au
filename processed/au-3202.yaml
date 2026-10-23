@@ -10,7 +10,7 @@ additional_info: 'KPi.032 Passport: PD472310104. Kim Se Gon works on behalf of t
 sanction:
   listing_information: 'Listed on: 30 Nov. 2016'
   committees: 1718 (DPRK)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -18,10 +18,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1969-11-13'
-  year: 1969
-  month: 11
-  day: 13
+- raw_value: '1905-05-22'
+  year: 1905
+  month: 5
+  day: 22
   precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

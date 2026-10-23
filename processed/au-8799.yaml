@@ -11,17 +11,17 @@ additional_info: |-
 sanction:
   listing_information: Listed by the 1591 Committee on 28 April 2026.
   committees: 1591 (Sudan)
-  control_date: '2026-05-08'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Sudan) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1973-01-02'
-  year: 1973
-  month: 1
-  day: 2
+- raw_value: '1905-05-26'
+  year: 1905
+  month: 5
+  day: 26
   precision: full
 places_of_birth:
 - raw_value: Bogota

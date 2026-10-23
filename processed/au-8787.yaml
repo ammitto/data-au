@@ -10,17 +10,17 @@ additional_info: 'SDi.008. Designation: Rapid Support Forces (RSF) Deputy Leader
 sanction:
   listing_information: Listed by the 1591 Committee on 24 February 2026
   committees: 1591 (Sudan)
-  control_date: '2026-02-26'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Sudan) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1972-01-01'
-  year: 1972
-  month: 1
-  day: 1
+- raw_value: '1905-05-25'
+  year: 1905
+  month: 5
+  day: 25
   precision: full
 places_of_birth:
 - raw_value: Khartoum

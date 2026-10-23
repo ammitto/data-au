@@ -32,7 +32,7 @@ sanction:
   listing_information: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March
     2021 and 10 June 2023
   committees: Autonomous (Russia)
-  control_date: '2023-06-10'
+  control_date: '1905-07-15'
   instrument: Listed on 16 June 2017, re-listed 10 Jun 2020 and 29 March 2021 and
     10 June 2023
   targeted_financial_sanction: true
@@ -40,10 +40,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1963-11-09'
-  year: 1963
-  month: 11
-  day: 9
+- raw_value: '1905-05-16'
+  year: 1905
+  month: 5
+  day: 16
   precision: full
 places_of_birth:
 - raw_value: Former German Democratic Republic (DDR)

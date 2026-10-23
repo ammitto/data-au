@@ -34,17 +34,17 @@ sanction:
   listing_information: Listed by the 2140 Committee on 25 February 2021 (amended on
     5 Apr. 2021)
   committees: 2140 (Yemen)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—Yemen) Regulation 2014
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1986-02-05'
-  year: 1986
-  month: 2
-  day: 5
+- raw_value: '1905-06-08'
+  year: 1905
+  month: 6
+  day: 8
   precision: full
 places_of_birth:
 - raw_value: Razih District

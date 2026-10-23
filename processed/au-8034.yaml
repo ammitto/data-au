@@ -22,7 +22,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
-  control_date: '2025-02-24'
+  control_date: '1905-07-17'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
@@ -30,10 +30,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1975-06-15'
-  year: 1975
-  month: 6
-  day: 15
+- raw_value: '1905-05-28'
+  year: 1905
+  month: 5
+  day: 28
   precision: full
 places_of_birth:
 - raw_value: Tretyaki

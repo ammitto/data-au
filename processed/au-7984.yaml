@@ -20,7 +20,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Iran) Amendment (No. 2) Instrument 2024
   committees: Autonomous (Iran)
-  control_date: '2024-09-16'
+  control_date: '1905-07-16'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Iran) Amendment (No. 2) Instrument 2024
   targeted_financial_sanction: true
@@ -28,10 +28,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1974-08-23'
-  year: 1974
-  month: 8
-  day: 23
+- raw_value: '1905-05-27'
+  year: 1905
+  month: 5
+  day: 27
   precision: full
 places_of_birth:
 - raw_value: Chegeni

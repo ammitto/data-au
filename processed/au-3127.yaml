@@ -52,7 +52,7 @@ sanction:
   listing_information: Listed on 2 Oct. 2015 (amended on 10 and 30 Dec. 2015, 24 Nov.
     2020)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -60,10 +60,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1980-07-04'
-  year: 1980
-  month: 7
-  day: 4
+- raw_value: '1905-06-02'
+  year: 1905
+  month: 6
+  day: 2
   precision: full
 places_of_birth:
 - raw_value: Vedeno Village

@@ -23,17 +23,17 @@ sanction:
   listing_information: 'Listed on: 17 Aug. 2017 (Relisted on 3 Aug. 2020 and 2 Aug.
     2023)'
   committees: Autonomous (Syria)
-  control_date: '2023-08-02'
+  control_date: '1905-07-15'
   instrument: 'Listed on: 17 Aug. 2017 (Relisted on 3 Aug. 2020 and 2 Aug. 2023)'
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1954-10-10'
-  year: 1954
-  month: 10
-  day: 10
+- raw_value: '1905-05-07'
+  year: 1905
+  month: 5
+  day: 7
   precision: full
 citizenships:
 - Syria

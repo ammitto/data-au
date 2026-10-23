@@ -13,7 +13,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Thematic Sanctions) Amendment (No. 4) Instrument 2024
   committees: Autonomous (Thematic - Human Rights)
-  control_date: '2024-07-25'
+  control_date: '1905-07-16'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
     Sanctions) Amendment (No. 4) Instrument 2024
   targeted_financial_sanction: true
@@ -21,10 +21,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1991-10-04'
-  year: 1991
-  month: 10
-  day: 4
+- raw_value: '1905-06-13'
+  year: 1905
+  month: 6
+  day: 13
   precision: full
 citizenships:
 - Israel

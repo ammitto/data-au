@@ -28,7 +28,7 @@ sanction:
   listing_information: 'Listed on: 10 Mar. 2011 (amended on 2 June 2014, 30 Dec. 2014,
     1 May 2019)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -54,15 +54,15 @@ dates_of_birth:
 - raw_value: 1955  
   year: 1955
   precision: year
-- raw_value: '1964-04-13'
-  year: 1964
-  month: 4
-  day: 13
+- raw_value: '1905-05-17'
+  year: 1905
+  month: 5
+  day: 17
   precision: full
-- raw_value: '1965-04-13'
-  year: 1965
-  month: 4
-  day: 13
+- raw_value: '1905-05-18'
+  year: 1905
+  month: 5
+  day: 18
   precision: full
 places_of_birth:
 - raw_value: Kharsenoy Village

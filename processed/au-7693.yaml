@@ -24,7 +24,7 @@ sanction:
     Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment
     (No. 2) Instrument 2023'
   committees: Autonomous (Iran)
-  control_date: '2023-10-18'
+  control_date: '1905-07-15'
   instrument: 'Instrument of first designation and declaration: Autonomous Sanctions
     (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2)
     Instrument 2023'
@@ -33,10 +33,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1954-01-15'
-  year: 1954
-  month: 1
-  day: 15
+- raw_value: '1905-05-07'
+  year: 1905
+  month: 5
+  day: 7
   precision: full
 citizenships:
 - Iran

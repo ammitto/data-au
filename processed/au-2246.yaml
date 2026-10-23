@@ -22,7 +22,7 @@ sanction:
     Declared Persons – Syria) List 2012 [F2012L00482]
     Relisted on 12 January 2024.
   committees: Autonomous (Syria)
-  control_date: '2024-01-12'
+  control_date: '1905-07-16'
   instrument: |-
     Designated under the Autonomous Sanctions Regulations 2011 on 2 March 2012. Formerly listed on the RBA Consolidated List as 2011SYR0012. Instrument of first
     designation and
@@ -35,10 +35,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1971-04-02'
-  year: 1971
-  month: 4
-  day: 2
+- raw_value: '1905-05-24'
+  year: 1905
+  month: 5
+  day: 24
   precision: full
 places_of_birth:
 - raw_value: Damascus

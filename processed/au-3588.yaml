@@ -18,17 +18,17 @@ additional_info: 'SSi.007 Title: Lieutenant. General Designation: a) Deputy Chie
 sanction:
   listing_information: 'Listed on: 13 Jul. 2018'
   committees: 2206 (South Sudan)
-  control_date: '2026-02-06'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—South Sudan) Regulation 2015
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1960-01-01'
-  year: 1960
-  month: 1
-  day: 1
+- raw_value: '1905-05-13'
+  year: 1905
+  month: 5
+  day: 13
   precision: full
 places_of_birth:
 - raw_value: Yei

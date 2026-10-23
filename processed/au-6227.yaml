@@ -22,7 +22,7 @@ sanction:
   listing_information: 'Instrument of first listing: Charter of the United Nations
     Act 1945 Listing 2019 (No. 1). Last listed on: 22/07/2022'
   committees: 1373 (2001)
-  control_date: '2025-02-03'
+  control_date: '1905-07-17'
   instrument: 'Instrument of first listing: Charter of the United Nations Act 1945
     Listing 2019 (No. 1). Last listed on: 22/07/2022'
   targeted_financial_sanction: true
@@ -30,10 +30,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1991-09-09'
-  year: 1991
-  month: 9
-  day: 9
+- raw_value: '1905-06-13'
+  year: 1905
+  month: 6
+  day: 13
   precision: full
 places_of_birth:
 - raw_value: Algeria

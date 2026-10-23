@@ -42,7 +42,7 @@ additional_info: 'Passport no.: Passport number DG5149481, issued on 22 Aug. 200
 sanction:
   listing_information: Listed on 14 Mar. 2012 (amended on 1 May 2019).
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -50,10 +50,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1953-10-04'
-  year: 1953
-  month: 10
-  day: 4
+- raw_value: '1905-05-06'
+  year: 1905
+  month: 5
+  day: 6
   precision: full
 places_of_birth:
 - raw_value: Masjid al-Qadesia

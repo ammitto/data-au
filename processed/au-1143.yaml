@@ -41,17 +41,17 @@ additional_info: SOi.004.
 sanction:
   listing_information: Listed by UN 751 Committee on 12 April 2010
   committees: 2713 (Al-Shabaab)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions - Somalia) Regulation 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1977-07-10'
-  year: 1977
-  month: 7
-  day: 10
+- raw_value: '1905-05-30'
+  year: 1905
+  month: 5
+  day: 30
   precision: full
 places_of_birth:
 - raw_value: Hargeysa

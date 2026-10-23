@@ -1,0 +1,25 @@
+---
+reference: '8999'
+entity_type: organization
+names:
+- text: Chinyong Information Technology Cooperation Company
+  name_type: Primary Name
+  script: Latn
+- text: 진영정보기술개발협조회사
+  name_type: Original Script
+  script: Kore
+- text: Jinyong IT Cooperation Company
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons – Democratic People’s Republic of Korea) List 2012
+  committees: Autonomous (DPRK)
+  control_date: '1905-07-18'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
+    – Democratic People’s Republic of Korea) Amendment (No. 1) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

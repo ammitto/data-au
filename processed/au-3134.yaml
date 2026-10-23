@@ -44,7 +44,7 @@ additional_info: 'CFi.008 a) Former Captain, CAR Presidential Guard b) Former Ca
 sanction:
   listing_information: Listed on 17 Dec. 2015 (amended 1 Mar. 2019)
   committees: 2127 (Central African Republic)
-  control_date: '2019-03-07'
+  control_date: '1905-07-11'
   instrument: Charter of the United Nations (Sanctions—Central African Republic) Regulation
     2014
   targeted_financial_sanction: true
@@ -52,8 +52,8 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1967-10-08'
-  year: 1967
-  month: 10
-  day: 8
+- raw_value: '1905-05-20'
+  year: 1905
+  month: 5
+  day: 20
   precision: full

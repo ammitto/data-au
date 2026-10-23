@@ -20,7 +20,7 @@ sanction:
   listing_information: Listed on 24 Jun. 2011 (amended on 13 Feb. 2012, 2 Apr. 2012,
     4 Sep. 2013, 26 Sep. 2014, 26 Mar. 2015, 1 Apr. 2016, 31 January 2024)
   committees: 1970 (Libya)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Libya) Regulations 2011
   targeted_financial_sanction: true
   travel_ban: true
@@ -30,10 +30,10 @@ dates_of_birth:
 - raw_value: '1952'
   year: 1952
   precision: year
-- raw_value: '1953-01-01'
-  year: 1953
-  month: 1
-  day: 1
+- raw_value: '1905-05-06'
+  year: 1905
+  month: 5
+  day: 6
   precision: full
 places_of_birth:
 - raw_value: Al Bayda

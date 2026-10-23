@@ -22,7 +22,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Russia)
-  control_date: '2023-02-24'
+  control_date: '1905-07-15'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
@@ -30,10 +30,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1946-11-20'
-  year: 1946
-  month: 11
-  day: 20
+- raw_value: '1905-04-29'
+  year: 1905
+  month: 4
+  day: 29
   precision: full
 places_of_birth:
 - raw_value: Leningrad

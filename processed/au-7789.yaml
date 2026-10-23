@@ -31,7 +31,7 @@ sanction:
     the United Nations (Listed Persons and Entities) Amendment (No. 3)  Instrument
     2023. Relisted 3 October 2026.'
   committees: 1373 (2001)
-  control_date: '2026-10-03'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
     (No. 4) Instrument 2026
   targeted_financial_sanction: true
@@ -39,10 +39,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1972-06-12'
-  year: 1972
-  month: 6
-  day: 12
+- raw_value: '1905-05-25'
+  year: 1905
+  month: 5
+  day: 25
   precision: full
 citizenships:
 - State of Palestine

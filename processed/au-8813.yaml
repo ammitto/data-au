@@ -16,7 +16,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2026
   committees: Autonomous (Thematic - Human Rights)
-  control_date: '2026-06-02'
+  control_date: '1905-07-18'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
     Sanctions) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
@@ -24,10 +24,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1996-06-08'
-  year: 1996
+- raw_value: '1905-06-18'
+  year: 1905
   month: 6
-  day: 8
+  day: 18
   precision: full
 citizenships:
 - Israel

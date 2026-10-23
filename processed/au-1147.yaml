@@ -20,17 +20,17 @@ additional_info: |-
 sanction:
   listing_information: Listed by UN 751 Committee on 12 April 2010
   committees: 2713 (Al-Shabaab)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of United Nations (Sanctions - Somalia) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1965-02-08'
-  year: 1965
-  month: 2
-  day: 8
+- raw_value: '1905-05-18'
+  year: 1905
+  month: 5
+  day: 18
   precision: full
 places_of_birth:
 - raw_value: Sadah

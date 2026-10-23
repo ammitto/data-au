@@ -24,7 +24,7 @@ sanction:
 
     Listed by the UN 1267 Committee on 12 November 2003 (amended on 20 December 2005, 21 Dec. 2007, 16 May 2011, 23 Feb. 2016, 24 Nov. 2020, 22 August 2025).
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -32,10 +32,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1975-11-20'
-  year: 1975
-  month: 11
-  day: 20
+- raw_value: '1905-05-28'
+  year: 1905
+  month: 5
+  day: 28
   precision: full
 places_of_birth:
 - raw_value: Sfax

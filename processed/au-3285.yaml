@@ -33,7 +33,7 @@ sanction:
     Entities and Declared Persons - Democratic People''s Republic of Korea) Amendment
     (No.1) Instrument 2023.'
   committees: Autonomous (DPRK)
-  control_date: '2023-05-22'
+  control_date: '1905-07-15'
   instrument: 'Listed on: 17 Aug. 2017. Continued in effect for a further three years
     by Declaration of the Minister for Foreign Affairs made on 23 May 2020 pursuant
     to regulation 9(3) of the Autonomous Sanctions Regulations 2011. Relisted on 22
@@ -45,15 +45,15 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1969-02-09'
-  year: 1969
-  month: 2
-  day: 9
+- raw_value: '1905-05-22'
+  year: 1905
+  month: 5
+  day: 22
   precision: full
-- raw_value: '1986-02-09'
-  year: 1986
-  month: 2
-  day: 9
+- raw_value: '1905-06-08'
+  year: 1905
+  month: 6
+  day: 8
   precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

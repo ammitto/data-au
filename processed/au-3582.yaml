@@ -35,17 +35,17 @@ additional_info: 'LYi.023. Designation: Commander of the Anas al-Dabbashi militi
 sanction:
   listing_information: 'Listed on: 7 Jun. 2018 (amended on 17 Sep. 2018)'
   committees: 1970 (Libya)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Libya) Regulations 2011
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1988-05-07'
-  year: 1988
-  month: 5
-  day: 7
+- raw_value: '1905-06-10'
+  year: 1905
+  month: 6
+  day: 10
   precision: full
 places_of_birth:
 - raw_value: "(possibly Sabratha"

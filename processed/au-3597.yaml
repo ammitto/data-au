@@ -21,7 +21,7 @@ sanction:
     Listed on: 5 Oct. 2018
     Last listed on 19 Sep 2024
   committees: Autonomous (Myanmar)
-  control_date: '2024-09-19'
+  control_date: '1905-07-16'
   instrument: |-
     Listed on: 5 Oct. 2018
     Last listed on 19 Sep 2024
@@ -30,10 +30,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1961-08-20'
-  year: 1961
-  month: 8
-  day: 20
+- raw_value: '1905-05-14'
+  year: 1905
+  month: 5
+  day: 14
   precision: full
 citizenships:
 - Myanmar

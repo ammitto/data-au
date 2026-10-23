@@ -20,7 +20,7 @@ sanction:
   listing_information: Listed 26 March 2026 pursuant to resolutions 1267 (1999), 1989
     (2011) and 2253 (2015).
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-03-27'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -28,10 +28,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1970-09-01'
-  year: 1970
-  month: 9
-  day: 1
+- raw_value: '1905-05-23'
+  year: 1905
+  month: 5
+  day: 23
   precision: full
 places_of_birth:
 - raw_value: Iraq

@@ -15,7 +15,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 14) Instrument 2022
   committees: Autonomous (Ukraine)
-  control_date: '2022-05-04'
+  control_date: '1905-07-14'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 14) Instrument 2022
   targeted_financial_sanction: true
@@ -23,10 +23,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1980-01-13'
-  year: 1980
-  month: 1
-  day: 13
+- raw_value: '1905-06-02'
+  year: 1905
+  month: 6
+  day: 2
   precision: full
 places_of_birth:
 - raw_value: Pavlov Khutor

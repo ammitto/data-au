@@ -15,7 +15,7 @@ additional_info: 'KPi.021. Tanchon Commercial Bank Representative. Passport no.:
 sanction:
   listing_information: First listed on 2/03/2016 (amended on 1/06/2017)
   committees: 1718 (DPRK)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -23,10 +23,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1966-11-07'
-  year: 1966
-  month: 11
-  day: 7
+- raw_value: '1905-05-19'
+  year: 1905
+  month: 5
+  day: 19
   precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

@@ -32,7 +32,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Iran) List 2012
   committees: Autonomous (Iran)
-  control_date: '2026-02-02'
+  control_date: '1905-07-18'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Iran) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
@@ -40,10 +40,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1965-01-09'
-  year: 1965
-  month: 1
-  day: 9
+- raw_value: '1905-05-18'
+  year: 1905
+  month: 5
+  day: 18
   precision: full
 citizenships:
 - Iran

@@ -61,7 +61,7 @@ additional_info: Russian foreign travel passport  number 622641887. Russian nati
 sanction:
   listing_information: Listed on 2 Oct. 2015 (amended on 24 Nov. 2020)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -69,10 +69,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1975-09-07'
-  year: 1975
-  month: 9
-  day: 7
+- raw_value: '1905-05-28'
+  year: 1905
+  month: 5
+  day: 28
   precision: full
 places_of_birth:
 - raw_value: Chegem-1 Village

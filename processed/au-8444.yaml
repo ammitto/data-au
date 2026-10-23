@@ -9,17 +9,17 @@ additional_info: HTi.007. Leader of Gran Grif gang.
 sanction:
   listing_information: Listed by UN 2653 Committee on 27 September 2024
   committees: 2653 (Haiti)
-  control_date: '2025-12-08'
+  control_date: '1905-07-17'
   instrument: Charter of the United Nations (Sanctions—Haiti) Regulations 2025
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1988-01-06'
-  year: 1988
-  month: 1
-  day: 6
+- raw_value: '1905-06-10'
+  year: 1905
+  month: 6
+  day: 10
   precision: full
 citizenships:
 - Haiti

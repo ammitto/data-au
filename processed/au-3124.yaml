@@ -15,7 +15,7 @@ additional_info: 'British passport number 516088643, issued on 7 Jan. 2014 (expi
 sanction:
   listing_information: Listed on 30 Sept. 2015 (amended on 24 Nov. 2020)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -23,10 +23,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1996-11-22'
-  year: 1996
-  month: 11
-  day: 22
+- raw_value: '1905-06-18'
+  year: 1905
+  month: 6
+  day: 18
   precision: full
 places_of_birth:
 - raw_value: Cardiff

@@ -15,7 +15,7 @@ sanction:
     Entities and Declared Persons—Russia and
     Ukraine) Amendment (No. 21) Instrument 2022
   committees: Autonomous (Russia)
-  control_date: '2022-09-30'
+  control_date: '1905-07-14'
   instrument: |-
     Instrument of first designation
     and declaration
@@ -27,10 +27,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1962-07-26'
-  year: 1962
-  month: 7
-  day: 26
+- raw_value: '1905-05-15'
+  year: 1905
+  month: 5
+  day: 15
   precision: full
 places_of_birth:
 - raw_value: Sukhumi

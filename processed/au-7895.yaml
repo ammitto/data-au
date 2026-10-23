@@ -14,7 +14,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   committees: Autonomous (Russia)
-  control_date: '2024-02-23'
+  control_date: '1905-07-16'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   targeted_financial_sanction: true
@@ -22,10 +22,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1965-06-02'
-  year: 1965
-  month: 6
-  day: 2
+- raw_value: '1905-05-18'
+  year: 1905
+  month: 5
+  day: 18
   precision: full
 places_of_birth:
 - raw_value: Belarus

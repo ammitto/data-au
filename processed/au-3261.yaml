@@ -26,7 +26,7 @@ additional_info: 'Passport no: United Kingdom of Great Britain and Northern Irel
 sanction:
   listing_information: 'Listed on: 20 July 2017 (amended on 2 February 2023)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -34,10 +34,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1988-07-16'
-  year: 1988
-  month: 7
-  day: 16
+- raw_value: '1905-06-10'
+  year: 1905
+  month: 6
+  day: 10
   precision: full
 places_of_birth:
 - raw_value: London

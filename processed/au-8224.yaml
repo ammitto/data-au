@@ -20,16 +20,16 @@ additional_info: 'GBi.007 Designation: a) Lieutenant-colonel b) Head of the Arme
 sanction:
   listing_information: Listed by 2048 Committee on 18 Jul. 2012
   committees: 2048 (Guinea-Bissau)
-  control_date: '2025-12-11'
+  control_date: '1905-07-17'
   targeted_financial_sanction: false
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1953-02-27'
-  year: 1953
-  month: 2
-  day: 27
+- raw_value: '1905-05-06'
+  year: 1905
+  month: 5
+  day: 6
   precision: full
 citizenships:
 - Guinea-Bissau

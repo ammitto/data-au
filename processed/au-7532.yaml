@@ -17,7 +17,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 4) Instrument 2023
   committees: Autonomous (Ukraine)
-  control_date: '2023-03-31'
+  control_date: '1905-07-15'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 4) Instrument 2023
   targeted_financial_sanction: true
@@ -25,10 +25,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1980-12-30'
-  year: 1980
-  month: 12
-  day: 30
+- raw_value: '1905-06-02'
+  year: 1905
+  month: 6
+  day: 2
   precision: full
 citizenships:
 - Russia

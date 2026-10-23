@@ -10,7 +10,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 15) Instrument 2022
   committees: Autonomous (Ukraine)
-  control_date: '2022-05-04'
+  control_date: '1905-07-14'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 15) Instrument 2022
   targeted_financial_sanction: true
@@ -18,10 +18,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1966-07-18'
-  year: 1966
-  month: 7
-  day: 18
+- raw_value: '1905-05-19'
+  year: 1905
+  month: 5
+  day: 19
   precision: full
 citizenships:
 - Russia

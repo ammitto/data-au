@@ -97,7 +97,7 @@ additional_info: As at Aug. 2015, leads Jamaat Tarkhan, a terrorist group that f
 sanction:
   listing_information: 'Listed on: 2 Oct. 2015 (amended on 10 Dec. 2015, 6 Sep. 2016)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -105,10 +105,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1965-11-11'
-  year: 1965
-  month: 11
-  day: 11
+- raw_value: '1905-05-18'
+  year: 1905
+  month: 5
+  day: 18
   precision: full
 places_of_birth:
 - raw_value: Itum-Kale

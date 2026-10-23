@@ -12,7 +12,7 @@ sanction:
     and declaration: Autonomous Sanctions (Designated Persons and Entities – Democratic
     People’s Republic of Korea) Amendment List 2017 (No 3)'
   committees: Autonomous (DPRK)
-  control_date: '2023-12-01'
+  control_date: '1905-07-15'
   instrument: 'First listed on 27 Nov. 2017. Instrument of first designation and declaration:
     Autonomous Sanctions (Designated Persons and Entities – Democratic People’s Republic
     of Korea) Amendment List 2017 (No 3)'
@@ -21,10 +21,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1980-03-03'
-  year: 1980
-  month: 3
-  day: 3
+- raw_value: '1905-06-02'
+  year: 1905
+  month: 6
+  day: 2
   precision: full
 citizenships:
 - Russia

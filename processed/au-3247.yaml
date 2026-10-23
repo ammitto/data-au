@@ -25,7 +25,7 @@ additional_info: 'KPi.047 Member of the Workers'' Party of Korea''s Organization
 sanction:
   listing_information: 'Listed on: 2 Jun. 2017'
   committees: 1718 (DPRK)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -33,10 +33,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1948-08-10'
-  year: 1948
-  month: 8
-  day: 10
+- raw_value: '1905-05-01'
+  year: 1905
+  month: 5
+  day: 1
   precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

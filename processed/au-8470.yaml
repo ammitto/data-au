@@ -12,15 +12,15 @@ sanction:
   listing_information: Listed by the 1737 Committee on 24 March 2007 (amended on 17
     December 2014)
   committees: 1737 (Iran)
-  control_date: '2025-12-12'
+  control_date: '1905-07-17'
   instrument: Charter of the United Nations (Sanctions - Iran) Regulations 2025
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1955-09-28'
-  year: 1955
-  month: 9
-  day: 28
+- raw_value: '1905-05-08'
+  year: 1905
+  month: 5
+  day: 8
   precision: full

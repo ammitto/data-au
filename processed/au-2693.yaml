@@ -25,17 +25,17 @@ sanction:
   listing_information: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June
     2023)
   committees: Autonomous (Russia)
-  control_date: '2023-06-10'
+  control_date: '1905-07-15'
   instrument: Listed on 19 Jun. 2014 (relisted on 16 Jun. 2017 and 10 June 2023)
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1953-01-31'
-  year: 1953
-  month: 1
-  day: 31
+- raw_value: '1905-05-06'
+  year: 1905
+  month: 5
+  day: 6
   precision: full
 places_of_birth:
 - raw_value: St Petersburg

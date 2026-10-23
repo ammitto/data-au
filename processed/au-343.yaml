@@ -23,7 +23,7 @@ sanction:
   listing_information: Listed on 24 Apr. 2002 (amended 26 Nov. 2004, 7 Jun. 2007,
     16 May 2011, 1 May 2019, 15 Nov. 2021, 6 Oct. 2025, 21 Oct. 2025).
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -31,10 +31,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1962-12-26'
-  year: 1962
-  month: 12
-  day: 26
+- raw_value: '1905-05-15'
+  year: 1905
+  month: 5
+  day: 15
   precision: full
 places_of_birth:
 - raw_value: Egypt

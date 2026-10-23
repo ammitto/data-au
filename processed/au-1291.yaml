@@ -29,7 +29,7 @@ sanction:
   listing_information: Listed by UN 1267 and 1989 Committee on 25 January 2012 ( amended
     on 15 Nov. 2021, 18 Aug. 2026 ).
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-08-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -37,10 +37,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1981-07-30'
-  year: 1981
-  month: 7
-  day: 30
+- raw_value: '1905-06-03'
+  year: 1905
+  month: 6
+  day: 3
   precision: full
 places_of_birth:
 - raw_value: Bonn

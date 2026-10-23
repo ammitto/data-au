@@ -65,7 +65,7 @@ additional_info: 'Passport no.:Pakistani passport number CV9157521, issued on 8 
 sanction:
   listing_information: 'Listed on: 14 Mar. 2012 (amended on 1 May 2019)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -73,10 +73,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1965-10-03'
-  year: 1965
-  month: 10
-  day: 3
+- raw_value: '1905-05-18'
+  year: 1905
+  month: 5
+  day: 18
   precision: full
 places_of_birth:
 - raw_value: Mirpur Khas

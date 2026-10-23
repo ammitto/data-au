@@ -44,7 +44,7 @@ sanction:
   listing_information: 'Listed on:  17 Oct. 2001 (amended on 10 Apr. 2003, 16 May
     2011, 21 Mar. 2017, 24 Nov. 2020)'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -52,10 +52,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1968-12-30'
-  year: 1968
-  month: 12
-  day: 30
+- raw_value: '1905-05-21'
+  year: 1905
+  month: 5
+  day: 21
   precision: full
 places_of_birth:
 - raw_value: California

@@ -19,7 +19,7 @@ sanction:
   listing_information: Listed by UN 1267 Committee on 3 September 2002 (amended on
     18 Aug. 2006, 30 Jan. 2009, 6 Dec. 2009, 30 Oct. 2023).
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -35,10 +35,10 @@ dates_of_birth:
   month: 3
   day: 21
   precision: full
-- raw_value: '1974-03-21'
-  year: 1974
-  month: 3
-  day: 21
+- raw_value: '1905-05-27'
+  year: 1905
+  month: 5
+  day: 27
   precision: full
 places_of_birth:
 - raw_value: Baghdad

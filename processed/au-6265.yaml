@@ -41,17 +41,17 @@ additional_info: 'LYi.029. Title: Manager of Al Nasr Detention Center in Zawiyah
 sanction:
   listing_information: Listed on 25 Oct 2021
   committees: 1970 (Libya)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions — Libya) Regulations 2011
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1976-04-04'
-  year: 1976
-  month: 4
-  day: 4
+- raw_value: '1905-05-29'
+  year: 1905
+  month: 5
+  day: 29
   precision: full
 places_of_birth:
 - raw_value: Tripoli

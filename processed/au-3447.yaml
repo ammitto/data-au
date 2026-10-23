@@ -27,7 +27,7 @@ additional_info: 'CDi.032 Designation: a) DRC Armed Forces (FARDC) General, Comm
 sanction:
   listing_information: Listed by 1533 Committee on 1 Feb. 2018
   committees: 1533 (Democratic People’s Republic of the Congo)
-  control_date: '2025-12-11'
+  control_date: '1905-07-17'
   instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
     Congo) Regulations 2008
   targeted_financial_sanction: true
@@ -35,10 +35,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1972-11-10'
-  year: 1972
-  month: 11
-  day: 10
+- raw_value: '1905-05-25'
+  year: 1905
+  month: 5
+  day: 25
   precision: full
 places_of_birth:
 - raw_value: Democratic Republic of the Congo

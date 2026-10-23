@@ -38,7 +38,7 @@ additional_info: Chief of operations of Lashkar-e-Tayyiba (listed under permanen
 sanction:
   listing_information: Listedon 10 Dec. 2008 (amended on 1 May 2019)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -46,10 +46,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1960-12-30'
-  year: 1960
-  month: 12
-  day: 30
+- raw_value: '1905-05-13'
+  year: 1905
+  month: 5
+  day: 13
   precision: full
 places_of_birth:
 - raw_value: Okara

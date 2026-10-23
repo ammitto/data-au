@@ -25,7 +25,7 @@ sanction:
   listing_information: Listed by the UN 1267 Committee on 12 November 2003 (amended
     on 20 Dec. 2005, 31 Jul. 2006, 30 Jan. 2009, 16 May 2011, 6 Dec 2019, 10 Sep 2020)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '2026-02-20'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -33,20 +33,15 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1966-05-29'
-  year: 1966
+- raw_value: '1905-05-19'
+  year: 1905
   month: 5
-  day: 29
+  day: 19
   precision: full
-- raw_value: '1966-05-25'
-  year: 1966
-  month: 5
-  day: 25
-  precision: full
-- raw_value: '1986-05-09'
-  year: 1986
-  month: 5
-  day: 9
+- raw_value: '1905-06-08'
+  year: 1905
+  month: 6
+  day: 8
   precision: full
 places_of_birth:
 - raw_value: Tunis

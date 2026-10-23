@@ -30,7 +30,7 @@ sanction:
     the United Nations (Listed Persons and Entities) Amendment (No. 3)  Instrument
     2023. The Foreign Minister relisted Alaqad on 3 October 2026.'
   committees: 1373 (2001)
-  control_date: '2026-10-03'
+  control_date: '1905-07-18'
   instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
     (No. 4) Instrument 2026
   targeted_financial_sanction: true
@@ -38,10 +38,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1978-11-21'
-  year: 1978
-  month: 11
-  day: 21
+- raw_value: '1905-05-31'
+  year: 1905
+  month: 5
+  day: 31
   precision: full
 places_of_birth:
 - raw_value: Khan Yunis

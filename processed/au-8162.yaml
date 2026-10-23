@@ -14,7 +14,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Russia and Ukraine) Amendment (No. 3) Instrument 2025
   committees: Autonomous (Russia)
-  control_date: '2025-06-26'
+  control_date: '1905-07-17'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Russia and Ukraine) Amendment (No. 3) Instrument 2025
   targeted_financial_sanction: true
@@ -22,10 +22,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1964-01-05'
-  year: 1964
-  month: 1
-  day: 5
+- raw_value: '1905-05-17'
+  year: 1905
+  month: 5
+  day: 17
   precision: full
 places_of_birth:
 - raw_value: Khabarovsk
