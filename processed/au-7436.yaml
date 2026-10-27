@@ -18,7 +18,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Russia)
-  control_date: '1905-07-15'
+  control_date: '2023-02-24'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
@@ -26,9 +26,9 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-10'
-  year: 1905
-  month: 5
+- raw_value: '1957-02-10'
+  year: 1957
+  month: 2
   day: 10
   precision: full
 places_of_birth:

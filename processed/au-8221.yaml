@@ -18,16 +18,16 @@ additional_info: 'GBi.009 Designation: a) Lieutenant-colonel b) Spokesperson of 
 sanction:
   listing_information: Listed by 2048 Committee on 18 May 2025
   committees: 2048 (Guinea-Bissau)
-  control_date: '1905-07-17'
+  control_date: '2025-12-11'
   targeted_financial_sanction: false
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-19'
-  year: 1905
-  month: 5
-  day: 19
+- raw_value: '1966-06-06'
+  year: 1966
+  month: 6
+  day: 6
   precision: full
 citizenships:
 - Guinea-Bissau

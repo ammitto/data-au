@@ -15,7 +15,7 @@ additional_info: KPi.001. Director of Namchongang Trading Corporation; oversees
 sanction:
   listing_information: First listed on 16/07/2009 (amended on 26/07/2022)
   committees: 1718 (DPRK)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -23,10 +23,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-04-27'
-  year: 1905
-  month: 4
-  day: 27
+- raw_value: '1944-10-13'
+  year: 1944
+  month: 10
+  day: 13
   precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

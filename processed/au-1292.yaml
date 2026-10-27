@@ -21,7 +21,7 @@ additional_info: 'Passport no.: German passport number 5204893014 issued in Stad
 sanction:
   listing_information: Listed by UN 1267 and 1989 Committee on 25 January 2012.
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -29,10 +29,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-06'
-  year: 1905
-  month: 6
-  day: 6
+- raw_value: '1984-12-11'
+  year: 1984
+  month: 12
+  day: 11
   precision: full
 places_of_birth:
 - raw_value: Bonn

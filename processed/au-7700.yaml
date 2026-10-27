@@ -34,7 +34,7 @@ sanction:
     Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment
     (No. 2) Instrument 2023'
   committees: Autonomous (Iran)
-  control_date: '1905-07-15'
+  control_date: '2023-10-18'
   instrument: 'Instrument of first designation and declaration: Autonomous Sanctions
     (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 2)
     Instrument 2023'
@@ -43,10 +43,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-02'
-  year: 1905
-  month: 5
-  day: 2
+- raw_value: '1949-02-11'
+  year: 1949
+  month: 2
+  day: 11
   precision: full
 places_of_birth:
 - raw_value: Najaf

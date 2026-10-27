@@ -19,7 +19,7 @@ sanction:
     of first designation Autonomous Sanctions (Designated Persons and Entities and
     Declared Persons – Iran) List 2012 [F2012L00479]. Relisted 12 January 2024.
   committees: Autonomous (Iran)
-  control_date: '1905-07-16'
+  control_date: '2024-01-12'
   instrument: Designated under the Autonomous Sanctions Regulations 2011 on 2 March
     2012. Formerly listed on the RBA Consolidated List as 2008IRN0019.Instrument of
     first designation Autonomous Sanctions (Designated Persons and Entities and Declared
@@ -29,10 +29,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-10'
-  year: 1905
-  month: 5
-  day: 10
+- raw_value: '1957-09-01'
+  year: 1957
+  month: 9
+  day: 1
   precision: full
 citizenships:
 - Iran

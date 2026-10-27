@@ -17,7 +17,7 @@ sanction:
     Persons and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10)
     Instrument 2023'
   committees: Autonomous (Russia)
-  control_date: '1905-07-15'
+  control_date: '2023-08-27'
   instrument: 'Instrument of first designation: Autonomous Sanctions (Designated Persons
     and Entities and Declared Persons—Russia and Ukraine) Amendment (No. 10) Instrument
     2023'
@@ -26,10 +26,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-16'
-  year: 1905
-  month: 5
-  day: 16
+- raw_value: '1963-09-08'
+  year: 1963
+  month: 9
+  day: 8
   precision: full
 places_of_birth:
 - raw_value: Kostiantynivka

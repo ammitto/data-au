@@ -14,7 +14,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 2) Instrument 2023
   committees: Autonomous (Ukraine)
-  control_date: '1905-07-15'
+  control_date: '2023-02-24'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 2) Instrument 2023
   targeted_financial_sanction: true
@@ -22,10 +22,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-06'
-  year: 1905
+- raw_value: '1953-05-28'
+  year: 1953
   month: 5
-  day: 6
+  day: 28
   precision: full
 places_of_birth:
 - raw_value: Pushkin

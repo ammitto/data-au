@@ -18,7 +18,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Thematic Sanctions) Amendment (No. 2) Instrument 2025
   committees: Autonomous (Thematic - Human Rights)
-  control_date: '1905-07-17'
+  control_date: '2025-06-11'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Thematic Sanctions) Amendment (No. 2) Instrument 2025
   targeted_financial_sanction: true
@@ -26,10 +26,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-29'
-  year: 1905
+- raw_value: '1976-05-06'
+  year: 1976
   month: 5
-  day: 29
+  day: 6
   precision: full
 places_of_birth:
 - raw_value: Mevaseret Zion

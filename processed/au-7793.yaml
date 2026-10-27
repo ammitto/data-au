@@ -11,7 +11,7 @@ sanction:
     Persons and Entities and Declared Persons - Democratic People''s Republic of Korea)
     Amendment (No. 2) Instrument 2023.'
   committees: Autonomous (DPRK)
-  control_date: '1905-07-15'
+  control_date: '2023-12-01'
   instrument: 'Instrument of first designation: Autonomous Sanctions (Designated Persons
     and Entities and Declared Persons - Democratic People''s Republic of Korea) Amendment
     (No. 2) Instrument 2023.'
@@ -20,10 +20,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-31'
-  year: 1905
-  month: 5
-  day: 31
+- raw_value: '1978-04-10'
+  year: 1978
+  month: 4
+  day: 10
   precision: full
 places_of_birth:
 - raw_value: North Korea

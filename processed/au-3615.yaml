@@ -12,15 +12,15 @@ names:
 sanction:
   listing_information: 'Listed on: 16 Mar. 2019'
   committees: Autonomous (Ukraine)
-  control_date: '1905-07-11'
+  control_date: '2019-03-16'
   instrument: 'Listed on: 16 Mar. 2019'
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-08'
-  year: 1905
-  month: 6
-  day: 8
+- raw_value: '1986-11-02'
+  year: 1986
+  month: 11
+  day: 2
   precision: full

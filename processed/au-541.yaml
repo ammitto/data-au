@@ -22,7 +22,7 @@ sanction:
     21 Dec. 2007, 13 Dec. 2011, 6 Dec 2019) Acquitted by the Cremona Court of assizes
     on 15 Jul. 2006 and released the same day.
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -30,10 +30,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-19'
-  year: 1905
-  month: 5
-  day: 19
+- raw_value: '1966-04-23'
+  year: 1966
+  month: 4
+  day: 23
   precision: full
 places_of_birth:
 - raw_value: Casablanca

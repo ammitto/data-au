@@ -16,7 +16,7 @@ sanction:
     Persons and Entities – Democratic People’s Republic of Korea) Amendment List 2017
     (No 3)
   committees: Autonomous (DPRK)
-  control_date: '1905-07-15'
+  control_date: '2023-12-01'
   instrument: First listed on 27 Nov. 2017. Autonomous Sanctions (Designated Persons
     and Entities – Democratic People’s Republic of Korea) Amendment List 2017 (No
     3)
@@ -25,10 +25,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-14'
-  year: 1905
-  month: 5
-  day: 14
+- raw_value: '1961-03-10'
+  year: 1961
+  month: 3
+  day: 10
   precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

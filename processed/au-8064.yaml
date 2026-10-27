@@ -19,7 +19,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
-  control_date: '1905-07-17'
+  control_date: '2025-02-24'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
@@ -27,10 +27,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-19'
-  year: 1905
-  month: 6
-  day: 19
+- raw_value: '1997-02-02'
+  year: 1997
+  month: 2
+  day: 2
   precision: full
 places_of_birth:
 - raw_value: Rostov-on-Don

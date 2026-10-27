@@ -15,7 +15,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   committees: Autonomous (Russia)
-  control_date: '1905-07-16'
+  control_date: '2024-02-23'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Russia and Ukraine) Amendment (No. 1) Instrument 2024
   targeted_financial_sanction: true
@@ -23,10 +23,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-01'
-  year: 1905
-  month: 5
-  day: 1
+- raw_value: '1948-11-16'
+  year: 1948
+  month: 11
+  day: 16
   precision: full
 places_of_birth:
 - raw_value: Kostroma Oblast

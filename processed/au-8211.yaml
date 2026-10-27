@@ -19,7 +19,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Russia and Ukraine) Amendment (No. 4) Instrument 2025
   committees: Autonomous (Russia)
-  control_date: '1905-07-17'
+  control_date: '2025-09-03'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Russia and Ukraine) Amendment (No. 4) Instrument 2025
   targeted_financial_sanction: true
@@ -27,10 +27,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-09'
-  year: 1905
-  month: 5
-  day: 9
+- raw_value: '1956-12-31'
+  year: 1956
+  month: 12
+  day: 31
   precision: full
 citizenships:
 - Russia

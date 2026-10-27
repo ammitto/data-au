@@ -25,7 +25,7 @@ additional_info: 'National identification no: 1121628414. Saudi Arabian passport
 sanction:
   listing_information: Listed on 29 Sep. 2015 ( amended 6 December 2019, 10 Sep 2020)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -33,10 +33,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-01'
-  year: 1905
-  month: 6
-  day: 1
+- raw_value: '1979-11-20'
+  year: 1979
+  month: 11
+  day: 20
   precision: full
 places_of_birth:
 - raw_value: Iraq

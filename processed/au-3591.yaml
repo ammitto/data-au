@@ -24,7 +24,7 @@ sanction:
     (2001). The Minister has listed this individual on 11 October 2023 and again on
     3 October 2026.
   committees: 1373 (2001)
-  control_date: '1905-07-18'
+  control_date: '2026-10-03'
   instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
     (No. 4) Instrument 2026
   targeted_financial_sanction: true
@@ -32,10 +32,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-07'
-  year: 1905
-  month: 6
-  day: 7
+- raw_value: '1985-04-15'
+  year: 1985
+  month: 4
+  day: 15
   precision: full
 places_of_birth:
 - raw_value: Brisbane

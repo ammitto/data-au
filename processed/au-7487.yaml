@@ -18,7 +18,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 3) Instrument 2023
   committees: Autonomous (Ukraine)
-  control_date: '1905-07-15'
+  control_date: '2023-03-20'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 3) Instrument 2023
   targeted_financial_sanction: true
@@ -26,10 +26,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-22'
-  year: 1905
-  month: 5
-  day: 22
+- raw_value: '1969-02-23'
+  year: 1969
+  month: 2
+  day: 23
   precision: full
 citizenships:
 - Iran

@@ -38,7 +38,7 @@ sanction:
   listing_information: Charter of the United Nations (Listed Entities) Amendment (No.
     1) Instrument 2024
   committees: 1373 (2001)
-  control_date: '1905-07-16'
+  control_date: '2024-01-22'
   instrument: Charter of the United Nations (Listed Entities) Amendment (No. 1) Instrument
     2024
   targeted_financial_sanction: true
@@ -46,10 +46,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-11'
-  year: 1905
-  month: 5
-  day: 11
+- raw_value: '1958-03-10'
+  year: 1958
+  month: 3
+  day: 10
   precision: full
 places_of_birth:
 - raw_value: Amman

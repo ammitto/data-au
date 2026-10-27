@@ -14,7 +14,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated and Declared Persons—Myanmar)
     Amendment Instrument 2023
   committees: Autonomous (Myanmar)
-  control_date: '1905-07-15'
+  control_date: '2023-02-01'
   instrument: Autonomous Sanctions (Designated and Declared Persons—Myanmar) Amendment
     Instrument 2023
   targeted_financial_sanction: true
@@ -22,10 +22,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-13'
-  year: 1905
-  month: 5
-  day: 13
+- raw_value: '1960-03-29'
+  year: 1960
+  month: 3
+  day: 29
   precision: full
 citizenships:
 - Myanmar

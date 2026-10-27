@@ -19,7 +19,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Russia)
-  control_date: '1905-07-17'
+  control_date: '2025-02-24'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Russia and Ukraine) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
@@ -27,10 +27,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-29'
-  year: 1905
-  month: 5
-  day: 29
+- raw_value: '1976-11-03'
+  year: 1976
+  month: 11
+  day: 3
   precision: full
 places_of_birth:
 - raw_value: Simferopol

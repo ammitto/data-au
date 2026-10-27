@@ -25,7 +25,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Thematic Sanctions) Instrument 2022
   committees: Autonomous (Thematic - Cyber)
-  control_date: '1905-07-17'
+  control_date: '2025-11-20'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
     Sanctions) Amendment (No. 3) Instrument 2025
   targeted_financial_sanction: true
@@ -33,10 +33,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-14'
-  year: 1905
-  month: 6
-  day: 14
+- raw_value: '1992-03-30'
+  year: 1992
+  month: 3
+  day: 30
   precision: full
 places_of_birth:
 - raw_value: Russia

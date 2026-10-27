@@ -33,7 +33,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2022
   committees: Autonomous (Thematic - Human Rights)
-  control_date: '1905-07-14'
+  control_date: '2022-12-10'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
     Sanctions) Amendment (No. 1) Instrument 2022
   targeted_financial_sanction: true
@@ -41,10 +41,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-26'
-  year: 1905
-  month: 5
-  day: 26
+- raw_value: '1973-02-22'
+  year: 1973
+  month: 2
+  day: 22
   precision: full
 citizenships:
 - Russia

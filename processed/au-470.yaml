@@ -37,7 +37,7 @@ sanction:
     on 20 December 2005 and 31 July 2006, 10 Aug 2009, 16 May 2011, 6 Dec 2019, 10
     Sep 2020)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -45,20 +45,20 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-26'
-  year: 1905
-  month: 5
-  day: 26
+- raw_value: '1973-01-15'
+  year: 1973
+  month: 1
+  day: 15
   precision: full
-- raw_value: '1905-05-27'
-  year: 1905
-  month: 5
-  day: 27
+- raw_value: '1974-01-15'
+  year: 1974
+  month: 1
+  day: 15
   precision: full
-- raw_value: '1905-05-28'
-  year: 1905
-  month: 5
-  day: 28
+- raw_value: '1975-03-31'
+  year: 1975
+  month: 3
+  day: 31
   precision: full
 places_of_birth:
 - raw_value: Tunis

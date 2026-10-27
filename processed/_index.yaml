@@ -1,9 +1,9 @@
 ---
 source: au
-count: 4013
-fetched_at: '2026-10-26T14:14:41Z'
+count: 4010
+fetched_at: '2026-10-27T13:10:58Z'
 schema: ammitto:sources:au:v1
-pruned: 0
+pruned: 3
 files:
 - au-100.yaml
 - au-101.yaml
@@ -661,7 +661,6 @@ files:
 - au-3044.yaml
 - au-3045.yaml
 - au-3047.yaml
-- au-3048.yaml
 - au-3049.yaml
 - au-305.yaml
 - au-3050.yaml
@@ -814,8 +813,6 @@ files:
 - au-3226.yaml
 - au-3227.yaml
 - au-3229.yaml
-- au-3230.yaml
-- au-3231.yaml
 - au-3232.yaml
 - au-3234.yaml
 - au-3240.yaml

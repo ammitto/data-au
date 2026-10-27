@@ -13,7 +13,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Thematic Sanctions) Instrument 2022
   committees: Autonomous (Thematic - Human Rights)
-  control_date: '1905-07-14'
+  control_date: '2022-03-30'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
     Sanctions) Instrument 2022
   targeted_financial_sanction: true
@@ -21,10 +21,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-02'
-  year: 1905
-  month: 5
-  day: 2
+- raw_value: '1949-12-01'
+  year: 1949
+  month: 12
+  day: 1
   precision: full
 places_of_birth:
 - raw_value: Sevastopol

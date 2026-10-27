@@ -45,7 +45,7 @@ additional_info: 'Passport no.: of Qatar passport number 01016646 issued in Qata
 sanction:
   listing_information: Listed on 23 Jan. 2015 (amended on 24 Nov. 2020, 23 March 2023)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -53,10 +53,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-30'
-  year: 1905
-  month: 5
-  day: 30
+- raw_value: '1977-07-12'
+  year: 1977
+  month: 7
+  day: 12
   precision: full
 places_of_birth:
 - raw_value: Qatar

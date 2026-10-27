@@ -13,7 +13,7 @@ sanction:
     Listed on: 5 Oct. 2018
     Last listed on 19 Sep 2024
   committees: Autonomous (Myanmar)
-  control_date: '1905-07-16'
+  control_date: '2024-09-19'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Myanmar) List 2018
   targeted_financial_sanction: true
@@ -21,10 +21,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-26'
-  year: 1905
-  month: 5
-  day: 26
+- raw_value: '1973-10-12'
+  year: 1973
+  month: 10
+  day: 12
   precision: full
 citizenships:
 - Myanmar

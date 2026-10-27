@@ -50,7 +50,7 @@ sanction:
   listing_information: 'Listed by 1533 Committee on: 1 Nov. 2005 (amended on 13 Oct.
     2016)'
   committees: 1533 (Democratic People’s Republic of the Congo)
-  control_date: '1905-07-17'
+  control_date: '2025-12-10'
   instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
     Congo) Regulations 2008
   targeted_financial_sanction: true
@@ -58,10 +58,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-26'
-  year: 1905
-  month: 5
-  day: 26
+- raw_value: '1973-08-20'
+  year: 1973
+  month: 8
+  day: 20
   precision: full
 places_of_birth:
 - raw_value: Bunia

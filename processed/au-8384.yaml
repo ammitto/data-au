@@ -21,7 +21,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Democratic People’s Republic of Korea) List 2012
   committees: Autonomous (DPRK)
-  control_date: '1905-07-17'
+  control_date: '2025-11-06'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Democratic People’s Republic of Korea) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
@@ -29,10 +29,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-06'
-  year: 1905
-  month: 6
-  day: 6
+- raw_value: '1984-08-15'
+  year: 1984
+  month: 8
+  day: 15
   precision: full
 places_of_birth:
 - raw_value: Democratic People's Republic of Korea

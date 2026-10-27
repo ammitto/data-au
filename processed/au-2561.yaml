@@ -19,7 +19,7 @@ additional_info: 'KPi.006. Senior official and head of the satellite control cen
 sanction:
   listing_information: First listed on 22/01/2013
   committees: 1718 (DPRK)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -27,10 +27,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-17'
-  year: 1905
-  month: 5
-  day: 17
+- raw_value: '1964-06-18'
+  year: 1964
+  month: 6
+  day: 18
   precision: full
 places_of_birth:
 - raw_value: Kaesong

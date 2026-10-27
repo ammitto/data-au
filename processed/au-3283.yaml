@@ -30,7 +30,7 @@ additional_info: |-
 sanction:
   listing_information: 'Listed on: 18 Aug. 2017'
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -38,10 +38,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-08'
-  year: 1905
-  month: 6
-  day: 8
+- raw_value: '1986-02-22'
+  year: 1986
+  month: 2
+  day: 22
   precision: full
 places_of_birth:
 - raw_value: Mount Hope

@@ -30,17 +30,17 @@ additional_info: IQi.083
 sanction:
   listing_information: Listed by the 1518 Committee
   committees: 1518 (Iraq)
-  control_date: '1905-07-17'
+  control_date: '2025-12-11'
   instrument: Charter of the United Nations (Sanctions — Iraq) Regulations 2008
   targeted_financial_sanction: true
   travel_ban: false
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-24'
-  year: 1905
-  month: 5
-  day: 24
+- raw_value: '1971-10-21'
+  year: 1971
+  month: 10
+  day: 21
   precision: full
 places_of_birth:
 - raw_value: a) Baghdad

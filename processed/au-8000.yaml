@@ -24,7 +24,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons – Thematic Sanctions) Amendment (No. 1) Instrument 2025
   committees: Autonomous (Thematic - Cyber)
-  control_date: '1905-07-17'
+  control_date: '2025-02-12'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Thematic Sanctions) Amendment (No. 1) Instrument 2025
   targeted_financial_sanction: true
@@ -32,10 +32,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-14'
-  year: 1905
-  month: 6
-  day: 14
+- raw_value: '1992-03-01'
+  year: 1992
+  month: 3
+  day: 1
   precision: full
 places_of_birth:
 - raw_value: Altayskiy Kray

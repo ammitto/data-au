@@ -19,7 +19,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Russia and Ukraine) Amendment (No. 8) Instrument 2023
   committees: Autonomous (Ukraine)
-  control_date: '1905-07-15'
+  control_date: '2023-07-20'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Russia
     and Ukraine) Amendment (No. 8) Instrument 2023
   targeted_financial_sanction: true
@@ -27,10 +27,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-23'
-  year: 1905
-  month: 5
-  day: 23
+- raw_value: '1970-03-02'
+  year: 1970
+  month: 3
+  day: 2
   precision: full
 citizenships:
 - Belarus

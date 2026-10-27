@@ -15,7 +15,7 @@ sanction:
     Entities and Declared Persons—Russia and
     Ukraine) Amendment (No. 21) Instrument 2022
   committees: Autonomous (Ukraine)
-  control_date: '1905-07-14'
+  control_date: '2022-09-30'
   instrument: |-
     Instrument of first designation
     and declaration
@@ -27,10 +27,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-11'
-  year: 1905
-  month: 5
-  day: 11
+- raw_value: '1958-01-26'
+  year: 1958
+  month: 1
+  day: 26
   precision: full
 places_of_birth:
 - raw_value: Ozery

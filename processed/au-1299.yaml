@@ -15,7 +15,7 @@ sanction:
   listing_information: Listed by the 1533 Committee on 28 November 2011 (amended on
     19 August 2020)
   committees: 1533 (Democratic People’s Republic of the Congo)
-  control_date: '1905-07-17'
+  control_date: '2025-12-11'
   instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
     Congo) Regulations 2008
   targeted_financial_sanction: true
@@ -23,10 +23,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-29'
-  year: 1905
-  month: 5
-  day: 29
+- raw_value: '1976-04-04'
+  year: 1976
+  month: 4
+  day: 4
   precision: full
 places_of_birth:
 - raw_value: Walikale

@@ -20,7 +20,7 @@ additional_info: French national identity card number 101127200129 (issued by th
 sanction:
   listing_information: Listed on 29 Sep. 2015 (amended on 24 Jun. 2016)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -28,10 +28,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-14'
-  year: 1905
-  month: 6
-  day: 14
+- raw_value: '1992-03-17'
+  year: 1992
+  month: 3
+  day: 17
   precision: full
 places_of_birth:
 - raw_value: Saint Aubin les Elbeuf

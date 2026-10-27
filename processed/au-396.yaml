@@ -38,7 +38,7 @@ sanction:
   listing_information: Listed by UN 1267 Committee on 28 January 2003 (amended 26
     November 2004, 16 May 2011, 10 June 2011, 6 Dec 2019, 30 Oct. 2023).
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -46,10 +46,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-10'
-  year: 1905
-  month: 5
-  day: 10
+- raw_value: '1957-08-17'
+  year: 1957
+  month: 8
+  day: 17
   precision: full
 places_of_birth:
 - raw_value: Korleko-Lombok Timur

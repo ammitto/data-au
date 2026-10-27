@@ -22,7 +22,7 @@ additional_info: |-
 sanction:
   listing_information: Listed by 1533 Committee on 14 July 2026.
   committees: 1533 (Democratic People’s Republic of the Congo)
-  control_date: '1905-07-18'
+  control_date: '2026-07-21'
   instrument: Charter of the United Nations (Sanctions—Democratic Republic of the
     Congo) Regulations 2008
   targeted_financial_sanction: true
@@ -30,10 +30,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-23'
-  year: 1905
-  month: 5
-  day: 23
+- raw_value: '1970-07-09'
+  year: 1970
+  month: 7
+  day: 9
   precision: full
 places_of_birth:
 - raw_value: Bagboya

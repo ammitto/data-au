@@ -31,7 +31,7 @@ additional_info: Yemeni passport number 01055336. Saudi Arabian alien registrati
 sanction:
   listing_information: Listed on 29 Sep. 2015 (amended 6 December 2019)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -39,10 +39,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-26'
-  year: 1905
-  month: 5
-  day: 26
+- raw_value: '1973-01-04'
+  year: 1973
+  month: 1
+  day: 4
   precision: full
 places_of_birth:
 - raw_value: Jeddah

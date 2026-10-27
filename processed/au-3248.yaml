@@ -15,7 +15,7 @@ additional_info: KPi.048 Paek Se Bong is a former Chairman of the Second Economi
 sanction:
   listing_information: 'Listed on: 2 Jun. 2017 (amended on 26 Jul. 2022)'
   committees: 1718 (DPRK)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -23,9 +23,9 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-04-21'
-  year: 1905
-  month: 4
+- raw_value: '1938-03-21'
+  year: 1938
+  month: 3
   day: 21
   precision: full
 citizenships:

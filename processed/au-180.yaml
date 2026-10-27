@@ -45,7 +45,7 @@ sanction:
   listing_information: Listed by UN 1267 Committee on 17 October 2001 (amended on
     30 January 2009, 25 January 2010, 6 Dec 2019, 30 October 2023)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -53,10 +53,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-24'
-  year: 1905
-  month: 5
-  day: 24
+- raw_value: '1971-11-19'
+  year: 1971
+  month: 11
+  day: 19
   precision: full
 places_of_birth:
 - raw_value: Medina

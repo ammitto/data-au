@@ -12,7 +12,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons - Iran) Amendment (No. 3) Instrument 2024
   committees: Autonomous (Iran)
-  control_date: '1905-07-16'
+  control_date: '2024-10-15'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     - Iran) Amendment (No. 3) Instrument 2024
   targeted_financial_sanction: true
@@ -20,9 +20,9 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-26'
-  year: 1905
-  month: 5
+- raw_value: '1973-12-26'
+  year: 1973
+  month: 12
   day: 26
   precision: full
 citizenships:

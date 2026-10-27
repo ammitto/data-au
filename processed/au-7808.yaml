@@ -16,7 +16,7 @@ sanction:
     Sanctions (Designated Persons and Entities and Declared Persons—Russia and Ukraine)
     Amendment (No. 11) Instrument 2023'
   committees: Autonomous (Russia)
-  control_date: '1905-07-15'
+  control_date: '2023-12-07'
   instrument: 'Instrument of first designation and declaration: Autonomous Sanctions
     (Designated Persons and Entities and Declared Persons—Russia and Ukraine) Amendment
     (No. 11) Instrument 2023'
@@ -25,10 +25,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-12'
-  year: 1905
-  month: 6
-  day: 12
+- raw_value: '1990-08-22'
+  year: 1990
+  month: 8
+  day: 22
   precision: full
 places_of_birth:
 - raw_value: Russia

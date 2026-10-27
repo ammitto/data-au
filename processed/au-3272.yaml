@@ -11,7 +11,7 @@ additional_info: |-
 sanction:
   listing_information: 'Listed on: 5 Aug. 2017'
   committees: 1718 (DPRK)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -19,10 +19,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-20'
-  year: 1905
-  month: 5
-  day: 20
+- raw_value: '1967-03-12'
+  year: 1967
+  month: 3
+  day: 12
   precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

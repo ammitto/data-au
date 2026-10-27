@@ -15,7 +15,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2023
   committees: Autonomous (Thematic - Human Rights)
-  control_date: '1905-07-15'
+  control_date: '2023-02-01'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
     Sanctions) Amendment (No. 1) Instrument 2023
   targeted_financial_sanction: true
@@ -23,10 +23,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-15'
-  year: 1905
-  month: 5
-  day: 15
+- raw_value: '1962-11-30'
+  year: 1962
+  month: 11
+  day: 30
   precision: full
 citizenships:
 - Iran

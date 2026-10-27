@@ -30,17 +30,17 @@ additional_info: |-
 sanction:
   listing_information: 'Listed on: 7 Jun. 2018 (amended on 17 Sep. 2018)'
   committees: 1970 (Libya)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions — Libya) Regulations 2011
   targeted_financial_sanction: true
   travel_ban: true
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-05'
-  year: 1905
-  month: 6
-  day: 5
+- raw_value: '1983-01-19'
+  year: 1983
+  month: 1
+  day: 19
   precision: full
 places_of_birth:
 - raw_value: Sabratha

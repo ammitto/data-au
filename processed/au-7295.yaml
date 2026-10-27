@@ -33,7 +33,7 @@ sanction:
   listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
     Persons—Thematic Sanctions) Amendment (No. 1) Instrument 2022
   committees: Autonomous (Thematic - Human Rights)
-  control_date: '1905-07-14'
+  control_date: '2022-12-10'
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
     Sanctions) Amendment (No. 1) Instrument 2022
   targeted_financial_sanction: true
@@ -41,10 +41,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-02'
-  year: 1905
-  month: 6
-  day: 2
+- raw_value: '1980-11-25'
+  year: 1980
+  month: 11
+  day: 25
   precision: full
 places_of_birth:
 - raw_value: Serdobsk

@@ -10,7 +10,7 @@ sanction:
     Sanctions (Designated Persons and Entities and Declared Persons – Iran) Amendment
     (No. 1) Instrument 2023'
   committees: Autonomous (Iran)
-  control_date: '1905-07-15'
+  control_date: '2023-09-13'
   instrument: 'Instrument of first designation and declaration: Autonomous Sanctions
     (Designated Persons and Entities and Declared Persons – Iran) Amendment (No. 1)
     Instrument 2023'
@@ -19,10 +19,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-17'
-  year: 1905
-  month: 5
-  day: 17
+- raw_value: '1964-08-15'
+  year: 1964
+  month: 8
+  day: 15
   precision: full
 places_of_birth:
 - raw_value: Isfahan

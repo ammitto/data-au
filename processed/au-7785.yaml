@@ -30,7 +30,7 @@ sanction:
     the United Nations (Listed Persons and Entities) Amendment (No. 3)  Instrument
     2023. He was relisted on 3 October 2026.'
   committees: 1373 (2001)
-  control_date: '1905-07-18'
+  control_date: '2026-10-03'
   instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
     (No. 4) Instrument 2026
   targeted_financial_sanction: true
@@ -38,10 +38,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-29'
-  year: 1905
-  month: 5
-  day: 29
+- raw_value: '1976-12-23'
+  year: 1976
+  month: 12
+  day: 23
   precision: full
 citizenships:
 - Egypt

@@ -18,16 +18,16 @@ additional_info: 'Designation: a) Brigadier General b) Chief of Staff of the Air
 sanction:
   listing_information: Listed by 2048 Committee on 18 May 2012
   committees: 2048 (Guinea-Bissau)
-  control_date: '1905-07-17'
+  control_date: '2025-12-11'
   targeted_financial_sanction: false
   travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-17'
-  year: 1905
+- raw_value: '1964-05-11'
+  year: 1964
   month: 5
-  day: 17
+  day: 11
   precision: full
 citizenships:
 - Guinea-Bissau

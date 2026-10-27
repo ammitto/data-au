@@ -18,7 +18,7 @@ additional_info: 'KPi.018. Tanchon Commercial Bank Representative in Syria. Pass
 sanction:
   listing_information: First listed on 02/03/2016 (amended on 05/08/2017)
   committees: 1718 (DPRK)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions — Democratic People’s Republic
     of Korea) Regulations 2008
   targeted_financial_sanction: true
@@ -26,10 +26,15 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-29'
-  year: 1905
-  month: 5
-  day: 29
+- raw_value: '1976-10-18'
+  year: 1976
+  month: 10
+  day: 18
+  precision: full
+- raw_value: '1976-08-25'
+  year: 1976
+  month: 8
+  day: 25
   precision: full
 citizenships:
 - Democratic People's Republic of Korea (North Korea)

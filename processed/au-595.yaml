@@ -51,7 +51,7 @@ sanction:
   listing_information: Listed on 16 Jan. 2008 (amended on 1 Jul. 2008, 23 Jul. 2008,
     25 Jan. 2010, 1 May 2019, 2 February 2023)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -59,10 +59,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-13'
-  year: 1905
-  month: 5
-  day: 13
+- raw_value: '1960-01-20'
+  year: 1960
+  month: 1
+  day: 20
   precision: full
 places_of_birth:
 - raw_value: Kuwait

@@ -17,7 +17,7 @@ sanction:
     Persons and Entities and Declared Persons - Zimbabwe) List 2012 [F2012L00484]\nRelisted
     on 12 January 2024."
   committees: Autonomous (Zimbabwe)
-  control_date: '1905-07-16'
+  control_date: '2024-01-12'
   instrument: "Designated under the Autonomous Sanctions Regulations 2011 on 2 March
     2012. Formerly listed on the RBA Consolidated List as 2002ZIM0025. \nInstrument
     of first designation and declaration: Autonomous Sanctions (Designated Persons
@@ -28,10 +28,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-05-09'
-  year: 1905
-  month: 5
-  day: 9
+- raw_value: '1956-08-25'
+  year: 1956
+  month: 8
+  day: 25
   precision: full
 citizenships:
 - Zimbabwe

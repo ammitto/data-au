@@ -21,7 +21,7 @@ sanction:
   listing_information: Listed on 1 Sep. 2017 (relisted on 28 Aug. 2020) (relisted
     on 27 Aug 2023)
   committees: Autonomous (Ukraine)
-  control_date: '1905-07-15'
+  control_date: '2023-08-27'
   instrument: Listed on 1 Sep. 2017 (relisted on 28 Aug. 2020) (relisted on 27 Aug
     2023)
   targeted_financial_sanction: true
@@ -29,10 +29,10 @@ sanction:
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-05'
-  year: 1905
-  month: 6
-  day: 5
+- raw_value: '1983-01-21'
+  year: 1983
+  month: 1
+  day: 21
   precision: full
 places_of_birth:
 - raw_value: Debaltsevo

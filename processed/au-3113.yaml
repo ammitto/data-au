@@ -20,7 +20,7 @@ additional_info: 'British passport number 205939411, issued on 21 Jul. 2004 (exp
 sanction:
   listing_information: Listed on 28 Sep. 2015 (amended on 24 Nov. 2020)
   committees: 1267 (ISIL (Da'esh) and Al-Qaida)
-  control_date: '1905-07-18'
+  control_date: '2026-02-20'
   instrument: Charter of the United Nations (Sanctions—ISIL (Da’esh) and Al-Qaida)
     Regulations 2008
   targeted_financial_sanction: true
@@ -28,10 +28,10 @@ sanction:
   arms_embargo: true
   maritime_restriction: false
 dates_of_birth:
-- raw_value: '1905-06-09'
-  year: 1905
-  month: 6
-  day: 9
+- raw_value: '1987-03-21'
+  year: 1987
+  month: 3
+  day: 21
   precision: full
 places_of_birth:
 - raw_value: High Wycombe
