@@ -1,0 +1,24 @@
+---
+reference: '9003'
+entity_type: person
+names:
+- text: Hussein BARSHAM
+  name_type: Primary Name
+  script: Latn
+- text: حسين برشم
+  name_type: Original Script
+  script: Arab
+additional_info: Field Commander of the Rapid Support Forces
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-04'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+citizenships:
+- Sudan

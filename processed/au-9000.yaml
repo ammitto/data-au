@@ -1,0 +1,43 @@
+---
+reference: '9000'
+entity_type: person
+names:
+- text: Abdel Fattah Abdelrahman AL-BURHAN
+  name_type: Primary Name
+  script: Latn
+- text: عبد الفتاح عبد الرحمن البرهان
+  name_type: Original Script
+  script: Arab
+- text: Abdalftah Alburhan A Alrahman ALBURHAN
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Abdel Fattah AL-BURHAN
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: BURHAN
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+additional_info: President of the Transitional Sovereign Council of the Republic of
+  the Sudan, Commander-in-Chief of the Sudanese Armed Forces
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-04'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1960-07-04'
+  year: 1960
+  month: 7
+  day: 4
+  precision: full
+citizenships:
+- Sudan

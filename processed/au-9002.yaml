@@ -1,0 +1,36 @@
+---
+reference: '9002'
+entity_type: person
+names:
+- text: Al-Tijani Al-Tahir KARSHOUM
+  name_type: Primary Name
+  script: Latn
+- text: التيجاني الطاهر كرشوم
+  name_type: Original Script
+  script: Arab
+- text: Tijani KHARSHOM
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Tijani KHARSHOUM
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Tijani KARSHOUM
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: De facto Governor of West Darfur
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-04'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+citizenships:
+- Sudan

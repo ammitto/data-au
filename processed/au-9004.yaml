@@ -1,0 +1,31 @@
+---
+reference: '9004'
+entity_type: organization
+names:
+- text: Al-Baraa Bin Malik Brigade
+  name_type: Primary Name
+  script: Latn
+- text: كتيبة البراء بن مالك
+  name_type: Original Script
+  script: Arab
+- text: Al-Bara’ ibn Malik Brigade
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Al-Baraa Bin Malik Battalion
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Sudan
+additional_info: Paramilitary aligned with the Sudanese Armed Forces
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-04'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

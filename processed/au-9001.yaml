@@ -1,0 +1,48 @@
+---
+reference: '9001'
+entity_type: person
+names:
+- text: Mohamed Hamdan DAGALO MOUSA
+  name_type: Primary Name
+  script: Latn
+- text: محمد حمدان دقلو موسى
+  name_type: Original Script
+  script: Arab
+- text: Mohammed Hamdan DAGLO MOUSA
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Mohamed HAMDAN
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Mohamed Hamdan DAGALO
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: HEMEDTI
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: HEMETI
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: Commander of the Rapid Support Forces
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 2) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-04'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 2) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1974'
+  year: 1974
+  precision: year
+citizenships:
+- Sudan
