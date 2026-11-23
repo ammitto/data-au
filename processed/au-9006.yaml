@@ -1,0 +1,24 @@
+---
+reference: '9006'
+entity_type: person
+names:
+- text: Eliav Libi
+  name_type: Primary Name
+  script: Latn
+- text: אלאיב ליבי
+  name_type: Original Script
+  script: Hebr
+additional_info: Settler and Director of Libi Construction and Infrastructure Ltd
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 3) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-17'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 3) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+citizenships:
+- Israel

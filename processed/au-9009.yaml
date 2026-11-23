@@ -1,0 +1,41 @@
+---
+reference: '9009'
+entity_type: organization
+names:
+- text: Hashomer Yosh
+  name_type: Primary Name
+  script: Latn
+- text: השומר יו״ש
+  name_type: Original Script
+  script: Hebr
+- text: Hashomer Judea and Samaria
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Guardians of Judea and Samaria
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Guardians of Yehuda and the Shomron
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+- text: Hashomer Yehudah V’Shomron
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Esh Kodesh 2, Shilo, 4483000 West Bank, Palestine
+additional_info: "An organisation that recruits volunteers to work at outposts in
+  the West Bank. \nRegistration number: 580575629 \nDate of registration: 18/06/2013
+  \nhttps://hashomeryosh.org/home-en/"
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 3) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-17'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 3) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

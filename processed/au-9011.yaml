@@ -1,0 +1,36 @@
+---
+reference: '9011'
+entity_type: person
+names:
+- text: Itamar Yehuda Levi
+  name_type: Primary Name
+  script: Latn
+- text: איתמר יהודה לוי
+  name_type: Original Script
+  script: Hebr
+- text: Itamar Yehuda Levy
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+additional_info: |-
+  Older brother of Yinon Levi (sanctioned by Australia on 25 July 2024); settler and current owner of Eyal Hari Yehuda Company Ltd
+  National ID: 037362951
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 3) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-17'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 3) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1980-01-20'
+  year: 1980
+  month: 1
+  day: 20
+  precision: full
+citizenships:
+- Israel
