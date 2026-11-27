@@ -1,0 +1,31 @@
+---
+reference: '9013'
+entity_type: person
+names:
+- text: Zohair Hassib
+  name_type: Primary Name
+  script: Latn
+address: Iran
+sanction:
+  listing_information: First listed on 27 November 2026 under Charter of the United
+    Nations (Listed Persons and Entities) Amendment (No.6) Instrument 2026 .
+  committees: 1373 (2001)
+  control_date: '2026-11-27'
+  instrument: Charter of the United Nations (Listed Persons and Entities) Amendment
+    (No.6) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1991-05-15'
+  year: 1991
+  month: 5
+  day: 15
+  precision: full
+places_of_birth:
+- raw_value: Australia
+  country: Australia
+citizenships:
+- Afghanistan
+- Australia
