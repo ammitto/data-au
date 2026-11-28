@@ -23,7 +23,7 @@ sanction:
   instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons
     – Iran) Amendment (No. 1) Instrument 2026
   targeted_financial_sanction: true
-  travel_ban: false
+  travel_ban: true
   arms_embargo: false
   maritime_restriction: false
 dates_of_birth:

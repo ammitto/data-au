@@ -1,0 +1,31 @@
+---
+reference: '9005'
+entity_type: person
+names:
+- text: Daniella Weiss
+  name_type: Primary Name
+  script: Latn
+- text: דניאלה וייס
+  name_type: Original Script
+  script: Hebr
+additional_info: As Director of Nachala, Daniella Weiss plans, directs and oversees
+  the organisation’s activities and has publicly supported and advocated for its actions.
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 3) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-17'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 3) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: true
+  arms_embargo: false
+  maritime_restriction: false
+dates_of_birth:
+- raw_value: '1945-08-30'
+  year: 1945
+  month: 8
+  day: 30
+  precision: full
+citizenships:
+- Israel

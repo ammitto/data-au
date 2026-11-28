@@ -1,7 +1,7 @@
 ---
 source: au
-count: 4014
-fetched_at: '2026-11-16T16:58:55Z'
+count: 4024
+fetched_at: '2026-11-28T16:09:07Z'
 schema: ammitto:sources:au:v1
 pruned: 0
 files:
@@ -4010,6 +4010,16 @@ files:
 - au-9002.yaml
 - au-9003.yaml
 - au-9004.yaml
+- au-9005.yaml
+- au-9006.yaml
+- au-9007.yaml
+- au-9008.yaml
+- au-9009.yaml
+- au-9010.yaml
+- au-9011.yaml
+- au-9012.yaml
+- au-9013.yaml
+- au-9014.yaml
 - au-91.yaml
 - au-92.yaml
 - au-93.yaml

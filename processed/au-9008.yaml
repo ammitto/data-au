@@ -1,0 +1,27 @@
+---
+reference: '9008'
+entity_type: organization
+names:
+- text: The Nachala Movement
+  name_type: Primary Name
+  script: Latn
+- text: נחלה
+  name_type: Original Script
+  script: Hebr
+- text: Nachala
+  name_type: Alias
+  script: Latn
+  alias_strength: Weak
+address: West Bank, Palestine
+additional_info: Promotes settlements and illegal outposts in the West Bank
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 3) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-17'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 3) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false

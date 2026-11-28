@@ -1,0 +1,28 @@
+---
+reference: '9010'
+entity_type: organization
+names:
+- text: Eyal Hari Yehuda Company Ltd
+  name_type: Primary Name
+  script: Latn
+- text: יל הרי יהודה בע'מ
+  name_type: Original Script
+  script: Hebr
+- text: Eyal Judaean Mountains Company Ltd
+  name_type: Alias
+  script: Latn
+  alias_strength: Strong
+address: Susya 24, 9040100, West Bank, Palestine
+additional_info: "Infrastructure, construction and demolition works company operating
+  in the West Bank \nBusiness Registration Number: 515349660"
+sanction:
+  listing_information: Autonomous Sanctions (Designated Persons and Entities and Declared
+    Persons—Thematic Sanctions) Amendment (No. 3) Instrument 2026
+  committees: Autonomous (Thematic - Human Rights)
+  control_date: '2026-11-17'
+  instrument: Autonomous Sanctions (Designated Persons and Entities and Declared Persons—Thematic
+    Sanctions) Amendment (No. 3) Instrument 2026
+  targeted_financial_sanction: true
+  travel_ban: false
+  arms_embargo: false
+  maritime_restriction: false
